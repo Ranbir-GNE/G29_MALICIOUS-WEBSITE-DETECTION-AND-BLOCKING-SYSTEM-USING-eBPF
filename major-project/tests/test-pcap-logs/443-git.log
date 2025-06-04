@@ -1,0 +1,9 @@
+offline0: i4pcu------r-F- TCP [OR] 140.82.114.4:443 <-- [L] 192.168.1.13:55744
+        : HTTP/S.netify.github
+        : H: github.com
+        : V: 0x0303 CS: 0xc02f
+        : TLS/SNI: github.com TLS/CN: github.com
+        : TLS/IDN: C=US, O=DigiCert Inc, OU=www.digicert.com, CN=DigiCert SHA2 Extended Validation Server CA TLS/SDN: C=US, ST=California, L=San Francisco, O=GitHub, Inc., CN=github.com
+        : RID 30: TLS Certificate Expired
+        : DP: 7
+

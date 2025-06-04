@@ -1,0 +1,11 @@
+offline0: i4pcu------r-F- TCP [L] 192.168.17.53:49640 --> [OR] 212.227.17.186:143
+        : IMAP/S.netify.gmx-mail
+        : V: 0x0303 CS: 0xc030
+        : TLS/CN: imap.gmx.net
+        : TLS/IDN: C=DE, O=T-Systems International GmbH, OU=T-Systems Trust Center, ST=NRW, L=Netphen, CN=TeleSec ServerPass DE-1 TLS/SDN: C=DE, O=1&1 Mail & Media GmbH, ST=Rhineland-Palatinate, L=Montabaur, CN=imap.gmx.net
+        : RID 16: Known Protocol on Non-standard Port
+        : RID 30: TLS Certificate Expired
+        : RID 35: TLS SNI Extension Not Found
+        : RID 47: TLS ALPN Not Found
+        : DP: 19
+

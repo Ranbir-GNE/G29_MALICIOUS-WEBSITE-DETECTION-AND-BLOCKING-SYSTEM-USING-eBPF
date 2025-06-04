@@ -1,0 +1,58 @@
+offline0: i4pc----------- UDP [L] 192.168.12.1:17500 --> [OL] 192.168.12.255:17500
+        : Dropbox
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 192.168.12.156:39065 --> [OR] 206.247.87.213:3478
+        : ZOOM.netify.zoom
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 192.168.12.156:38453 --> [OR] 206.247.87.213:3478
+        : ZOOM.netify.zoom
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- ICMP [L] 192.168.12.156:0 <-- [OR] 206.247.87.213:0
+        : ICMP.netify.zoom
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-g--------- UDP [L] 192.168.1.226:46757 --> [OL] 192.168.12.156:39065
+        : ZOOM
+        : DP: 32
+
+offline0: i4pc-------r--- UDP [L] 192.168.12.156:49579 --> [OR] 206.247.10.253:3478
+        : ZOOM.netify.zoom
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 192.168.12.156:42208 --> [OR] 206.247.10.253:3478
+        : ZOOM.netify.zoom
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- ICMP [L] 192.168.12.156:0 <-- [OR] 206.247.10.253:0
+        : ICMP.netify.zoom
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-g-----r--- UDP [L] 10.78.14.178:47312 --> [OL] 192.168.12.156:42208
+        : ZOOM
+        : RID 46: Unidirectional Traffic
+        : DP: 32
+
+offline0: i4pc-g-----r--- UDP [L] 10.78.14.178:49586 --> [OL] 192.168.12.156:49579
+        : ZOOM
+        : RID 46: Unidirectional Traffic
+        : DP: 32
+
+offline0: i4pc-gx----r--- UDP [L] 192.168.1.226:41036 --> [OL] 192.168.12.156:38453
+        : ZOOM
+        : RID 46: Unidirectional Traffic
+        : DP: 5
+
+offline0: i4pc--x-------- UDP [L] 192.168.12.1:5353 --> [OM] 224.0.0.251:5353
+        : MDNS.netify.internal-network
+        : H: _ipps._tcp.local
+        : DP: 3
+

@@ -1,0 +1,19 @@
+[submodule "libs/inih"]
+	path = libs/inih
+	url = https://gitlab.com/netify.ai/public/netify-agent-libs/inih.git
+[submodule "libs/ndpi"]
+	path = libs/ndpi
+	url = https://gitlab.com/netify.ai/public/netify-agent-libs/ndpi.git
+[submodule "libs/gperftools"]
+	path = libs/gperftools
+	url = https://gitlab.com/netify.ai/public/netify-agent-libs/gperftools.git
+[submodule "m4"]
+	path = m4
+	url = https://gitlab.com/netify.ai/public/netify-autoconf-m4-includes.git
+[submodule "automake"]
+	path = automake
+	url = https://gitlab.com/netify.ai/public/netify-automake-includes.git
+[submodule "automake/"]
+	url = https://gitlab.com/netify.ai/public/netify-development-support/netify-automake.git
+[submodule "m4/"]
+	url = https://gitlab.com/netify.ai/public/netify-development-support/netify-autoconf.git

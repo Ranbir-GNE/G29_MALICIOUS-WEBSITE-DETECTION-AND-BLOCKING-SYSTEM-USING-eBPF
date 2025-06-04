@@ -1,0 +1,4 @@
+/Makefile.in
+functions.sh
+netifyd.conf
+netifyd.init

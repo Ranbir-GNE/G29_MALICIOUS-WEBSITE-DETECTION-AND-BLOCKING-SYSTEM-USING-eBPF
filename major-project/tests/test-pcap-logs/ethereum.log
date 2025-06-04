@@ -1,0 +1,317 @@
+offline0: i4pc-------r--- UDP [OR] 87.14.222.25:56693 --> [L] 192.168.1.184:30303
+        : Ethereum
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [OR] 60.191.32.71:30303 --> [L] 192.168.1.184:30303
+        : Ethereum
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [OR] 3.112.138.57:25516 <-- [L] 192.168.1.184:30303
+        : Ethereum
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [OR] 3.209.45.79:30303 <-- [L] 192.168.1.184:30303
+        : Ethereum
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [OR] 52.231.165.108:30303 <-- [L] 192.168.1.184:30303
+        : Ethereum
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [OR] 18.138.108.67:30303 <-- [L] 192.168.1.184:30303
+        : Ethereum
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [OR] 34.97.172.22:30303 <-- [L] 192.168.1.184:30303
+        : Ethereum
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [OR] 66.42.82.246:30303 <-- [L] 192.168.1.184:30303
+        : Ethereum
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc---------F- TCP [OR] 35.158.244.151:30303 <-- [L] 192.168.1.184:56615
+        : Ethereum
+        : DP: 4
+
+offline0: i4pc---------F- TCP [OR] 178.128.195.220:30303 <-- [L] 192.168.1.184:56626
+        : Ethereum
+        : DP: 4
+
+offline0: i4pc---------F- TCP [OR] 89.38.99.34:30303 <-- [L] 192.168.1.184:56624
+        : Ethereum
+        : DP: 4
+
+offline0: i4pc---------F- TCP [OR] 34.255.23.113:30303 <-- [L] 192.168.1.184:56627
+        : Ethereum
+        : DP: 4
+
+offline0: i4pc---------F- TCP [OR] 162.243.160.83:30303 <-- [L] 192.168.1.184:56613
+        : Ethereum
+        : DP: 4
+
+offline0: i4pc-------r--- UDP [OR] 128.0.51.140:30303 <-- [L] 192.168.1.184:30303
+        : Ethereum
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc---------F- TCP [OR] 3.209.45.79:30303 <-- [L] 192.168.1.184:56628
+        : Ethereum
+        : DP: 4
+
+offline0: i4pc----------- TCP [OR] 66.42.82.246:30303 <-- [L] 192.168.1.184:56612
+        : Ethereum
+        : DP: 4
+
+offline0: i4pc---------F- TCP [OR] 51.38.60.79:30303 <-- [L] 192.168.1.184:56629
+        : Ethereum
+        : DP: 4
+
+offline0: i4pc-------r--- UDP [OR] 54.36.160.211:30303 <-- [L] 192.168.1.184:30303
+        : Ethereum
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc---------F- TCP [OR] 104.42.217.25:30303 <-- [L] 192.168.1.184:56611
+        : Ethereum
+        : DP: 4
+
+offline0: i4pc-------r--- UDP [OR] 111.229.0.180:20182 <-- [L] 192.168.1.184:30303
+        : Ethereum
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc---------F- TCP [OR] 51.38.81.180:30303 <-- [L] 192.168.1.184:56632
+        : Ethereum
+        : DP: 4
+
+offline0: i4pc-------r--- UDP [L] 192.168.1.184:30303 <-- [OR] 209.97.143.1:50000
+        : Ethereum
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc---------F- TCP [OR] 52.231.165.108:30303 <-- [L] 192.168.1.184:56618
+        : Ethereum
+        : DP: 4
+
+offline0: i4pc---------F- TCP [OR] 191.234.162.198:30303 <-- [L] 192.168.1.184:56620
+        : Ethereum
+        : DP: 4
+
+offline0: i4pc---------F- TCP [OR] 82.145.220.249:30303 <-- [L] 192.168.1.184:56633
+        : Ethereum
+        : DP: 4
+
+offline0: i4pc---------F- TCP [OR] 40.67.144.128:30303 <-- [L] 192.168.1.184:56630
+        : Ethereum
+        : DP: 4
+
+offline0: i4pc---------F- TCP [OR] 18.138.108.67:30303 <-- [L] 192.168.1.184:56622
+        : Ethereum
+        : DP: 4
+
+offline0: i4pc---------F- TCP [OR] 18.138.81.28:30303 <-- [L] 192.168.1.184:56623
+        : Ethereum
+        : DP: 4
+
+offline0: i4pc---------F- TCP [OR] 34.97.172.22:30303 <-- [L] 192.168.1.184:56617
+        : Ethereum
+        : DP: 4
+
+offline0: i4pc---------F- TCP [OR] 165.22.107.33:30303 <-- [L] 192.168.1.184:56610
+        : Ethereum
+        : DP: 4
+
+offline0: i4pc---------F- TCP [OR] 52.187.207.27:30303 <-- [L] 192.168.1.184:56621
+        : Ethereum
+        : DP: 4
+
+offline0: i4pc-------r--- UDP [OR] 35.180.246.169:30301 <-- [L] 192.168.1.184:30303
+        : Ethereum
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc---------F- TCP [OR] 159.203.84.31:30303 <-- [L] 192.168.1.184:56634
+        : Ethereum
+        : DP: 4
+
+offline0: i4pc---------F- TCP [L] 192.168.1.184:56638 --> [OR] 209.250.240.205:30303
+        : Ethereum
+        : DP: 4
+
+offline0: i4pc---------F- TCP [OR] 162.228.29.160:30303 <-- [L] 192.168.1.184:56635
+        : Ethereum
+        : DP: 4
+
+offline0: i4pc---------F- TCP [OR] 144.91.120.135:30303 <-- [L] 192.168.1.184:56641
+        : Ethereum
+        : DP: 4
+
+offline0: i4pc---------F- TCP [OR] 18.219.167.159:30303 <-- [L] 192.168.1.184:56639
+        : Ethereum
+        : DP: 4
+
+offline0: i4pc---------F- TCP [OR] 178.62.10.218:30303 <-- [L] 192.168.1.184:56642
+        : Ethereum
+        : DP: 4
+
+offline0: i4pc---------F- TCP [OR] 178.62.29.183:30303 <-- [L] 192.168.1.184:56643
+        : Ethereum
+        : DP: 4
+
+offline0: i4pc---------F- TCP [OR] 185.219.133.62:30303 <-- [L] 192.168.1.184:56645
+        : Ethereum
+        : DP: 4
+
+offline0: i4pc---------F- TCP [OR] 172.105.94.62:30303 <-- [L] 192.168.1.184:56646
+        : Ethereum
+        : DP: 4
+
+offline0: i4pc---------F- TCP [OR] 138.201.12.87:30303 <-- [L] 192.168.1.184:56651
+        : Ethereum
+        : DP: 4
+
+offline0: i4pc-------r--- UDP [OR] 18.219.167.159:30303 <-- [L] 192.168.1.184:30303
+        : Ethereum
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc---------F- TCP [OR] 176.9.136.209:30303 <-- [L] 192.168.1.184:56652
+        : Ethereum
+        : DP: 4
+
+offline0: i4pc---------F- TCP [OR] 35.228.250.140:30303 <-- [L] 192.168.1.184:56650
+        : Ethereum
+        : DP: 4
+
+offline0: i4pc---------F- TCP [OR] 85.214.108.52:30303 <-- [L] 192.168.1.184:56654
+        : Ethereum
+        : DP: 4
+
+offline0: i4pc-------r--- UDP [OR] 183.129.242.164:1024 <-- [L] 192.168.1.184:30303
+        : Ethereum
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc---------F- TCP [OR] 51.161.23.12:30303 <-- [L] 192.168.1.184:56660
+        : Ethereum
+        : DP: 4
+
+offline0: i4pc---------F- TCP [OR] 157.230.152.87:30303 <-- [L] 192.168.1.184:56658
+        : Ethereum
+        : DP: 4
+
+offline0: i4pc---------F- TCP [OR] 52.9.128.68:30303 <-- [L] 192.168.1.184:56661
+        : Ethereum
+        : DP: 4
+
+offline0: i4pc-------r--- UDP [L] 192.168.1.184:30303 --> [OR] 202.112.28.106:30303
+        : Ethereum
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc---------F- TCP [OR] 182.162.161.61:30303 <-- [L] 192.168.1.184:56647
+        : Ethereum
+        : DP: 4
+
+offline0: i4pc---------F- TCP [OR] 138.75.171.190:30303 <-- [L] 192.168.1.184:56657
+        : Ethereum
+        : DP: 4
+
+offline0: i4pc-------r--- UDP [OR] 106.12.39.168:30333 --> [L] 192.168.1.184:30303
+        : Ethereum
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc---------F- TCP [OR] 35.229.232.19:30303 <-- [L] 192.168.1.184:56662
+        : Ethereum
+        : DP: 4
+
+offline0: i4pc----------- TCP [L] 192.168.1.184:56655 --> [OR] 202.112.28.106:30303
+        : Ethereum
+        : DP: 4
+
+offline0: i4pc---------F- TCP [OR] 86.107.243.62:30303 <-- [L] 192.168.1.184:56671
+        : Ethereum
+        : DP: 4
+
+offline0: i4pc---------F- TCP [OR] 167.86.122.50:30303 <-- [L] 192.168.1.184:56670
+        : Ethereum
+        : DP: 4
+
+offline0: i4pc---------F- TCP [OR] 124.217.235.180:30303 <-- [L] 192.168.1.184:56663
+        : Ethereum
+        : DP: 4
+
+offline0: i4pc---------F- TCP [OR] 139.162.255.210:30303 <-- [L] 192.168.1.184:56672
+        : Ethereum
+        : DP: 4
+
+offline0: i4pc---------F- TCP [OR] 78.47.147.155:30303 <-- [L] 192.168.1.184:56673
+        : Ethereum
+        : DP: 4
+
+offline0: i4pc---------F- TCP [OR] 35.235.37.216:30303 <-- [L] 192.168.1.184:56675
+        : Ethereum
+        : DP: 4
+
+offline0: i4pc---------F- TCP [OR] 94.68.55.162:30303 <-- [L] 192.168.1.184:56674
+        : Ethereum
+        : DP: 4
+
+offline0: i4pc---------F- TCP [OR] 35.228.158.52:30303 <-- [L] 192.168.1.184:56679
+        : Ethereum
+        : DP: 4
+
+offline0: i4pc-------r--- UDP [OR] 167.86.122.50:30303 <-- [L] 192.168.1.184:30303
+        : Ethereum
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc---------F- TCP [L] 192.168.1.184:56681 --> [OR] 207.180.206.216:30303
+        : Ethereum
+        : DP: 4
+
+offline0: i4pc---------F- TCP [OR] 51.83.237.44:30303 <-- [L] 192.168.1.184:56684
+        : Ethereum
+        : DP: 4
+
+offline0: i4pc----------- TCP [OR] 138.59.17.58:30303 <-- [L] 192.168.1.184:56680
+        : Ethereum
+        : DP: 4
+
+offline0: i4pc----------- TCP [OR] 88.99.93.219:30303 <-- [L] 192.168.1.184:56685
+        : Ethereum
+        : DP: 4
+
+offline0: i4pc----------- TCP [OR] 13.251.14.199:30303 <-- [L] 192.168.1.184:56678
+        : Ethereum
+        : DP: 4
+
+offline0: i4pc----------- TCP [L] 192.168.1.184:56686 --> [OR] 206.189.107.35:30303
+        : Ethereum
+        : DP: 4
+
+offline0: i4pc-gx----r--- TCP [OR] 13.230.108.42:30303 <-- [L] 192.168.1.184:56644
+        : Ethereum
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-gx----r--- TCP [OR] 35.233.197.131:30303 <-- [L] 192.168.1.184:56637
+        : Ethereum
+        : RID 46: Unidirectional Traffic
+        : DP: 2
+
+offline0: i4pc-gx----r--- TCP [OR] 5.1.83.226:30303 <-- [L] 192.168.1.184:56625
+        : Ethereum
+        : RID 46: Unidirectional Traffic
+        : DP: 2
+

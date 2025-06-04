@@ -1,0 +1,16 @@
+offline0: i4pc-------r--- UDP [OR] 134.53.36.43:34917 --> [L] 142.104.38.30:443
+        : QUIC.netify.snapchat
+        : H: app-analytics-v2.snapchat.com
+        : V: 0x0304
+        : TLS/SNI: app-analytics-v2.snapchat.com
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [OR] 77.242.114.14:443 <-- [L] 245.161.134.177:27636
+        : QUIC.netify.snapchat
+        : H: gcp.api.snapchat.com
+        : V: 0x0304
+        : TLS/SNI: gcp.api.snapchat.com
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+

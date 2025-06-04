@@ -1,0 +1,8 @@
+offline0: i4pcu------r-F- TCP [L] 192.168.0.1:39236 --> [OL] 192.168.0.20:31337
+        : HTTP.netify.internal-network
+        : H: toni.lan
+        : HTTP/UA: uclient-fetch
+        : URL: toni.lan:31337/
+        : RID 16: Known Protocol on Non-standard Port
+        : DP: 8
+

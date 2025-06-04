@@ -1,0 +1,7 @@
+offline0: i4pcu------r--- UDP [OR] 185.196.113.239:50257 --> [L] 223.116.105.247:44443
+        : DTLS
+        : V: 0xfefd CS: 0xc02c
+        : RID 35: TLS SNI Extension Not Found
+        : RID 47: TLS ALPN Not Found
+        : DP: 4
+

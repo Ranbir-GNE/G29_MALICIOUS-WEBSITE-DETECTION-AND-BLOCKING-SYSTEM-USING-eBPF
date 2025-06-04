@@ -1,0 +1,10 @@
+offline0: i4pc-------r-F- TCP [OR] 89.31.76.10:80 <-- [L] 192.168.2.198:51327
+        : HTTP
+        : H: sevenpitaly.com
+        : HTTP/UA: curl/8.4.0
+        : URL: sevenpitaly.com/.env
+        : RID  8: Error Code
+        : RID 20: Possible Exploit
+        : RID 55: Binary File/Data Transfer
+        : DP: 6
+

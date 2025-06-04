@@ -1,0 +1,443 @@
+offline0: i4pcu------r--- TCP [L] 10.8.0.1:41346 --> [OR] 64.68.105.103:443
+        : HTTP/S.netify.webex
+        : H: radcom.webex.com
+        : V: 0x0303 CS: 0x0004
+        : TLS/SNI: radcom.webex.com TLS/CN: webex.com
+        : TLS/IDN: C=US, O=Symantec Corporation, OU=Symantec Trust Network, CN=Symantec Class 3 Secure Server CA - G4 TLS/SDN: C=us, ST=California, L=San Jose, O=Cisco Systems, Inc., OU=CSG, CN=*.webex.com
+        : RID 30: TLS Certificate Expired
+        : RID 47: TLS ALPN Not Found
+        : DP: 8
+
+offline0: i4pc-------r--- TCP [L] 10.8.0.1:41348 --> [OR] 64.68.105.103:443
+        : HTTP/S.netify.webex
+        : H: radcom.webex.com
+        : V: 0x0303
+        : TLS/SNI: radcom.webex.com
+        : RID 47: TLS ALPN Not Found
+        : DP: 4
+
+offline0: i4pcu------r--- TCP [L] 10.8.0.1:41351 --> [OR] 64.68.105.103:443
+        : HTTP/S.netify.webex
+        : H: radcom.webex.com
+        : V: 0x0303 CS: 0x0004
+        : TLS/SNI: radcom.webex.com
+        : RID 47: TLS ALPN Not Found
+        : DP: 6
+
+offline0: i4pcu------r--- TCP [L] 10.8.0.1:41350 --> [OR] 64.68.105.103:443
+        : HTTP/S.netify.webex
+        : H: radcom.webex.com
+        : V: 0x0303 CS: 0x0004
+        : TLS/SNI: radcom.webex.com
+        : RID 47: TLS ALPN Not Found
+        : DP: 8
+
+offline0: i4pcu------r-F- TCP [L] 10.8.0.1:41354 --> [OR] 64.68.105.103:443
+        : HTTP/S.netify.webex
+        : V: 0x0301 CS: 0x0035
+        : TLS/CN: webex.com
+        : TLS/IDN: C=US, O=Symantec Corporation, OU=Symantec Trust Network, CN=Symantec Class 3 Secure Server CA - G4 TLS/SDN: C=us, ST=California, L=San Jose, O=Cisco Systems, Inc., OU=CSG, CN=*.webex.com
+        : RID 30: TLS Certificate Expired
+        : RID 36: Obsolete TLS (v1.1 or older)
+        : RID 41: Weak TLS Cipher
+        : DP: 8
+
+offline0: i4pcu------r--- TCP [L] 10.8.0.1:49048 --> [OR] 23.44.253.243:443
+        : HTTP/S.netify.webex
+        : V: 0x0301 CS: 0x0035
+        : TLS/CN: www.webex.com
+        : TLS/IDN: C=US, O=GeoTrust, Inc., CN=GeoTrust SSL CA TLS/SDN: C=US, ST=California, L=San Jose, O=Cisco Systems, OU=IT, CN=www.webex.com
+        : RID 30: TLS Certificate Expired
+        : RID 36: Obsolete TLS (v1.1 or older)
+        : RID 41: Weak TLS Cipher
+        : DP: 6
+
+offline0: i4pc-------r--- TCP [L] 10.8.0.1:41358 --> [OR] 64.68.105.103:443
+        : HTTP/S.netify.webex
+        : V: 0x0301
+        : RID 36: Obsolete TLS (v1.1 or older)
+        : DP: 4
+
+offline0: i4pc-------r-F- TCP [L] 10.8.0.1:41726 --> [OR] 114.29.213.212:443
+        : HTTP/S.netify.webex
+        : V: 0x0301
+        : RID 36: Obsolete TLS (v1.1 or older)
+        : DP: 4
+
+offline0: i4pc-------r-F- TCP [L] 10.8.0.1:51646 --> [OR] 114.29.204.49:443
+        : HTTP/S.netify.webex
+        : V: 0x0301
+        : RID 36: Obsolete TLS (v1.1 or older)
+        : DP: 4
+
+offline0: i4pc-------r--- TCP [L] 10.8.0.1:47498 --> [OR] 209.197.222.159:443
+        : HTTP/S.netify.webex
+        : V: 0x0301
+        : RID 36: Obsolete TLS (v1.1 or older)
+        : DP: 4
+
+offline0: i4pcu------r--- TCP [L] 10.8.0.1:45814 --> [OR] 62.109.231.3:443
+        : HTTP/S.netify.webex
+        : V: 0x0301 CS: 0x0035
+        : TLS/CN: webex.com
+        : TLS/IDN: C=US, O=Symantec Corporation, OU=Symantec Trust Network, CN=Symantec Class 3 Secure Server CA - G4 TLS/SDN: C=us, ST=California, L=San Jose, O=Cisco Systems, Inc., OU=CSG, CN=*.webex.com
+        : RID 30: TLS Certificate Expired
+        : RID 36: Obsolete TLS (v1.1 or older)
+        : RID 41: Weak TLS Cipher
+        : DP: 8
+
+offline0: i4pcu------r--- TCP [L] 10.8.0.1:44492 --> [OR] 64.68.104.140:443
+        : HTTP/S.netify.webex
+        : V: 0x0301 CS: 0x0035
+        : TLS/CN: webex.com
+        : TLS/IDN: C=US, O=Symantec Corporation, OU=Symantec Trust Network, CN=Symantec Class 3 Secure Server CA - G4 TLS/SDN: C=us, ST=California, L=San Jose, O=Cisco Systems, Inc., OU=CSG, CN=*.webex.com
+        : RID 30: TLS Certificate Expired
+        : RID 36: Obsolete TLS (v1.1 or older)
+        : RID 41: Weak TLS Cipher
+        : DP: 8
+
+offline0: i4pcu------r--- TCP [L] 10.8.0.1:52730 --> [OR] 173.243.4.76:443
+        : HTTP/S.netify.webex
+        : V: 0x0301 CS: 0x0035
+        : TLS/CN: webex.com
+        : TLS/IDN: C=US, O=Symantec Corporation, OU=Symantec Trust Network, CN=Symantec Class 3 Secure Server CA - G4 TLS/SDN: C=us, ST=California, L=San Jose, O=Cisco Systems, Inc., OU=CSG, CN=*.webex.com
+        : RID 30: TLS Certificate Expired
+        : RID 36: Obsolete TLS (v1.1 or older)
+        : RID 41: Weak TLS Cipher
+        : DP: 8
+
+offline0: i4pcu------r--- TCP [L] 10.8.0.1:57647 --> [OR] 64.68.121.153:443
+        : HTTP/S.netify.webex
+        : V: 0x0301 CS: 0x0035
+        : TLS/CN: webex.com
+        : TLS/IDN: C=US, O=Symantec Corporation, OU=Symantec Trust Network, CN=Symantec Class 3 Secure Server CA - G4 TLS/SDN: C=us, ST=California, L=San Jose, O=Cisco Systems, Inc., OU=CSG, CN=*.webex.com
+        : RID 30: TLS Certificate Expired
+        : RID 36: Obsolete TLS (v1.1 or older)
+        : RID 41: Weak TLS Cipher
+        : DP: 6
+
+offline0: i4pcu------r-F- TCP [L] 10.8.0.1:37129 --> [OR] 64.68.105.98:443
+        : HTTP/S.netify.webex
+        : V: 0x0301 CS: 0x0035
+        : TLS/CN: webex.com
+        : TLS/IDN: C=US, O=Symantec Corporation, OU=Symantec Trust Network, CN=Symantec Class 3 Secure Server CA - G4 TLS/SDN: C=us, ST=California, L=San Jose, O=Cisco Systems, Inc., OU=CSG, CN=*.webex.com
+        : RID 30: TLS Certificate Expired
+        : RID 36: Obsolete TLS (v1.1 or older)
+        : RID 41: Weak TLS Cipher
+        : DP: 6
+
+offline0: i4pcu------r-F- TCP [L] 10.8.0.1:41386 --> [OR] 64.68.105.103:443
+        : HTTP/S.netify.webex
+        : V: 0x0301 CS: 0x0035
+        : TLS/CN: webex.com
+        : TLS/IDN: C=US, O=Symantec Corporation, OU=Symantec Trust Network, CN=Symantec Class 3 Secure Server CA - G4 TLS/SDN: C=us, ST=California, L=San Jose, O=Cisco Systems, Inc., OU=CSG, CN=*.webex.com
+        : RID 30: TLS Certificate Expired
+        : RID 36: Obsolete TLS (v1.1 or older)
+        : RID 41: Weak TLS Cipher
+        : DP: 6
+
+offline0: i4pcu------r--- TCP [L] 10.8.0.1:51370 --> [OR] 64.68.105.97:443
+        : HTTP/S.netify.webex
+        : V: 0x0301 CS: 0x0035
+        : TLS/CN: webex.com
+        : TLS/IDN: C=US, O=Symantec Corporation, OU=Symantec Trust Network, CN=Symantec Class 3 Secure Server CA - G4 TLS/SDN: C=us, ST=California, L=San Jose, O=Cisco Systems, Inc., OU=CSG, CN=*.webex.com
+        : RID 30: TLS Certificate Expired
+        : RID 36: Obsolete TLS (v1.1 or older)
+        : RID 41: Weak TLS Cipher
+        : DP: 8
+
+offline0: i4pcu------r-F- TCP [L] 10.8.0.1:52219 --> [OR] 64.68.121.100:443
+        : HTTP/S.netify.webex
+        : V: 0x0301 CS: 0x0035
+        : TLS/CN: webex.com
+        : TLS/IDN: C=US, O=Symantec Corporation, OU=Symantec Trust Network, CN=Symantec Class 3 Secure Server CA - G4 TLS/SDN: C=us, ST=California, L=San Jose, O=Cisco Systems, Inc., OU=CSG, CN=*.webex.com
+        : RID 30: TLS Certificate Expired
+        : RID 36: Obsolete TLS (v1.1 or older)
+        : RID 41: Weak TLS Cipher
+        : DP: 6
+
+offline0: i4pcu------r-F- TCP [L] 10.8.0.1:55969 --> [OR] 64.68.121.99:443
+        : HTTP/S.netify.webex
+        : V: 0x0301 CS: 0x0035
+        : TLS/CN: webex.com
+        : TLS/IDN: C=US, O=Symantec Corporation, OU=Symantec Trust Network, CN=Symantec Class 3 Secure Server CA - G4 TLS/SDN: C=us, ST=California, L=San Jose, O=Cisco Systems, Inc., OU=CSG, CN=*.webex.com
+        : RID 30: TLS Certificate Expired
+        : RID 36: Obsolete TLS (v1.1 or older)
+        : RID 41: Weak TLS Cipher
+        : DP: 6
+
+offline0: i4pc-------r--- UDP [L] 10.8.0.1:64538 --> [OL] 172.16.1.75:5060
+        : SIP
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pcu------r-F- TCP [L] 10.8.0.1:47116 --> [OR] 114.29.202.139:443
+        : HTTP/S.netify.webex
+        : V: 0x0301 CS: 0x0035
+        : TLS/CN: webex.com
+        : TLS/IDN: C=US, O=Symantec Corporation, OU=Symantec Trust Network, CN=Symantec Class 3 Secure Server CA - G4 TLS/SDN: C=us, ST=California, L=San Jose, O=Cisco Systems, Inc., OU=CSG, CN=*.webex.com
+        : RID 30: TLS Certificate Expired
+        : RID 36: Obsolete TLS (v1.1 or older)
+        : RID 41: Weak TLS Cipher
+        : DP: 8
+
+offline0: i4pcu------r-F- TCP [L] 10.8.0.1:47841 --> [OR] 114.29.200.11:443
+        : HTTP/S.netify.webex
+        : V: 0x0301 CS: 0x0035
+        : TLS/CN: webex.com
+        : TLS/IDN: C=US, O=Symantec Corporation, OU=Symantec Trust Network, CN=Symantec Class 3 Secure Server CA - G4 TLS/SDN: C=us, ST=California, L=San Jose, O=Cisco Systems, Inc., OU=CSG, CN=*.webex.com
+        : RID 30: TLS Certificate Expired
+        : RID 36: Obsolete TLS (v1.1 or older)
+        : RID 41: Weak TLS Cipher
+        : DP: 6
+
+offline0: i4pc-------r-F- TCP [L] 10.133.206.47:33459 --> [OR] 80.74.110.68:443
+        : HTTP/S
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pcu------r--- TCP [L] 10.8.0.1:43433 --> [OR] 216.58.208.40:443
+        : HTTP/S.netify.analytics
+        : H: ssl.google-analytics.com
+        : V: 0x0303 CS: 0xc02f
+        : TLS/SNI: ssl.google-analytics.com TLS/CN: google-analytics.com
+        : TLS/IDN: C=US, O=Google Inc, CN=Google Internet Authority G2 TLS/SDN: C=US, ST=California, L=Mountain View, O=Google Inc, CN=*.google-analytics.com
+        : RID 30: TLS Certificate Expired
+        : RID 47: TLS ALPN Not Found
+        : DP: 6
+
+offline0: i4pcu------r-F- TCP [L] 10.8.0.1:33512 --> [OR] 80.74.110.68:443
+        : HTTP/S
+        : V: 0x0301 CS: 0x0004
+        : RID 36: Obsolete TLS (v1.1 or older)
+        : DP: 6
+
+offline0: i4pcu------r-F- TCP [L] 10.8.0.1:51154 --> [OR] 62.109.224.120:443
+        : HTTP/S.netify.webex
+        : V: 0x0301 CS: 0x0035
+        : TLS/CN: webex.com
+        : TLS/IDN: C=US, O=Symantec Corporation, OU=Symantec Trust Network, CN=Symantec Class 3 Secure Server CA - G4 TLS/SDN: C=us, ST=California, L=San Jose, O=Cisco Systems, Inc., OU=CSG, CN=*.webex.com
+        : RID 30: TLS Certificate Expired
+        : RID 36: Obsolete TLS (v1.1 or older)
+        : RID 41: Weak TLS Cipher
+        : DP: 6
+
+offline0: i4pcu------r--- TCP [L] 10.8.0.1:51155 --> [OR] 62.109.224.120:443
+        : HTTP/S.netify.webex
+        : V: 0x0301 CS: 0x0035
+        : TLS/CN: webex.com
+        : TLS/IDN: C=US, O=Symantec Corporation, OU=Symantec Trust Network, CN=Symantec Class 3 Secure Server CA - G4 TLS/SDN: C=us, ST=California, L=San Jose, O=Cisco Systems, Inc., OU=CSG, CN=*.webex.com
+        : RID 30: TLS Certificate Expired
+        : RID 36: Obsolete TLS (v1.1 or older)
+        : RID 41: Weak TLS Cipher
+        : DP: 6
+
+offline0: i4pcu------r--- TCP [L] 10.8.0.1:41419 --> [OR] 64.68.105.103:443
+        : HTTP/S.netify.webex
+        : V: 0x0301 CS: 0x0035
+        : TLS/CN: webex.com
+        : TLS/IDN: C=US, O=Symantec Corporation, OU=Symantec Trust Network, CN=Symantec Class 3 Secure Server CA - G4 TLS/SDN: C=us, ST=California, L=San Jose, O=Cisco Systems, Inc., OU=CSG, CN=*.webex.com
+        : RID 30: TLS Certificate Expired
+        : RID 36: Obsolete TLS (v1.1 or older)
+        : RID 41: Weak TLS Cipher
+        : DP: 6
+
+offline0: i4pcu------r-F- TCP [L] 10.8.0.1:55665 --> [OR] 173.243.0.110:443
+        : HTTP/S.netify.webex
+        : V: 0x0301 CS: 0x0035
+        : TLS/CN: webex.com
+        : TLS/IDN: C=US, O=Symantec Corporation, OU=Symantec Trust Network, CN=Symantec Class 3 Secure Server CA - G4 TLS/SDN: C=us, ST=California, L=San Jose, O=Cisco Systems, Inc., OU=CSG, CN=*.webex.com
+        : RID 30: TLS Certificate Expired
+        : RID 36: Obsolete TLS (v1.1 or older)
+        : RID 41: Weak TLS Cipher
+        : DP: 6
+
+offline0: i4pcu------r-F- TCP [L] 10.8.0.1:55669 --> [OR] 173.243.0.110:443
+        : HTTP/S.netify.webex
+        : V: 0x0301 CS: 0x0035
+        : TLS/CN: webex.com
+        : TLS/IDN: C=US, O=Symantec Corporation, OU=Symantec Trust Network, CN=Symantec Class 3 Secure Server CA - G4 TLS/SDN: C=us, ST=California, L=San Jose, O=Cisco Systems, Inc., OU=CSG, CN=*.webex.com
+        : RID 30: TLS Certificate Expired
+        : RID 36: Obsolete TLS (v1.1 or older)
+        : RID 41: Weak TLS Cipher
+        : DP: 8
+
+offline0: i4pcu------r-F- TCP [L] 10.8.0.1:55671 --> [OR] 173.243.0.110:443
+        : HTTP/S.netify.webex
+        : V: 0x0301 CS: 0x0035
+        : TLS/CN: webex.com
+        : TLS/IDN: C=US, O=Symantec Corporation, OU=Symantec Trust Network, CN=Symantec Class 3 Secure Server CA - G4 TLS/SDN: C=us, ST=California, L=San Jose, O=Cisco Systems, Inc., OU=CSG, CN=*.webex.com
+        : RID 30: TLS Certificate Expired
+        : RID 36: Obsolete TLS (v1.1 or older)
+        : RID 41: Weak TLS Cipher
+        : DP: 6
+
+offline0: i4pc-------r-F- TCP [L] 10.8.0.1:59756 --> [OR] 78.46.237.91:80
+        : HTTP
+        : H: cp.pushwoosh.com
+        : HTTP/UA: Dalvik/1.6.0 (Linux; U; Android 4.4.2; LG-D855 Build/KVT49L.A1412087656)
+        : URL: cp.pushwoosh.com/json/1.3/registerDevice
+        : RID 48: HTTP Obsolete Server
+        : DP: 8
+
+offline0: i4pc-------r-F- TCP [L] 10.8.0.1:59757 --> [OR] 78.46.237.91:80
+        : HTTP
+        : H: cp.pushwoosh.com
+        : HTTP/UA: Dalvik/1.6.0 (Linux; U; Android 4.4.2; LG-D855 Build/KVT49L.A1412087656)
+        : URL: cp.pushwoosh.com/json/1.3/applicationOpen
+        : RID 48: HTTP Obsolete Server
+        : DP: 6
+
+offline0: i4pcu------r-F- TCP [L] 10.8.0.1:46211 --> [OR] 54.241.32.14:443
+        : HTTP/S
+        : H: api.crittercism.com
+        : V: 0x0301 CS: 0x0004
+        : TLS/SNI: api.crittercism.com TLS/CN: crittercism.com
+        : TLS/IDN: C=GB, ST=Greater Manchester, L=Salford, O=COMODO CA Limited, CN=COMODO RSA Domain Validation Secure Server CA TLS/SDN: OU=Domain Control Validated, OU=PositiveSSL Wildcard, CN=*.crittercism.com
+        : RID 30: TLS Certificate Expired
+        : RID 36: Obsolete TLS (v1.1 or older)
+        : DP: 14
+
+offline0: i4pcu------r-F- TCP [L] 10.8.0.1:33551 --> [OR] 80.74.110.68:443
+        : HTTP/S
+        : V: 0x0301 CS: 0x0004
+        : RID 36: Obsolete TLS (v1.1 or older)
+        : DP: 6
+
+offline0: i4pcu------r-F- TCP [L] 10.8.0.1:33553 --> [OR] 80.74.110.68:443
+        : HTTP/S
+        : V: 0x0301 CS: 0x0004
+        : RID 36: Obsolete TLS (v1.1 or older)
+        : DP: 6
+
+offline0: i4pcu------r-F- TCP [L] 10.8.0.1:33554 --> [OR] 80.74.110.68:443
+        : HTTP/S
+        : V: 0x0301 CS: 0x0004
+        : RID 36: Obsolete TLS (v1.1 or older)
+        : DP: 6
+
+offline0: i4pcu------r-F- TCP [L] 10.8.0.1:55687 --> [OR] 173.243.0.110:443
+        : HTTP/S.netify.webex
+        : V: 0x0301 CS: 0x0035
+        : TLS/CN: webex.com
+        : TLS/IDN: C=US, O=Symantec Corporation, OU=Symantec Trust Network, CN=Symantec Class 3 Secure Server CA - G4 TLS/SDN: C=us, ST=California, L=San Jose, O=Cisco Systems, Inc., OU=CSG, CN=*.webex.com
+        : RID 30: TLS Certificate Expired
+        : RID 36: Obsolete TLS (v1.1 or older)
+        : RID 41: Weak TLS Cipher
+        : DP: 6
+
+offline0: i4pcu------r--- TCP [L] 10.8.0.1:33559 --> [OR] 80.74.110.68:443
+        : HTTP/S
+        : V: 0x0301 CS: 0x0004
+        : RID 36: Obsolete TLS (v1.1 or older)
+        : DP: 6
+
+offline0: i4pcu------r-F- TCP [L] 10.8.0.1:51857 --> [OR] 62.109.229.158:443
+        : HTTP/S.netify.webex
+        : V: 0x0301 CS: 0x002f
+        : TLS/CN: webex.com
+        : TLS/IDN: C=US, O=Symantec Corporation, OU=Symantec Trust Network, CN=Symantec Class 3 Secure Server CA - G4 TLS/SDN: C=us, ST=California, L=San Jose, O=Cisco Systems, Inc., OU=CSG, CN=*.webex.com
+        : RID 30: TLS Certificate Expired
+        : RID 36: Obsolete TLS (v1.1 or older)
+        : RID 41: Weak TLS Cipher
+        : DP: 6
+
+offline0: i4pcu------r--- TCP [L] 10.8.0.1:51194 --> [OR] 62.109.224.120:443
+        : HTTP/S.netify.webex
+        : V: 0x0301 CS: 0x0035
+        : TLS/CN: webex.com
+        : TLS/IDN: C=US, O=Symantec Corporation, OU=Symantec Trust Network, CN=Symantec Class 3 Secure Server CA - G4 TLS/SDN: C=us, ST=California, L=San Jose, O=Cisco Systems, Inc., OU=CSG, CN=*.webex.com
+        : RID 30: TLS Certificate Expired
+        : RID 36: Obsolete TLS (v1.1 or older)
+        : RID 41: Weak TLS Cipher
+        : DP: 6
+
+offline0: i4pc--x----r-F- TCP [L] 10.8.0.1:51134 --> [OR] 62.109.224.120:443
+        : HTTP/S.netify.webex
+        : V: 0x0301
+        : RID 36: Obsolete TLS (v1.1 or older)
+        : DP: 11
+
+offline0: i4pc-gx-------- UDP [L] 10.8.0.1:51772 --> [OR] 62.109.229.158:9000
+        : Unknown.netify.webex
+        : DP: 16
+
+offline0: i4pc--x----r--- TCP [L] 10.8.0.1:51190 --> [OR] 62.109.224.120:443
+        : HTTP/S.netify.webex
+        : V: 0x0301
+        : RID 36: Obsolete TLS (v1.1 or older)
+        : DP: 11
+
+offline0: i4pc-gx------F- TCP [L] 10.133.206.47:54651 --> [OR] 185.63.147.10:443
+        : HTTP/S
+        : DP: 3
+
+offline0: i4pc--x----r-F- TCP [L] 10.8.0.1:51833 --> [OR] 62.109.229.158:443
+        : HTTP/S.netify.webex
+        : V: 0x0301
+        : RID 36: Obsolete TLS (v1.1 or older)
+        : DP: 8
+
+offline0: i4pc--x----r-F- TCP [L] 10.8.0.1:51135 --> [OR] 62.109.224.120:443
+        : HTTP/S.netify.webex
+        : V: 0x0301
+        : RID 36: Obsolete TLS (v1.1 or older)
+        : DP: 11
+
+offline0: i4pc--x----r-F- TCP [L] 10.8.0.1:51676 --> [OR] 114.29.204.49:443
+        : HTTP/S.netify.webex
+        : V: 0x0301
+        : RID 36: Obsolete TLS (v1.1 or older)
+        : DP: 11
+
+offline0: i4pc--x----r--- TCP [L] 10.8.0.1:51195 --> [OR] 62.109.224.120:443
+        : HTTP/S.netify.webex
+        : V: 0x0301
+        : RID 36: Obsolete TLS (v1.1 or older)
+        : DP: 5
+
+offline0: i4pc-gx------F- TCP [L] 10.133.206.47:59447 --> [OR] 107.20.242.44:443
+        : HTTP/S
+        : DP: 3
+
+offline0: i4pc--x----r-F- TCP [L] 10.8.0.1:33511 --> [OR] 80.74.110.68:443
+        : HTTP/S
+        : V: 0x0301
+        : RID 36: Obsolete TLS (v1.1 or older)
+        : DP: 8
+
+offline0: i4pc--x----r-F- TCP [L] 10.8.0.1:41394 --> [OR] 64.68.105.103:443
+        : HTTP/S.netify.webex
+        : V: 0x0301
+        : RID 36: Obsolete TLS (v1.1 or older)
+        : DP: 11
+
+offline0: i4pc--x----r-F- TCP [L] 10.8.0.1:51839 --> [OR] 62.109.229.158:443
+        : HTTP/S.netify.webex
+        : V: 0x0301
+        : RID 36: Obsolete TLS (v1.1 or older)
+        : DP: 8
+
+offline0: i4pc-gx----r--- TCP [L] 10.8.0.1:51859 --> [OR] 62.109.229.158:443
+        : HTTP/S.netify.webex
+        : RID 51: TCP Connection Issues
+        : DP: 3
+
+offline0: i4pc--x----r-F- TCP [L] 10.8.0.1:41757 --> [OR] 114.29.213.212:443
+        : HTTP/S.netify.webex
+        : V: 0x0301
+        : RID 36: Obsolete TLS (v1.1 or older)
+        : DP: 11
+
+offline0: i4pc--x----r-F- TCP [L] 10.8.0.1:37139 --> [OR] 64.68.105.98:443
+        : HTTP/S.netify.webex
+        : V: 0x0301
+        : RID 36: Obsolete TLS (v1.1 or older)
+        : DP: 11
+
+offline0: i4pc--x----r-F- TCP [L] 10.8.0.1:47135 --> [OR] 114.29.202.139:443
+        : HTTP/S.netify.webex
+        : V: 0x0301
+        : RID 36: Obsolete TLS (v1.1 or older)
+        : DP: 11
+

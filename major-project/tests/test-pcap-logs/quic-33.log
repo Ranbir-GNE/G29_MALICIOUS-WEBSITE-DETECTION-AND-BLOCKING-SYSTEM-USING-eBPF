@@ -1,0 +1,9 @@
+offline0: i6pc-------r--- UDP [L] ::1:4443 <-- [OL] ::1:51430
+        : QUIC
+        : V: 0x0304
+        : RID 16: Known Protocol on Non-standard Port
+        : RID 35: TLS SNI Extension Not Found
+        : RID 46: Unidirectional Traffic
+        : RID 53: TLS ALPN/SNI Mismatch
+        : DP: 1
+

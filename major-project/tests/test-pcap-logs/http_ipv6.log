@@ -1,0 +1,97 @@
+offline0: i6pc-------r--- UDP [OR] 2a00:d40:1:3:7aac:c0ff:fea7:d4c:45931 --> [L] 2a00:1450:4001:803::1017:443
+        : QUIC.netify.google
+        : H: www.google.it
+        : TLS/SNI: www.google.it
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i6pcu------r-F- TCP [OR] 2a00:d40:1:3:7aac:c0ff:fea7:d4c:37486 --> [L] 2a03:b0c0:3:d0::70:1001:443
+        : HTTP/S
+        : H: www.ntop.org
+        : V: 0x0303 CS: 0xc02f
+        : TLS/SNI: www.ntop.org TLS/CN: shop.ntop.org
+        : TLS/IDN: C=GB, ST=Greater Manchester, L=Salford, O=COMODO CA Limited, CN=COMODO RSA Domain Validation Secure Server CA TLS/SDN: OU=Domain Control Validated, OU=PositiveSSL, CN=shop.ntop.org
+        : RID 30: TLS Certificate Expired
+        : RID 31: TLS Certificate Mismatch
+        : DP: 12
+
+offline0: i6pcu------r-F- TCP [OR] 2a00:d40:1:3:7aac:c0ff:fea7:d4c:37488 --> [L] 2a03:b0c0:3:d0::70:1001:443
+        : HTTP/S
+        : H: www.ntop.org
+        : V: 0x0303 CS: 0xc02f
+        : TLS/SNI: www.ntop.org TLS/CN: shop.ntop.org
+        : TLS/IDN: C=GB, ST=Greater Manchester, L=Salford, O=COMODO CA Limited, CN=COMODO RSA Domain Validation Secure Server CA TLS/SDN: OU=Domain Control Validated, OU=PositiveSSL, CN=shop.ntop.org
+        : RID 30: TLS Certificate Expired
+        : RID 31: TLS Certificate Mismatch
+        : DP: 10
+
+offline0: i6pcu------r-F- TCP [OR] 2a00:d40:1:3:7aac:c0ff:fea7:d4c:37494 --> [L] 2a03:b0c0:3:d0::70:1001:443
+        : HTTP/S
+        : H: www.ntop.org
+        : V: 0x0303 CS: 0xc02f
+        : TLS/SNI: www.ntop.org TLS/CN: shop.ntop.org
+        : TLS/IDN: C=GB, ST=Greater Manchester, L=Salford, O=COMODO CA Limited, CN=COMODO RSA Domain Validation Secure Server CA TLS/SDN: OU=Domain Control Validated, OU=PositiveSSL, CN=shop.ntop.org
+        : RID 30: TLS Certificate Expired
+        : RID 31: TLS Certificate Mismatch
+        : DP: 12
+
+offline0: i6pcu------r--- TCP [OR] 2a00:d40:1:3:7aac:c0ff:fea7:d4c:37506 --> [L] 2a03:b0c0:3:d0::70:1001:443
+        : HTTP/S
+        : H: www.ntop.org
+        : V: 0x0303 CS: 0xc02f
+        : TLS/SNI: www.ntop.org TLS/CN: shop.ntop.org
+        : TLS/IDN: C=GB, ST=Greater Manchester, L=Salford, O=COMODO CA Limited, CN=COMODO RSA Domain Validation Secure Server CA TLS/SDN: OU=Domain Control Validated, OU=PositiveSSL, CN=shop.ntop.org
+        : RID 30: TLS Certificate Expired
+        : RID 31: TLS Certificate Mismatch
+        : DP: 12
+
+offline0: i6pc-------r--- TCP [OR] 2a00:d40:1:3:7aac:c0ff:fea7:d4c:53134 --> [L] 2a02:26f0:ad:197::236:443
+        : HTTP/S.netify.facebook
+        : H: s-static.ak.facebook.com
+        : V: 0x0303 CS: 0xc02f
+        : TLS/SNI: s-static.ak.facebook.com TLS/CN: ak.fbcdn.net
+        : TLS/IDN: C=US, O=DigiCert Inc, OU=www.digicert.com, CN=DigiCert High Assurance CA-3 TLS/SDN: C=US, ST=CA, L=Menlo Park, O=Facebook, Inc., CN=*.ak.fbcdn.net
+        : RID 30: TLS Certificate Expired
+        : DP: 6
+
+offline0: i6pcu------r--- TCP [OR] 2a00:d40:1:3:7aac:c0ff:fea7:d4c:53132 --> [L] 2a02:26f0:ad:197::236:443
+        : HTTP/S.netify.facebook
+        : H: s-static.ak.facebook.com
+        : V: 0x0303 CS: 0xc02f
+        : TLS/SNI: s-static.ak.facebook.com TLS/CN: ak.fbcdn.net
+        : TLS/IDN: C=US, O=DigiCert Inc, OU=www.digicert.com, CN=DigiCert High Assurance CA-3 TLS/SDN: C=US, ST=CA, L=Menlo Park, O=Facebook, Inc., CN=*.ak.fbcdn.net
+        : RID 30: TLS Certificate Expired
+        : DP: 8
+
+offline0: i6pc-gx-------- TCP [OR] 2a00:d40:1:3:7aac:c0ff:fea7:d4c:40308 --> [L] 2a03:2880:1010:3f20:face:b00c:0:25de:443
+        : HTTP/S.netify.meta
+        : DP: 2
+
+offline0: i6pc-gx-------- TCP [OR] 2a00:d40:1:3:7aac:c0ff:fea7:d4c:59690 --> [L] 2a00:1450:4001:803::1012:443
+        : HTTP/S.netify.google
+        : DP: 2
+
+offline0: i6pc-gx-------- TCP [OR] 2a00:d40:1:3:7aac:c0ff:fea7:d4c:33062 --> [L] 2a00:1450:400b:c02::9a:443
+        : HTTP/S.netify.google
+        : DP: 2
+
+offline0: i6pc-gx-------- TCP [OR] 2a00:d40:1:3:7aac:c0ff:fea7:d4c:60124 --> [L] 2a02:26f0:ad:1a1::eed:443
+        : HTTP/S
+        : DP: 2
+
+offline0: i6pc-gx-------- TCP [OR] 2a00:d40:1:3:7aac:c0ff:fea7:d4c:40526 --> [L] 2a00:1450:4006:804::200e:443
+        : HTTP/S.netify.google
+        : DP: 2
+
+offline0: i6pc-gx-------- TCP [OR] 2a00:d40:1:3:7aac:c0ff:fea7:d4c:58660 --> [L] 2a00:1450:4006:803::2008:443
+        : HTTP/S.netify.google
+        : DP: 2
+
+offline0: i6pc-gx-------- UDP [OR] 2a00:d40:1:3:7aac:c0ff:fea7:d4c:55145 --> [L] 2a00:1450:400b:c02::5f:443
+        : QUIC.netify.google
+        : DP: 3
+
+offline0: i6pc--x-------- TCP [OR] 2a00:d40:1:3:7aac:c0ff:fea7:d4c:41776 --> [L] 2a00:1450:4001:803::1017:443
+        : HTTP/S.netify.google
+        : DP: 14
+

@@ -1,0 +1,290 @@
+offline0: i4pc-------r--- UDP [OR] 146.66.152.13:27018 <-- [L] 192.168.188.149:45665
+        : Steam.netify.steam
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [OR] 146.66.152.12:27019 <-- [L] 192.168.188.149:45665
+        : Steam.netify.steam
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [OR] 81.171.115.8:27018 <-- [L] 192.168.188.149:45665
+        : Steam.netify.steam
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [OR] 81.171.115.6:27017 <-- [L] 192.168.188.149:45665
+        : Steam.netify.steam
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [OR] 69.28.145.172:27018 <-- [L] 192.168.188.149:45665
+        : Steam.netify.steam
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [OR] 81.171.115.8:27017 <-- [L] 192.168.188.149:45665
+        : Steam.netify.steam
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [OR] 68.142.91.36:27017 <-- [L] 192.168.188.149:45665
+        : Steam.netify.steam
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [OR] 146.66.152.12:27018 <-- [L] 192.168.188.149:45665
+        : Steam.netify.steam
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [OR] 81.171.115.7:27018 <-- [L] 192.168.188.149:45665
+        : Steam.netify.steam
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 192.168.188.149:45665 --> [OR] 208.111.171.83:27017
+        : Steam.netify.steam
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [OR] 81.171.115.8:27019 <-- [L] 192.168.188.149:45665
+        : Steam.netify.steam
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [OR] 69.28.145.170:27017 <-- [L] 192.168.188.149:45665
+        : Steam.netify.steam
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [OR] 146.66.152.14:27019 <-- [L] 192.168.188.149:45665
+        : Steam.netify.steam
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [OR] 72.165.61.187:27018 <-- [L] 192.168.188.149:45665
+        : Steam.netify.steam
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [OR] 69.28.145.172:27017 <-- [L] 192.168.188.149:45665
+        : Steam.netify.steam
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [OR] 81.171.115.6:27019 <-- [L] 192.168.188.149:45665
+        : Steam.netify.steam
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [OR] 68.142.91.34:27017 <-- [L] 192.168.188.149:45665
+        : Steam.netify.steam
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 192.168.188.149:45665 --> [OR] 203.77.185.4:27017
+        : Steam.netify.steam
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [OR] 68.142.116.179:27017 <-- [L] 192.168.188.149:45665
+        : Steam.netify.steam
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [OR] 72.165.61.188:27017 <-- [L] 192.168.188.149:45665
+        : Steam.netify.steam
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 192.168.188.149:45665 --> [OR] 208.111.171.82:27017
+        : Steam.netify.steam
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [OR] 72.165.61.185:27018 <-- [L] 192.168.188.149:45665
+        : Steam.netify.steam
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [OR] 81.171.115.5:27019 <-- [L] 192.168.188.149:45665
+        : Steam.netify.steam
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [OR] 146.66.152.13:27017 <-- [L] 192.168.188.149:45665
+        : Steam.netify.steam
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [OR] 146.66.152.14:27017 <-- [L] 192.168.188.149:45665
+        : Steam.netify.steam
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [OR] 72.165.61.174:27017 <-- [L] 192.168.188.149:45665
+        : Steam.netify.steam
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [OR] 69.28.145.171:27017 <-- [L] 192.168.188.149:45665
+        : Steam.netify.steam
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 192.168.188.149:45665 --> [OR] 208.111.133.85:27018
+        : Steam.netify.steam
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [OR] 81.171.115.5:27018 <-- [L] 192.168.188.149:45665
+        : Steam.netify.steam
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [OR] 72.165.61.175:27017 <-- [L] 192.168.188.149:45665
+        : Steam.netify.steam
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 192.168.188.149:45665 --> [OR] 203.77.185.5:27017
+        : Steam.netify.steam
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [OR] 146.66.152.15:27018 <-- [L] 192.168.188.149:45665
+        : Steam.netify.steam
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [OR] 146.66.152.15:27019 <-- [L] 192.168.188.149:45665
+        : Steam.netify.steam
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [OR] 72.165.61.174:27018 <-- [L] 192.168.188.149:45665
+        : Steam.netify.steam
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 192.168.188.149:45665 --> [OR] 208.111.133.84:27017
+        : Steam.netify.steam
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [OR] 146.66.152.12:27017 <-- [L] 192.168.188.149:45665
+        : Steam.netify.steam
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [OR] 81.171.115.7:27017 <-- [L] 192.168.188.149:45665
+        : Steam.netify.steam
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [OR] 72.165.61.187:27017 <-- [L] 192.168.188.149:45665
+        : Steam.netify.steam
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [OR] 81.171.115.5:27017 <-- [L] 192.168.188.149:45665
+        : Steam.netify.steam
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 192.168.188.149:45665 --> [OR] 208.111.133.84:27018
+        : Steam.netify.steam
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 192.168.188.149:45665 --> [OR] 208.111.133.85:27017
+        : Steam.netify.steam
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [OR] 72.165.61.176:27018 <-- [L] 192.168.188.149:45665
+        : Steam.netify.steam
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [OR] 72.165.61.185:27017 <-- [L] 192.168.188.149:45665
+        : Steam.netify.steam
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [OR] 68.142.91.35:27017 <-- [L] 192.168.188.149:45665
+        : Steam.netify.steam
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [OR] 146.66.152.13:27019 <-- [L] 192.168.188.149:45665
+        : Steam.netify.steam
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [OR] 69.28.145.170:27018 <-- [L] 192.168.188.149:45665
+        : Steam.netify.steam
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [OR] 146.66.152.15:27017 <-- [L] 192.168.188.149:45665
+        : Steam.netify.steam
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [OR] 72.165.61.175:27018 <-- [L] 192.168.188.149:45665
+        : Steam.netify.steam
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [OR] 81.171.115.7:27019 <-- [L] 192.168.188.149:45665
+        : Steam.netify.steam
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [OR] 72.165.61.188:27018 <-- [L] 192.168.188.149:45665
+        : Steam.netify.steam
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [OR] 68.142.116.178:27017 <-- [L] 192.168.188.149:45665
+        : Steam.netify.steam
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [OR] 81.171.115.6:27018 <-- [L] 192.168.188.149:45665
+        : Steam.netify.steam
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [OR] 146.66.152.14:27018 <-- [L] 192.168.188.149:45665
+        : Steam.netify.steam
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [OR] 69.28.145.171:27018 <-- [L] 192.168.188.149:45665
+        : Steam.netify.steam
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [OR] 72.165.61.176:27017 <-- [L] 192.168.188.149:45665
+        : Steam.netify.steam
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [OR] 2.95.26.169:27036 --> [L] 118.105.60.5:14963
+        : Steam.netify.steam
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [OR] 104.191.198.151:27036 <-- [L] 245.111.219.147:27380
+        : Steam.netify.steam
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [OR] 98.10.157.76:10595 <-- [L] 164.144.140.184:27036
+        : Steam.netify.steam
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+

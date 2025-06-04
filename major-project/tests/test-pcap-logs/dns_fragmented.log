@@ -1,0 +1,115 @@
+offline0: i6pc-------r--- UDP [OR] 2001:470:765b::a25:53:53 <-- [L] 2a00:1450:400c:c00::106:54430
+        : DNS
+        : H: fg2.weberlab.de
+        : RID  6: Large DNS Packet (512+ bytes)
+        : DP: 2
+
+offline0: i6pc-------r--- UDP [OR] 2001:470:765b::a25:53:53 <-- [L] 2a00:1450:4013:c05::10e:34944
+        : DNS
+        : H: fg2.weberlab.de
+        : RID  6: Large DNS Packet (512+ bytes)
+        : DP: 2
+
+offline0: i6pc----------- UDP [OR] 2001:470:1f0b:16b0:20c:29ff:fe7c:a4cb:47634 --> [L] 2001:470:765b::a25:53:53
+        : DNS
+        : H: fg2-mgmt.weberlab.de
+        : DP: 2
+
+offline0: i6pc----------- UDP [OR] 2001:470:1f0b:16b0:20c:29ff:fe7c:a4cb:33592 --> [L] 2001:470:765b::a25:53:53
+        : DNS
+        : H: fg2-mgmt.weberlab.de
+        : DP: 2
+
+offline0: i6pc----------- UDP [OR] 2001:470:1f0b:16b0:20c:29ff:fe7c:a4cb:46316 --> [L] 2001:470:765b::a25:53:53
+        : DNS
+        : H: fg2-mgmt.weberlab.de
+        : DP: 2
+
+offline0: i6pc----------- UDP [OR] 2001:470:1f0b:16b0:20c:29ff:fe7c:a4cb:46440 --> [L] 2001:470:765b::a25:53:53
+        : DNS
+        : H: fg2-mgmt.weberlab.de
+        : DP: 2
+
+offline0: i6pc----------- UDP [OR] 2001:470:1f0b:16b0:20c:29ff:fe7c:a4cb:48758 --> [L] 2606:4700:4700::1111:53
+        : DNS
+        : H: sigok.verteiltesysteme.net
+        : DP: 2
+
+offline0: i6pc----------- UDP [OR] 2001:470:1f0b:16b0:20c:29ff:fe7c:a4cb:42344 --> [L] 2620:fe::fe:53
+        : DNS
+        : H: formel1.de
+        : DP: 2
+
+offline0: i6pc----------- UDP [OR] 2001:470:1f0b:16b0:20c:29ff:fe7c:a4cb:46709 --> [L] 2620:fe::fe:53
+        : DNS
+        : H: erfpop.de
+        : DP: 2
+
+offline0: i6pc----------- UDP [OR] 2001:470:1f0b:16b0:20c:29ff:fe7c:a4cb:60550 --> [L] 2606:4700:4700::1111:53
+        : DNS
+        : H: ns2.weberdns.de
+        : DP: 2
+
+offline0: i6pc---------F- TCP [OR] 2001:470:1f0b:16b0::a26:53:53 <-- [L] 2001:470:1f0b:16b0:20c:29ff:fe7c:a4cb:57089
+        : DNS
+        : D: ns2.weberdns.de H: weberlab.de
+        : DP: 6
+
+offline0: i6pc----------- UDP [OR] 2001:470:1f0b:16b0:20c:29ff:fe7c:a4cb:54590 --> [L] 2606:4700:4700::1111:53
+        : DNS
+        : H: ns2.weberdns.de
+        : DP: 2
+
+offline0: i4pc---------F- TCP [OR] 194.247.5.6:39005 --> [L] 194.247.5.14:53
+        : DNS
+        : D: ns2.weberdns.de H: weberlab.de
+        : DP: 6
+
+offline0: i6pc--x----r--- UDP [OR] 2001:470:1f0b:16b0:20c:29ff:fe7c:a4cb:52814 --> [L] 2606:4700:4700::1111:53
+        : DNS
+        : H: sigfail.verteiltesysteme.net
+        : RID  8: Error Code
+        : DP: 2
+
+offline0: i6pc--x----r--- UDP [OR] 2001:470:765b::a25:53:53 <-- [L] 2a00:1450:4013:c03::10a:46433
+        : DNS
+        : H: pa.weberlab.de
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i6pc--x----r--- UDP [OR] 2001:470:1f0b:16b0:20c:29ff:fe7c:a4cb:55729 --> [L] 2001:470:765b::a25:53:53
+        : DNS
+        : H: weberlab.de
+        : RID 46: Unidirectional Traffic
+        : DP: 2
+
+offline0: i4pc--x----r--- UDP [OR] 74.125.47.136:59330 --> [L] 193.24.227.238:53
+        : DNS
+        : H: weberlab.de
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc--x----r--- UDP [OR] 193.24.227.238:53 <-- [L] 194.247.5.6:51791
+        : DNS
+        : H: weberlab.de
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc--x----r--- UDP [OR] 172.217.40.76:56680 --> [L] 193.24.227.238:53
+        : DNS
+        : H: weberlab.de
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i6pc--x----r--- UDP [OR] 2001:470:765b::a25:53:53 <-- [L] 2a00:1450:4013:c06::105:63369
+        : DNS
+        : H: fg2.weberlab.de
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc--x----r--- UDP [OR] 173.194.169.104:59464 --> [L] 193.24.227.238:53
+        : DNS
+        : H: fg2.weberlab.de
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+

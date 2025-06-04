@@ -1,0 +1,14 @@
+offline0: i4pc-------r-F- TCP [OR] 160.44.202.202:443 <-- [L] 192.168.2.100:37780
+        : HTTP/S
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc--x----r-F- TCP [L] 192.168.1.20:443 <-- [OL] 192.168.1.192:63158
+        : HTTP/S.netify.analytics
+        : H: www.google-analytics.com
+        : V: 0x0301
+        : TLS/SNI: www.google-analytics.com
+        : RID 33: TLS Fatal Alert
+        : RID 36: Obsolete TLS (v1.1 or older)
+        : DP: 11
+

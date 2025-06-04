@@ -1,0 +1,16 @@
+offline0: i4pc-------r-F- TCP [L] 10.0.0.1:57406 --> [OR] 173.194.68.26:25
+        : SMTP.netify.google
+        : H: mx.google.com
+        : RID 30: TLS Certificate Expired
+        : RID 36: Obsolete TLS (v1.1 or older)
+        : DP: 27
+
+offline0: i6pc-------r-F- TCP [OR] 2003:de:2016:120::a08:53:25 <-- [L] 2003:de:2016:125:fc36:8317:4e86:cb72:7562
+        : SMTP
+        : H: jw-vm08-int-dns.webernetz.net
+        : RID 30: TLS Certificate Expired
+        : RID 37: Self-signed Certificate
+        : RID 39: TLS Suspicious Extension
+        : RID 47: TLS ALPN Not Found
+        : DP: 26
+

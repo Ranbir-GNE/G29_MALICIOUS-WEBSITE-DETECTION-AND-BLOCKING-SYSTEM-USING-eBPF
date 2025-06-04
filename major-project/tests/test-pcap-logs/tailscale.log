@@ -1,0 +1,5 @@
+offline0: i4pc-------r--- UDP [OR] 18.196.71.179:41641 <-- [L] 192.168.88.3:41641
+        : Tailscale
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+

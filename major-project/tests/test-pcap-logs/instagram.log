@@ -1,0 +1,233 @@
+offline0: i4pcu------r--- TCP [OR] 173.252.107.4:443 <-- [L] 192.168.0.103:56382
+        : HTTP/S.netify.instagram
+        : H: telegraph-ash.instagram.com
+        : V: 0x0301 CS: 0xc013
+        : TLS/SNI: telegraph-ash.instagram.com
+        : RID 36: Obsolete TLS (v1.1 or older)
+        : DP: 6
+
+offline0: i4pc----------- TCP [OR] 31.13.93.52:443 <-- [L] 192.168.0.103:33936
+        : HTTP/S.netify.meta
+        : DP: 32
+
+offline0: i4pc----------- TCP [OR] 31.13.93.52:443 <-- [L] 192.168.0.103:33936
+        : HTTP/S.netify.meta
+        : DP: 32
+
+offline0: i4pc----------- TCP [OR] 46.33.70.160:80 <-- [L] 192.168.0.103:38816
+        : HTTP.netify.instagram
+        : D: a1408.dspw43.akamai.net H: photos-h.ak.instagram.com
+        : HTTP/UA: Instagram 7.1.1 Android (19/4.4.2; 480dpi; 1080x1920; samsung; GT-I9505; jflte; qcom; it_IT)
+        : URL: photos-h.ak.instagram.com/hphotos-ak-xap1/t51.2885-15/e35/10859994_1009433792434447_1627646062_n.jpg?se=7
+        : DP: 2
+
+offline0: i4pc----------- TCP [OR] 82.85.26.162:80 <-- [L] 192.168.0.103:57936
+        : HTTP.netify.instagram
+        : H: photos-g.ak.instagram.com
+        : HTTP/UA: Instagram 7.1.1 Android (19/4.4.2; 480dpi; 1080x1920; samsung; GT-I9505; jflte; qcom; it_IT)
+        : URL: photos-g.ak.instagram.com/hphotos-ak-xaf1/t51.2885-15/e15/11386524_110257619317430_379513654_n.jpg
+        : DP: 2
+
+offline0: i4pc---------F- TCP [OR] 82.85.26.186:80 <-- [L] 192.168.0.103:44379
+        : HTTP.netify.instagram
+        : H: photos-e.ak.instagram.com
+        : HTTP/UA: Instagram 7.1.1 Android (19/4.4.2; 480dpi; 1080x1920; samsung; GT-I9505; jflte; qcom; it_IT)
+        : URL: photos-e.ak.instagram.com/hphotos-ak-xaf1/t51.2885-15/e35/11379148_1449120228745316_607477962_n.jpg?se=7
+        : DP: 9
+
+offline0: i4pc----------- UDP [L] 192.168.0.106:17500 --> [OB] 255.255.255.255:17500
+        : Dropbox
+        : DP: 1
+
+offline0: i4pc----------- UDP [L] 192.168.0.106:17500 --> [OL] 192.168.0.255:17500
+        : Dropbox
+        : DP: 1
+
+offline0: i4pc-------r--- ICMP [L] 192.168.0.103:0 <-- [OL] 192.168.0.103:0
+        : ICMP
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-g-------F- TCP [OR] 77.67.29.17:80 <-- [L] 192.168.0.103:33976
+        : HTTP
+        : DP: 32
+
+offline0: i4pc----------- UDP [OR] 8.8.8.8:53 <-- [L] 192.168.0.103:51219
+        : DNS.netify.akamai
+        : H: igcdn-photos-h-a.akamaihd.net
+        : DP: 2
+
+offline0: i4pc----------- UDP [OR] 8.8.8.8:53 <-- [L] 192.168.0.103:33603
+        : DNS.netify.akamai
+        : H: igcdn-photos-a-a.akamaihd.net
+        : DP: 2
+
+offline0: i4pc----------- UDP [OR] 8.8.8.8:53 <-- [L] 192.168.0.103:26540
+        : DNS.netify.akamai
+        : H: igcdn-photos-g-a.akamaihd.net
+        : DP: 2
+
+offline0: i4pcu------r--- TCP [OR] 46.33.70.136:443 <-- [L] 192.168.0.103:60908
+        : HTTP/S.netify.akamai
+        : D: a1007.dspw43.akamai.net H: igcdn-photos-g-a.akamaihd.net
+        : V: 0x0301 CS: 0xc014
+        : TLS/SNI: igcdn-photos-g-a.akamaihd.net TLS/CN: a248.e.akamai.net
+        : TLS/IDN: C=NL, L=Amsterdam, O=Verizon Enterprise Solutions, OU=Cybertrust, CN=Verizon Akamai SureServer CA G14-SHA1 TLS/SDN: C=US, ST=MA, L=Cambridge, O=Akamai Technologies Inc., CN=a248.e.akamai.net
+        : RID 30: TLS Certificate Expired
+        : RID 36: Obsolete TLS (v1.1 or older)
+        : DP: 10
+
+offline0: i4pcu------r--- TCP [OR] 46.33.70.174:443 <-- [L] 192.168.0.103:44558
+        : HTTP/S.netify.akamai
+        : D: a1408.dspw43.akamai.net H: igcdn-photos-h-a.akamaihd.net
+        : V: 0x0301 CS: 0xc014
+        : TLS/SNI: igcdn-photos-h-a.akamaihd.net TLS/CN: a248.e.akamai.net
+        : TLS/IDN: C=NL, L=Amsterdam, O=Verizon Enterprise Solutions, OU=Cybertrust, CN=Verizon Akamai SureServer CA G14-SHA1 TLS/SDN: C=US, ST=MA, L=Cambridge, O=Akamai Technologies Inc., CN=a248.e.akamai.net
+        : RID 30: TLS Certificate Expired
+        : RID 36: Obsolete TLS (v1.1 or older)
+        : DP: 10
+
+offline0: i4pcu------r--- TCP [OR] 82.85.26.154:443 <-- [L] 192.168.0.103:41181
+        : HTTP/S.netify.akamai
+        : D: a1001.dspw40.akamai.net H: igcdn-photos-a-a.akamaihd.net
+        : V: 0x0301 CS: 0xc014
+        : TLS/SNI: igcdn-photos-a-a.akamaihd.net TLS/CN: a248.e.akamai.net
+        : TLS/IDN: C=NL, L=Amsterdam, O=Verizon Enterprise Solutions, OU=Cybertrust, CN=Verizon Akamai SureServer CA G14-SHA1 TLS/SDN: C=US, ST=MA, L=Cambridge, O=Akamai Technologies Inc., CN=a248.e.akamai.net
+        : RID 30: TLS Certificate Expired
+        : RID 36: Obsolete TLS (v1.1 or older)
+        : DP: 10
+
+offline0: i4pcu------r--- TCP [OR] 82.85.26.154:443 <-- [L] 192.168.0.103:41182
+        : HTTP/S.netify.akamai
+        : D: a1001.dspw40.akamai.net H: igcdn-photos-a-a.akamaihd.net
+        : V: 0x0301 CS: 0xc014
+        : TLS/SNI: igcdn-photos-a-a.akamaihd.net TLS/CN: a248.e.akamai.net
+        : TLS/IDN: C=NL, L=Amsterdam, O=Verizon Enterprise Solutions, OU=Cybertrust, CN=Verizon Akamai SureServer CA G14-SHA1 TLS/SDN: C=US, ST=MA, L=Cambridge, O=Akamai Technologies Inc., CN=a248.e.akamai.net
+        : RID 30: TLS Certificate Expired
+        : RID 36: Obsolete TLS (v1.1 or older)
+        : DP: 10
+
+offline0: i4pc----------- TCP [OR] 82.85.26.162:80 <-- [L] 192.168.0.103:58052
+        : HTTP.netify.instagram
+        : H: photos-g.ak.instagram.com
+        : HTTP/UA: Instagram 7.1.1 Android (19/4.4.2; 480dpi; 1080x1920; samsung; GT-I9505; jflte; qcom; it_IT)
+        : URL: photos-g.ak.instagram.com/hphotos-ak-xaf1/t51.2885-15/e35/11417349_1610424452559638_1559096152_n.jpg?se=7
+        : DP: 2
+
+offline0: i4pc-g--------- TCP [OR] 31.13.86.52:80 <-- [L] 192.168.0.103:58216
+        : HTTP.netify.meta
+        : DP: 32
+
+offline0: i4pc-------r-F- TCP [OR] 46.33.70.159:443 <-- [L] 192.168.0.103:58690
+        : HTTP/S
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-g--------- TCP [OR] 2.22.236.51:80 <-- [L] 192.168.0.103:44151
+        : HTTP
+        : DP: 32
+
+offline0: i4pcu---------- TCP [OR] 31.13.86.52:443 <-- [L] 192.168.2.17:49355
+        : HTTP/S.netify.instagram
+        : H: scontent-mxp1-1.cdninstagram.com
+        : V: 0x0303 CS: 0x1301
+        : TLS/SNI: scontent-mxp1-1.cdninstagram.com
+        : DP: 6
+
+offline0: i4pcu--------F- TCP [OR] 31.13.86.52:443 <-- [L] 192.168.2.17:49357
+        : HTTP/S.netify.instagram
+        : H: scontent-mxp1-1.cdninstagram.com
+        : V: 0x0303 CS: 0x1301
+        : TLS/SNI: scontent-mxp1-1.cdninstagram.com
+        : DP: 8
+
+offline0: i4pcu---------- TCP [OR] 31.13.86.52:443 <-- [L] 192.168.2.17:49358
+        : HTTP/S.netify.instagram
+        : H: scontent-mxp1-1.cdninstagram.com
+        : V: 0x0303 CS: 0x1301
+        : TLS/SNI: scontent-mxp1-1.cdninstagram.com
+        : DP: 8
+
+offline0: i4pcu---------- TCP [OR] 31.13.86.52:443 <-- [L] 192.168.2.17:49359
+        : HTTP/S.netify.instagram
+        : H: scontent-mxp1-1.cdninstagram.com
+        : V: 0x0303 CS: 0x1301
+        : TLS/SNI: scontent-mxp1-1.cdninstagram.com
+        : DP: 8
+
+offline0: i4pcu---------- TCP [OR] 31.13.86.52:443 <-- [L] 192.168.2.17:49360
+        : HTTP/S.netify.instagram
+        : H: scontent-mxp1-1.cdninstagram.com
+        : V: 0x0303 CS: 0x1301
+        : TLS/SNI: scontent-mxp1-1.cdninstagram.com
+        : DP: 8
+
+offline0: i4pcu---------- TCP [OR] 31.13.86.52:443 <-- [L] 192.168.2.17:49361
+        : HTTP/S.netify.instagram
+        : H: scontent-mxp1-1.cdninstagram.com
+        : V: 0x0303 CS: 0x1301
+        : TLS/SNI: scontent-mxp1-1.cdninstagram.com
+        : DP: 8
+
+offline0: i4pc--x-------- TCP [OR] 31.13.93.52:443 <-- [L] 192.168.0.103:33934
+        : HTTP/S.netify.meta
+        : DP: 12
+
+offline0: i4pc--x-------- TCP [OR] 31.13.93.52:443 <-- [L] 192.168.0.103:33935
+        : HTTP/S.netify.meta
+        : DP: 10
+
+offline0: i4pc--x----r--- UDP [OR] 8.8.8.8:53 <-- [L] 192.168.0.103:27124
+        : DNS.netify.instagram
+        : H: photos-b.ak.instagram.com
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-gx-------- UDP [L] 192.168.0.1:520 --> [OL] 192.168.0.255:520
+        : Unknown
+        : DP: 1
+
+offline0: i4pc-gx------F- TCP [OR] 46.33.70.160:80 <-- [L] 192.168.0.103:38817
+        : HTTP.netify.akamai
+        : D: a1408.dspw43.akamai.net
+        : DP: 3
+
+offline0: i4pc--x-------- TCP [OR] 31.13.93.52:443 <-- [L] 192.168.0.103:33763
+        : HTTP/S.netify.meta
+        : DP: 11
+
+offline0: i4pc-gx-------- TCP [OR] 92.122.48.138:80 <-- [L] 192.168.0.103:41562
+        : HTTP
+        : DP: 25
+
+offline0: i4pc-gx-------- TCP [OR] 46.33.70.150:80 <-- [L] 192.168.0.103:40855
+        : HTTP
+        : DP: 2
+
+offline0: i4pc--x----r--- TCP [OR] 82.85.26.153:80 <-- [L] 192.168.0.103:37350
+        : HTTP.netify.instagram
+        : D: a1001.dspw40.akamai.net H: photos-a.ak.instagram.com
+        : HTTP/UA: Instagram 7.1.1 Android (19/4.4.2; 480dpi; 1080x1920; samsung; GT-I9505; jflte; qcom; it_IT)
+        : URL: photos-a.ak.instagram.com/hphotos-ak-xfa1/t51.2885-15/e35/11248829_853782121373976_909936934_n.jpg?se=7
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-gx------F- TCP [OR] 82.85.26.185:80 <-- [L] 192.168.0.103:57966
+        : HTTP
+        : DP: 3
+
+offline0: i4pc--x----r--- TCP [OR] 82.85.26.162:80 <-- [L] 192.168.0.103:58053
+        : HTTP.netify.instagram
+        : H: photos-g.ak.instagram.com
+        : HTTP/UA: Instagram 7.1.1 Android (19/4.4.2; 480dpi; 1080x1920; samsung; GT-I9505; jflte; qcom; it_IT)
+        : URL: photos-g.ak.instagram.com/hphotos-ak-xfa1/t51.2885-15/e35/11379284_1651416798408214_1525641466_n.jpg
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc--x-------- TCP [OR] 82.85.26.185:80 <-- [L] 192.168.0.103:57965
+        : HTTP.netify.instagram
+        : H: photos-f.ak.instagram.com
+        : HTTP/UA: Instagram 7.1.1 Android (19/4.4.2; 480dpi; 1080x1920; samsung; GT-I9505; jflte; qcom; it_IT)
+        : URL: photos-f.ak.instagram.com/hphotos-ak-xfa1/t51.2885-15/e35/11424623_1608163109450421_663315883_n.jpg?se=7
+        : DP: 7
+

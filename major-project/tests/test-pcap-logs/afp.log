@@ -1,0 +1,5 @@
+offline0: i4pc-------r--- TCP [L] 192.168.27.57:64987 --> [OL] 192.168.27.139:548
+        : AFP
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+

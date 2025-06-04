@@ -1,0 +1,10 @@
+offline0: i4pcu------r--- UDP [OR] 61.68.110.153:53045 <-- [L] 212.32.214.39:61457
+        : DTLS.netify.rockstar-games
+        : V: 0xfeff CS: 0x0035
+        : TLS/CN: relay.ros.rockstargames.com
+        : TLS/IDN: C=US TLS/SDN: C=US, CN=*.relay.ros.rockstargames.com
+        : RID 35: TLS SNI Extension Not Found
+        : RID 41: Weak TLS Cipher
+        : RID 47: TLS ALPN Not Found
+        : DP: 4
+

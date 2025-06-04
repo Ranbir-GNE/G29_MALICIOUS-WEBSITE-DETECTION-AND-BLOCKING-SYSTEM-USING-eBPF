@@ -1,0 +1,22 @@
+offline0: i4pc-------r--- TCP [OR] 131.114.168.27:59244 --> [L] 185.83.218.112:55655
+        : TINC
+        : RID 16: Known Protocol on Non-standard Port
+        : DP: 9
+
+offline0: i4pc-------r-F- TCP [OR] 131.114.168.27:49290 --> [L] 185.83.218.112:55656
+        : TINC
+        : RID 16: Known Protocol on Non-standard Port
+        : DP: 10
+
+offline0: i4pc-------r--- UDP [OR] 131.114.168.27:55655 --> [L] 185.83.218.112:55655
+        : TINC
+        : RID 16: Known Protocol on Non-standard Port
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [OR] 131.114.168.27:55656 <-- [L] 185.83.218.112:55656
+        : TINC
+        : RID 16: Known Protocol on Non-standard Port
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+

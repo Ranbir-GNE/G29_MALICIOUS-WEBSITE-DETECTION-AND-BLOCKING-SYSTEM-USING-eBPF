@@ -1,0 +1,166 @@
+offline0: i4pc-------r-F- TCP [OR] 82.58.216.115:38305 <-- [L] 192.168.1.3:52888
+        : BitTorrent
+        : BT/HASH: dcfcdccfb9e670ccc3dd40c78c161f2bea243126
+        : RID 16: Known Protocol on Non-standard Port
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r-F- TCP [OR] 82.57.97.83:53137 --> [L] 192.168.1.3:52887
+        : BitTorrent
+        : BT/HASH: dcfcdccfb9e670ccc3dd40c78c161f2bea243126
+        : RID 16: Known Protocol on Non-standard Port
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r-F- TCP [OR] 83.216.184.241:51413 <-- [L] 192.168.1.3:52895
+        : BitTorrent
+        : BT/HASH: dcfcdccfb9e670ccc3dd40c78c161f2bea243126
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r-F- TCP [OR] 79.53.228.2:14627 <-- [L] 192.168.1.3:52896
+        : BitTorrent
+        : BT/HASH: dcfcdccfb9e670ccc3dd40c78c161f2bea243126
+        : RID 16: Known Protocol on Non-standard Port
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- TCP [OR] 120.62.33.241:39332 <-- [L] 192.168.1.3:52894
+        : BitTorrent
+        : BT/HASH: dcfcdccfb9e670ccc3dd40c78c161f2bea243126
+        : RID 16: Known Protocol on Non-standard Port
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- TCP [OR] 151.26.95.30:22673 <-- [L] 192.168.1.3:52897
+        : BitTorrent
+        : BT/HASH: dcfcdccfb9e670ccc3dd40c78c161f2bea243126
+        : RID 16: Known Protocol on Non-standard Port
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- TCP [OR] 79.55.129.22:12097 <-- [L] 192.168.1.3:52893
+        : BitTorrent
+        : BT/HASH: dcfcdccfb9e670ccc3dd40c78c161f2bea243126
+        : RID 16: Known Protocol on Non-standard Port
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- TCP [L] 192.168.1.3:52903 <-- [OR] 198.100.146.9:60163
+        : BitTorrent
+        : BT/HASH: dcfcdccfb9e670ccc3dd40c78c161f2bea243126
+        : RID 16: Known Protocol on Non-standard Port
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r-F- TCP [OR] 190.103.195.56:46633 <-- [L] 192.168.1.3:52902
+        : BitTorrent
+        : BT/HASH: dcfcdccfb9e670ccc3dd40c78c161f2bea243126
+        : RID 16: Known Protocol on Non-standard Port
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- TCP [OR] 82.58.216.115:38305 <-- [L] 192.168.1.3:52907
+        : BitTorrent
+        : BT/HASH: dcfcdccfb9e670ccc3dd40c78c161f2bea243126
+        : RID 16: Known Protocol on Non-standard Port
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r-F- TCP [OR] 82.57.97.83:53137 --> [L] 192.168.1.3:52906
+        : BitTorrent
+        : BT/HASH: dcfcdccfb9e670ccc3dd40c78c161f2bea243126
+        : RID 16: Known Protocol on Non-standard Port
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- TCP [OR] 151.26.95.30:22673 <-- [L] 192.168.1.3:52911
+        : BitTorrent
+        : BT/HASH: dcfcdccfb9e670ccc3dd40c78c161f2bea243126
+        : RID 16: Known Protocol on Non-standard Port
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r-F- TCP [OR] 151.72.255.163:59928 --> [L] 192.168.1.3:52912
+        : BitTorrent
+        : BT/HASH: dcfcdccfb9e670ccc3dd40c78c161f2bea243126
+        : RID 16: Known Protocol on Non-standard Port
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- TCP [OR] 79.53.228.2:14627 <-- [L] 192.168.1.3:52909
+        : BitTorrent
+        : BT/HASH: dcfcdccfb9e670ccc3dd40c78c161f2bea243126
+        : RID 16: Known Protocol on Non-standard Port
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- TCP [OR] 120.62.33.241:39332 <-- [L] 192.168.1.3:52910
+        : BitTorrent
+        : BT/HASH: dcfcdccfb9e670ccc3dd40c78c161f2bea243126
+        : RID 16: Known Protocol on Non-standard Port
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- TCP [OR] 79.55.129.22:12097 <-- [L] 192.168.1.3:52908
+        : BitTorrent
+        : BT/HASH: dcfcdccfb9e670ccc3dd40c78c161f2bea243126
+        : RID 16: Known Protocol on Non-standard Port
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- TCP [L] 192.168.1.3:52915 <-- [OR] 198.100.146.9:60163
+        : BitTorrent
+        : BT/HASH: dcfcdccfb9e670ccc3dd40c78c161f2bea243126
+        : RID 16: Known Protocol on Non-standard Port
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- TCP [OR] 190.103.195.56:46633 <-- [L] 192.168.1.3:52914
+        : BitTorrent
+        : BT/HASH: dcfcdccfb9e670ccc3dd40c78c161f2bea243126
+        : RID 16: Known Protocol on Non-standard Port
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r-F- TCP [OR] 151.15.48.189:47001 <-- [L] 192.168.1.3:52917
+        : BitTorrent
+        : BT/HASH: dcfcdccfb9e670ccc3dd40c78c161f2bea243126
+        : RID 16: Known Protocol on Non-standard Port
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r-F- TCP [OR] 95.234.159.16:41205 <-- [L] 192.168.1.3:52921
+        : BitTorrent
+        : BT/HASH: dcfcdccfb9e670ccc3dd40c78c161f2bea243126
+        : RID 16: Known Protocol on Non-standard Port
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r-F- TCP [OR] 95.237.193.34:11321 <-- [L] 192.168.1.3:52922
+        : BitTorrent
+        : BT/HASH: dcfcdccfb9e670ccc3dd40c78c161f2bea243126
+        : RID 16: Known Protocol on Non-standard Port
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- TCP [OR] 83.216.184.241:51413 <-- [L] 192.168.1.3:52927
+        : BitTorrent
+        : BT/HASH: dcfcdccfb9e670ccc3dd40c78c161f2bea243126
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r-F- TCP [OR] 93.65.249.100:31336 <-- [L] 192.168.1.3:52926
+        : BitTorrent
+        : BT/HASH: dcfcdccfb9e670ccc3dd40c78c161f2bea243126
+        : RID 16: Known Protocol on Non-standard Port
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- TCP [OR] 93.65.227.100:19116 <-- [L] 192.168.1.3:52925
+        : BitTorrent
+        : BT/HASH: dcfcdccfb9e670ccc3dd40c78c161f2bea243126
+        : RID 16: Known Protocol on Non-standard Port
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+

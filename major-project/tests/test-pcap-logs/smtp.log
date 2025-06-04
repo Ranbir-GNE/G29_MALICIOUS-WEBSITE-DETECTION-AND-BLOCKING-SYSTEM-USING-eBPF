@@ -1,0 +1,5 @@
+offline0: i4pc---------F- TCP [L] 172.16.114.207:25 <-- [OR] 194.7.248.153:2127
+        : SMTP.netify.us-military
+        : H: pigeon.eyrie.af.mil
+        : DP: 11
+

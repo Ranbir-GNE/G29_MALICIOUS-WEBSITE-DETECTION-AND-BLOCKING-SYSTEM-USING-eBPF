@@ -1,0 +1,97 @@
+offline0: i4pc----------- UDP [OR] 93.20.126.110:514 <-- [L] 95.136.242.54:514
+        : SYSLOG
+        : DP: 1
+
+offline0: i4pc----------- UDP [OR] 93.20.126.48:514 <-- [L] 95.136.242.54:514
+        : SYSLOG
+        : DP: 1
+
+offline0: i4pc----------- UDP [L] 172.20.51.54:514 --> [OL] 172.31.110.40:514
+        : SYSLOG
+        : DP: 1
+
+offline0: i4pc----------- UDP [L] 10.251.23.139:59194 --> [OR] 62.39.3.142:514
+        : SYSLOG
+        : DP: 1
+
+offline0: i4pc----------- UDP [L] 192.168.120.10:514 <-- [OL] 192.168.121.10:50080
+        : SYSLOG
+        : DP: 1
+
+offline0: i4pc----------- UDP [L] 192.168.120.10:514 <-- [OL] 192.168.121.2:50352
+        : SYSLOG
+        : DP: 1
+
+offline0: i4pc----------- UDP [L] 172.19.196.11:514 <-- [OL] 172.21.251.36:62679
+        : SYSLOG
+        : DP: 1
+
+offline0: i4pc----------- UDP [L] 192.168.72.140:62679 --> [OL] 192.168.178.148:514
+        : SYSLOG
+        : DP: 1
+
+offline0: i4pc----------- UDP [L] 10.193.53.6:514 <-- [OL] 192.168.67.241:62679
+        : SYSLOG
+        : DP: 1
+
+offline0: i4pc----------- UDP [L] 172.19.177.230:514 <-- [OL] 192.168.126.102:57166
+        : SYSLOG
+        : DP: 1
+
+offline0: i4pc----------- UDP [L] 10.22.179.215:57166 --> [OL] 172.26.54.76:514
+        : SYSLOG
+        : DP: 1
+
+offline0: i4pc----------- UDP [L] 10.208.120.95:514 <-- [OL] 192.168.45.162:57166
+        : SYSLOG
+        : DP: 1
+
+offline0: i4pc----------- UDP [L] 10.224.43.149:57166 --> [OL] 172.23.243.89:514
+        : SYSLOG
+        : DP: 1
+
+offline0: i4pc----------- UDP [L] 172.23.80.196:514 <-- [OL] 172.26.229.190:514
+        : SYSLOG
+        : DP: 1
+
+offline0: i4pc-------r-F- TCP [L] 10.186.117.194:49948 --> [OR] 169.46.82.162:52173
+        : SYSLOG
+        : RID 16: Known Protocol on Non-standard Port
+        : RID 46: Unidirectional Traffic
+        : DP: 9
+
+offline0: i4pc----------- UDP [L] 192.168.254.157:49611 --> [OR] 196.240.66.148:514
+        : SYSLOG
+        : DP: 1
+
+offline0: i4pc----------- UDP [L] 10.6.15.11:514 <-- [OL] 10.11.105.154:20627
+        : SYSLOG
+        : DP: 1
+
+offline0: i4pc----------- UDP [OR] 83.235.169.221:11000 --> [L] 195.120.165.134:514
+        : SYSLOG
+        : DP: 1
+
+offline0: i4pc----------- UDP [L] 10.94.150.21:514 <-- [OL] 10.94.232.21:57374
+        : SYSLOG
+        : DP: 1
+
+offline0: i4pc----------- UDP [L] 10.94.80.60:39438 --> [OL] 10.94.150.22:514
+        : SYSLOG
+        : DP: 1
+
+offline0: i4pc-gx----r--- TCP [L] 10.186.117.194:49948 --> [OR] 169.46.82.162:52173
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-gx----r--- IPv6 [OR] 193.24.227.12:0 <-- [L] 216.66.80.30:0
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 3
+
+offline0: i4pc-gx----r--- IPv6 [OR] 193.24.227.10:0 --> [L] 216.66.86.114:0
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 3
+

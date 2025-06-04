@@ -1,0 +1,5 @@
+offline0: i4pc-gx----r-F- TCP [OR] 188.75.184.20:49542 --> [L] 251.182.120.32:443
+        : HTTP/S
+        : RID 52: Fully Encrypted Flow
+        : DP: 26
+

@@ -1,0 +1,153 @@
+offline0: i4pc-------r-F- TCP [L] 10.8.0.1:53497 --> [OR] 173.194.119.48:80
+        : HTTP.netify.google
+        : H: www.google.com
+        : HTTP/UA: test
+        : URL: www.google.com/
+        : RID 14: HTTP Suspicious User-Agent
+        : DP: 6
+
+offline0: i4pc-------r--- TCP [L] 10.8.0.1:40467 --> [OR] 173.194.119.24:80
+        : HTTP.netify.google
+        : H: www.google.com.br
+        : HTTP/UA: test
+        : URL: www.google.com.br/?gfe_rd=cr&ei=1BxnVcP9OKKk8we50oDAAg
+        : RID 14: HTTP Suspicious User-Agent
+        : DP: 6
+
+offline0: i4pc----------- UDP [L] 10.8.0.1:52257 --> [OR] 200.185.138.146:6000
+        : EAQ
+        : DP: 4
+
+offline0: i4pc----------- UDP [L] 10.8.0.1:48890 --> [OR] 200.185.125.226:6000
+        : EAQ
+        : DP: 4
+
+offline0: i4pc----------- UDP [L] 10.8.0.1:51569 --> [OR] 200.194.148.67:6000
+        : EAQ
+        : DP: 4
+
+offline0: i4pc----------- UDP [L] 10.8.0.1:42620 --> [OR] 200.194.148.66:6000
+        : EAQ
+        : DP: 4
+
+offline0: i4pc----------- UDP [L] 10.8.0.1:43641 --> [OR] 200.194.148.68:6000
+        : EAQ
+        : DP: 4
+
+offline0: i4pc----------- UDP [L] 10.8.0.1:43979 --> [OR] 200.194.132.66:6000
+        : EAQ
+        : DP: 4
+
+offline0: i4pc----------- UDP [L] 10.8.0.1:39185 --> [OR] 200.194.132.67:6000
+        : EAQ
+        : DP: 4
+
+offline0: i4pc----------- UDP [L] 10.8.0.1:52726 --> [OR] 200.194.132.68:6000
+        : EAQ
+        : DP: 4
+
+offline0: i4pc-------r--- UDP [L] 10.8.0.1:41438 --> [OR] 200.194.141.66:6000
+        : EAQ
+        : RID 46: Unidirectional Traffic
+        : DP: 4
+
+offline0: i4pc-------r--- UDP [L] 10.8.0.1:34687 --> [OR] 200.194.141.68:6000
+        : EAQ
+        : RID 46: Unidirectional Traffic
+        : DP: 4
+
+offline0: i4pc-------r--- UDP [L] 10.8.0.1:39221 --> [OR] 200.194.137.67:6000
+        : EAQ
+        : RID 46: Unidirectional Traffic
+        : DP: 4
+
+offline0: i4pc-------r--- UDP [L] 10.8.0.1:53354 --> [OR] 200.194.137.66:6000
+        : EAQ
+        : RID 46: Unidirectional Traffic
+        : DP: 4
+
+offline0: i4pc-------r--- UDP [L] 10.8.0.1:59959 --> [OR] 200.194.137.68:6000
+        : EAQ
+        : RID 46: Unidirectional Traffic
+        : DP: 4
+
+offline0: i4pc-------r--- UDP [L] 10.8.0.1:37985 --> [OR] 200.194.129.67:6000
+        : EAQ
+        : RID 46: Unidirectional Traffic
+        : DP: 4
+
+offline0: i4pc-------r--- UDP [L] 10.8.0.1:48666 --> [OR] 200.194.129.66:6000
+        : EAQ
+        : RID 46: Unidirectional Traffic
+        : DP: 4
+
+offline0: i4pc-------r--- UDP [L] 10.8.0.1:47714 --> [OR] 200.194.129.68:6000
+        : EAQ
+        : RID 46: Unidirectional Traffic
+        : DP: 4
+
+offline0: i4pc-------r--- UDP [L] 10.8.0.1:48563 --> [OR] 200.194.141.67:6000
+        : EAQ
+        : RID 46: Unidirectional Traffic
+        : DP: 4
+
+offline0: i4pc-------r--- UDP [L] 10.8.0.1:56128 --> [OR] 200.194.133.66:6000
+        : EAQ
+        : RID 46: Unidirectional Traffic
+        : DP: 4
+
+offline0: i4pc-------r--- UDP [L] 10.8.0.1:57004 --> [OR] 200.194.133.67:6000
+        : EAQ
+        : RID 46: Unidirectional Traffic
+        : DP: 4
+
+offline0: i4pc-------r--- UDP [L] 10.8.0.1:36552 --> [OR] 200.194.136.66:6000
+        : EAQ
+        : RID 46: Unidirectional Traffic
+        : DP: 4
+
+offline0: i4pc-------r--- UDP [L] 10.8.0.1:53059 --> [OR] 200.194.133.68:6000
+        : EAQ
+        : RID 46: Unidirectional Traffic
+        : DP: 4
+
+offline0: i4pc-------r--- UDP [L] 10.8.0.1:43934 --> [OR] 200.194.136.68:6000
+        : EAQ
+        : RID 46: Unidirectional Traffic
+        : DP: 4
+
+offline0: i4pc-------r--- UDP [L] 10.8.0.1:47346 --> [OR] 200.194.134.66:6000
+        : EAQ
+        : RID 46: Unidirectional Traffic
+        : DP: 4
+
+offline0: i4pc-------r--- UDP [L] 10.8.0.1:59098 --> [OR] 200.194.134.68:6000
+        : EAQ
+        : RID 46: Unidirectional Traffic
+        : DP: 4
+
+offline0: i4pc-------r--- UDP [L] 10.8.0.1:50175 --> [OR] 200.194.149.67:6000
+        : EAQ
+        : RID 46: Unidirectional Traffic
+        : DP: 4
+
+offline0: i4pc-------r--- UDP [L] 10.8.0.1:36577 --> [OR] 200.194.149.68:6000
+        : EAQ
+        : RID 46: Unidirectional Traffic
+        : DP: 4
+
+offline0: i4pc-------r--- UDP [L] 10.8.0.1:60013 --> [OR] 200.194.136.67:6000
+        : EAQ
+        : RID 46: Unidirectional Traffic
+        : DP: 4
+
+offline0: i4pc-------r--- UDP [L] 10.8.0.1:33356 --> [OR] 200.194.149.66:6000
+        : EAQ
+        : RID 46: Unidirectional Traffic
+        : DP: 4
+
+offline0: i4pc-------r--- UDP [L] 10.8.0.1:40058 --> [OR] 200.194.134.67:6000
+        : EAQ
+        : RID 46: Unidirectional Traffic
+        : DP: 4
+

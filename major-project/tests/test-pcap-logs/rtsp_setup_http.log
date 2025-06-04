@@ -1,0 +1,7 @@
+offline0: i4pc-------r--- TCP [L] 172.28.4.26:8554 <-- [OL] 172.28.5.170:63840
+        : RTSP
+        : HTTP/UA: LibVLC/3.0.16 (LIVE555 Streaming Media v2016.11.28)
+        : RID 16: Known Protocol on Non-standard Port
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+

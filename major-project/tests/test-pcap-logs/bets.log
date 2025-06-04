@@ -1,0 +1,7 @@
+offline0: i4pcu--------F- TCP [OR] 13.224.103.22:443 <-- [L] 192.168.10.2:60099
+        : HTTP/S
+        : H: www.1084bets10.com
+        : V: 0x0303 CS: 0x1301
+        : TLS/SNI: www.1084bets10.com
+        : DP: 6
+

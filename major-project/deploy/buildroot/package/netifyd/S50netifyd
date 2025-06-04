@@ -1,0 +1,79 @@
+#!/bin/sh
+#
+# netifyd        Starts the Netify Agent.
+#
+
+umask 077
+
+source /usr/share/netifyd/functions.sh
+
+NETIFY_OPTS=$(auto_detect_options)
+NETIFY_PID="/var/run/netifyd/netifyd.pid"
+NETIFY_TIMEOUT=60
+
+start() {
+	printf "Starting netifyd ${NETIFY_OPTS}: "
+	start-stop-daemon -S /usr/sbin/netifyd -- $NETIFY_OPTS
+	if [ $? -eq 0 ]; then
+		touch /var/lock/netifyd
+		echo "OK"
+	else
+		echo "FAIL"
+		exit 1
+	fi
+}
+
+stop() {
+	if [ -e "${NETIFY_PID}" ]; then
+		printf "Stopping netifyd: "
+		start-stop-daemon -q -K -p "${NETIFY_PID}"
+
+		PID=$(cat "${NETIFY_PID}")
+
+		for i in $(seq ${NETIFY_TIMEOUT}); do
+			if [ ! -e "/proc/${PID}" ]; then
+				break
+			fi
+			sleep 1
+		done
+
+		if [ -e "/proc/${PID}" ]; then
+			start-stop-daemon -q -K -p "${NETIFY_PID}"
+		fi
+
+		rm -f /var/lock/netifyd
+		echo "OK"
+	fi
+}
+
+reload() {
+	start-stop-daemon -q -K -s HUP -p "${NETIFY_PID}"
+}
+
+restart() {
+	stop
+	start
+}
+
+case "$1" in
+  start)
+	start
+	;;
+  stop)
+	stop
+	;;
+  status)
+	netifyd --status
+	;;
+  reload)
+	reload
+	;;
+  restart)
+	restart
+	;;
+  *)
+	echo "Usage: $0 {start|stop|status|reload|restart}"
+	exit 1
+esac
+
+exit $?

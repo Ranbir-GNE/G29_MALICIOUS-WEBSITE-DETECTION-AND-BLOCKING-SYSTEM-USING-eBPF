@@ -1,0 +1,68 @@
+offline0: i4pc----------- UDP [L] 10.1.0.1:53 <-- [OL] 10.1.0.60:46571
+        : DNS.netify.oppo
+        : H: conn-service-eu-04.allawnos.com
+        : DP: 2
+
+offline0: i4pc---------F- TCP [L] 10.1.0.60:49642 --> [OR] 142.250.180.163:80
+        : HTTP.netify.google
+        : H: www.google.eu
+        : HTTP/UA: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.32 Safari/537.36
+        : URL: www.google.eu/generate_204
+        : DP: 6
+
+offline0: i4pc---------F- TCP [L] 10.1.0.60:49656 --> [OR] 142.250.180.163:80
+        : HTTP.netify.google
+        : H: www.google.eu
+        : HTTP/UA: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.32 Safari/537.36
+        : URL: www.google.eu/generate_204
+        : DP: 6
+
+offline0: i4pc---------F- TCP [L] 10.1.0.60:49658 --> [OR] 142.250.180.163:80
+        : HTTP.netify.google
+        : H: www.google.eu
+        : HTTP/UA: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.32 Safari/537.36
+        : URL: www.google.eu/generate_204
+        : DP: 6
+
+offline0: i4pc---------F- TCP [L] 10.1.0.60:38008 --> [OR] 92.123.101.121:80
+        : HTTP.netify.oppo
+        : D: a1947.dscd.akamai.net H: conn-service-eu-04.allawnos.com
+        : HTTP/UA: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.32 Safari/537.36
+        : URL: conn-service-eu-04.allawnos.com/generate204
+        : DP: 6
+
+offline0: i4pc---------F- TCP [L] 10.1.0.60:49672 --> [OR] 142.250.180.163:80
+        : HTTP.netify.google
+        : H: www.google.eu
+        : HTTP/UA: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.32 Safari/537.36
+        : URL: www.google.eu/generate_204
+        : DP: 6
+
+offline0: i4pc---------F- TCP [L] 10.1.0.60:46980 --> [OR] 92.123.101.153:80
+        : HTTP.netify.oppo
+        : D: a1947.dscd.akamai.net H: conn-service-eu-04.allawnos.com
+        : HTTP/UA: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.32 Safari/537.36
+        : URL: conn-service-eu-04.allawnos.com/generate204
+        : DP: 6
+
+offline0: i4pc--x-------- TCP [L] 10.1.0.60:49674 --> [OR] 142.250.180.163:80
+        : HTTP.netify.google
+        : H: www.google.eu
+        : HTTP/UA: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.32 Safari/537.36
+        : URL: www.google.eu/generate_204
+        : DP: 10
+
+offline0: i4pc--x-------- TCP [L] 10.1.0.70:54612 --> [OR] 142.250.180.138:80
+        : HTTP.netify.google-play
+        : H: play.googleapis.com
+        : HTTP/UA: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.32 Safari/537.36
+        : URL: play.googleapis.com/generate_204
+        : DP: 9
+
+offline0: i4pc--x-------- TCP [L] 10.1.0.60:38024 --> [OR] 92.123.101.121:80
+        : HTTP.netify.oppo
+        : D: a1947.dscd.akamai.net H: conn-service-eu-04.allawnos.com
+        : HTTP/UA: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.32 Safari/537.36
+        : URL: conn-service-eu-04.allawnos.com/generate204
+        : DP: 10
+

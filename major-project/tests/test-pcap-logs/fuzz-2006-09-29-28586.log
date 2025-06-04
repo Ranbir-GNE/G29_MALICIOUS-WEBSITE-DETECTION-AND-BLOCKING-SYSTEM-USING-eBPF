@@ -1,0 +1,201 @@
+offline0: i4pc-------r-F- TCP [L] 172.20.3.5:2602 --> [OL] 172.20.3.13:80
+        : HTTP
+        : H: 172.20.3.13
+        : URL: 172.20.3.13.servlets/mms
+        : RID 10: Numeric IP Address
+        : RID 14: HTTP Suspicious User-Agent
+        : DP: 3
+
+offline0: i4pc---------F- TCP [L] 172.20.3.5:2601 --> [OL] 172.20.3.13:80
+        : HTTP
+        : HTTP/UA: SonyEricssonT68/R201A
+        : DP: 11
+
+offline0: i4pc-------r-F- TCP [L] 172.20.3.5:2604 --> [OL] 172.20.3.13:80
+        : HTTP
+        : H: 172.20.3.13
+        : HTTP/UA: SonyEricssonT68/R201A
+        : URL: 172.20.3.13/servlets/mms?message-id=189001
+        : RID 10: Numeric IP Address
+        : DP: 6
+
+offline0: i4pc---------F- TCP [L] 172.20.3.5:80 <-- [OL] 172.20.3.13:53136
+        : HTTP
+        : H: 172.20.3.5
+        : HTTP/UA: MMS-Relay-DeliveryInitiator
+        : DP: 4
+
+offline0: i4pc-------r-F- TCP [L] 172.20.3.5:2606 --> [OL] 172.20.3.13:80
+        : HTTP
+        : H: 172.20.3.13
+        : URL: 172.20.3.13/servlets/mms?message-id=189301
+        : RID 10: Numeric IP Address
+        : RID 14: HTTP Suspicious User-Agent
+        : DP: 12
+
+offline0: i4pc--x----r--- TCP [L] 172.20.2.13:80 <-- [OL] 172.20.3.5:2607
+        : HTTP
+        : RID 14: HTTP Suspicious User-Agent
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-gx------F- TCP [L] 172.20.3.5:2600 --> [OL] 172.20.3.13:80
+        : HTTP
+        : DP: 4
+
+offline0: i4pc-gx----r--- TCP [L] 172.20.3.13:80 <-- [OL] 172.20.76.5:65069
+        : HTTP
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-gx----r--- TCP [L] 172.20.3.5:80 <-- [OR] 172.57.3.13:53132
+        : HTTP
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc--x----r--- TCP [L] 172.20.3.5:9587 --> [OL] 172.20.3.13:80
+        : HTTP
+        : RID 14: HTTP Suspicious User-Agent
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-gx----r--- TCP [L] 172.20.3.5:80 <-- [OL] 172.20.35.13:53136
+        : HTTP
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-gx----r--- TCP [L] 172.20.3.13:80 <-- [OL] 172.20.148.5:2608
+        : HTTP
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-gx----r--- TCP [L] 172.20.3.5:2602 --> [OL] 172.21.3.13:80
+        : HTTP
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-gx----r--- TCP [L] 172.20.3.13:53136 --> [OR] 172.70.3.5:80
+        : HTTP
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-gx----r--- TCP [OR] 0.20.3.13:80 <-- [L] 172.20.3.5:2601
+        : HTTP
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc--x----r--- TCP [OR] 44.20.3.5:2605 --> [L] 172.20.3.13:80
+        : HTTP
+        : RID 14: HTTP Suspicious User-Agent
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-gx----r--- TCP [L] 172.20.3.5:80 <-- [OL] 172.20.3.13:53193
+        : HTTP
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-gx-------- TCP [L] 172.20.3.5:2607 --> [OL] 172.20.3.13:80
+        : HTTP
+        : DP: 6
+
+offline0: i4pc-gx----r--- TCP [L] 172.20.3.82:2601 --> [OL] 172.20.3.88:80
+        : HTTP
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-gx------F- TCP [L] 172.20.3.5:2605 --> [OL] 172.20.3.13:80
+        : HTTP
+        : DP: 5
+
+offline0: i4pc-gx----r--- TCP [L] 172.20.3.5:80 <-- [OL] 172.20.67.13:53136
+        : HTTP
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-gx----r-F- TCP [L] 172.20.3.5:2093 --> [OR] 172.52.3.13:80
+        : HTTP
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-gx----r--- TCP [OR] 51.20.3.5:2605 --> [L] 172.20.3.13:80
+        : HTTP
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc--x----r-F- TCP [L] 172.20.3.5:2603 --> [OL] 172.20.3.13:80
+        : HTTP
+        : RID 14: HTTP Suspicious User-Agent
+        : DP: 6
+
+offline0: i4pc-gx----r--- TCP [OR] 76.20.3.5:2602 --> [L] 172.20.3.13:80
+        : HTTP
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-gx----r--- TCP [L] 172.20.3.13:80 <-- [OL] 172.20.68.5:2604
+        : HTTP
+        : RID 46: Unidirectional Traffic
+        : RID 51: TCP Connection Issues
+        : DP: 1
+
+offline0: i4pc--x----r--- TCP [L] 172.20.3.1:80 <-- [OL] 172.20.3.13:53132
+        : HTTP
+        : RID 14: HTTP Suspicious User-Agent
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-gx------F- TCP [L] 172.20.3.5:80 <-- [OL] 172.20.3.13:53132
+        : HTTP
+        : DP: 13
+
+offline0: i4pc-gx----r-F- TCP [OR] 72.20.3.13:80 <-- [L] 172.20.3.5:2603
+        : HTTP
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-gx----r--- TCP [OR] 172.6.3.5:80 <-- [L] 172.20.3.13:53132
+        : HTTP
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-gx----r--- TCP [L] 172.20.3.13:80 <-- [OL] 172.20.82.5:2603
+        : HTTP
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-gx----r--- TCP [L] 172.20.3.5:2601 --> [OL] 172.20.3.13:81
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc--x----r--- TCP [L] 172.20.3.5:2608 --> [OL] 172.20.3.13:80
+        : HTTP
+        : RID 14: HTTP Suspicious User-Agent
+        : DP: 4
+
+offline0: i4pc-gx----r--- L2TP [L] 172.20.3.5:0 <-- [OL] 172.20.3.13:0
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-gx----r--- TCP [L] 172.20.3.5:2603 --> [OL] 172.20.3.77:80
+        : HTTP
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-gx-------- TCP [OR] 68.37.115.0:80 <-- [L] 172.20.3.5:2603
+        : HTTP
+        : DP: 1
+
+offline0: i4pc--x----r--- TCP [L] 172.20.3.13:80 <-- [OL] 172.20.72.5:2606
+        : HTTP
+        : RID 14: HTTP Suspicious User-Agent
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-gx----r--- TCP [L] 172.20.3.5:2639 --> [OL] 172.20.3.13:80
+        : HTTP
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+

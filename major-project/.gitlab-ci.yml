@@ -1,0 +1,518 @@
+# -----------------------------------------------------------
+# Definitions
+# -----------------------------------------------------------
+
+stages:
+  - Build
+  - Test
+  - Variants
+
+include:
+  - project: "netify.ai/public/netify-development-support/\
+              netify-ci-templates"
+    ref: master
+    file:
+      - /gitlab/common/global-variables.yml
+      - /gitlab/agent/debian-variables.yml
+      - /gitlab/agent/freebsd-variables.yml
+      - /gitlab/agent/rhel-variables.yml
+      - /gitlab/agent/opensuse-variables.yml
+      - /gitlab/agent/build-templates.yml
+      - /gitlab/agent/test-templates.yml
+      - /gitlab/agent/variants-templates.yml
+      - /gitlab/common/variants-templates.yml
+
+variables:
+  CI_DEBUG_TRACE: 'false'
+  GIT_SUBMODULE_STRATEGY: recursive
+  OS_EXTRA_PACKAGES: ''
+  OS_REPOS: ''
+
+# -----------------------------------------------------------
+# Build
+# -----------------------------------------------------------
+
+# Debian Targets
+
+Debian/10/x86-64:
+  extends: .debian_build
+  tags:
+    - docker
+  only:
+    - tags
+    - web
+  variables:
+    OS_NAME: debian
+    OS_VERSION: 10
+    OS_IMAGE: "debian:10"
+    OS_ARCH: amd64
+    OS_ARCH_PATH:
+      value: $OS_ARCH
+      expand: true
+    OS_EXTRA_PACKAGES: flex
+    CONFIGURE_EXTRA_FLAGS: >
+      --disable-libtcmalloc
+
+Debian/11/x86-64:
+  extends: .debian_build
+  tags:
+    - docker
+  variables:
+    OS_NAME: debian
+    OS_VERSION: 11
+    OS_IMAGE: "debian:11"
+    OS_ARCH: amd64
+    OS_ARCH_PATH:
+      value: $OS_ARCH
+      expand: true
+    CONFIGURE_EXTRA_FLAGS: >
+      --enable-nfqueue
+
+Debian/11/x86-32:
+  extends: .debian_build
+  tags:
+    - docker
+  only:
+    - tags
+    - web
+  variables:
+    OS_NAME: debian
+    OS_VERSION: 11
+    OS_IMAGE: "i386/debian:11"
+    OS_ARCH: i386
+    OS_ARCH_PATH:
+      value: $OS_ARCH
+      expand: true
+    OS_EXTRA_PACKAGES: byacc flex
+    CONFIGURE_EXTRA_FLAGS: >
+      --enable-nfqueue
+
+Debian/11/ARM-32v5:
+  extends: .debian_build
+  when: manual
+  tags:
+    - docker
+  only:
+    - tags
+    - web
+  variables:
+    OS_NAME: debian
+    OS_VERSION: 11
+    OS_IMAGE: "arm32v5/debian:11"
+    OS_ARCH: "armel"
+    OS_ARCH_PATH:
+      value: $OS_ARCH
+      expand: true
+    OS_EXTRA_PACKAGES: byacc flex
+    CONFIGURE_EXTRA_FLAGS: >
+      --enable-nfqueue
+
+Debian/11/ARM-32v7:
+  extends: .debian_build
+  when: manual
+  tags:
+    - docker
+  only:
+    - tags
+    - web
+  variables:
+    OS_NAME: debian
+    OS_VERSION: 11
+    OS_IMAGE: "arm32v7/debian:11"
+    OS_ARCH: "armhf"
+    OS_ARCH_PATH:
+      value: $OS_ARCH
+      expand: true
+    OS_EXTRA_PACKAGES: byacc flex
+    CONFIGURE_EXTRA_FLAGS: >
+      --enable-nfqueue
+
+Debian/11/ARM-64v8:
+  extends: .debian_build
+  when: manual
+  tags:
+    - docker
+  only:
+    - tags
+    - web
+  variables:
+    OS_NAME: debian
+    OS_VERSION: 11
+    OS_IMAGE: "arm64v8/debian:11"
+    OS_ARCH: "arm64"
+    OS_ARCH_PATH:
+      value: $OS_ARCH
+      expand: true
+    OS_EXTRA_PACKAGES: byacc flex
+    CONFIGURE_EXTRA_FLAGS: >
+      --enable-nfqueue
+
+Debian/12/x86-64:
+  extends: .debian_build
+  tags:
+    - docker
+  only:
+    - tags
+    - web
+  variables:
+    OS_NAME: debian
+    OS_VERSION: 12
+    OS_IMAGE: "debian:12"
+    OS_ARCH: amd64
+    OS_ARCH_PATH:
+      value: $OS_ARCH
+      expand: true
+    CONFIGURE_EXTRA_FLAGS: >
+      --enable-nfqueue
+
+# Ubuntu Targets
+
+Ubuntu/20.04/x86-64:
+  extends: .debian_build
+  tags:
+    - docker
+  only:
+    - tags
+    - web
+  variables:
+    OS_NAME: ubuntu
+    OS_VERSION: focal
+    OS_IMAGE: "ubuntu:20.04"
+    OS_ARCH: amd64
+    OS_ARCH_PATH:
+      value: binary-$OS_ARCH
+      expand: true
+    OS_EXTRA_PACKAGES: byacc
+    CONFIGURE_EXTRA_FLAGS: ''
+
+Ubuntu/22.04/x86-64:
+  extends: .debian_build
+  tags:
+    - docker
+  only:
+    - tags
+    - web
+  variables:
+    OS_NAME: ubuntu
+    OS_VERSION: jammy
+    OS_IMAGE: "ubuntu:22.04"
+    OS_ARCH: amd64
+    OS_ARCH_PATH:
+      value: binary-$OS_ARCH
+      expand: true
+    OS_EXTRA_PACKAGES: byacc flex
+    CONFIGURE_EXTRA_FLAGS: >
+      --enable-nfqueue
+
+Ubuntu/24.04/x86-64:
+  extends: .debian_build
+  when: manual
+  tags:
+    - docker
+  only:
+    - tags
+    - web
+  variables:
+    OS_NAME: ubuntu
+    OS_VERSION: noble
+    OS_IMAGE: "ubuntu:24.04"
+    OS_ARCH: amd64
+    OS_ARCH_PATH:
+      value: binary-$OS_ARCH
+      expand: true
+    OS_EXTRA_PACKAGES: byacc flex
+    CONFIGURE_EXTRA_FLAGS: >
+      --enable-nfqueue
+
+# RedHat Targets
+
+CentOS/7/x86-64:
+  extends: .rhel_build
+  when: manual
+  tags:
+    - docker
+  only:
+    - tags
+    - web
+  variables:
+    OS_NAME: centos
+    OS_VERSION: 7
+    OS_IMAGE: "centos:7.9.2009"
+    OS_ARCH: x86_64
+    OS_ARCH_PATH:
+      value: $OS_ARCH
+      expand: true
+    CONFIGURE_EXTRA_FLAGS: >
+      --enable-nfqueue
+
+Rocky Linux/8/x86-64:
+  extends: .rhel_build
+  tags:
+    - docker
+  only:
+    - tags
+    - web
+  variables:
+    OS_NAME: rockylinux
+    OS_VERSION: 8
+    OS_IMAGE: "rockylinux:8"
+    OS_ARCH: x86_64
+    OS_ARCH_PATH:
+      value: $OS_ARCH
+      expand: true
+    OS_REPOS: --enablerepo=powertools,epel
+    CONFIGURE_EXTRA_FLAGS: >
+      --enable-nfqueue
+      --disable-libtcmalloc
+
+Rocky Linux/9/x86-64:
+  extends: .rhel_build
+  tags:
+    - docker
+  only:
+    - tags
+    - web
+  variables:
+    OS_NAME: rockylinux
+    OS_VERSION: 9
+    OS_IMAGE: "rockylinux:9"
+    OS_ARCH: x86_64
+    OS_ARCH_PATH:
+      value: $OS_ARCH
+      expand: true
+    OS_REPOS: --enablerepo=crb
+    CONFIGURE_EXTRA_FLAGS: >
+      --enable-nfqueue
+
+AlmaLinux/8/x86-64:
+  extends: .rhel_build
+  tags:
+    - docker
+  only:
+    - tags
+    - web
+  variables:
+    OS_NAME: almalinux
+    OS_VERSION: 8
+    OS_IMAGE: "almalinux:8"
+    OS_ARCH: x86_64
+    OS_ARCH_PATH:
+      value: $OS_ARCH
+      expand: true
+    OS_REPOS: --enablerepo=powertools,epel
+    CONFIGURE_EXTRA_FLAGS: >
+      --enable-nfqueue
+      --disable-libtcmalloc
+
+AlmaLinux/9/x86-64:
+  extends: .rhel_build
+  tags:
+    - docker
+  only:
+    - tags
+    - web
+  variables:
+    OS_NAME: almalinux
+    OS_VERSION: 9
+    OS_IMAGE: "almalinux:9"
+    OS_ARCH: x86_64
+    OS_ARCH_PATH:
+      value: $OS_ARCH
+      expand: true
+    OS_REPOS: --enablerepo=crb
+    CONFIGURE_EXTRA_FLAGS: >
+      --enable-nfqueue
+
+OpenSUSE/15.5/x86-64:
+  extends: .opensuse_build
+  tags:
+    - docker
+  only:
+    - tags
+    - web
+  variables:
+    OS_NAME: opensuse
+    OS_VERSION: 15.5
+    OS_IMAGE: "opensuse/leap:15.5"
+    OS_ARCH: x86_64
+    OS_ARCH_PATH:
+      value: $OS_ARCH
+      expand: true
+    OS_REPOS:
+    OS_EXTRA_PACKAGES: systemd gperftools-devel flex bison
+    CONFIGURE_EXTRA_FLAGS: >
+      --disable-nfqueue
+
+# FreeBSD Targets
+
+FreeBSD/13.2/x86-64:
+  extends: .freebsd_build
+  tags:
+    - freebsd13.2
+  variables:
+    OS_NAME: freebsd
+    OS_ARCH: amd64
+    OS_ARCH_PATH:
+      value: $OS_ARCH
+      expand: true
+    OS_VERSION: "13.2"
+
+FreeBSD/14.0/x86-64:
+  extends: .freebsd_build
+  only:
+    - tags
+    - web
+  tags:
+    - freebsd14.0
+  variables:
+    OS_NAME: freebsd
+    OS_ARCH: amd64
+    OS_ARCH_PATH:
+      value: $OS_ARCH
+      expand: true
+    OS_VERSION: "14.0"
+
+# -----------------------------------------------------------
+# Test
+# -----------------------------------------------------------
+
+# RedHat Targets
+
+CentOS/7/Test:
+  extends: .rhel_test
+  tags:
+    - docker
+  only:
+    - tags
+    - web
+  needs:
+    - CentOS/7/x86-64
+  variables:
+    OS_NAME: centos
+    OS_VERSION: 7
+    OS_IMAGE: "centos:7.9.2009"
+    OS_ARCH: x86_64
+    OS_ARCH_PATH:
+      value: $OS_ARCH
+      expand: true
+    OS_UUID: NE-CE-07-X1
+
+AlmaLinux/8/Test:
+  extends: .rhel_test
+  tags:
+    - docker
+  only:
+    - tags
+    - web
+  needs:
+    - AlmaLinux/8/x86-64
+  variables:
+    OS_NAME: almalinux
+    OS_VERSION: 8
+    OS_IMAGE: "almalinux:8"
+    OS_ARCH: x86_64
+    OS_ARCH_PATH:
+      value: $OS_ARCH
+      expand: true
+    OS_UUID: NE-CE-08-X1
+
+# -----------------------------------------------------------
+# Variants
+# -----------------------------------------------------------
+
+# RedHat Targets
+
+ClearOS/7/x86-64:
+  extends: .rhel_variants
+  tags:
+    - docker
+  only:
+    - tags
+    - web
+  needs:
+    - CentOS/7/Test
+  variables:
+    OS_NAME: clearos
+    OS_SOURCE: centos
+    OS_VERSION: 7
+    OS_IMAGE: "centos:7"
+    OS_ARCH: x86_64
+    OS_ARCH_PATH:
+      value: $OS_ARCH
+      expand: true
+
+NethServer/7/x86-64:
+  extends: .rhel_variants
+  tags:
+    - docker
+  only:
+    - tags
+    - web
+  needs:
+    - CentOS/7/Test
+  variables:
+    OS_NAME: nethserver
+    OS_SOURCE: centos
+    OS_VERSION: 7
+    OS_IMAGE: "centos:7"
+    OS_ARCH: x86_64
+    OS_ARCH_PATH:
+      value: $OS_ARCH
+      expand: true
+
+RHEL/7/x86-64:
+  extends: .rhel_variants
+  tags:
+    - docker
+  only:
+    - tags
+    - web
+  needs:
+    - CentOS/7/Test
+  variables:
+    OS_NAME: rhel
+    OS_SOURCE: centos
+    OS_VERSION: 7
+    OS_IMAGE: "centos:7.9.2009"
+    OS_ARCH: x86_64
+    OS_ARCH_PATH:
+      value: $OS_ARCH
+      expand: true
+
+RHEL/8/x86-64:
+  extends: .rhel_variants
+  tags:
+    - docker
+  only:
+    - tags
+    - web
+  needs:
+    - AlmaLinux/8/Test
+  variables:
+    OS_NAME: rhel
+    OS_SOURCE: almalinux
+    OS_VERSION: 8
+    OS_IMAGE: "almalinux:8"
+    OS_ARCH: x86_64
+    OS_ARCH_PATH:
+      value: $OS_ARCH
+      expand: true
+
+# Source Code Archive
+
+Source Archive:
+  extends: .pkg_source
+  tags:
+    - docker
+  needs:
+    - Debian/11/x86-64
+  variables:
+    OS_NAME: debian
+    OS_VERSION: 11
+    OS_IMAGE: "debian:11"
+    OS_ARCH: amd64
+    OS_ARCH_PATH:
+      value: $OS_ARCH
+      expand: true
+    OS_EXTRA_PACKAGES: zlib1g-dev libpcap-dev
+      libgoogle-perftools-dev

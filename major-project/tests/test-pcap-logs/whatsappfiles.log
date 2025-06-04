@@ -1,0 +1,16 @@
+offline0: i4pcu------r-F- TCP [OR] 185.60.216.53:443 <-- [L] 192.168.2.29:49674
+        : HTTP/S.netify.whatsapp
+        : H: mmg-fna.whatsapp.net
+        : V: 0x0303 CS: 0xc02b
+        : TLS/SNI: mmg-fna.whatsapp.net TLS/CN: whatsapp.net
+        : TLS/IDN: C=US, O=DigiCert Inc, OU=www.digicert.com, CN=DigiCert SHA2 High Assurance Server CA TLS/SDN: C=US, ST=California, L=Menlo Park, O=Facebook, Inc., CN=*.whatsapp.net
+        : RID 30: TLS Certificate Expired
+        : DP: 8
+
+offline0: i4pc----------- TCP [OR] 185.60.216.53:443 <-- [L] 192.168.2.29:49698
+        : HTTP/S.netify.whatsapp
+        : H: mmg-fna.whatsapp.net
+        : V: 0x0303 CS: 0xc02b
+        : TLS/SNI: mmg-fna.whatsapp.net
+        : DP: 6
+

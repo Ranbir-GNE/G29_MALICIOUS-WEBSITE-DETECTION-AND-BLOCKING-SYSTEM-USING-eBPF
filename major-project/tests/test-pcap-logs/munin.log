@@ -1,0 +1,20 @@
+offline0: i4pc----------- TCP [L] 172.16.16.108:45654 --> [OL] 172.16.17.103:4949
+        : Munin
+        : H: kibana-node01
+        : DP: 4
+
+offline0: i4pc----------- TCP [L] 172.16.16.108:55256 --> [OL] 172.16.17.102:4949
+        : Munin
+        : H: elastic-node02
+        : DP: 4
+
+offline0: i4pc----------- TCP [L] 172.16.16.108:53314 --> [OL] 172.16.17.101:4949
+        : Munin
+        : H: log-collector
+        : DP: 4
+
+offline0: i4pc----------- TCP [L] 172.16.16.108:59958 --> [OL] 172.16.17.1:4949
+        : Munin
+        : H: gw-ct
+        : DP: 4
+

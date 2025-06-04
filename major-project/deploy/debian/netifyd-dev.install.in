@@ -1,0 +1,5 @@
+usr/include/ndpi/*
+usr/include/netifyd/*
+usr/lib/*/libnetifyd.a
+usr/lib/*/libnetifyd.la
+usr/lib/*/pkgconfig/*

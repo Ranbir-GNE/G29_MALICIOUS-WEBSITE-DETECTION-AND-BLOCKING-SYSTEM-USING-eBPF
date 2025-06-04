@@ -1,0 +1,1338 @@
+offline0: i4pc----------- IGMP [L] 192.168.1.219:0 --> [OM] 224.0.0.22:0
+        : IGMP
+        : DP: 1
+
+offline0: i4pc----------- UDP [L] 192.168.1.1:53 <-- [OL] 192.168.1.34:57694
+        : DNS.netify.msn
+        : H: db3msgr5011709.gateway.messenger.live.com
+        : DP: 2
+
+offline0: i4pcu------r--- TCP [OR] 157.56.126.211:443 <-- [L] 192.168.1.34:51230
+        : HTTP/S.netify.msn
+        : V: 0x0301 CS: 0xc014
+        : TLS/CN: gateway.messenger.live.com
+        : TLS/IDN: C=US, ST=Washington, L=Redmond, O=Microsoft Corporation, OU=Microsoft IT, CN=Microsoft IT SSL SHA2 TLS/SDN: CN=*.gateway.messenger.live.com
+        : RID 30: TLS Certificate Expired
+        : RID 36: Obsolete TLS (v1.1 or older)
+        : DP: 9
+
+offline0: i4pc----------- UDP [L] 192.168.1.1:53 <-- [OL] 192.168.1.34:63661
+        : DNS.netify.akamai
+        : H: e4593.g.akamaiedge.net
+        : DP: 2
+
+offline0: i4pc----------- TCP [OR] 17.172.100.36:443 <-- [L] 192.168.1.34:51227
+        : HTTP/S.netify.apple
+        : DP: 18
+
+offline0: i4pc----------- UDP [L] 192.168.1.34:137 --> [OL] 192.168.1.255:137
+        : NETBIOS
+        : H: __msbrowse__
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 192.168.1.1:137 --> [OL] 192.168.1.34:137
+        : NETBIOS
+        : H: __msbrowse__
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 192.168.1.34:138 --> [OL] 192.168.1.255:138
+        : NETBIOS
+        : H: lucasmacbookpro
+        : RID 42: Unsafe Protocol
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 192.168.1.1:138 --> [OL] 192.168.1.34:138
+        : NETBIOS
+        : H: alicegate
+        : RID 42: Unsafe Protocol
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc----------- UDP [L] 192.168.1.92:137 --> [OL] 192.168.1.255:137
+        : NETBIOS
+        : H: workgroup
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 192.168.1.92:138 --> [OL] 192.168.1.255:138
+        : NETBIOS
+        : H: lucas-imac
+        : RID 42: Unsafe Protocol
+        : DP: 1
+
+offline0: i4pc----------- UDP [L] 192.168.1.92:53826 --> [OL] 192.168.1.255:137
+        : NETBIOS
+        : H: lucas-imac
+        : DP: 1
+
+offline0: i4pc----------- UDP [L] 192.168.1.92:5353 --> [OM] 224.0.0.251:5353
+        : MDNS.netify.internal-network
+        : H: lucas-imac.local
+        : DP: 1
+
+offline0: i6pc----------- UDP [L] fe80::c62c:3ff:fe06:49fe:5353 --> [OM] ff02::fb:5353
+        : MDNS.netify.internal-network
+        : H: lucas-imac.local
+        : DP: 2
+
+offline0: i4pc-------r--- UDP [OR] 157.55.56.170:40015 --> [L] 192.168.1.34:13021
+        : Skype/Teams
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [OR] 111.221.74.15:40026 --> [L] 192.168.1.34:13021
+        : Skype/Teams
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [OR] 65.55.223.33:40002 --> [L] 192.168.1.34:13021
+        : Skype/Teams
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [OR] 64.4.23.145:40027 --> [L] 192.168.1.34:13021
+        : Skype/Teams
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [OR] 157.55.130.165:40028 --> [L] 192.168.1.34:13021
+        : Skype/Teams
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [OR] 157.56.52.27:40025 --> [L] 192.168.1.34:13021
+        : Skype/Teams
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [OR] 111.221.74.34:40027 --> [L] 192.168.1.34:13021
+        : Skype/Teams
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [OR] 157.55.235.168:40024 --> [L] 192.168.1.34:13021
+        : Skype/Teams
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [OR] 157.55.235.143:40030 --> [L] 192.168.1.34:13021
+        : Skype/Teams
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [OR] 111.221.77.143:40022 --> [L] 192.168.1.34:13021
+        : Skype/Teams
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [OR] 111.221.74.44:40019 --> [L] 192.168.1.34:13021
+        : Skype/Teams
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 192.168.1.34:13021 <-- [OR] 213.199.179.173:40013
+        : Skype/Teams
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [OR] 157.55.56.167:40024 --> [L] 192.168.1.34:13021
+        : Skype/Teams
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [OR] 64.4.23.165:40004 --> [L] 192.168.1.34:13021
+        : Skype/Teams
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [OR] 65.55.223.17:40025 --> [L] 192.168.1.34:13021
+        : Skype/Teams
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [OR] 65.55.223.18:33033 --> [L] 192.168.1.34:13021
+        : Skype/Teams
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc----------- UDP [L] 192.168.0.254:1025 <-- [OM] 239.255.255.250:1900
+        : SSDP
+        : H: 239.255.255.250_1900
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [OR] 65.55.223.32:40022 --> [L] 192.168.1.34:13021
+        : Skype/Teams
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [OR] 111.221.74.33:40011 --> [L] 192.168.1.34:13021
+        : Skype/Teams
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [OR] 157.55.56.145:40008 --> [L] 192.168.1.34:13021
+        : Skype/Teams
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [OR] 65.55.223.13:40009 --> [L] 192.168.1.34:13021
+        : Skype/Teams
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [OR] 157.56.52.19:40020 --> [L] 192.168.1.34:13021
+        : Skype/Teams
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc----------- UDP [L] 192.168.1.34:17500 --> [OB] 255.255.255.255:17500
+        : Dropbox
+        : DP: 1
+
+offline0: i4pc----------- UDP [L] 192.168.1.34:17500 --> [OL] 192.168.1.255:17500
+        : Dropbox
+        : DP: 1
+
+offline0: i4pc----------- UDP [L] 192.168.1.92:17500 --> [OB] 255.255.255.255:17500
+        : Dropbox
+        : DP: 1
+
+offline0: i4pc----------- UDP [L] 192.168.1.92:17500 --> [OL] 192.168.1.255:17500
+        : Dropbox
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [OR] 157.55.130.171:40012 --> [L] 192.168.1.34:13021
+        : Skype/Teams
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [OR] 65.55.223.65:33033 --> [L] 192.168.1.34:13021
+        : Skype/Teams
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 192.168.1.34:13021 <-- [OR] 213.199.179.140:40003
+        : Skype/Teams
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [OR] 157.56.52.39:40031 --> [L] 192.168.1.34:13021
+        : Skype/Teams
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [OR] 157.56.52.25:40010 --> [L] 192.168.1.34:13021
+        : Skype/Teams
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [OR] 65.55.223.28:40014 --> [L] 192.168.1.34:13021
+        : Skype/Teams
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [OR] 157.55.130.154:40013 --> [L] 192.168.1.34:13021
+        : Skype/Teams
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [OR] 65.55.223.44:40020 --> [L] 192.168.1.34:13021
+        : Skype/Teams
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [OR] 64.4.23.173:40017 --> [L] 192.168.1.34:13021
+        : Skype/Teams
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 192.168.1.34:13021 <-- [OR] 213.199.179.154:40017
+        : Skype/Teams
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 192.168.1.1:53 <-- [OL] 192.168.1.34:64971
+        : DNS.netify.skype
+        : H: a.config.skype.com
+        : RID 46: Unidirectional Traffic
+        : DP: 6
+
+offline0: i4pc-------r--- UDP [L] 192.168.1.1:53 <-- [OL] 192.168.1.34:55028
+        : DNS.netify.skype
+        : H: a.config.skype.com
+        : RID 46: Unidirectional Traffic
+        : DP: 6
+
+offline0: i4pc-------r--- UDP [L] 192.168.1.1:53 <-- [OL] 192.168.1.34:60688
+        : DNS.netify.skype
+        : H: conn.skype.akadns.net
+        : RID 46: Unidirectional Traffic
+        : DP: 6
+
+offline0: i4pc-------r--- UDP [L] 192.168.1.1:53 <-- [OL] 192.168.1.34:58631
+        : DNS.netify.skype
+        : H: conn.skype.akadns.net
+        : RID 46: Unidirectional Traffic
+        : DP: 6
+
+offline0: i4pc-------r--- UDP [L] 192.168.1.34:13021 <-- [OR] 213.199.179.146:33033
+        : Skype/Teams
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 192.168.1.34:13021 <-- [OR] 213.199.179.160:40030
+        : Skype/Teams
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [OR] 157.56.52.12:40031 --> [L] 192.168.1.34:13021
+        : Skype/Teams
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [OR] 64.4.23.143:40018 --> [L] 192.168.1.34:13021
+        : Skype/Teams
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 192.168.1.34:13021 <-- [OR] 213.199.179.174:40025
+        : Skype/Teams
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 192.168.1.1:53 <-- [OL] 192.168.1.34:49864
+        : DNS.netify.skype
+        : H: api.skype.com
+        : RID 46: Unidirectional Traffic
+        : DP: 6
+
+offline0: i4pc-------r--- UDP [L] 192.168.1.1:53 <-- [OL] 192.168.1.34:64240
+        : DNS.netify.skype
+        : H: api.skype.com
+        : RID 46: Unidirectional Traffic
+        : DP: 6
+
+offline0: i4pc-------r--- UDP [L] 192.168.1.1:53 <-- [OL] 192.168.1.34:62875
+        : DNS
+        : H: dsn13.d.skype.net
+        : RID 46: Unidirectional Traffic
+        : DP: 6
+
+offline0: i4pc-------r--- UDP [L] 192.168.1.1:53 <-- [OL] 192.168.1.34:59113
+        : DNS
+        : H: dsn13.d.skype.net
+        : RID 46: Unidirectional Traffic
+        : DP: 6
+
+offline0: i4pc-------r--- UDP [L] 192.168.1.1:53 <-- [OL] 192.168.1.34:57592
+        : DNS
+        : H: 335.0.7.7.3.rst11.r.skype.net
+        : RID 46: Unidirectional Traffic
+        : DP: 6
+
+offline0: i4pc-------r--- UDP [L] 192.168.1.1:53 <-- [OL] 192.168.1.34:53372
+        : DNS
+        : H: 335.0.7.7.3.rst11.r.skype.net
+        : RID 46: Unidirectional Traffic
+        : DP: 6
+
+offline0: i4pc-------r--- UDP [L] 192.168.1.1:53 <-- [OL] 192.168.1.34:63514
+        : DNS.netify.skype
+        : H: ui.skype.com
+        : RID 46: Unidirectional Traffic
+        : DP: 6
+
+offline0: i4pc-------r--- UDP [OR] 111.221.74.13:40009 --> [L] 192.168.1.34:13021
+        : Skype/Teams
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [OR] 111.221.74.46:40027 --> [L] 192.168.1.34:13021
+        : Skype/Teams
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [OR] 157.55.235.174:40019 --> [L] 192.168.1.34:13021
+        : Skype/Teams
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [OR] 65.55.223.22:40009 --> [L] 192.168.1.34:13021
+        : Skype/Teams
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [OR] 111.221.77.145:40024 --> [L] 192.168.1.34:13021
+        : Skype/Teams
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 192.168.1.1:53 <-- [OL] 192.168.1.34:50055
+        : DNS.netify.skype
+        : H: pipe.prd.skypedata.akadns.net
+        : RID 46: Unidirectional Traffic
+        : DP: 6
+
+offline0: i4pc-------r--- UDP [L] 192.168.1.1:53 <-- [OL] 192.168.1.34:51753
+        : DNS.netify.skype
+        : H: pipe.prd.skypedata.akadns.net
+        : RID 46: Unidirectional Traffic
+        : DP: 6
+
+offline0: i4pc-------r--- UDP [OR] 157.55.130.150:40007 --> [L] 192.168.1.34:13021
+        : Skype/Teams
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [OR] 157.56.52.15:40027 --> [L] 192.168.1.34:13021
+        : Skype/Teams
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [OR] 157.55.235.162:40033 --> [L] 192.168.1.34:13021
+        : Skype/Teams
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [OR] 111.221.77.159:40031 --> [L] 192.168.1.34:13021
+        : Skype/Teams
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [OR] 64.4.23.148:40029 --> [L] 192.168.1.34:13021
+        : Skype/Teams
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [OR] 64.4.23.142:40023 --> [L] 192.168.1.34:13021
+        : Skype/Teams
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [OR] 64.4.23.146:33033 --> [L] 192.168.1.34:13021
+        : Skype/Teams
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [OR] 157.55.130.149:40011 --> [L] 192.168.1.34:13021
+        : Skype/Teams
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [OR] 111.221.77.151:40029 --> [L] 192.168.1.34:13021
+        : Skype/Teams
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 192.168.1.34:13021 <-- [OR] 213.199.179.165:40004
+        : Skype/Teams
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [OR] 157.55.130.156:40019 --> [L] 192.168.1.34:13021
+        : Skype/Teams
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [OR] 65.55.223.27:40029 --> [L] 192.168.1.34:13021
+        : Skype/Teams
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [OR] 157.55.56.142:40013 --> [L] 192.168.1.34:13021
+        : Skype/Teams
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [OR] 64.4.23.154:40032 --> [L] 192.168.1.34:13021
+        : Skype/Teams
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [OR] 157.56.52.33:40002 --> [L] 192.168.1.34:13021
+        : Skype/Teams
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [OR] 111.221.74.42:40006 --> [L] 192.168.1.34:13021
+        : Skype/Teams
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [OR] 157.55.235.172:40020 --> [L] 192.168.1.34:13021
+        : Skype/Teams
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [OR] 157.55.235.167:40029 --> [L] 192.168.1.34:13021
+        : Skype/Teams
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [OR] 157.55.56.140:40003 --> [L] 192.168.1.34:13021
+        : Skype/Teams
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 192.168.1.34:13021 <-- [OR] 213.199.179.156:40031
+        : Skype/Teams
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [OR] 157.56.52.13:40021 --> [L] 192.168.1.34:13021
+        : Skype/Teams
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [OR] 111.221.74.27:40027 --> [L] 192.168.1.34:13021
+        : Skype/Teams
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [OR] 157.55.235.146:33033 --> [L] 192.168.1.34:13021
+        : Skype/Teams
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [OR] 157.55.130.160:40008 --> [L] 192.168.1.34:13021
+        : Skype/Teams
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [OR] 157.56.52.42:40005 --> [L] 192.168.1.34:13021
+        : Skype/Teams
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [OR] 157.56.52.16:40032 --> [L] 192.168.1.34:13021
+        : Skype/Teams
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 192.168.1.34:13021 <-- [OR] 213.199.179.143:40018
+        : Skype/Teams
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [OR] 157.55.235.176:40031 --> [L] 192.168.1.34:13021
+        : Skype/Teams
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [OR] 157.56.52.24:40032 --> [L] 192.168.1.34:13021
+        : Skype/Teams
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [OR] 111.221.74.20:40033 --> [L] 192.168.1.34:13021
+        : Skype/Teams
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [OR] 157.55.130.144:40016 --> [L] 192.168.1.34:13021
+        : Skype/Teams
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [OR] 157.56.52.20:40033 --> [L] 192.168.1.34:13021
+        : Skype/Teams
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [OR] 157.55.235.144:40032 --> [L] 192.168.1.34:13021
+        : Skype/Teams
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [OR] 111.221.77.165:40004 --> [L] 192.168.1.34:13021
+        : Skype/Teams
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [OR] 157.55.130.146:40033 --> [L] 192.168.1.34:13021
+        : Skype/Teams
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [OR] 111.221.74.24:40032 --> [L] 192.168.1.34:13021
+        : Skype/Teams
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [OR] 111.221.77.160:40016 --> [L] 192.168.1.34:13021
+        : Skype/Teams
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [OR] 111.221.74.28:40026 --> [L] 192.168.1.34:13021
+        : Skype/Teams
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [OR] 157.55.130.146:33033 --> [L] 192.168.1.34:13021
+        : Skype/Teams
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [OR] 157.55.130.152:40022 --> [L] 192.168.1.34:13021
+        : Skype/Teams
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 192.168.1.34:13021 <-- [OR] 213.199.179.172:40011
+        : Skype/Teams
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [OR] 64.4.23.151:40029 --> [L] 192.168.1.34:13021
+        : Skype/Teams
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [OR] 64.4.23.176:40001 --> [L] 192.168.1.34:13021
+        : Skype/Teams
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [OR] 157.55.130.148:40019 --> [L] 192.168.1.34:13021
+        : Skype/Teams
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [OR] 157.55.235.155:40027 --> [L] 192.168.1.34:13021
+        : Skype/Teams
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc----------- IGMP [L] 192.168.0.254:0 --> [OM] 224.0.0.1:0
+        : IGMP
+        : DP: 1
+
+offline0: i4pc----------- IGMP [L] 192.168.1.229:0 --> [OM] 224.0.0.251:0
+        : IGMP
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [OR] 111.221.77.154:40017 --> [L] 192.168.1.34:13021
+        : Skype/Teams
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [OR] 64.4.23.149:40030 --> [L] 192.168.1.34:13021
+        : Skype/Teams
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [OR] 111.221.77.171:40030 --> [L] 192.168.1.34:13021
+        : Skype/Teams
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [OR] 157.55.56.161:40031 --> [L] 192.168.1.34:13021
+        : Skype/Teams
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [OR] 157.55.235.148:40033 --> [L] 192.168.1.34:13021
+        : Skype/Teams
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [OR] 111.221.77.149:40016 --> [L] 192.168.1.34:13021
+        : Skype/Teams
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [OR] 111.221.74.19:40001 --> [L] 192.168.1.34:13021
+        : Skype/Teams
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [OR] 157.55.130.140:40011 --> [L] 192.168.1.34:13021
+        : Skype/Teams
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [OR] 157.55.130.167:40031 --> [L] 192.168.1.34:13021
+        : Skype/Teams
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [OR] 111.221.77.146:33033 --> [L] 192.168.1.34:13021
+        : Skype/Teams
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [OR] 157.55.235.166:40015 --> [L] 192.168.1.34:13021
+        : Skype/Teams
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 192.168.1.34:13021 <-- [OR] 213.199.179.145:40024
+        : Skype/Teams
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [OR] 65.55.223.42:40024 --> [L] 192.168.1.34:13021
+        : Skype/Teams
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 192.168.1.34:13021 <-- [OR] 213.199.179.146:40030
+        : Skype/Teams
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [OR] 157.56.52.38:40015 --> [L] 192.168.1.34:13021
+        : Skype/Teams
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [OR] 111.221.74.38:40015 --> [L] 192.168.1.34:13021
+        : Skype/Teams
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [OR] 157.56.52.40:40017 --> [L] 192.168.1.34:13021
+        : Skype/Teams
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [OR] 64.4.23.171:40031 --> [L] 192.168.1.34:13021
+        : Skype/Teams
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [OR] 111.221.74.43:40001 --> [L] 192.168.1.34:13021
+        : Skype/Teams
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [OR] 65.55.223.20:40023 --> [L] 192.168.1.34:13021
+        : Skype/Teams
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc----------- IGMP [L] 192.168.1.219:0 --> [OM] 233.89.188.1:0
+        : IGMP
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [OR] 64.4.23.140:40003 --> [L] 192.168.1.34:13021
+        : Skype/Teams
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [OR] 64.4.23.158:40021 --> [L] 192.168.1.34:13021
+        : Skype/Teams
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [OR] 157.55.235.171:40006 --> [L] 192.168.1.34:13021
+        : Skype/Teams
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [OR] 157.55.130.173:40003 --> [L] 192.168.1.34:13021
+        : Skype/Teams
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [OR] 157.55.56.143:40018 --> [L] 192.168.1.34:13021
+        : Skype/Teams
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [OR] 157.56.52.18:33033 --> [L] 192.168.1.34:13021
+        : Skype/Teams
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [OR] 65.55.223.43:40006 --> [L] 192.168.1.34:13021
+        : Skype/Teams
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [OR] 157.55.56.150:40014 --> [L] 192.168.1.34:13021
+        : Skype/Teams
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [OR] 157.55.56.147:40014 --> [L] 192.168.1.34:13021
+        : Skype/Teams
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [OR] 65.55.223.18:40025 --> [L] 192.168.1.34:13021
+        : Skype/Teams
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [OR] 157.55.235.160:40022 --> [L] 192.168.1.34:13021
+        : Skype/Teams
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [OR] 157.55.56.146:40030 --> [L] 192.168.1.34:13021
+        : Skype/Teams
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [OR] 157.55.130.170:40018 --> [L] 192.168.1.34:13021
+        : Skype/Teams
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [OR] 157.55.130.159:40016 --> [L] 192.168.1.34:13021
+        : Skype/Teams
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [OR] 111.221.77.170:40021 --> [L] 192.168.1.34:13021
+        : Skype/Teams
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [OR] 65.55.223.24:40029 --> [L] 192.168.1.34:13021
+        : Skype/Teams
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [OR] 157.55.235.158:40027 --> [L] 192.168.1.34:13021
+        : Skype/Teams
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [OR] 65.55.223.16:40032 --> [L] 192.168.1.34:13021
+        : Skype/Teams
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 192.168.1.34:13021 <-- [OR] 213.199.179.149:40030
+        : Skype/Teams
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [OR] 157.56.52.29:40010 --> [L] 192.168.1.34:13021
+        : Skype/Teams
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [OR] 157.56.52.43:40006 --> [L] 192.168.1.34:13021
+        : Skype/Teams
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [OR] 111.221.74.18:33033 --> [L] 192.168.1.34:13021
+        : Skype/Teams
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [OR] 65.55.223.15:40030 --> [L] 192.168.1.34:13021
+        : Skype/Teams
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 192.168.1.34:13021 <-- [OR] 213.199.179.144:40009
+        : Skype/Teams
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [OR] 111.221.74.40:40025 --> [L] 192.168.1.34:13021
+        : Skype/Teams
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [OR] 157.55.130.175:40006 --> [L] 192.168.1.34:13021
+        : Skype/Teams
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [OR] 111.221.77.173:40012 --> [L] 192.168.1.34:13021
+        : Skype/Teams
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [OR] 157.55.235.175:40023 --> [L] 192.168.1.34:13021
+        : Skype/Teams
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [OR] 157.56.52.17:40013 --> [L] 192.168.1.34:13021
+        : Skype/Teams
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [OR] 64.4.23.170:40011 --> [L] 192.168.1.34:13021
+        : Skype/Teams
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [OR] 157.55.130.157:40013 --> [L] 192.168.1.34:13021
+        : Skype/Teams
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [OR] 64.4.23.155:40004 --> [L] 192.168.1.34:13021
+        : Skype/Teams
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 192.168.1.34:13021 <-- [OR] 213.199.179.141:40015
+        : Skype/Teams
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 192.168.1.1:53 <-- [OL] 192.168.1.34:63342
+        : DNS.netify.skype
+        : H: b.config.skype.com
+        : RID 46: Unidirectional Traffic
+        : DP: 6
+
+offline0: i4pc-------r--- UDP [L] 192.168.1.1:53 <-- [OL] 192.168.1.34:64258
+        : DNS.netify.skype
+        : H: b.config.skype.com
+        : RID 46: Unidirectional Traffic
+        : DP: 6
+
+offline0: i4pc----------- UDP [L] 192.168.1.34:59237 --> [OM] 239.255.255.250:1900
+        : SSDP
+        : H: 239.255.255.250_1900
+        : DP: 1
+
+offline0: i4pc----------- UDP [L] 192.168.1.34:58061 --> [OM] 239.255.255.250:1900
+        : SSDP
+        : H: 239.255.255.250_1900
+        : DP: 1
+
+offline0: i4pc-------r--- ICMP [L] 192.168.1.1:0 --> [OL] 192.168.1.34:0
+        : ICMP
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-g-----r--- TCP [OR] 111.221.74.48:40008 <-- [L] 192.168.1.34:51279
+        : Unknown
+        : RID 52: Fully Encrypted Flow
+        : DP: 32
+
+offline0: i4pc-------r--- UDP [OR] 174.49.171.224:32011 --> [L] 192.168.1.34:13021
+        : Skype/Teams
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [OR] 83.31.12.173:23939 --> [L] 192.168.1.34:13021
+        : Skype/Teams
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [OR] 189.138.161.88:19521 --> [L] 192.168.1.34:13021
+        : Skype/Teams
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [OR] 189.188.134.174:22436 --> [L] 192.168.1.34:13021
+        : Skype/Teams
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 192.168.1.1:53 <-- [OL] 192.168.1.34:61095
+        : DNS.netify.skype
+        : H: pipe.prd.skypedata.akadns.net
+        : RID 46: Unidirectional Traffic
+        : DP: 6
+
+offline0: i4pc-------r--- UDP [L] 192.168.1.1:53 <-- [OL] 192.168.1.34:55866
+        : DNS.netify.skype
+        : H: pipe.prd.skypedata.akadns.net
+        : RID 46: Unidirectional Traffic
+        : DP: 6
+
+offline0: i4pc-------r--- UDP [OR] 111.221.74.14:443 <-- [L] 192.168.1.34:13021
+        : Skype/Teams
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [OR] 157.55.235.141:443 <-- [L] 192.168.1.34:13021
+        : Skype/Teams
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc----------- UDP [L] 192.168.1.1:53 <-- [OL] 192.168.1.34:59788
+        : DNS.netify.akamai
+        : H: e4593.g.akamaiedge.net
+        : DP: 2
+
+offline0: i4pc-g-----r--- TCP [OR] 81.83.77.141:17639 <-- [L] 192.168.1.34:51294
+        : Unknown
+        : RID 52: Fully Encrypted Flow
+        : DP: 32
+
+offline0: i4pc-------r--- UDP [L] 192.168.1.1:53 <-- [OL] 192.168.1.34:64364
+        : DNS
+        : H: 335.0.7.7.3.rst0.r.skype.net
+        : RID 46: Unidirectional Traffic
+        : DP: 6
+
+offline0: i4pc-------r--- UDP [L] 192.168.1.1:53 <-- [OL] 192.168.1.34:60413
+        : DNS
+        : H: 335.0.7.7.3.rst0.r.skype.net
+        : RID 46: Unidirectional Traffic
+        : DP: 6
+
+offline0: i4pc-------r-F- TCP [OR] 149.13.32.15:13392 <-- [L] 192.168.1.34:51307
+        : TLS
+        : RID 16: Known Protocol on Non-standard Port
+        : DP: 17
+
+offline0: i4pc-------r-F- TCP [OR] 149.13.32.15:13392 <-- [L] 192.168.1.34:51312
+        : TLS
+        : RID 16: Known Protocol on Non-standard Port
+        : DP: 17
+
+offline0: i4pc-------r--- UDP [OR] 133.236.67.25:49195 --> [L] 192.168.1.34:13021
+        : Skype/Teams
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-gx----r-F- TCP [OR] 111.221.77.175:40030 <-- [L] 192.168.1.34:51248
+        : Unknown
+        : RID 52: Fully Encrypted Flow
+        : DP: 16
+
+offline0: i4pc-gx----r--- TCP [OR] 91.190.216.24:12350 <-- [L] 192.168.1.34:51297
+        : Unknown
+        : RID 52: Fully Encrypted Flow
+        : DP: 15
+
+offline0: i4pc-gx------F- TCP [OR] 157.56.52.44:443 <-- [L] 192.168.1.34:51247
+        : HTTP/S
+        : DP: 14
+
+offline0: i4pc-gx----r--- TCP [OR] 71.238.7.203:18767 <-- [L] 192.168.1.34:51292
+        : Unknown
+        : RID 52: Fully Encrypted Flow
+        : DP: 30
+
+offline0: i4pc--x-------- TCP [OR] 108.160.163.108:443 <-- [L] 192.168.1.34:51222
+        : HTTP/S.netify.dropbox
+        : DP: 8
+
+offline0: i4pc--x----rs-- TCP [OR] 17.143.160.149:5223 <-- [L] 192.168.1.34:50407
+        : Apple/Push.netify.apple-push
+        : RID 16: Known Protocol on Non-standard Port
+        : DP: 8
+
+offline0: i4pc-gx------F- TCP [OR] 157.55.235.146:443 <-- [L] 192.168.1.34:51280
+        : HTTP/S
+        : DP: 15
+
+offline0: i4pc-gx----r--- TCP [OR] 80.121.84.93:443 <-- [L] 192.168.1.34:51308
+        : HTTP/S
+        : RID 46: Unidirectional Traffic
+        : DP: 6
+
+offline0: i4pc-gx----r--- TCP [L] 192.168.1.34:51319 --> [OR] 212.161.8.36:13392
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-gx----r--- TCP [OR] 5.248.186.221:31010 <-- [L] 192.168.1.34:51293
+        : Unknown
+        : RID 52: Fully Encrypted Flow
+        : DP: 20
+
+offline0: i4pc-gx----r-F- TCP [OR] 64.4.23.159:40009 <-- [L] 192.168.1.34:51278
+        : Unknown
+        : RID 52: Fully Encrypted Flow
+        : DP: 15
+
+offline0: i4pc-gx----r-F- TCP [OR] 157.55.235.146:40021 <-- [L] 192.168.1.34:51276
+        : Unknown
+        : RID 52: Fully Encrypted Flow
+        : DP: 17
+
+offline0: i4pc-gx------F- TCP [OR] 157.56.52.28:443 <-- [L] 192.168.1.34:51232
+        : HTTP/S
+        : DP: 13
+
+offline0: i4pc--x----r--- TCP [OR] 23.206.33.166:443 <-- [L] 192.168.1.34:51231
+        : HTTP/S.netify.skype
+        : D: e4593.g.akamaiedge.net H: apps.skype.com
+        : V: 0x0303
+        : TLS/SNI: apps.skype.com
+        : RID 47: TLS ALPN Not Found
+        : DP: 17
+
+offline0: i4pc-gx------F- TCP [OR] 157.55.130.176:443 <-- [L] 192.168.1.34:51241
+        : HTTP/S
+        : DP: 15
+
+offline0: i4pc-gx----r--- TCP [OR] 91.190.218.125:12350 <-- [L] 192.168.1.34:51284
+        : Unknown
+        : RID 52: Fully Encrypted Flow
+        : DP: 6
+
+offline0: i4pc-gx------F- TCP [OR] 157.55.235.147:443 <-- [L] 192.168.1.34:51238
+        : HTTP/S
+        : DP: 17
+
+offline0: i4pc-gx----r-F- TCP [OR] 157.55.235.170:40032 <-- [L] 192.168.1.34:51257
+        : Unknown
+        : RID 52: Fully Encrypted Flow
+        : DP: 18
+
+offline0: i4pc-gx------F- TCP [OR] 157.55.235.170:443 <-- [L] 192.168.1.34:51261
+        : HTTP/S
+        : DP: 15
+
+offline0: i4pc-gx------F- TCP [OR] 91.190.216.125:443 <-- [L] 192.168.1.34:51302
+        : HTTP/S
+        : DP: 10
+
+offline0: i4pc-gx----r-F- TCP [OR] 111.221.77.142:40013 <-- [L] 192.168.1.34:51256
+        : Unknown
+        : RID 52: Fully Encrypted Flow
+        : DP: 16
+
+offline0: i4pc-gx----r-F- TCP [OR] 157.55.130.176:40022 <-- [L] 192.168.1.34:51237
+        : Unknown
+        : RID 52: Fully Encrypted Flow
+        : DP: 17
+
+offline0: i4pc-gx------F- TCP [L] 192.168.1.34:51262 --> [OR] 213.199.179.176:443
+        : HTTP/S
+        : DP: 16
+
+offline0: i4pc-gx------F- TCP [OR] 111.221.77.175:443 <-- [L] 192.168.1.34:51250
+        : HTTP/S
+        : DP: 14
+
+offline0: i4pc-gx----r-F- TCP [OR] 81.83.77.141:17639 <-- [L] 192.168.1.34:51291
+        : Unknown
+        : RID 52: Fully Encrypted Flow
+        : DP: 15
+
+offline0: i4pc-gx----r-F- TCP [OR] 157.56.52.28:40009 <-- [L] 192.168.1.34:51229
+        : Unknown
+        : RID 52: Fully Encrypted Flow
+        : DP: 16
+
+offline0: i4pc-gx----r-F- TCP [OR] 157.55.235.147:40001 <-- [L] 192.168.1.34:51234
+        : Unknown
+        : RID 52: Fully Encrypted Flow
+        : DP: 18
+
+offline0: i4pc-gx----r-F- TCP [OR] 149.13.32.15:13392 <-- [L] 192.168.1.34:51316
+        : Unknown
+        : RID 52: Fully Encrypted Flow
+        : DP: 14
+
+offline0: i4pc-gx------F- TCP [OR] 157.55.235.152:443 <-- [L] 192.168.1.34:51274
+        : HTTP/S
+        : DP: 15
+
+offline0: i4pc-gx----r-F- TCP [L] 192.168.1.34:51269 --> [OR] 213.199.179.175:40029
+        : Unknown
+        : RID 52: Fully Encrypted Flow
+        : DP: 19
+
+offline0: i4pc-gx----r-F- TCP [OR] 157.55.235.152:40029 <-- [L] 192.168.1.34:51272
+        : Unknown
+        : RID 52: Fully Encrypted Flow
+        : DP: 17
+
+offline0: i4pc--x----r-F- TCP [OR] 23.206.33.166:443 <-- [L] 192.168.1.34:51295
+        : HTTP/S.netify.skype
+        : D: e4593.g.akamaiedge.net H: apps.skype.com
+        : V: 0x0301
+        : TLS/SNI: apps.skype.com
+        : RID 36: Obsolete TLS (v1.1 or older)
+        : DP: 12
+
+offline0: i4pc-gx------F- TCP [OR] 111.221.74.45:443 <-- [L] 192.168.1.34:51240
+        : HTTP/S
+        : DP: 14
+
+offline0: i4pc-gx----r--- TCP [OR] 111.221.74.48:443 <-- [L] 192.168.1.34:51283
+        : HTTP/S
+        : RID 51: TCP Connection Issues
+        : DP: 3
+
+offline0: i4pc-gx------F- TCP [OR] 111.221.74.18:443 <-- [L] 192.168.1.34:51268
+        : HTTP/S
+        : DP: 14
+
+offline0: i4pc-gx----r-F- TCP [OR] 65.55.223.45:40009 <-- [L] 192.168.1.34:51235
+        : Unknown
+        : RID 52: Fully Encrypted Flow
+        : DP: 17
+
+offline0: i4pc-gx----r-F- TCP [OR] 76.167.161.6:20274 <-- [L] 192.168.1.34:51288
+        : Unknown
+        : RID 52: Fully Encrypted Flow
+        : DP: 15
+
+offline0: i4pc-gx----r--- TCP [OR] 91.190.216.125:12350 <-- [L] 192.168.1.34:51296
+        : Unknown
+        : RID 52: Fully Encrypted Flow
+        : DP: 6
+
+offline0: i4pc-gx----r--- TCP [OR] 82.224.110.241:38895 <-- [L] 192.168.1.34:51301
+        : Unknown
+        : RID 52: Fully Encrypted Flow
+        : DP: 18
+
+offline0: i4pc-gx-------- TCP [OR] 91.190.218.125:12350 <-- [L] 192.168.1.34:51285
+        : Unknown
+        : DP: 6
+
+offline0: i4pc-gx----r-F- TCP [OR] 149.13.32.15:13392 <-- [L] 192.168.1.34:51305
+        : Unknown
+        : RID 52: Fully Encrypted Flow
+        : DP: 18
+
+offline0: i4pc-gx----r--- TCP [OR] 80.121.84.93:62381 <-- [L] 192.168.1.34:51303
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 7
+
+offline0: i4pc--x----r-F- TCP [OR] 149.13.32.15:13392 <-- [L] 192.168.1.34:51317
+        : TLS
+        : RID 16: Known Protocol on Non-standard Port
+        : DP: 20
+
+offline0: i4pc-gx------F- TCP [OR] 157.55.235.156:443 <-- [L] 192.168.1.34:51281
+        : HTTP/S
+        : DP: 15
+
+offline0: i4pc-gx------F- TCP [OR] 65.55.223.45:443 <-- [L] 192.168.1.34:51239
+        : HTTP/S
+        : DP: 15
+
+offline0: i4pc--x----r-F- TCP [L] 192.168.1.34:51315 --> [OR] 212.161.8.36:13392
+        : TLS
+        : RID 16: Known Protocol on Non-standard Port
+        : DP: 23
+
+offline0: i4pc-gx----r--- TCP [OR] 93.79.224.176:14506 <-- [L] 192.168.1.34:51314
+        : Unknown
+        : RID 52: Fully Encrypted Flow
+        : DP: 20
+
+offline0: i4pc-gx----r-F- TCP [L] 192.168.1.34:51313 --> [OR] 212.161.8.36:13392
+        : Unknown
+        : RID 52: Fully Encrypted Flow
+        : DP: 14
+
+offline0: i4pc-gx----r-F- TCP [OR] 111.221.74.18:40025 <-- [L] 192.168.1.34:51267
+        : Unknown
+        : RID 52: Fully Encrypted Flow
+        : DP: 14
+
+offline0: i4pc-gx----r--- TCP [L] 192.168.1.34:51318 --> [OR] 212.161.8.36:13392
+        : Unknown
+        : RID 52: Fully Encrypted Flow
+        : DP: 10
+
+offline0: i4pc-gx------F- TCP [L] 192.168.1.34:51271 --> [OR] 213.199.179.175:443
+        : HTTP/S
+        : DP: 15
+
+offline0: i4pc-gx------F- TCP [OR] 157.55.130.142:443 <-- [L] 192.168.1.34:51260
+        : HTTP/S
+        : DP: 15
+
+offline0: i4pc-gx------F- TCP [OR] 64.4.23.166:443 <-- [L] 192.168.1.34:51253
+        : HTTP/S
+        : DP: 14
+
+offline0: i4pc-gx------F- TCP [OR] 91.190.216.125:12350 <-- [L] 192.168.1.34:51299
+        : Unknown
+        : DP: 11
+
+offline0: i4pc-gx----r-F- TCP [OR] 149.13.32.15:13392 <-- [L] 192.168.1.34:51309
+        : Unknown
+        : RID 52: Fully Encrypted Flow
+        : DP: 15
+
+offline0: i4pc-gx----r--- TCP [OR] 80.121.84.93:62381 <-- [L] 192.168.1.34:51306
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 6
+
+offline0: i4pc-gx----r-F- TCP [OR] 93.79.224.176:14506 <-- [L] 192.168.1.34:51311
+        : Unknown
+        : RID 52: Fully Encrypted Flow
+        : DP: 14
+
+offline0: i4pc-gx----r-F- TCP [OR] 82.224.110.241:38895 <-- [L] 192.168.1.34:51298
+        : Unknown
+        : RID 52: Fully Encrypted Flow
+        : DP: 14
+
+offline0: i4pc-gx-------- TCP [OR] 91.190.218.125:443 <-- [L] 192.168.1.34:51286
+        : HTTP/S
+        : DP: 6
+
+offline0: i4pc-gx------F- TCP [OR] 111.221.77.142:443 <-- [L] 192.168.1.34:51259
+        : HTTP/S
+        : DP: 14
+
+offline0: i4pc--x----r--- UDP [L] 192.168.1.1:53 <-- [OL] 192.168.1.34:61016
+        : DNS.netify.skype
+        : H: apps.skypeassets.com
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-gx----r-F- TCP [OR] 157.56.52.44:40020 <-- [L] 192.168.1.34:51246
+        : Unknown
+        : RID 52: Fully Encrypted Flow
+        : DP: 16
+
+offline0: i4pc-gx----r-F- TCP [OR] 71.238.7.203:18767 <-- [L] 192.168.1.34:51289
+        : Unknown
+        : RID 52: Fully Encrypted Flow
+        : DP: 17
+
+offline0: i4pc-gx----r-F- TCP [OR] 157.55.235.156:40026 <-- [L] 192.168.1.34:51277
+        : Unknown
+        : RID 52: Fully Encrypted Flow
+        : DP: 17
+
+offline0: i4pc-gx----r-F- TCP [OR] 64.4.23.166:40029 <-- [L] 192.168.1.34:51251
+        : Unknown
+        : RID 52: Fully Encrypted Flow
+        : DP: 16
+
+offline0: i4pc-gx------F- TCP [OR] 64.4.23.159:443 <-- [L] 192.168.1.34:51282
+        : HTTP/S
+        : DP: 13
+
+offline0: i4pc-gx----r-F- TCP [L] 192.168.1.34:51258 --> [OR] 213.199.179.176:40021
+        : Unknown
+        : RID 52: Fully Encrypted Flow
+        : DP: 19
+
+offline0: i4pc-gx----r--- TCP [OR] 76.167.161.6:20274 <-- [L] 192.168.1.34:51300
+        : Unknown
+        : RID 51: TCP Connection Issues
+        : DP: 3
+
+offline0: i4pc-gx----r-F- TCP [OR] 111.221.74.45:40008 <-- [L] 192.168.1.34:51236
+        : Unknown
+        : RID 52: Fully Encrypted Flow
+        : DP: 16
+
+offline0: i4pc--x----r--- UDP [L] 192.168.1.1:5351 <-- [OL] 192.168.1.34:59052
+        : NAT/PMP
+        : RID 46: Unidirectional Traffic
+        : DP: 4
+
+offline0: i4pc-gx----r-F- TCP [OR] 157.55.130.142:40005 <-- [L] 192.168.1.34:51255
+        : Unknown
+        : RID 52: Fully Encrypted Flow
+        : DP: 17
+
+offline0: i4pc-gx----r-F- TCP [OR] 5.248.186.221:31010 <-- [L] 192.168.1.34:51290
+        : Unknown
+        : RID 52: Fully Encrypted Flow
+        : DP: 18
+

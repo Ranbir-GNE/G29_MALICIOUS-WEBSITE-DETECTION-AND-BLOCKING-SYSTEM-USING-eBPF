@@ -1,0 +1,119 @@
+offline0: i4pc-------r--- ICMP [OR] 35.158.183.167:0 --> [L] 192.168.12.169:0
+        : ICMP
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc--------s-- UDP [OR] 35.158.183.167:3478 <-- [L] 192.168.12.169:39518
+        : SignalCall.netify.signal
+        : H: signal.org
+        : DP: 4
+
+offline0: i4pc----------- UDP [OR] 35.158.183.167:3478 <-- [L] 192.168.12.169:47204
+        : SignalCall
+        : DP: 3
+
+offline0: i4pc-------r--- UDP [OR] 35.158.183.167:443 <-- [L] 192.168.12.169:47204
+        : STUN
+        : RID 16: Known Protocol on Non-standard Port
+        : RID 46: Unidirectional Traffic
+        : DP: 5
+
+offline0: i4pc-------r--- UDP [OR] 35.158.183.167:443 <-- [L] 192.168.12.169:39518
+        : STUN
+        : RID 16: Known Protocol on Non-standard Port
+        : RID 46: Unidirectional Traffic
+        : DP: 5
+
+offline0: i4pc-------rs-- UDP [OR] 35.158.183.167:3478 <-- [L] 192.168.12.169:43068
+        : SignalCall.netify.signal
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------rs-- UDP [OR] 35.158.183.167:3478 <-- [L] 192.168.12.169:39950
+        : SignalCall.netify.signal
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [OR] 35.158.183.167:443 <-- [L] 192.168.12.169:43068
+        : STUN
+        : RID 16: Known Protocol on Non-standard Port
+        : RID 46: Unidirectional Traffic
+        : DP: 5
+
+offline0: i4pc-------r--- UDP [OR] 35.158.183.167:443 <-- [L] 192.168.12.169:39950
+        : STUN
+        : RID 16: Known Protocol on Non-standard Port
+        : RID 46: Unidirectional Traffic
+        : DP: 5
+
+offline0: i4pc-------r--- UDP [OR] 18.195.131.143:61156 --> [L] 192.168.12.169:43068
+        : STUN
+        : RID 16: Known Protocol on Non-standard Port
+        : DP: 5
+
+offline0: i4pc-------rs-- UDP [OR] 172.253.121.127:19302 <-- [L] 192.168.12.169:43068
+        : Google/Meet/Duo.netify.google-hangouts
+        : RID 16: Known Protocol on Non-standard Port
+        : DP: 5
+
+offline0: i4pc-------rs-- UDP [OR] 172.253.121.127:19302 <-- [L] 192.168.12.169:39950
+        : Google/Meet/Duo.netify.google-hangouts
+        : RID 16: Known Protocol on Non-standard Port
+        : DP: 5
+
+offline0: i4pc-------r--- ICMP [OR] 35.158.122.211:0 --> [L] 192.168.12.169:0
+        : ICMP
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc--------s-- UDP [OR] 35.158.122.211:3478 <-- [L] 192.168.12.169:47767
+        : SignalCall.netify.signal
+        : H: signal.org
+        : DP: 3
+
+offline0: i4pc----------- UDP [OR] 35.158.122.211:3478 <-- [L] 192.168.12.169:37970
+        : SignalCall
+        : DP: 3
+
+offline0: i4pc-------r--- UDP [OR] 35.158.122.211:443 <-- [L] 192.168.12.169:47767
+        : STUN
+        : RID 16: Known Protocol on Non-standard Port
+        : RID 46: Unidirectional Traffic
+        : DP: 5
+
+offline0: i4pc-------r--- UDP [OR] 35.158.122.211:443 <-- [L] 192.168.12.169:37970
+        : STUN
+        : RID 16: Known Protocol on Non-standard Port
+        : RID 46: Unidirectional Traffic
+        : DP: 5
+
+offline0: i4pc-------r--- UDP [OR] 18.195.131.143:54054 --> [L] 192.168.12.169:47767
+        : STUN
+        : RID 16: Known Protocol on Non-standard Port
+        : DP: 5
+
+offline0: i4pc-------r--- UDP [OR] 18.195.131.143:61498 --> [L] 192.168.12.169:47767
+        : STUN
+        : RID 16: Known Protocol on Non-standard Port
+        : DP: 5
+
+offline0: i4pc-------rs-- UDP [OR] 172.253.121.127:19302 <-- [L] 192.168.12.169:37970
+        : Google/Meet/Duo.netify.google-hangouts
+        : RID 16: Known Protocol on Non-standard Port
+        : DP: 5
+
+offline0: i4pc-------rs-- UDP [OR] 172.253.121.127:19302 <-- [L] 192.168.12.169:47767
+        : Google/Meet/Duo.netify.google-hangouts
+        : RID 16: Known Protocol on Non-standard Port
+        : DP: 5
+
+offline0: i4pc--x----rs-- UDP [OR] 172.253.121.127:19302 <-- [L] 192.168.12.169:47204
+        : Google/Meet/Duo.netify.google-hangouts
+        : RID 16: Known Protocol on Non-standard Port
+        : DP: 4
+
+offline0: i4pc--x----rs-- UDP [OR] 172.253.121.127:19302 <-- [L] 192.168.12.169:39518
+        : Google/Meet/Duo.netify.google-hangouts
+        : RID 16: Known Protocol on Non-standard Port
+        : DP: 4
+

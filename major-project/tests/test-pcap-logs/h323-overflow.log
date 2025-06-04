@@ -1,0 +1,5 @@
+offline0: i4pc-gx----r--- TCP [L] 192.168.1.1:31337 --> [OL] 192.168.1.2:80
+        : HTTP
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+

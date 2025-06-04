@@ -1,0 +1,86 @@
+# Created by: Darryl Sokoloski <darryl@egloo.ca>
+
+PORTNAME=@PACKAGE_TARNAME@
+PORTVERSION=@PACKAGE_VERSION@
+CATEGORIES=security
+MASTER_SITES=http://download.netify.ai/netify/source/
+
+MAINTAINER=darryl@egloo.ca
+COMMENT=Netify Agent Deep-packet Inspection Processor
+WWW=https://netify.ai/
+
+LICENSE=GPLv3+
+LICENSE_FILE=${WRKSRC}/LICENSE
+
+BUILD_DEPENDS=flex:textproc/flex
+LIB_DEPENDS=\
+	libcurl.so:ftp/curl \
+	libpcap.so:net/libpcap \
+	libgcrypt.so:security/libgcrypt \
+	libgpg-error.so:security/libgpg-error
+
+USES=\
+	autoreconf \
+	bison \
+	compiler:c++11-lang \
+	gmake \
+	libtool \
+	localbase:ldflags \
+	pathfix \
+	pkgconfig \
+	shebangfix
+
+GNU_CONFIGURE=yes
+
+USE_RC_SUBR=@PACKAGE_TARNAME@
+USE_LDCONFIG=yes
+
+SHEBANG_FILES=\
+	doc/json-socket-example.sh
+
+INSTALL_TARGET=install-strip
+
+OPTIONS_DEFINE=MAKE_JOBS LOCAL_GCRYPT DEVEL
+OPTIONS_DEFAULT=MAKE_JOBS LOCAL_GCRYPT DEVEL
+OPTIONS_SUB=yes
+
+LOCAL_GCRYPT_DESC=Use system libgcrypt/libgpg-error libraries
+LOCAL_GCRYPT_CONFIGURE_WITH=local-libcrypt
+
+MAKE_JOBS_DESC=Enable parallel build
+MAKE_JOBS_VARS_OFF=MAKE_JOBS_UNSAFE=yes
+
+DEVEL_DESC=Install development files
+
+SUB_LIST=PACKAGE_TARNAME=@PACKAGE_TARNAME@
+
+CONFIGURE_ARGS=\
+	MAKE=${GMAKE} YACC=bison \
+	--with-volatilestatedir=/var/run/@PACKAGE_TARNAME@ \
+	--with-pic=inih --disable-libtcmalloc
+
+INSTALL_TARGET=install-strip
+
+post-install:
+	${MKDIR} ${STAGEDIR}/var/run/netifyd
+	${MV} ${STAGEDIR}${PREFIX}/etc/netifyd.conf ${STAGEDIR}${PREFIX}/etc/netifyd.conf.sample
+	${MV} ${STAGEDIR}${PREFIX}/etc/netifyd/netify-apps.conf ${STAGEDIR}${PREFIX}/etc/netifyd/netify-apps.conf.sample
+	${MV} ${STAGEDIR}${PREFIX}/etc/netifyd/netify-categories.json ${STAGEDIR}${PREFIX}/etc/netifyd/netify-categories.json.sample
+	${RM} ${STAGEDIR}/lib/libndpi.*
+	${RM} ${STAGEDIR}${PREFIX}/bin/check-protocols
+	${RM} ${STAGEDIR}${PREFIX}/bin/check-risks
+	${RM} ${STAGEDIR}${PREFIX}/bin/ndpiReader
+	${RM} ${STAGEDIR}${ETCDIR}/interfaces.d/10-example-nfq.conf
+	${RM} ${STAGEDIR}${ETCDIR}/interfaces.d/10-example-tpv3.conf
+	${RM} ${STAGEDIR}${PREFIX}/libdata/pkgconfig/libndpi.pc
+	${RM} ${STAGEDIR}${DATADIR}/../ndpi/ndpiCustomCategory.txt
+	${RM} ${STAGEDIR}${DATADIR}/../ndpi/ndpiProtos.txt
+	${RMDIR} ${STAGEDIR}${DATADIR}/../ndpi
+	${RM} ${STAGEDIR}${DATADIR}/README-JSON-socket-example.md
+	${RM} ${STAGEDIR}${DATADIR}/json-socket-example.sh
+	${RM} ${STAGEDIR}${DATADIR}/json-socket-filter.jq
+
+post-install-DEVEL-on:
+	${MV} ${STAGEDIR}${PREFIX}/include/ndpi ${STAGEDIR}${PREFIX}/include/netifyd
+
+.include <bsd.port.mk>

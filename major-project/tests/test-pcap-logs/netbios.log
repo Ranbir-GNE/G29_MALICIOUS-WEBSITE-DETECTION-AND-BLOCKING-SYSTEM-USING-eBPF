@@ -1,0 +1,81 @@
+offline0: i4pc----------- UDP [L] 10.0.4.131:137 --> [OL] 10.0.5.255:137
+        : NETBIOS
+        : H: xstream_hy
+        : DP: 1
+
+offline0: i4pc----------- UDP [L] 10.0.5.233:137 --> [OL] 10.0.5.255:137
+        : NETBIOS
+        : H: ozi
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.5.9:138 --> [OL] 10.0.5.255:138
+        : NETBIOS
+        : H: nvr9
+        : RID 42: Unsafe Protocol
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.1.87:57836 --> [OL] 10.0.4.24:137
+        : NETBIOS
+        : H: _
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc----------- UDP [L] 10.0.4.101:137 --> [OL] 10.0.5.255:137
+        : NETBIOS
+        : H: muli
+        : DP: 1
+
+offline0: i4pc----------- UDP [L] 10.0.4.165:137 --> [OL] 10.0.5.255:137
+        : NETBIOS
+        : H: gunnar
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.4.24:137 --> [OL] 10.0.4.165:137
+        : NETBIOS
+        : H: gunnar
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc----------- UDP [L] 10.0.4.66:137 --> [OL] 10.0.5.255:137
+        : NETBIOS
+        : H: guru
+        : DP: 1
+
+offline0: i4pc----------- UDP [L] 10.0.4.24:137 --> [OL] 10.0.5.255:137
+        : NETBIOS
+        : H: guru
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.4.24:137 <-- [OL] 10.0.5.1:137
+        : NETBIOS
+        : H: guru
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.5.93:138 --> [OL] 10.0.5.255:138
+        : NETBIOS
+        : H: bowie
+        : RID 42: Unsafe Protocol
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.4.24:137 <-- [OL] 10.0.5.233:137
+        : NETBIOS
+        : H: _
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc----------- UDP [L] 10.0.4.14:137 --> [OL] 10.0.5.255:137
+        : NETBIOS
+        : H: guru
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.1.87:57921 --> [OL] 10.0.4.24:137
+        : NETBIOS
+        : H: _
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-gx-------- TCP [L] 10.0.4.24:139 <-- [OL] 10.0.4.131:1398
+        : NETBIOS
+        : DP: 2
+

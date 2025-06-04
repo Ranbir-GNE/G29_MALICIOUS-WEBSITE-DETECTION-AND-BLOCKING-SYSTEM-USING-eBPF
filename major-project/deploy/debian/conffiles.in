@@ -1,0 +1,4 @@
+@sysconfdir@/default/netifyd
+@sysconfdir@/netifyd.conf
+@sysconfdir@/netifyd/netify-apps.conf
+@sysconfdir@/netifyd/netify-categories.json

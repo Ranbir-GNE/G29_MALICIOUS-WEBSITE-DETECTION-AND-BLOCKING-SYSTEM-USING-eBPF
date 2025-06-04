@@ -1,0 +1,6 @@
+offline0: i4pc-------r--- UDP [OR] 104.46.40.49:60642 --> [L] 192.168.2.20:49282
+        : Skype/Teams/Call.netify.teams
+        : RID 16: Known Protocol on Non-standard Port
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+

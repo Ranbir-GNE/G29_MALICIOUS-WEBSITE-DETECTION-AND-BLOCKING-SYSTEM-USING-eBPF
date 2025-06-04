@@ -1,0 +1,15 @@
+offline0: i4pc----------- UDP [L] 192.168.1.1:53 <-- [OL] 192.168.1.178:51954
+        : DNS
+        : H: whois.dot.tk
+        : DP: 2
+
+offline0: i4pc----------- UDP [L] 192.168.1.1:53 <-- [OL] 192.168.1.178:55591
+        : DNS
+        : H: whois.dot.tk
+        : DP: 2
+
+offline0: i4pc----------- UDP [L] 192.168.1.1:53 <-- [OL] 192.168.1.178:53820
+        : DNS
+        : H: whois.dot.tk
+        : DP: 2
+

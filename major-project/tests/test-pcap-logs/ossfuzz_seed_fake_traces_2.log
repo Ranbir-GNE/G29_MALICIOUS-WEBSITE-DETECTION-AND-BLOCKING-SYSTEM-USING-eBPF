@@ -1,0 +1,33 @@
+offline0: i4pc-------r--- TCP [L] 10.10.10.1:32177 <-- [OL] 192.168.0.1:8787
+        : TeamViewer.netify.teamviewer
+        : RID 16: Known Protocol on Non-standard Port
+        : DP: 12
+
+offline0: i4pc----------- TCP [L] 172.26.235.166:55630 --> [OL] 172.30.92.62:119
+        : NNTP
+        : DP: 6
+
+offline0: i4pc----------- TCP [L] 192.168.190.5:119 <-- [OL] 192.168.190.20:55630
+        : NNTP
+        : DP: 6
+
+offline0: i4pc----------- UDP [L] 10.9.0.1:43462 <-- [OL] 10.9.0.2:51820
+        : WireGuard
+        : DP: 2
+
+offline0: i4pc---------F- TCP [L] 172.16.20.75:5432 <-- [OL] 172.16.20.244:59038
+        : PGSQL
+        : DP: 6
+
+offline0: i4pc---------F- TCP [L] 127.0.0.1:1299 <-- [OL] 127.0.0.1:54898
+        : TruPhone
+        : DP: 4
+
+offline0: i4pc---------F- TCP [L] 127.0.0.1:1299 <-- [OL] 127.0.0.1:55536
+        : TruPhone
+        : DP: 4
+
+offline0: i4pc-gx-------- UDP [L] 10.45.123.132:51820 --> [OL] 10.147.205.42:43462
+        : WireGuard
+        : DP: 2
+

@@ -1,0 +1,78 @@
+offline0: i4pc----------- UDP [OR] 97.0.115.163:161 <-- [L] 176.211.60.43:43015
+        : SNMP
+        : DP: 2
+
+offline0: i4pc----------- UDP [OR] 65.2.162.193:59988 --> [L] 130.70.149.185:161
+        : SNMP
+        : DP: 2
+
+offline0: i4pc----------- UDP [OR] 97.0.115.163:161 <-- [L] 176.211.60.43:37224
+        : SNMP
+        : DP: 2
+
+offline0: i4pc----------- UDP [OR] 65.2.162.193:58433 --> [L] 130.70.149.185:161
+        : SNMP
+        : DP: 2
+
+offline0: i4pc----------- UDP [OR] 30.54.142.240:56251 --> [L] 250.58.112.87:161
+        : SNMP
+        : DP: 1
+
+offline0: i4pc----------- UDP [OR] 30.54.142.240:52435 --> [L] 250.58.112.87:161
+        : SNMP
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [OR] 30.79.214.36:161 <-- [L] 35.95.158.217:60440
+        : SNMP
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [OR] 30.79.214.36:161 <-- [L] 35.95.158.217:49306
+        : SNMP
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc----------- UDP [OR] 131.179.49.165:60694 --> [L] 254.158.1.169:161
+        : SNMP
+        : DP: 1
+
+offline0: i4pc----------- UDP [OR] 131.179.49.165:35970 --> [L] 254.158.1.169:161
+        : SNMP
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [OR] 113.19.156.111:54318 --> [L] 135.201.124.55:162
+        : SNMP
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [OR] 160.174.106.32:162 <-- [L] 205.83.36.228:54318
+        : SNMP
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [OR] 103.248.22.47:162 <-- [L] 124.53.196.176:54318
+        : SNMP
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.72.247.4:61088 --> [OL] 10.231.2.134:161
+        : SNMP
+        : RID  8: Error Code
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.99.8.88:43242 --> [OL] 10.100.253.146:161
+        : SNMP
+        : RID  8: Error Code
+        : DP: 2
+
+offline0: i4pc--x----r--- UDP [OR] 189.111.255.214:162 <-- [L] 200.76.132.137:54318
+        : SNMP
+        : RID 46: Unidirectional Traffic
+        : DP: 2
+
+offline0: i4pc--x----r--- UDP [OR] 92.135.15.240:54318 --> [L] 137.49.110.186:162
+        : SNMP
+        : RID 46: Unidirectional Traffic
+        : DP: 2
+

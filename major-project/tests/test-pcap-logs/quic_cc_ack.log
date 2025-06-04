@@ -1,0 +1,10 @@
+offline0: i4pc-------r--- UDP [OR] 71.98.228.93:443 <-- [L] 152.14.223.145:57113
+        : QUIC
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [OR] 108.140.147.22:443 <-- [L] 183.23.159.144:37787
+        : QUIC
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+

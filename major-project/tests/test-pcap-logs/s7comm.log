@@ -1,0 +1,5 @@
+offline0: i4pc-------r--- TCP [L] 192.168.1.10:4185 --> [OL] 192.168.1.40:102
+        : S7comm
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+

@@ -1,0 +1,7 @@
+offline0: i4pc-------r--- UDP [OR] 51.120.20.202:49241 --> [L] 72.119.217.29:443
+        : QUIC.netify.google-dns
+        : H: dns.google.com
+        : TLS/SNI: dns.google.com
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+

@@ -1,0 +1,5 @@
+offline0: i6pc-------r--- IP-ENCAP [OR] 22e0:1685:eda7:38cc:58bd:f3f1:aa3f:22d8:0 --> [L] 344a:ba94:152a:ac34::2a:0
+        : IPinIP
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+

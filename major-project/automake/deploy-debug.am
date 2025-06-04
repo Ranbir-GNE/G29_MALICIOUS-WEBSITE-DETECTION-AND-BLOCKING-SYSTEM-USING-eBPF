@@ -1,0 +1,3 @@
+deploy-debug: all
+	rsync -avl --progress --inplace src/.libs/libnetify*.so* $(DEBUG_HOST):/usr/lib64/
+

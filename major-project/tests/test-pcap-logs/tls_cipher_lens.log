@@ -1,0 +1,37 @@
+offline0: i4pc--x----r--- TCP [OR] 173.194.35.191:443 <-- [L] 192.168.11.11:51589
+        : HTTP/S.netify.google
+        : V: 0x0301
+        : RID 36: Obsolete TLS (v1.1 or older)
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc--x----r--- TCP [OR] 173.194.35.191:443 <-- [L] 192.168.11.11:51590
+        : HTTP/S.netify.google
+        : V: 0x0301
+        : RID 36: Obsolete TLS (v1.1 or older)
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc--x----r--- TCP [OR] 173.194.35.191:443 <-- [L] 192.168.11.11:51591
+        : HTTP/S.netify.google
+        : V: 0x0301
+        : RID 36: Obsolete TLS (v1.1 or older)
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc--x----r--- TCP [OR] 173.194.35.191:443 <-- [L] 192.168.11.11:51587
+        : HTTP/S.netify.google
+        : H: www.google.it
+        : V: 0x0301
+        : TLS/SNI: www.google.it
+        : RID 36: Obsolete TLS (v1.1 or older)
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc--x----r--- TCP [OR] 173.194.35.191:443 <-- [L] 192.168.11.11:51588
+        : HTTP/S.netify.google
+        : V: 0x0301
+        : RID 36: Obsolete TLS (v1.1 or older)
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+

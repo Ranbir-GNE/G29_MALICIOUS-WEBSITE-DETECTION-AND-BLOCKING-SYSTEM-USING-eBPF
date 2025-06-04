@@ -1,0 +1,38 @@
+offline0: i4pc-------r--- TCP [L] 10.52.151.160:39180 --> [OR] 47.241.7.88:5222
+        : Xiaomi
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc----------- TCP [OR] 115.164.74.232:5222 <-- [L] 192.168.244.219:45904
+        : Xiaomi
+        : H: 47.241.35.73
+        : DP: 2
+
+offline0: i4pc----------- TCP [OR] 115.164.74.232:5222 <-- [L] 192.168.247.13:38018
+        : Xiaomi
+        : H: 47.241.35.73
+        : DP: 2
+
+offline0: i4pc----------- TCP [OR] 97.39.119.172:5222 <-- [L] 192.168.93.59:51488
+        : Xiaomi
+        : H: 47.241.59.87
+        : DP: 2
+
+offline0: i4pc----------- TCP [OR] 3.127.176.74:5222 <-- [L] 192.168.2.100:37708
+        : Xiaomi.netify.xiaomi
+        : H: fr-app-chat-global-xiaomi-net1-1667981913.eu-central-1.elb.amazonaws.com
+        : DP: 4
+
+offline0: i4pc----------- TCP [OR] 18.193.233.122:5222 <-- [L] 192.168.2.100:45106
+        : Xiaomi.netify.xiaomi
+        : H: fr-app-chat-global-xiaomi-net2-2117517874.eu-central-1.elb.amazonaws.com
+        : DP: 4
+
+offline0: i4pc--x----r--- TCP [L] 192.168.2.100:48698 --> [OR] 203.107.1.65:80
+        : HTTP
+        : H: 203.107.1.65
+        : HTTP/UA: Dalvik/2.1.0 (Linux; U; Android 10; Redmi Note 9 Pro MIUI/V12.0.3.0.QJZMIXM)
+        : URL: 203.107.1.65/164566/sign_d?host=appmarket.micloud.xiaomi.net&sdk=android_1.3.3&t=1650284179&s=762f2c07cf9262c61753f45b4117c232&sid=jccM7PF4XY0T&net=wifi&bssid=02%3A00%3A00%3A00%3A00%3A00
+        : RID 10: Numeric IP Address
+        : DP: 4
+

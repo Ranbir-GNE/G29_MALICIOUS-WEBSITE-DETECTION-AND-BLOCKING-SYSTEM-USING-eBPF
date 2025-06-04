@@ -1,0 +1,14 @@
+offline0: i4pc-------r--- TCP [L] 127.0.0.1:44205 --> [OR] 127.0.1.1:5672
+        : AMQP
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- TCP [L] 127.0.0.1:44206 --> [OR] 127.0.1.1:5672
+        : AMQP
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc----------- TCP [L] 127.0.0.1:44204 --> [OR] 127.0.1.1:5672
+        : AMQP
+        : DP: 7
+

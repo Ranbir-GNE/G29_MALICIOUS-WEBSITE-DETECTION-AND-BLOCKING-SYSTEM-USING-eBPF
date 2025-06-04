@@ -1,0 +1,122 @@
+offline0: i4pc-------r--- UDP [OR] 109.237.187.193:4500 <-- [L] 192.168.2.100:14500
+        : IPSEC
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [OR] 109.237.187.193:500 <-- [L] 192.168.2.100:10500
+        : IPSEC
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [OR] 109.237.187.195:4500 <-- [L] 192.168.2.100:14500
+        : IPSEC
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [OR] 109.237.187.195:500 <-- [L] 192.168.2.100:10500
+        : IPSEC
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [OR] 109.237.187.194:500 <-- [L] 192.168.2.100:10500
+        : IPSEC
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [OR] 109.237.187.194:4500 <-- [L] 192.168.2.100:14500
+        : IPSEC
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [OR] 109.237.187.225:500 <-- [L] 192.168.2.100:10500
+        : IPSEC
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [OR] 109.237.187.225:4500 <-- [L] 192.168.2.100:14500
+        : IPSEC
+        : RID 17: Malformed Packet
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [OR] 109.237.187.131:500 <-- [L] 192.168.2.100:10500
+        : IPSEC
+        : RID 17: Malformed Packet
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [OR] 109.237.187.131:4500 <-- [L] 192.168.2.100:14500
+        : IPSEC
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [OR] 109.237.187.193:4500 <-- [L] 192.168.2.100:43811
+        : IPSEC
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [OR] 109.237.187.193:500 <-- [L] 192.168.2.100:43811
+        : IPSEC
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [OR] 109.237.187.129:500 <-- [L] 192.168.2.100:10500
+        : IPSEC
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [OR] 109.237.187.129:4500 <-- [L] 192.168.2.100:14500
+        : IPSEC
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [OR] 109.237.187.227:500 <-- [L] 192.168.2.100:10500
+        : IPSEC
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [OR] 109.237.187.227:4500 <-- [L] 192.168.2.100:14500
+        : IPSEC
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [OR] 109.237.187.226:500 <-- [L] 192.168.2.100:10500
+        : IPSEC
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [OR] 109.237.187.226:4500 <-- [L] 192.168.2.100:14500
+        : IPSEC
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [OR] 109.237.187.130:500 <-- [L] 192.168.2.100:10500
+        : IPSEC
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [OR] 109.237.187.130:4500 <-- [L] 192.168.2.100:14500
+        : IPSEC
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [OR] 109.237.187.193:4500 <-- [L] 192.168.2.100:42593
+        : IPSEC
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [OR] 109.237.187.193:500 <-- [L] 192.168.2.100:42593
+        : IPSEC
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [OR] 109.237.187.194:4500 <-- [L] 192.168.2.100:41618
+        : IPSEC
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [OR] 109.237.187.194:500 <-- [L] 192.168.2.100:41618
+        : IPSEC
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+

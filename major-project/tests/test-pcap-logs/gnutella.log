@@ -1,0 +1,4029 @@
+offline0: i6pc----------- IPv6-ICMP [L] :::0 --> [OM] ff02::1:ffa4:e108:0
+        : ICMPv6
+        : DP: 1
+
+offline0: i6pc----------- IPv6-ICMP [L] fe80::c50d:519f:96a4:e108:0 --> [OM] ff02::2:0
+        : ICMPv6
+        : DP: 1
+
+offline0: i6pc----------- IPv6-ICMP [L] fe80::c50d:519f:96a4:e108:0 --> [OM] ff02::16:0
+        : ICMPv6
+        : DP: 1
+
+offline0: i6pc----------- IPv6-ICMP [L] fe80::c50d:519f:96a4:e108:0 --> [OM] ff02::1:0
+        : ICMPv6
+        : DP: 1
+
+offline0: i4pc----------- UDP [L] 0.0.0.0:68 --> [OB] 255.255.255.255:67
+        : DHCP
+        : H: msedgewin10
+        : DHCP/FP: 1,3,6,15,31,33,43,44,46,47,119,121,249,252 DHCP/CI: MSFT 5.0
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.2.2:67 <-- [OL] 10.0.2.15:68
+        : DHCP
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i6pc----------- UDP [L] fe80::c50d:519f:96a4:e108:546 <-- [OM] ff02::1:2:547
+        : DHCPv6
+        : DP: 1
+
+offline0: i4pc----------- IGMP [L] 10.0.2.15:0 --> [OM] 224.0.0.22:0
+        : IGMP
+        : DP: 1
+
+offline0: i6pc----------- UDP [L] fe80::c50d:519f:96a4:e108:63717 --> [OM] ff02::1:3:5355
+        : LLMNR
+        : H: msedgewin10
+        : DP: 1
+
+offline0: i4pc----------- UDP [L] 10.0.2.15:5353 --> [OM] 224.0.0.251:5353
+        : MDNS.netify.internal-network
+        : H: msedgewin10.local
+        : DP: 2
+
+offline0: i4pc----------- UDP [L] 10.0.2.15:63717 --> [OM] 224.0.0.252:5355
+        : LLMNR
+        : H: msedgewin10
+        : DP: 1
+
+offline0: i6pc----------- UDP [L] fe80::c50d:519f:96a4:e108:5353 --> [OM] ff02::fb:5353
+        : MDNS.netify.internal-network
+        : H: msedgewin10.local
+        : DP: 2
+
+offline0: i4pc----------- UDP [L] 10.0.2.15:137 --> [OL] 10.0.2.255:137
+        : NETBIOS
+        : H: msedgewin10
+        : DP: 1
+
+offline0: i6pc----------- UDP [L] fe80::c50d:519f:96a4:e108:63958 --> [OM] ff02::c:3702
+        : WSD
+        : DP: 1
+
+offline0: i4pc----------- UDP [L] 10.0.2.15:63957 --> [OM] 239.255.255.250:3702
+        : WSD
+        : DP: 1
+
+offline0: i4pc----------- UDP [L] 10.0.2.15:63962 --> [OM] 239.255.255.250:1900
+        : SSDP
+        : H: 239.255.255.250_1900
+        : DP: 1
+
+offline0: i6pc----------- UDP [L] fe80::c50d:519f:96a4:e108:63960 --> [OM] ff02::c:1900
+        : SSDP
+        : H: _ff02__c__1900
+        : DP: 1
+
+offline0: i6pc----------- UDP [L] fe80::c50d:519f:96a4:e108:63965 --> [OM] ff02::c:3702
+        : WSD
+        : DP: 1
+
+offline0: i4pc----------- UDP [L] 10.0.2.15:63964 --> [OM] 239.255.255.250:3702
+        : WSD
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.2.15:138 --> [OL] 10.0.2.255:138
+        : NETBIOS
+        : H: msedgewin10
+        : RID 42: Unsafe Protocol
+        : DP: 1
+
+offline0: i4pc----------- UDP [L] 10.0.2.15:55708 --> [OM] 239.255.255.250:1900
+        : SSDP
+        : H: 239.255.255.250_1900
+        : HTTP/UA: Microsoft Edge/99.0.1150.30 Windows
+        : DP: 1
+
+offline0: i6pc----------- UDP [L] fe80::c50d:519f:96a4:e108:62539 --> [OM] ff02::1:3:5355
+        : LLMNR
+        : H: puppet
+        : DP: 1
+
+offline0: i4pc----------- UDP [L] 10.0.2.15:62539 --> [OM] 224.0.0.252:5355
+        : LLMNR
+        : H: puppet
+        : DP: 1
+
+offline0: i6pc----------- UDP [L] fe80::c50d:519f:96a4:e108:50435 --> [OM] ff02::1:3:5355
+        : LLMNR
+        : H: puppet
+        : DP: 1
+
+offline0: i4pc----------- UDP [L] 10.0.2.15:50435 --> [OM] 224.0.0.252:5355
+        : LLMNR
+        : H: puppet
+        : DP: 1
+
+offline0: i4pc-------r-F- TCP [L] 10.0.2.15:50199 --> [OR] 47.147.52.21:36728
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : DP: 4
+
+offline0: i4pc-------r-F- TCP [L] 10.0.2.15:50196 --> [OR] 218.250.6.59:12556
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : DP: 4
+
+offline0: i4pc-------r-F- TCP [L] 10.0.2.15:50197 --> [OR] 118.168.15.71:3931
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : DP: 4
+
+offline0: i4pc-------r-F- TCP [L] 10.0.2.15:50203 --> [OR] 61.222.160.99:18994
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : DP: 4
+
+offline0: i4pc-------r-F- TCP [L] 10.0.2.15:50206 --> [OR] 175.181.156.244:8255
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : DP: 4
+
+offline0: i4pc----------- UDP [L] 10.0.2.15:57623 --> [OM] 239.255.255.250:1900
+        : SSDP
+        : H: 239.255.255.250_1900
+        : HTTP/UA: gtk-gnutella/1.2.2 (2022-02-25)
+        : DP: 1
+
+offline0: i4pc-------r-F- TCP [L] 10.0.2.15:50211 --> [OR] 14.199.10.60:23458
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : DP: 4
+
+offline0: i4pc-------r-F- TCP [L] 10.0.2.15:50226 --> [OR] 116.241.162.162:15677
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : DP: 4
+
+offline0: i4pc-------r-F- TCP [L] 10.0.2.15:50236 --> [OR] 93.29.135.209:6346
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : DP: 4
+
+offline0: i4pc-------r-F- TCP [L] 10.0.2.15:50235 --> [OR] 45.88.118.70:6906
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : DP: 4
+
+offline0: i4pc-------r-F- TCP [L] 10.0.2.15:50232 --> [OR] 182.155.242.225:15068
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : DP: 4
+
+offline0: i4pc-------r--- UDP [L] 10.0.2.15:28681 --> [OR] 85.138.20.110:6346
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.2.15:28681 --> [OR] 74.210.244.72:6346
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.2.15:28681 <-- [OR] 92.131.85.245:31743
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.2.15:28681 --> [OR] 81.50.24.2:17874
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- ICMP [L] 10.0.2.2:0 --> [OL] 10.0.2.15:0
+        : ICMP
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r-F- TCP [L] 10.0.2.15:50249 --> [OR] 86.208.180.181:45883
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : DP: 4
+
+offline0: i4pc-------r--- UDP [L] 10.0.2.15:28681 --> [OR] 88.160.214.137:6346
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.2.15:28681 <-- [OR] 24.78.134.188:49046
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.2.15:28681 --> [OR] 203.222.14.170:23332
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.2.15:28681 --> [OR] 114.38.9.82:24223
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.2.15:28681 --> [OR] 220.133.122.217:23458
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.2.15:28681 --> [OR] 123.205.126.102:5193
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.2.15:28681 --> [OR] 218.164.39.233:20855
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.2.15:28681 --> [OR] 220.134.167.82:5820
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.2.15:28681 --> [OR] 42.98.115.128:23458
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.2.15:28681 --> [OR] 219.85.11.85:10722
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.2.15:28681 --> [OR] 114.39.154.69:4832
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.2.15:28681 --> [OR] 202.151.63.59:7624
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.2.15:28681 --> [OR] 112.119.242.110:7922
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.2.15:28681 <-- [OR] 88.169.2.153:52414
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.2.15:28681 <-- [OR] 195.132.75.56:56009
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.2.15:28681 --> [OR] 90.65.141.157:6346
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.2.15:28681 --> [OR] 36.239.213.146:21750
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.2.15:28681 <-- [OR] 105.101.132.146:57746
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.2.15:28681 --> [OR] 86.23.75.69:6346
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.2.15:28681 --> [OR] 154.3.42.104:11804
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.2.15:28681 --> [OR] 124.44.190.145:10170
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.2.15:28681 --> [OR] 200.120.243.143:6346
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [OR] 5.180.62.100:46385 --> [L] 10.0.2.15:28681
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r-F- TCP [L] 10.0.2.15:50248 --> [OR] 109.214.154.216:6346
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : DP: 4
+
+offline0: i4pc-------r-F- TCP [L] 10.0.2.15:50250 --> [OR] 27.94.154.53:6346
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : DP: 4
+
+offline0: i4pc-------r-F- TCP [L] 10.0.2.15:50252 --> [OR] 123.202.31.113:19768
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : DP: 4
+
+offline0: i4pc-------r-F- TCP [L] 10.0.2.15:50253 --> [OR] 103.232.107.100:43508
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : DP: 4
+
+offline0: i4pc-------r--- UDP [L] 10.0.2.15:28681 --> [OR] 170.254.19.6:24180
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.2.15:28681 <-- [OR] 83.92.178.182:57302
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.2.15:28681 --> [OR] 91.69.159.133:28000
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.2.15:28681 --> [OR] 176.191.49.159:1024
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.2.15:28681 <-- [OR] 77.141.219.27:37580
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.2.15:28681 <-- [OR] 176.138.50.179:29411
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.2.15:28681 <-- [OR] 119.224.95.97:46356
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.2.15:28681 --> [OR] 86.225.140.186:6346
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.2.15:28681 --> [OR] 79.86.173.45:6346
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.2.15:28681 --> [OR] 91.175.220.161:15721
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.2.15:28681 --> [OR] 78.231.73.14:6346
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.2.15:28681 --> [OR] 193.250.99.158:6346
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.2.15:28681 --> [OR] 80.236.247.120:16047
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.2.15:28681 --> [OR] 82.65.70.197:21693
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.2.15:28681 --> [OR] 167.114.170.156:23844
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.2.15:28681 --> [OR] 165.169.226.142:6346
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.2.15:28681 --> [OR] 77.197.111.186:6346
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.2.15:28681 --> [OR] 172.97.199.14:6346
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r-F- TCP [L] 10.0.2.15:50262 --> [OR] 80.61.221.246:30577
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : DP: 4
+
+offline0: i4pc-------r-F- TCP [L] 10.0.2.15:50259 --> [OR] 183.179.90.112:9852
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : DP: 4
+
+offline0: i4pc-------r-F- TCP [L] 10.0.2.15:50261 --> [OR] 156.57.42.2:33476
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : DP: 4
+
+offline0: i4pc-------r-F- TCP [L] 10.0.2.15:50198 --> [OR] 86.129.196.84:9915
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : DP: 6
+
+offline0: i4pc-------r--- UDP [L] 10.0.2.15:28681 <-- [OR] 174.115.111.224:51984
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.2.15:28681 --> [OR] 88.168.182.103:6346
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.2.15:28681 --> [OR] 86.244.228.86:10131
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.2.15:28681 --> [OR] 86.227.162.150:6346
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.2.15:28681 --> [OR] 118.166.226.70:6346
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.2.15:28681 --> [OR] 176.163.231.160:6346
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.2.15:28681 <-- [OR] 83.150.49.35:32448
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.2.15:28681 <-- [OR] 213.120.26.86:29946
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.2.15:28681 <-- [OR] 88.123.159.111:44729
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.2.15:28681 --> [OR] 88.126.160.158:6346
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.2.15:28681 --> [OR] 142.197.219.85:26234
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.2.15:28681 <-- [OR] 86.75.43.182:43502
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.2.15:28681 --> [OR] 90.59.253.186:15555
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.2.15:28681 --> [OR] 93.29.107.176:20363
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.2.15:28681 <-- [OR] 89.157.59.43:56919
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.2.15:28681 <-- [OR] 91.162.52.93:34799
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.2.15:28681 <-- [OR] 67.193.8.52:38584
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.2.15:28681 --> [OR] 196.217.132.111:25394
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.2.15:28681 --> [OR] 87.69.142.133:15471
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.2.15:28681 <-- [OR] 121.99.222.36:44988
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.2.15:28681 <-- [OR] 196.74.159.56:29271
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.2.15:28681 --> [OR] 115.69.62.99:6346
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.2.15:28681 --> [OR] 41.99.164.4:6346
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.2.15:28681 --> [OR] 69.157.183.106:6346
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.2.15:28681 --> [OR] 83.46.253.7:6346
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.2.15:28681 --> [OR] 178.51.146.115:6346
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.2.15:28681 <-- [OR] 66.131.24.72:30711
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.2.15:28681 --> [OR] 66.177.5.135:6346
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.2.15:28681 <-- [OR] 73.3.103.37:35589
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.2.15:28681 <-- [OR] 91.172.15.182:37829
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.2.15:28681 --> [OR] 86.239.62.213:6346
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.2.15:28681 --> [OR] 109.132.196.58:6346
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.2.15:28681 <-- [OR] 91.182.44.202:30277
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.2.15:28681 --> [OR] 92.88.92.56:21009
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.2.15:28681 <-- [OR] 83.134.107.32:38836
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.2.15:28681 --> [OR] 115.195.105.243:6346
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.2.15:28681 --> [OR] 165.169.195.227:6346
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.2.15:28681 <-- [OR] 190.153.143.54:65535
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.2.15:28681 <-- [OR] 92.8.59.80:35192
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.2.15:28681 <-- [OR] 188.44.126.74:54633
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.2.15:28681 --> [OR] 176.150.126.156:16471
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.2.15:28681 --> [OR] 177.231.151.16:6346
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.2.15:28681 --> [OR] 88.127.72.106:6346
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.2.15:28681 <-- [OR] 208.92.106.151:32476
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.2.15:28681 --> [OR] 58.182.171.50:15180
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.2.15:28681 <-- [OR] 114.73.129.26:53585
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.2.15:28681 <-- [OR] 138.199.16.123:52993
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.2.15:28681 <-- [OR] 85.170.209.214:46210
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.2.15:28681 --> [OR] 176.134.139.39:6346
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.2.15:28681 <-- [OR] 120.156.204.38:54832
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.2.15:28681 <-- [OR] 84.126.240.32:45313
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.2.15:28681 --> [OR] 96.29.197.138:6346
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.2.15:28681 --> [OR] 213.166.132.204:11194
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.2.15:28681 --> [OR] 81.242.191.215:6346
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.2.15:28681 --> [OR] 81.249.64.215:25058
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.2.15:28681 --> [OR] 91.179.98.234:6346
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.2.15:28681 --> [OR] 41.100.120.146:12838
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.2.15:28681 --> [OR] 186.93.139.92:6346
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.2.15:28681 --> [OR] 36.233.3.223:12848
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [OR] 5.180.62.37:6346 <-- [L] 10.0.2.15:28681
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.2.15:28681 --> [OR] 91.169.215.227:26820
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.2.15:28681 --> [OR] 78.159.27.22:17563
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.2.15:28681 --> [OR] 212.68.248.153:27223
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.2.15:28681 --> [OR] 126.117.45.151:19323
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.2.15:28681 <-- [OR] 176.155.52.115:53956
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.2.15:28681 <-- [OR] 76.30.86.144:53821
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r-F- TCP [L] 10.0.2.15:50267 --> [OR] 113.252.86.162:9239
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : DP: 4
+
+offline0: i4pc-------r-F- TCP [L] 10.0.2.15:50268 --> [OR] 210.209.249.84:24751
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : DP: 4
+
+offline0: i4pc-------r-F- TCP [L] 10.0.2.15:50269 --> [OR] 218.103.139.2:3186
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : DP: 4
+
+offline0: i4pc-------r-F- TCP [L] 10.0.2.15:50285 --> [OR] 75.133.101.93:52367
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : DP: 4
+
+offline0: i4pc-------r-F- TCP [L] 10.0.2.15:50284 --> [OR] 104.156.226.72:53258
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : DP: 4
+
+offline0: i4pc-------r--- UDP [L] 10.0.2.15:28681 <-- [OR] 96.65.68.194:35481
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.2.15:28681 <-- [OR] 181.84.178.16:60262
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.2.15:28681 --> [OR] 66.30.221.181:12012
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.2.15:28681 --> [OR] 45.88.117.218:6909
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.2.15:28681 --> [OR] 51.68.153.214:26253
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.2.15:28681 <-- [OR] 185.203.218.92:56962
+        : Gnutella.netify.nordvpn
+        : RID 42: Unsafe Protocol
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.2.15:28681 <-- [OR] 72.140.120.41:47739
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.2.15:28681 <-- [OR] 193.37.255.130:61616
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.2.15:28681 --> [OR] 88.120.73.215:24562
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.2.15:28681 <-- [OR] 80.61.221.246:30577
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.2.15:28681 <-- [OR] 96.246.156.126:50297
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.2.15:28681 <-- [OR] 82.181.251.218:36368
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.2.15:28681 --> [OR] 24.26.216.95:13889
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.2.15:28681 <-- [OR] 103.232.107.100:43508
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.2.15:28681 --> [OR] 46.128.114.107:6578
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.2.15:28681 --> [OR] 60.241.48.194:21301
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.2.15:28681 <-- [OR] 89.75.52.19:46010
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.2.15:28681 --> [OR] 82.217.176.52:7446
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.2.15:28681 --> [OR] 95.10.205.67:11603
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.2.15:28681 --> [OR] 203.220.198.244:1194
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r-F- TCP [L] 10.0.2.15:50300 --> [OR] 188.61.52.183:11852
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : DP: 4
+
+offline0: i4pc-------r-F- TCP [L] 10.0.2.15:50316 --> [OR] 142.132.165.13:30566
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : DP: 4
+
+offline0: i4pc-------r-F- TCP [L] 10.0.2.15:50296 --> [OR] 77.58.211.52:3806
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : DP: 4
+
+offline0: i4pc-------r-F- TCP [L] 10.0.2.15:50320 --> [OR] 194.163.180.126:10825
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : DP: 4
+
+offline0: i4pc-------r-F- TCP [L] 10.0.2.15:50319 --> [OR] 185.187.74.173:53489
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : DP: 4
+
+offline0: i4pc-------r-F- TCP [L] 10.0.2.15:50317 --> [OR] 188.165.203.190:21995
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : DP: 4
+
+offline0: i4pc-------r-F- TCP [L] 10.0.2.15:50303 --> [OR] 88.120.73.215:24562
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : DP: 4
+
+offline0: i4pc-------r-F- TCP [L] 10.0.2.15:50318 --> [OR] 193.32.126.214:59596
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : DP: 4
+
+offline0: i4pc-------r-F- TCP [L] 10.0.2.15:50312 --> [OR] 104.238.172.250:23548
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : DP: 4
+
+offline0: i4pc-------r-F- TCP [L] 10.0.2.15:50304 --> [OR] 85.168.34.105:39908
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : DP: 4
+
+offline0: i4pc-------r-F- TCP [L] 10.0.2.15:50323 --> [OR] 51.68.153.214:26253
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : DP: 4
+
+offline0: i4pc-------r-F- TCP [L] 10.0.2.15:50301 --> [OR] 87.123.54.234:54130
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : DP: 4
+
+offline0: i4pc-------r-F- TCP [L] 10.0.2.15:50298 --> [OR] 46.128.114.107:6578
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : DP: 4
+
+offline0: i4pc-------r-F- TCP [L] 10.0.2.15:50322 --> [OR] 164.132.10.25:55302
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : DP: 4
+
+offline0: i4pc-------r-F- TCP [L] 10.0.2.15:50307 --> [OR] 176.99.176.20:6346
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : DP: 4
+
+offline0: i4pc-------r-F- TCP [L] 10.0.2.15:50295 --> [OR] 38.142.119.234:49732
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : DP: 4
+
+offline0: i4pcu------r-F- TCP [L] 10.0.2.15:50314 --> [OR] 80.7.252.192:6888
+        : TLS
+        : V: 0x0303 CS: 0xc02f
+        : TLS/CN: gtk-gnutella1.2.1
+        : TLS/IDN: CN=gtk-gnutella/1.2.1 TLS/SDN: CN=gtk-gnutella/1.2.1
+        : RID 16: Known Protocol on Non-standard Port
+        : RID 32: TLS Certificate Validity Too Long
+        : RID 35: TLS SNI Extension Not Found
+        : RID 37: Self-signed Certificate
+        : RID 47: TLS ALPN Not Found
+        : DP: 6
+
+offline0: i4pc-------r-F- TCP [L] 10.0.2.15:50308 --> [OR] 193.37.255.130:61616
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : DP: 4
+
+offline0: i4pc-------r-F- TCP [L] 10.0.2.15:50313 --> [OR] 96.65.68.194:35481
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : DP: 4
+
+offline0: i4pc-------r-F- TCP [L] 10.0.2.15:50315 --> [OR] 45.31.152.112:26851
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : DP: 4
+
+offline0: i4pc-------r--- TCP [L] 10.0.2.15:50302 --> [OR] 75.64.6.175:4743
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : DP: 4
+
+offline0: i4pc-------r--- TCP [L] 10.0.2.15:50293 --> [OR] 97.83.183.148:8890
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : DP: 4
+
+offline0: i4pc-------r-F- TCP [L] 10.0.2.15:50311 --> [OR] 149.28.163.175:49956
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : DP: 4
+
+offline0: i4pc-------r--- TCP [L] 10.0.2.15:50306 --> [OR] 220.238.145.82:33527
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : DP: 4
+
+offline0: i4pc-------r-F- TCP [L] 10.0.2.15:50299 --> [OR] 203.220.198.244:1194
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : DP: 4
+
+offline0: i4pc-------r-F- TCP [L] 10.0.2.15:50309 --> [OR] 60.241.48.194:21301
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : DP: 4
+
+offline0: i4pc-------r--- TCP [L] 10.0.2.15:50294 --> [OR] 14.200.255.229:37058
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : DP: 4
+
+offline0: i4pc-------r-F- TCP [L] 10.0.2.15:50297 --> [OR] 14.200.255.229:45710
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : DP: 4
+
+offline0: i4pc-------r--- UDP [L] 10.0.2.15:28681 --> [OR] 88.168.175.31:6346
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.2.15:28681 --> [OR] 41.249.63.200:22582
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.2.15:28681 <-- [OR] 72.201.208.57:38617
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.2.15:28681 <-- [OR] 81.205.91.45:40137
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.2.15:28681 --> [OR] 47.220.186.140:27641
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.2.15:28681 --> [OR] 118.240.69.199:6348
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.2.15:28681 <-- [OR] 109.132.188.98:62851
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.2.15:28681 <-- [OR] 24.167.201.53:47282
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.2.15:28681 --> [OR] 176.99.176.20:6346
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.2.15:28681 --> [OR] 71.237.202.91:16117
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.2.15:28681 --> [OR] 92.217.84.16:20223
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.2.15:28681 <-- [OR] 94.54.66.82:63637
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.2.15:28681 <-- [OR] 96.236.205.7:34794
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.2.15:28681 <-- [OR] 173.183.183.110:59920
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.2.15:28681 <-- [OR] 164.132.10.25:55302
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.2.15:28681 <-- [OR] 185.236.200.137:48142
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.2.15:28681 --> [OR] 188.165.203.190:21995
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.2.15:28681 --> [OR] 45.88.117.219:6909
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.2.15:28681 <-- [OR] 96.246.156.126:56070
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.2.15:28681 --> [OR] 73.250.179.237:20848
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.2.15:28681 <-- [OR] 83.160.143.48:37036
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.2.15:28681 <-- [OR] 100.1.231.138:56558
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.2.15:28681 <-- [OR] 84.28.53.225:44859
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.2.15:28681 --> [OR] 203.220.105.27:19260
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.2.15:28681 --> [OR] 92.117.249.98:6815
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.2.15:28681 --> [OR] 82.64.44.11:1352
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.2.15:28681 --> [OR] 45.31.152.112:26851
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.2.15:28681 --> [OR] 213.229.111.224:4876
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- TCP [L] 10.0.2.15:50291 --> [OR] 200.7.155.210:28365
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : DP: 6
+
+offline0: i4pc-------r--- TCP [L] 10.0.2.15:50327 --> [OR] 69.118.162.229:46906
+        : HTTP
+        : H: 69.118.162.229
+        : HTTP/UA: gtk-gnutella/1.2.2 (2022-02-25; GTK2; Windows x64)
+        : URL: 69.118.162.229:46906/uri-res/N2R?urn:sha1:LXIP2A72T5H3BU3GRUMZFYNU3OYDK6FI
+        : RID 10: Numeric IP Address
+        : RID 16: Known Protocol on Non-standard Port
+        : RID 42: Unsafe Protocol
+        : DP: 6
+
+offline0: i4pc-------r--- TCP [L] 10.0.2.15:50328 --> [OR] 189.147.72.83:26108
+        : HTTP
+        : H: 189.147.72.83
+        : HTTP/UA: gtk-gnutella/1.2.2 (2022-02-25; GTK2; Windows x64)
+        : URL: 189.147.72.83:26108/uri-res/N2R?urn:sha1:LXIP2A72T5H3BU3GRUMZFYNU3OYDK6FI
+        : RID 10: Numeric IP Address
+        : RID 16: Known Protocol on Non-standard Port
+        : RID 42: Unsafe Protocol
+        : DP: 6
+
+offline0: i4pc-------r--- UDP [L] 10.0.2.15:28681 --> [OR] 80.7.252.192:6888
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.2.15:28681 <-- [OR] 24.116.64.132:51227
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.2.15:28681 --> [OR] 221.198.205.196:20778
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.2.15:28681 <-- [OR] 87.123.54.234:54130
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.2.15:28681 <-- [OR] 38.142.119.234:49732
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.2.15:28681 --> [OR] 24.129.233.60:19990
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.2.15:28681 --> [OR] 98.208.26.154:4994
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.2.15:28681 --> [OR] 89.212.91.155:5195
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.2.15:28681 --> [OR] 207.38.163.228:6778
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r-F- TCP [L] 10.0.2.15:50330 --> [OR] 69.118.162.229:46906
+        : HTTP
+        : H: 69.118.162.229
+        : HTTP/UA: gtk-gnutella/1.2.2 (2022-02-25; GTK2; Windows x64)
+        : URL: 69.118.162.229:46906/gnutella/thex/v1?urn:tree:tiger/:3WMUS6WM2ZC7XIPRQDKXWHHJRV4IKYC4OX4ELCA&depth=9&ed2k=1
+        : RID 10: Numeric IP Address
+        : RID 16: Known Protocol on Non-standard Port
+        : RID 42: Unsafe Protocol
+        : DP: 6
+
+offline0: i4pc-------r--- UDP [L] 10.0.2.15:28681 --> [OR] 76.226.85.105:6346
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.2.15:28681 --> [OR] 176.10.169.10:12799
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.2.15:28681 --> [OR] 84.197.97.94:1360
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- ICMP [L] 10.0.2.15:0 <-- [OR] 84.197.97.94:0
+        : ICMP
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.2.15:28681 --> [OR] 99.250.253.99:11819
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.2.15:28681 --> [OR] 187.37.87.189:6346
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.2.15:28681 --> [OR] 176.191.49.159:6346
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.2.15:28681 --> [OR] 195.181.151.217:25282
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.2.15:28681 --> [OR] 80.236.247.120:1032
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.2.15:28681 <-- [OR] 181.118.53.212:29998
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.2.15:28681 --> [OR] 63.228.175.169:1936
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.2.15:28681 <-- [OR] 98.35.85.238:32173
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.2.15:28681 --> [OR] 47.224.174.174:6346
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc----------- UDP [L] 10.0.2.15:51685 --> [OM] 239.255.255.250:1900
+        : SSDP
+        : H: 239.255.255.250_1900
+        : HTTP/UA: Microsoft Edge/99.0.1150.30 Windows
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.2.15:28681 <-- [OR] 198.58.218.12:47912
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.2.15:28681 --> [OR] 86.129.196.84:9915
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.2.15:28681 --> [OR] 190.192.210.182:6754
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.2.15:28681 <-- [OR] 81.205.91.45:38297
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.2.15:28681 --> [OR] 194.163.180.126:10825
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.2.15:28681 --> [OR] 188.23.24.213:18561
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.2.15:28681 <-- [OR] 94.8.55.158:51140
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.2.15:28681 <-- [OR] 149.28.163.175:49956
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.2.15:28681 <-- [OR] 47.147.52.21:36728
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.2.15:28681 --> [OR] 91.172.56.198:11984
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.2.15:28681 <-- [OR] 109.131.202.24:44748
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.2.15:28681 --> [OR] 91.179.185.126:6346
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.2.15:28681 --> [OR] 88.122.233.15:11488
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.2.15:28681 --> [OR] 62.35.190.5:18604
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.2.15:28681 --> [OR] 129.45.47.167:6346
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.2.15:28681 --> [OR] 173.178.192.76:6346
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.2.15:28681 --> [OR] 78.219.202.2:6346
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.2.15:28681 --> [OR] 197.244.171.132:6346
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.2.15:28681 --> [OR] 86.234.216.251:17845
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.2.15:28681 --> [OR] 176.155.31.118:6346
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.2.15:28681 <-- [OR] 109.27.3.68:57380
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.2.15:28681 --> [OR] 195.181.151.217:6346
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.2.15:28681 --> [OR] 90.103.2.245:6346
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.2.15:28681 <-- [OR] 86.194.53.68:33770
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.2.15:28681 --> [OR] 93.28.130.131:6346
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.2.15:28681 --> [OR] 89.143.28.64:6346
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.2.15:28681 --> [OR] 58.177.52.73:6346
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.2.15:28681 --> [OR] 87.65.188.29:24676
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.2.15:28681 --> [OR] 175.181.156.244:8255
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.2.15:28681 --> [OR] 90.247.160.96:17817
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.2.15:28681 --> [OR] 92.139.61.103:24096
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.2.15:28681 --> [OR] 94.187.236.179:6346
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.2.15:28681 --> [OR] 75.129.149.103:6346
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.2.15:28681 <-- [OR] 78.193.236.8:46557
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.2.15:28681 --> [OR] 86.227.127.34:6346
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.2.15:28681 --> [OR] 175.182.39.11:12977
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.2.15:28681 <-- [OR] 88.123.35.219:42211
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.2.15:28681 --> [OR] 119.247.6.226:9713
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.2.15:28681 --> [OR] 93.15.216.216:6346
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.2.15:28681 --> [OR] 145.82.53.165:6346
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.2.15:28681 --> [OR] 219.71.44.121:14398
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.2.15:28681 --> [OR] 81.249.13.30:15138
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.2.15:28681 --> [OR] 86.162.97.8:6346
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.2.15:28681 --> [OR] 165.169.215.213:23576
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.2.15:28681 <-- [OR] 90.8.95.165:40763
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.2.15:28681 <-- [OR] 88.124.71.246:49035
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.2.15:28681 --> [OR] 104.6.118.53:6346
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.2.15:28681 <-- [OR] 99.255.145.191:47264
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.2.15:28681 --> [OR] 114.24.182.130:22232
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.2.15:28681 --> [OR] 109.24.146.101:6346
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.2.15:28681 --> [OR] 219.68.179.137:6406
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.2.15:28681 --> [OR] 31.38.163.2:6346
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.2.15:28681 --> [OR] 71.86.190.163:14142
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.2.15:28681 --> [OR] 176.135.15.86:6346
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.2.15:28681 <-- [OR] 203.165.170.112:37087
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [OR] 2.28.39.18:15672 <-- [L] 10.0.2.15:28681
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.2.15:28681 <-- [OR] 70.119.248.5:49929
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.2.15:28681 --> [OR] 61.64.177.53:23458
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.2.15:28681 <-- [OR] 94.214.12.247:44001
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.2.15:28681 --> [OR] 82.120.219.74:6346
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.2.15:28681 <-- [OR] 86.193.23.172:42227
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.2.15:28681 --> [OR] 107.4.56.177:10000
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.2.15:28681 --> [OR] 154.3.42.209:6346
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.2.15:28681 --> [OR] 88.68.45.203:6346
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.2.15:28681 --> [OR] 183.179.90.112:9852
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.2.15:28681 --> [OR] 108.44.45.25:6346
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.2.15:28681 --> [OR] 90.3.215.132:20356
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.2.15:28681 --> [OR] 36.233.42.210:5512
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.2.15:28681 --> [OR] 172.94.41.71:6346
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc----------- UDP [L] 10.0.2.15:57552 --> [OM] 239.255.255.250:1900
+        : SSDP
+        : H: 239.255.255.250_1900
+        : HTTP/UA: Microsoft Edge/99.0.1150.30 Windows
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.2.15:28681 --> [OR] 86.210.81.59:6346
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.2.15:28681 --> [OR] 81.247.89.20:6346
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.2.15:28681 --> [OR] 218.173.230.98:19004
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.2.15:28681 <-- [OR] 84.100.76.123:39628
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [OR] 8.44.149.207:30551 --> [L] 10.0.2.15:28681
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [OR] 1.161.80.82:8656 <-- [L] 10.0.2.15:28681
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.2.15:28681 --> [OR] 220.143.34.225:20071
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.2.15:28681 --> [OR] 47.156.58.211:6346
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.2.15:28681 --> [OR] 85.203.45.107:6346
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.2.15:28681 --> [OR] 42.2.62.28:6387
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.2.15:28681 --> [OR] 136.32.84.139:6346
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.2.15:28681 --> [OR] 50.4.204.220:6346
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.2.15:28681 --> [OR] 92.144.99.73:10745
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.2.15:28681 <-- [OR] 92.142.109.190:41370
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.2.15:28681 --> [OR] 79.94.85.113:6346
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.2.15:28681 --> [OR] 68.47.223.27:6346
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.2.15:28681 <-- [OR] 209.204.207.5:49256
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.2.15:28681 <-- [OR] 78.196.216.12:58910
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.2.15:28681 --> [OR] 83.114.40.175:23552
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.2.15:28681 --> [OR] 220.137.106.173:11625
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.2.15:28681 --> [OR] 119.246.147.72:4572
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.2.15:28681 --> [OR] 36.239.162.27:7986
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.2.15:28681 --> [OR] 219.70.48.23:8070
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- ICMP [L] 10.0.2.15:0 <-- [OR] 164.132.10.25:0
+        : ICMP
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.2.15:28681 --> [OR] 142.115.218.152:5900
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.2.15:28681 --> [OR] 165.84.140.96:14400
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.2.15:28681 --> [OR] 41.100.68.255:12838
+        : Gnutella
+        : RID 42: Unsafe Protocol
+        : DP: 1
+
+offline0: i4pc----------- UDP [L] 10.0.2.15:50213 --> [OM] 239.255.255.250:1900
+        : SSDP
+        : H: 239.255.255.250_1900
+        : HTTP/UA: Microsoft Edge/99.0.1150.30 Windows
+        : DP: 1
+
+offline0: i4pc-------r--- ICMP [L] 10.0.2.15:0 <-- [OR] 65.182.231.232:0
+        : ICMP
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc----------- UDP [L] 10.0.2.15:50214 --> [OM] 239.255.255.250:1900
+        : SSDP
+        : H: 239.255.255.250_1900
+        : HTTP/UA: Microsoft Edge/99.0.1150.30 Windows
+        : DP: 1
+
+offline0: i4pc-------r--- ICMP [L] 10.0.2.15:0 <-- [OR] 154.3.42.209:0
+        : ICMP
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-gx----r--- UDP [L] 10.0.2.15:28681 <-- [OR] 61.238.173.128:57492
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-gx----r--- UDP [L] 10.0.2.15:28681 <-- [OR] 61.222.160.99:53144
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-gx-------- UDP [L] 10.0.2.15:28681 <-- [OR] 193.32.126.214:59596
+        : Unknown
+        : DP: 18
+
+offline0: i4pc-gx-------- UDP [L] 10.0.2.15:28681 <-- [OR] 142.132.165.13:30566
+        : Unknown
+        : DP: 6
+
+offline0: i4pc-gx----r--- TCP [L] 10.0.2.15:50217 --> [OR] 113.252.86.162:54958
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 3
+
+offline0: i4pc-gx----r--- TCP [L] 10.0.2.15:50200 --> [OR] 176.128.217.128:45194
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 3
+
+offline0: i4pc-gx----r--- UDP [L] 10.0.2.15:28681 --> [OR] 50.58.238.163:6594
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 2
+
+offline0: i4pc-gx----r--- UDP [L] 10.0.2.15:28681 --> [OR] 74.195.236.249:18557
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-gx----r--- TCP [L] 10.0.2.15:50204 --> [OR] 124.218.26.16:9728
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 3
+
+offline0: i4pc-gx----r--- UDP [L] 10.0.2.15:28681 <-- [OR] 113.255.250.32:52660
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-gx----r--- TCP [L] 10.0.2.15:50221 --> [OR] 59.104.173.5:49956
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 3
+
+offline0: i4pc-gx----r--- UDP [L] 10.0.2.15:28681 <-- [OR] 58.176.62.40:52889
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-gx----r--- UDP [L] 10.0.2.15:28681 --> [OL] 100.89.84.59:11603
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 2
+
+offline0: i4pc-gx----r--- UDP [L] 10.0.2.15:28681 --> [OR] 101.136.187.253:10914
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-gx----r--- UDP [L] 10.0.2.15:28681 <-- [OR] 123.203.72.224:53658
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-gx----r--- UDP [L] 10.0.2.15:28681 <-- [OR] 113.255.200.161:65274
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-gx-------- UDP [L] 10.0.2.15:28681 --> [OR] 77.58.211.52:3806
+        : Unknown
+        : DP: 4
+
+offline0: i4pc-gx----r--- UDP [L] 10.0.2.15:28681 <-- [OR] 59.104.173.5:49815
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-gx-------- UDP [L] 10.0.2.15:28681 --> [OR] 182.155.128.228:3339
+        : Unknown
+        : DP: 2
+
+offline0: i4pc-gx----r--- TCP [L] 10.0.2.15:50219 --> [OR] 193.121.165.12:55376
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 3
+
+offline0: i4pc-gx-------- UDP [L] 10.0.2.15:28681 <-- [OR] 86.153.21.93:36696
+        : Unknown
+        : DP: 6
+
+offline0: i4pc-gx----r--- UDP [L] 10.0.2.15:28681 --> [OR] 61.10.174.159:4841
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-gx----r--- TCP [L] 10.0.2.15:50227 --> [OR] 111.246.157.94:51175
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 3
+
+offline0: i4pc-gx----r--- UDP [L] 10.0.2.15:28681 --> [OR] 50.58.238.163:6564
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-gx----r--- UDP [L] 10.0.2.15:28681 <-- [OR] 114.47.227.91:54463
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-gx----r--- UDP [L] 10.0.2.15:28681 <-- [OR] 122.117.100.78:56128
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-gx----r--- UDP [L] 10.0.2.15:28681 <-- [OR] 36.237.199.108:56040
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 2
+
+offline0: i4pc-gx-------- UDP [L] 10.0.2.15:28681 <-- [OR] 118.241.204.61:43366
+        : Unknown
+        : DP: 4
+
+offline0: i4pc-gx----r--- TCP [L] 10.0.2.15:50194 --> [OR] 92.152.66.153:43771
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-gx-------- UDP [L] 10.0.2.15:28681 --> [OR] 116.241.162.162:15677
+        : Unknown
+        : DP: 4
+
+offline0: i4pc-gx----r--- UDP [L] 10.0.2.15:28681 <-- [OR] 24.127.1.235:37814
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-gx----r--- UDP [L] 10.0.2.15:28681 <-- [OR] 118.168.15.71:53707
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-gx----r--- UDP [L] 10.0.2.15:28681 --> [OR] 114.27.24.95:10677
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 2
+
+offline0: i4pc-gx----r--- UDP [L] 10.0.2.15:28681 <-- [OR] 24.179.18.242:47329
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-gx----r--- UDP [L] 10.0.2.15:28681 --> [OR] 106.104.88.139:7423
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-gx----r--- TCP [L] 10.0.2.15:50290 --> [OR] 73.89.249.8:50649
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 3
+
+offline0: i4pc-gx----r--- TCP [L] 10.0.2.15:50278 --> [OR] 36.231.59.187:62234
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 3
+
+offline0: i4pc-gx-------- UDP [L] 10.0.2.15:28681 --> [OR] 68.227.193.37:27481
+        : Unknown
+        : DP: 4
+
+offline0: i4pc-gx----r--- TCP [L] 10.0.2.15:50277 --> [OR] 82.181.251.218:36368
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 3
+
+offline0: i4pc-gx----r--- UDP [L] 10.0.2.15:28681 --> [OR] 65.182.231.232:7890
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 2
+
+offline0: i4pc-gx----r--- UDP [L] 10.0.2.15:28681 --> [OR] 218.164.200.235:2846
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-gx-------- UDP [L] 10.0.2.15:28681 --> [OR] 223.17.132.18:23458
+        : Unknown
+        : DP: 4
+
+offline0: i4pc-gx----r--- UDP [L] 10.0.2.15:28681 --> [OR] 74.127.26.138:3083
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 2
+
+offline0: i4pc-gx-------- UDP [L] 10.0.2.15:28681 <-- [OR] 85.168.34.105:39908
+        : Unknown
+        : DP: 4
+
+offline0: i4pc-gx----r--- UDP [L] 10.0.2.15:28681 <-- [OR] 66.223.143.31:47978
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-gx----r--- UDP [L] 10.0.2.15:28681 --> [OR] 76.26.178.132:10053
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-gx----r--- UDP [L] 10.0.2.15:28681 <-- [OR] 113.252.86.162:54459
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-gx----r--- UDP [L] 10.0.2.15:28681 --> [OR] 92.24.129.230:14766
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 2
+
+offline0: i4pc-gx----r--- UDP [L] 10.0.2.15:28681 <-- [OR] 98.18.172.208:63172
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 2
+
+offline0: i4pc-gx----r--- UDP [L] 10.0.2.15:28681 --> [OR] 218.35.66.21:22234
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 2
+
+offline0: i4pc-gx----r--- UDP [L] 10.0.2.15:28681 --> [OR] 89.187.171.240:6346
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-gx----r--- UDP [L] 10.0.2.15:28681 <-- [OR] 123.205.118.77:62191
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-gx----r--- TCP [L] 10.0.2.15:50276 --> [OR] 96.246.156.126:56070
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 3
+
+offline0: i4pc-gx----r--- TCP [L] 10.0.2.15:50254 --> [OR] 24.78.134.188:49046
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 3
+
+offline0: i4pc-gx-------- UDP [L] 10.0.2.15:28681 --> [OR] 123.203.72.224:9897
+        : Unknown
+        : DP: 2
+
+offline0: i4pc-gx----r--- UDP [L] 10.0.2.15:28681 --> [OR] 61.227.198.100:6910
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-gx----r--- UDP [OR] 1.36.249.91:64577 --> [L] 10.0.2.15:28681
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-gx----r--- UDP [L] 10.0.2.15:28681 --> [OR] 182.155.128.228:3259
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 2
+
+offline0: i4pc-gx----r--- UDP [L] 10.0.2.15:28681 <-- [OR] 80.193.171.146:65362
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-gx----r--- UDP [L] 10.0.2.15:28681 <-- [OR] 119.237.190.184:64163
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-gx----r--- UDP [L] 10.0.2.15:28681 <-- [OR] 38.142.119.234:49867
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 2
+
+offline0: i4pc-gx----r--- UDP [L] 10.0.2.15:28681 --> [OR] 76.174.174.69:21358
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-gx----r--- UDP [L] 10.0.2.15:28681 --> [OR] 99.199.148.6:4338
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-gx----r--- UDP [L] 10.0.2.15:28681 <-- [OR] 113.254.140.225:63637
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-gx----r--- UDP [L] 10.0.2.15:28681 --> [OR] 144.134.132.206:16401
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-gx----r--- UDP [L] 10.0.2.15:28681 --> [OR] 118.166.252.163:14391
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-gx----r--- UDP [L] 10.0.2.15:28681 <-- [OR] 114.40.163.123:55341
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-gx----r--- UDP [L] 10.0.2.15:28681 --> [OR] 50.58.238.163:6599
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-gx----r--- UDP [L] 10.0.2.15:28681 <-- [OR] 113.252.86.162:54436
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 2
+
+offline0: i4pc-gx----r--- UDP [L] 10.0.2.15:28681 <-- [OR] 104.238.172.250:42925
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-gx----r--- UDP [L] 10.0.2.15:28681 <-- [OR] 213.229.111.224:43316
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 2
+
+offline0: i4pc-gx----r--- UDP [L] 10.0.2.15:28681 <-- [OR] 173.22.22.94:34245
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-gx----r--- UDP [L] 10.0.2.15:28681 <-- [OR] 76.110.153.177:40022
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-gx----r--- UDP [L] 10.0.2.15:28681 --> [OR] 114.36.234.196:11629
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-gx-------- UDP [L] 10.0.2.15:28681 --> [OR] 80.193.171.146:18360
+        : Unknown
+        : DP: 2
+
+offline0: i4pc-gx----r--- TCP [L] 10.0.2.15:50244 --> [OR] 188.61.52.183:63978
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 3
+
+offline0: i4pc-gx----r--- UDP [L] 10.0.2.15:28681 --> [OR] 119.237.116.22:7380
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-gx-------- UDP [L] 10.0.2.15:28681 --> [OR] 223.16.170.108:23458
+        : Unknown
+        : DP: 2
+
+offline0: i4pc-gx----r--- UDP [OR] 1.172.184.48:1512 <-- [L] 10.0.2.15:28681
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-gx----r--- UDP [L] 10.0.2.15:28681 <-- [OR] 80.7.252.192:43457
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 2
+
+offline0: i4pc-gx----r--- UDP [L] 10.0.2.15:28681 --> [OR] 118.165.228.167:12201
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 2
+
+offline0: i4pc-gx-------- UDP [L] 10.0.2.15:28681 --> [OR] 89.241.112.255:14766
+        : Unknown
+        : DP: 2
+
+offline0: i4pc-gx----r--- UDP [L] 10.0.2.15:28681 --> [OR] 122.117.100.78:9010
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 3
+
+offline0: i4pc-gx-------- UDP [L] 10.0.2.15:28681 <-- [OR] 104.156.226.72:53258
+        : Unknown
+        : DP: 21
+
+offline0: i4pc-gx----r--- TCP [L] 10.0.2.15:50286 --> [OR] 84.118.116.198:44616
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 3
+
+offline0: i4pc-gx----r--- UDP [L] 10.0.2.15:28681 --> [OR] 61.238.173.128:8826
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 2
+
+offline0: i4pc-gx----r--- UDP [L] 10.0.2.15:28681 --> [OR] 220.135.8.7:1219
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-gx----r--- TCP [L] 10.0.2.15:50212 --> [OR] 95.17.124.40:6776
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 3
+
+offline0: i4pc-gx----r--- UDP [L] 10.0.2.15:28681 --> [OR] 218.102.208.175:9167
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-gx----r--- UDP [L] 10.0.2.15:28681 <-- [OR] 61.238.173.128:57466
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 2
+
+offline0: i4pc-gx-------- UDP [L] 10.0.2.15:28681 <-- [OR] 101.128.66.8:34512
+        : Unknown
+        : DP: 4
+
+offline0: i4pc-gx----r--- TCP [L] 10.0.2.15:50275 --> [OR] 122.117.100.78:9010
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 3
+
+offline0: i4pc-gx----r--- UDP [L] 10.0.2.15:28681 --> [OR] 50.58.238.149:6527
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-gx----r--- UDP [L] 10.0.2.15:28681 --> [OR] 223.16.121.156:23183
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 2
+
+offline0: i4pc-gx-------- UDP [L] 10.0.2.15:28681 <-- [OR] 156.57.42.2:33476
+        : Unknown
+        : DP: 4
+
+offline0: i4pc-gx----r--- UDP [L] 10.0.2.15:28681 --> [OR] 223.18.211.177:18085
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-gx----r--- UDP [L] 10.0.2.2:1026 <-- [OL] 10.0.2.15:28681
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-gx----r--- UDP [L] 10.0.2.15:28681 --> [OR] 219.70.48.23:2556
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-gx----r--- UDP [L] 10.0.2.15:28681 --> [OR] 119.14.143.237:13965
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-gx----r--- TCP [L] 10.0.2.15:50321 --> [OR] 213.229.111.224:4876
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 3
+
+offline0: i4pc-gx----r--- TCP [L] 10.0.2.15:50225 --> [OR] 109.210.81.147:24800
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 3
+
+offline0: i4pc-gx-------- UDP [L] 10.0.2.15:28681 --> [OR] 45.65.87.24:16201
+        : Unknown
+        : DP: 6
+
+offline0: i4pc-gx-------- UDP [L] 10.0.2.15:28681 <-- [OR] 73.62.225.181:46843
+        : Unknown
+        : DP: 4
+
+offline0: i4pc-gx----r--- TCP [OR] 1.163.14.246:12854 <-- [L] 10.0.2.15:50233
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 3
+
+offline0: i4pc--x----r--- UDP [L] 10.0.2.2:5351 <-- [OL] 10.0.2.15:57622
+        : NAT/PMP
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-gx----r--- UDP [L] 10.0.2.15:28681 --> [OR] 182.155.128.228:3227
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-gx----r--- UDP [L] 10.0.2.15:28681 --> [OR] 73.182.136.42:27873
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 2
+
+offline0: i4pc-gx----r--- UDP [L] 10.0.2.15:28681 <-- [OR] 61.222.160.99:53195
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-gx----r--- TCP [L] 10.0.2.15:50273 --> [OR] 24.179.18.242:47329
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 3
+
+offline0: i4pc-gx----r--- UDP [L] 10.0.2.15:28681 <-- [OR] 185.187.74.173:59978
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-gx----r--- UDP [L] 10.0.2.15:28681 <-- [OR] 36.236.203.37:52669
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-gx----r--- TCP [L] 10.0.2.15:50310 --> [OR] 76.110.153.177:40022
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 3
+
+offline0: i4pc-gx----r--- UDP [L] 10.0.2.15:28681 <-- [OR] 149.28.163.175:42288
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-gx----r--- UDP [L] 10.0.2.15:28681 <-- [OR] 58.176.62.40:52755
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-gx----r--- UDP [L] 10.0.2.15:28681 <-- [OR] 59.104.173.5:49803
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-gx----r--- TCP [L] 10.0.2.15:50195 --> [OR] 162.157.143.201:29762
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-gx-------- UDP [L] 10.0.2.15:28681 --> [OR] 123.202.31.113:19768
+        : Unknown
+        : DP: 2
+
+offline0: i4pc-gx----r--- UDP [L] 10.0.2.15:28681 <-- [OR] 14.199.10.60:53906
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-gx----r--- UDP [L] 10.0.2.15:28681 <-- [OR] 95.10.205.67:48380
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-gx----r--- UDP [L] 10.0.2.15:28681 --> [OR] 77.222.213.44:26536
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-gx----r--- UDP [L] 10.0.2.15:28681 --> [OR] 98.215.130.156:12405
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-gx----r--- UDP [L] 10.0.2.15:28681 <-- [OR] 113.252.206.254:49737
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-gx----r--- TCP [L] 10.0.2.15:50265 --> [OR] 113.255.250.32:52647
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 3
+
+offline0: i4pc-gx----r--- UDP [L] 10.0.2.15:28681 <-- [OR] 180.218.135.222:49867
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-gx-------- UDP [L] 10.0.2.15:28681 --> [OR] 113.252.206.254:23458
+        : Unknown
+        : DP: 4
+
+offline0: i4pc-gx----r--- TCP [L] 10.0.2.15:50283 --> [OR] 51.68.153.214:35004
+        : Unknown
+        : RID 51: TCP Connection Issues
+        : DP: 6
+
+offline0: i4pc-gx----r--- UDP [L] 10.0.2.15:28681 <-- [OR] 123.205.118.77:56562
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-gx----r--- TCP [L] 10.0.2.15:50230 --> [OR] 73.3.103.37:17296
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 3
+
+offline0: i4pc-gx----r--- UDP [L] 10.0.2.15:28681 --> [OR] 73.192.231.237:9676
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 2
+
+offline0: i4pc-gx----r--- UDP [L] 10.0.2.15:28681 <-- [OR] 220.129.86.65:49723
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-gx----r--- UDP [L] 10.0.2.15:28681 <-- [OR] 61.220.41.241:53072
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-gx----r--- UDP [L] 10.0.2.15:28681 --> [OR] 50.58.238.149:6599
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 2
+
+offline0: i4pc-gx-------- UDP [L] 10.0.2.15:28681 <-- [OR] 96.59.117.166:33192
+        : Unknown
+        : DP: 4
+
+offline0: i4pc-gx----r--- UDP [L] 10.0.2.15:28681 <-- [OR] 59.104.173.5:49787
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 2
+
+offline0: i4pc-gx----r--- UDP [L] 10.0.2.15:28681 <-- [OR] 123.205.13.148:51896
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 2
+
+offline0: i4pc-gx----r--- UDP [L] 10.0.2.15:28681 <-- [OR] 142.132.165.13:33564
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 2
+
+offline0: i4pc-gx----r--- TCP [L] 10.0.2.15:50231 --> [OR] 76.68.138.207:45079
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 3
+
+offline0: i4pc-gx-------- UDP [L] 10.0.2.15:28681 --> [OR] 71.239.173.18:23327
+        : Unknown
+        : DP: 3
+
+offline0: i4pc-gx----r--- UDP [L] 10.0.2.15:28681 <-- [OR] 69.27.193.124:50555
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 2
+
+offline0: i4pc-gx----r--- UDP [L] 10.0.2.15:28681 --> [OR] 76.189.72.230:8161
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 2
+
+offline0: i4pc-gx----r--- UDP [OR] 1.64.156.63:60092 --> [L] 10.0.2.15:28681
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-gx-------- UDP [L] 10.0.2.15:28681 <-- [OR] 220.238.145.82:33527
+        : Unknown
+        : DP: 4
+
+offline0: i4pc-gx----r--- TCP [L] 10.0.2.15:50239 --> [OR] 112.105.52.2:6384
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 3
+
+offline0: i4pc-gx----r--- UDP [L] 10.0.2.15:28681 --> [OR] 68.66.94.132:17735
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 2
+
+offline0: i4pc-gx----r--- UDP [L] 10.0.2.15:28681 --> [OR] 114.45.40.28:2656
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-gx----r--- UDP [L] 10.0.2.15:28681 <-- [OR] 113.252.86.162:55080
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 2
+
+offline0: i4pc-gx----r--- UDP [L] 10.0.2.15:28681 <-- [OR] 116.241.162.162:57929
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 2
+
+offline0: i4pc-gx----r--- UDP [L] 10.0.2.15:28681 <-- [OR] 113.255.250.32:52647
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-gx----r--- TCP [L] 10.0.2.15:50264 --> [OR] 95.10.205.67:48380
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 3
+
+offline0: i4pc-gx----r--- UDP [L] 10.0.2.15:28681 <-- [OR] 77.205.243.44:46006
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-gx-------- TCP [L] 10.0.2.15:50193 --> [OR] 89.75.52.19:46010
+        : Unknown
+        : DP: 9
+
+offline0: i4pc-gx----r--- TCP [L] 10.0.2.15:50287 --> [OR] 98.215.130.156:12405
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 3
+
+offline0: i4pc-gx----r--- TCP [L] 10.0.2.15:50240 --> [OR] 36.237.10.152:21293
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 3
+
+offline0: i4pc-gx----r--- UDP [L] 10.0.2.15:28681 --> [OR] 218.164.200.235:1968
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-gx----r--- UDP [OR] 1.36.249.91:65430 --> [L] 10.0.2.15:28681
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-gx----r--- UDP [L] 10.0.2.15:28681 <-- [OR] 51.68.153.214:35004
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-gx----r--- UDP [L] 10.0.2.15:28681 --> [OR] 114.27.24.95:10791
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-gx----r--- TCP [L] 10.0.2.15:50238 --> [OR] 124.218.41.253:59144
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 3
+
+offline0: i4pc-gx----r--- TCP [L] 10.0.2.15:50208 --> [OR] 119.237.116.22:8683
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 3
+
+offline0: i4pc-gx----r--- UDP [L] 10.0.2.15:28681 --> [OR] 219.85.10.83:8797
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 2
+
+offline0: i4pc-gx----r--- UDP [L] 10.0.2.15:28681 <-- [OR] 113.252.86.162:54914
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-gx----r--- TCP [L] 10.0.2.15:50220 --> [OR] 36.233.196.226:3820
+        : Unknown
+        : RID 51: TCP Connection Issues
+        : DP: 6
+
+offline0: i4pc-gx-------- UDP [L] 10.0.2.15:28681 --> [OR] 84.211.151.48:11105
+        : Unknown
+        : DP: 4
+
+offline0: i4pc-gx-------- UDP [L] 10.0.2.15:28681 --> [OR] 188.61.52.183:11852
+        : Unknown
+        : DP: 6
+
+offline0: i4pc-gx-------- TCP [L] 10.0.2.15:50191 --> [OR] 207.38.163.228:6778
+        : Unknown
+        : DP: 9
+
+offline0: i4pc-gx----r--- UDP [OR] 1.172.184.48:13281 <-- [L] 10.0.2.15:28681
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-gx----r--- UDP [L] 10.0.2.15:28681 --> [OR] 180.200.236.13:12082
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 2
+
+offline0: i4pc-gx----r--- TCP [L] 10.0.2.15:50266 --> [OR] 219.70.175.103:4315
+        : Unknown
+        : RID 51: TCP Connection Issues
+        : DP: 6
+
+offline0: i4pc-gx----r--- UDP [L] 10.0.2.15:28681 --> [OR] 112.105.52.2:6466
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 2
+
+offline0: i4pc-gx----r--- UDP [L] 10.0.2.15:28681 --> [OR] 113.252.91.201:4297
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-gx----r--- UDP [L] 10.0.2.15:28681 --> [OR] 112.10.134.44:19739
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-gx-------- UDP [L] 10.0.2.15:28681 --> [OR] 182.155.242.225:15068
+        : Unknown
+        : DP: 2
+
+offline0: i4pc-gx----r--- UDP [L] 10.0.2.15:28681 --> [OR] 119.14.143.237:7510
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 2
+
+offline0: i4pc-gx----r--- UDP [L] 10.0.2.15:28681 <-- [OR] 61.70.199.107:60475
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 2
+
+offline0: i4pc-gx----r--- TCP [L] 10.0.2.15:50260 --> [OR] 113.255.200.161:51394
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 3
+
+offline0: i4pc-gx----r--- UDP [L] 10.0.2.15:28681 --> [OR] 114.27.24.95:10655
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 2
+
+offline0: i4pc-gx----r--- TCP [L] 10.0.2.15:50222 --> [OR] 119.14.143.237:6523
+        : Unknown
+        : RID 51: TCP Connection Issues
+        : DP: 6
+
+offline0: i4pc-gx----r--- UDP [L] 10.0.2.15:28681 --> [OR] 82.36.106.134:3927
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-gx----r--- UDP [L] 10.0.2.15:28681 <-- [OR] 94.54.66.82:45744
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 2
+
+offline0: i4pc--x----r--- UDP [L] 10.0.2.2:5351 <-- [OL] 10.0.2.15:57621
+        : NAT/PMP
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-gx----r--- UDP [L] 10.0.2.15:28681 <-- [OR] 68.174.18.115:50679
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-gx----r--- UDP [L] 10.0.2.15:28681 <-- [OR] 188.61.52.183:63978
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 2
+
+offline0: i4pc-gx-------- UDP [L] 10.0.2.15:28681 --> [OR] 200.7.155.210:28365
+        : Unknown
+        : DP: 4
+
+offline0: i4pc-gx----r--- UDP [L] 10.0.2.15:28681 <-- [OR] 113.252.83.132:57131
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-gx----r--- UDP [L] 10.0.2.15:28681 <-- [OR] 36.231.59.187:62234
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-gx-------- UDP [OR] 1.36.249.91:7190 <-- [L] 10.0.2.15:28681
+        : Unknown
+        : DP: 2
+
+offline0: i4pc-gx-------- UDP [L] 10.0.2.15:28681 <-- [OR] 73.89.249.8:50649
+        : Unknown
+        : DP: 4
+
+offline0: i4pc-gx----r--- TCP [L] 10.0.2.15:50288 --> [OR] 76.119.55.28:20347
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 3
+
+offline0: i4pc-gx----r--- UDP [L] 10.0.2.15:28681 --> [OR] 104.156.226.72:19814
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-gx----r--- UDP [L] 10.0.2.15:28681 <-- [OR] 79.191.58.38:48157
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-gx----r--- UDP [L] 10.0.2.15:28681 --> [OR] 223.16.83.5:9128
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-gx----r--- UDP [L] 10.0.2.15:28681 --> [OR] 221.124.66.33:13060
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-gx----r--- UDP [L] 10.0.2.15:28681 <-- [OR] 112.119.242.110:59879
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 2
+
+offline0: i4pc-gx----r--- UDP [L] 10.0.2.15:28681 --> [OR] 119.237.116.22:7375
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-gx----r--- TCP [L] 10.0.2.15:50223 --> [OR] 118.167.248.220:63108
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 3
+
+offline0: i4pc-gx-------- TCP [L] 10.0.2.15:50192 --> [OR] 45.65.87.24:16201
+        : Unknown
+        : DP: 9
+
+offline0: i4pc-gx----r--- UDP [L] 10.0.2.15:28681 --> [OR] 124.218.26.16:8658
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-gx----r--- UDP [L] 10.0.2.15:28681 <-- [OR] 42.72.149.140:37848
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-gx----r--- UDP [L] 10.0.2.15:28681 <-- [OR] 194.163.180.126:36780
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-gx-------- UDP [L] 10.0.2.15:28681 --> [OR] 118.168.15.71:3931
+        : Unknown
+        : DP: 2
+
+offline0: i4pc-gx----r--- UDP [L] 10.0.2.15:28681 --> [OR] 59.148.100.237:23459
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-gx-------- TCP [L] 10.0.2.15:50202 --> [OR] 61.238.173.128:57648
+        : Unknown
+        : DP: 6
+
+offline0: i4pc-gx----r--- UDP [L] 10.0.2.15:28681 <-- [OR] 188.165.203.190:55050
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-gx----r--- TCP [L] 10.0.2.15:50279 --> [OR] 113.252.91.201:4297
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 3
+
+offline0: i4pc-gx----r--- TCP [L] 10.0.2.15:50243 --> [OR] 176.138.129.252:27962
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 3
+
+offline0: i4pc-gx-------- UDP [L] 10.0.2.15:28681 --> [OR] 112.105.52.2:23458
+        : Unknown
+        : DP: 4
+
+offline0: i4pc-gx----r--- UDP [L] 10.0.2.15:28681 --> [OR] 182.155.128.228:3256
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-gx-------- UDP [L] 10.0.2.15:28681 --> [OR] 210.209.249.84:24751
+        : Unknown
+        : DP: 2
+
+offline0: i4pc-gx----r--- UDP [L] 10.0.2.15:28681 --> [OR] 175.182.21.156:13732
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-gx-------- UDP [L] 10.0.2.15:28681 <-- [OR] 14.200.255.229:37058
+        : Unknown
+        : DP: 12
+
+offline0: i4pc-gx----r--- UDP [OR] 1.65.217.224:9070 <-- [L] 10.0.2.15:28681
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-gx----r--- UDP [L] 10.0.2.15:28681 <-- [OR] 36.236.203.37:52274
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-gx----r--- UDP [L] 10.0.2.15:28681 <-- [OR] 218.103.139.2:51379
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-gx----r--- UDP [L] 10.0.2.15:28681 --> [OR] 36.233.194.73:1995
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-gx----r--- UDP [L] 10.0.2.15:28681 --> [OR] 36.234.197.93:1483
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-gx----r--- UDP [L] 10.0.2.15:28681 <-- [OR] 185.187.74.173:46790
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 2
+
+offline0: i4pc-gx----r--- UDP [L] 10.0.2.15:28681 <-- [OR] 36.235.85.44:64914
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 2
+
+offline0: i4pc-gx----r--- UDP [L] 10.0.2.15:28681 --> [OR] 202.27.193.6:6346
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 2
+
+offline0: i4pc-gx----r--- UDP [L] 10.0.2.15:28681 <-- [OR] 150.116.225.105:51438
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-gx-------- UDP [L] 10.0.2.15:28681 <-- [OR] 84.71.243.60:34498
+        : Unknown
+        : DP: 6
+
+offline0: i4pc-gx----r--- UDP [L] 10.0.2.15:28681 --> [OR] 175.39.219.223:13482
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-gx----r--- UDP [L] 10.0.2.15:28681 --> [OR] 219.70.175.103:4315
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-gx----r--- TCP [L] 10.0.2.15:50246 --> [OR] 80.7.252.192:45685
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 3
+
+offline0: i4pc-gx----r--- UDP [L] 10.0.2.15:28681 <-- [OR] 123.203.72.224:55577
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 2
+
+offline0: i4pc-gx----r--- UDP [L] 10.0.2.15:28681 --> [OR] 218.164.200.235:2034
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 2
+
+offline0: i4pc-gx----r--- UDP [L] 10.0.2.15:28681 <-- [OR] 121.7.145.36:33905
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 2
+
+offline0: i4pc-gx----r--- UDP [L] 10.0.2.15:28681 <-- [OR] 119.247.152.218:51153
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-gx----r--- UDP [L] 10.0.2.15:28681 --> [OR] 58.115.158.103:5110
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 2
+
+offline0: i4pc-gx----r--- UDP [L] 10.0.2.15:28681 <-- [OR] 219.91.30.216:61635
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-gx-------- UDP [L] 10.0.2.15:28681 --> [OR] 180.218.135.222:4548
+        : Unknown
+        : DP: 2
+
+offline0: i4pc-gx----r--- UDP [L] 10.0.2.15:28681 <-- [OR] 164.132.10.25:47808
+        : BACnet
+        : RID 46: Unidirectional Traffic
+        : DP: 2
+
+offline0: i4pc-gx-------- UDP [L] 10.0.2.15:28681 <-- [OR] 80.140.63.147:29545
+        : Unknown
+        : DP: 4
+
+offline0: i4pc-gx----r--- UDP [L] 10.0.2.15:28681 <-- [OR] 116.241.162.162:59016
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-gx----r--- UDP [OR] 1.64.208.110:55550 --> [L] 10.0.2.15:28681
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-gx----r--- TCP [L] 10.0.2.15:50280 --> [OR] 99.199.148.6:4338
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 3
+
+offline0: i4pc-gx----r--- UDP [L] 10.0.2.15:28681 --> [OR] 114.40.67.191:14971
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-gx----r--- UDP [L] 10.0.2.15:28681 --> [OR] 91.206.27.26:6578
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-gx-------- UDP [L] 10.0.2.15:28681 <-- [OR] 31.20.248.147:30706
+        : Unknown
+        : DP: 4
+
+offline0: i4pc-gx----r--- UDP [L] 10.0.2.15:28681 --> [OR] 119.247.240.113:13867
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 2
+
+offline0: i4pc-gx----r--- UDP [L] 10.0.2.15:28681 --> [OR] 191.114.88.39:18751
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-gx-------- UDP [L] 10.0.2.15:28681 <-- [OR] 76.175.11.126:40958
+        : Unknown
+        : DP: 4
+
+offline0: i4pc-gx----r--- UDP [L] 10.0.2.15:28681 <-- [OR] 87.75.180.80:35361
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-gx----r--- UDP [OR] 1.172.183.237:4983 <-- [L] 10.0.2.15:28681
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-gx----r--- TCP [L] 10.0.2.15:50282 --> [OR] 221.124.66.33:13060
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 3
+
+offline0: i4pc-gx----r--- TCP [L] 10.0.2.15:50281 --> [OR] 94.134.154.158:54130
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 3
+
+offline0: i4pc-gx----r--- TCP [L] 10.0.2.15:50257 --> [OR] 219.70.48.23:3054
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 3
+
+offline0: i4pc-gx----r--- UDP [L] 10.0.2.15:28681 <-- [OR] 114.47.227.91:58856
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-gx----r--- TCP [L] 10.0.2.15:50234 --> [OR] 66.189.28.17:16269
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 3
+
+offline0: i4pc-gx----r--- UDP [L] 10.0.2.15:28681 <-- [OR] 36.236.203.37:52131
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 2
+
+offline0: i4pc-gx----r--- UDP [L] 10.0.2.15:28681 <-- [OR] 118.167.248.220:59304
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 2
+
+offline0: i4pc-gx----r--- TCP [L] 10.0.2.15:50274 --> [OR] 68.174.18.115:50679
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 3
+
+offline0: i4pc-gx----r--- UDP [L] 10.0.2.15:28681 --> [OR] 82.12.1.136:6348
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-gx-------- UDP [L] 10.0.2.15:28681 --> [OR] 70.81.219.111:19210
+        : Unknown
+        : DP: 4
+
+offline0: i4pc-gx----r--- UDP [L] 10.0.2.15:28681 --> [OR] 188.149.2.44:20964
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-gx----r--- TCP [L] 10.0.2.15:50255 --> [OR] 36.236.203.37:52165
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 3
+
+offline0: i4pc-gx----r--- UDP [L] 10.0.2.15:28681 --> [OR] 219.70.1.236:9369
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-gx----r--- UDP [L] 10.0.2.15:28681 --> [OR] 119.237.116.22:7849
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-gx----r--- UDP [L] 10.0.2.15:28681 --> [OR] 223.16.83.5:4765
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-gx----r--- UDP [L] 10.0.2.15:28681 <-- [OR] 61.18.212.223:58290
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-gx----r--- UDP [L] 10.0.2.15:28681 --> [OR] 114.27.24.95:11141
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 2
+
+offline0: i4pc-gx----r--- TCP [L] 10.0.2.15:50271 --> [OR] 218.164.198.27:60202
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 3
+
+offline0: i4pc-gx----r--- TCP [L] 10.0.2.15:50215 --> [OR] 124.244.64.237:4704
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 3
+
+offline0: i4pc-gx----r--- UDP [OR] 1.64.156.63:65023 --> [L] 10.0.2.15:28681
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-gx----r--- UDP [L] 10.0.2.15:28681 --> [OR] 76.119.55.28:20347
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 2
+
+offline0: i4pc-gx----r--- UDP [L] 10.0.2.15:28681 <-- [OR] 114.39.159.60:56896
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 2
+
+offline0: i4pc-gx----r--- UDP [OR] 1.65.217.224:3688 <-- [L] 10.0.2.15:28681
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-gx----r--- UDP [L] 10.0.2.15:28681 <-- [OR] 36.234.18.166:61319
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-gx----r--- UDP [L] 10.0.2.15:28681 <-- [OR] 164.132.10.25:48250
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-gx----r--- TCP [L] 10.0.2.15:50224 --> [OR] 78.125.63.97:6346
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 3
+
+offline0: i4pc-gx----r--- UDP [L] 10.0.2.15:28681 --> [OR] 111.241.31.96:8349
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-gx----r--- UDP [L] 10.0.2.15:28681 --> [OR] 118.165.153.100:4509
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 2
+
+offline0: i4pc-gx----r--- UDP [L] 10.0.2.15:28681 --> [OR] 36.233.199.103:2625
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-gx----r--- TCP [L] 10.0.2.15:50205 --> [OR] 114.46.139.171:52120
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 3
+
+offline0: i4pc-gx-------- UDP [L] 10.0.2.15:28681 --> [OR] 165.84.134.136:21407
+        : Unknown
+        : DP: 4
+
+offline0: i4pc-gx----r--- UDP [L] 10.0.2.15:28681 <-- [OR] 62.102.148.166:31332
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-gx-------- UDP [L] 10.0.2.15:28681 <-- [OR] 220.208.167.152:30628
+        : Unknown
+        : DP: 4
+
+offline0: i4pc-gx----r--- UDP [L] 10.0.2.15:28681 <-- [OR] 124.217.188.105:62849
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-gx----r--- UDP [L] 10.0.2.15:28681 <-- [OR] 119.247.152.218:51920
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-gx----r--- UDP [L] 10.0.2.15:28681 <-- [OR] 123.205.118.77:60482
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-gx----r--- UDP [L] 10.0.2.15:28681 --> [OR] 180.149.125.139:6578
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-gx----r--- UDP [L] 10.0.2.15:28681 <-- [OR] 111.184.29.35:30582
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 2
+
+offline0: i4pc-gx----r--- TCP [OR] 1.172.184.48:13298 <-- [L] 10.0.2.15:50272
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 3
+
+offline0: i4pc-gx----r--- TCP [L] 10.0.2.15:50270 --> [OR] 114.27.24.95:11427
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 3
+
+offline0: i4pc-gx----r--- UDP [L] 10.0.2.15:28681 <-- [OR] 75.133.101.93:52367
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 8
+
+offline0: i4pc-gx----r--- UDP [L] 10.0.2.15:28681 <-- [OR] 118.168.15.71:58442
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 2
+
+offline0: i4pc-gx----r--- UDP [L] 10.0.2.15:28681 <-- [OR] 61.93.150.146:62507
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-gx-------- UDP [OR] 1.163.14.246:23461 <-- [L] 10.0.2.15:28681
+        : Unknown
+        : DP: 2
+
+offline0: i4pc-gx----r--- TCP [L] 10.0.2.15:50251 --> [OR] 24.127.1.235:37814
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 3
+
+offline0: i4pc-gx----r--- TCP [L] 10.0.2.15:50242 --> [OR] 109.210.203.131:6346
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 3
+
+offline0: i4pc-gx----r--- TCP [L] 10.0.2.15:50247 --> [OR] 66.30.221.181:51560
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 3
+
+offline0: i4pc--x----r--- UDP [L] 10.0.2.2:5351 <-- [OL] 10.0.2.15:57620
+        : NAT/PMP
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-gx----r--- UDP [L] 10.0.2.15:28681 <-- [OR] 45.31.152.112:52420
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-gx----r--- UDP [L] 10.0.2.15:28681 <-- [OR] 219.71.72.88:58808
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-gx----r--- UDP [L] 10.0.2.15:28681 <-- [OR] 124.244.68.65:51967
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-gx----r--- UDP [L] 10.0.2.15:28681 <-- [OR] 113.252.86.162:59875
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-gx----r--- UDP [L] 10.0.2.15:28681 <-- [OR] 80.61.221.246:45880
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 2
+
+offline0: i4pc-gx-------- UDP [L] 10.0.2.15:28681 <-- [OR] 185.187.74.173:53489
+        : Unknown
+        : DP: 6
+
+offline0: i4pc-gx----r--- TCP [L] 10.0.2.15:50218 --> [OR] 90.103.247.94:59045
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 3
+
+offline0: i4pc-gx----r--- UDP [L] 10.0.2.15:28681 --> [OR] 36.229.185.60:6898
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 2
+
+offline0: i4pc-gx----r--- UDP [L] 10.0.2.15:28681 --> [OR] 58.153.206.183:16919
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 2
+
+offline0: i4pc-gx----r--- UDP [L] 10.0.2.15:28681 --> [OR] 42.0.69.215:12608
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-gx-------- UDP [L] 10.0.2.15:28681 --> [OR] 220.39.142.122:6346
+        : Unknown
+        : DP: 4
+
+offline0: i4pc-gx----r--- UDP [L] 10.0.2.15:28681 <-- [OR] 94.54.66.82:45640
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 2
+
+offline0: i4pc-gx----r--- UDP [L] 10.0.2.15:28681 --> [OR] 36.237.10.152:21293
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-gx----r--- UDP [L] 10.0.2.15:28681 <-- [OR] 61.18.212.223:50637
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-gx----r--- UDP [L] 10.0.2.15:28681 <-- [OR] 61.18.212.223:58954
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-gx----r--- TCP [L] 10.0.2.15:50237 --> [OR] 88.123.202.175:37910
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 3
+
+offline0: i4pc-gx----r--- UDP [L] 10.0.2.15:28681 <-- [OR] 183.179.14.31:54754
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 2
+
+offline0: i4pc-gx----r--- UDP [L] 10.0.2.15:28681 --> [OR] 114.27.24.95:10728
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-gx----r--- UDP [L] 10.0.2.15:28681 --> [OR] 58.115.108.10:4641
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-gx----r--- TCP [L] 10.0.2.15:50201 --> [OR] 78.122.93.185:6346
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 3
+
+offline0: i4pc-gx----r--- UDP [L] 10.0.2.15:28681 --> [OR] 123.110.61.169:11973
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 2
+
+offline0: i4pc-gx----r--- UDP [L] 10.0.2.15:28681 --> [OR] 223.16.121.156:3624
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-gx----r--- UDP [L] 10.0.2.15:28681 <-- [OR] 183.179.14.31:64871
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-gx-------- UDP [L] 10.0.2.15:28681 --> [OR] 97.83.183.148:8890
+        : Unknown
+        : DP: 6
+
+offline0: i4pc-gx----r--- UDP [L] 10.0.2.15:28681 --> [OR] 174.115.127.251:23897
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-gx----r--- UDP [L] 10.0.2.15:28681 <-- [OR] 116.49.159.77:55915
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 2
+
+offline0: i4pc-gx----r--- UDP [L] 10.0.2.15:28681 <-- [OR] 218.103.139.2:51675
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 2
+
+offline0: i4pc-gx-------- TCP [L] 10.0.2.15:50245 --> [OR] 73.62.225.181:46843
+        : Unknown
+        : DP: 11
+
+offline0: i4pc-gx----r--- UDP [OR] 1.65.217.224:18381 <-- [L] 10.0.2.15:28681
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 2
+
+offline0: i4pc-gx----r--- UDP [L] 10.0.2.15:28681 <-- [OR] 89.204.130.55:29545
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 2
+
+offline0: i4pc-gx----r--- TCP [L] 10.0.2.15:50228 --> [OR] 111.241.31.96:14384
+        : Unknown
+        : RID 51: TCP Connection Issues
+        : DP: 6
+
+offline0: i4pc-gx----r--- TCP [L] 10.0.2.15:50256 --> [OR] 36.233.201.161:2886
+        : Unknown
+        : RID 51: TCP Connection Issues
+        : DP: 6
+
+offline0: i4pc-gx----r--- UDP [L] 10.0.2.15:28681 --> [OR] 210.194.116.78:8342
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 2
+
+offline0: i4pc-gx----r--- UDP [L] 10.0.2.15:28681 --> [OR] 50.58.238.149:6514
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-gx----r--- UDP [L] 10.0.2.15:28681 --> [OR] 124.218.26.16:9747
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-gx----r--- UDP [L] 10.0.2.15:28681 --> [OR] 161.81.38.67:9539
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-gx----r--- TCP [L] 10.0.2.15:50241 --> [OR] 98.18.172.208:63172
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 3
+
+offline0: i4pc-gx----r--- UDP [L] 10.0.2.15:28681 <-- [OR] 123.202.31.113:53291
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-gx----r--- UDP [L] 10.0.2.15:28681 <-- [OR] 113.252.86.162:59384
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-gx----r--- UDP [L] 10.0.2.15:28681 <-- [OR] 94.134.154.158:54130
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-gx-------- TCP [L] 10.0.2.15:50190 --> [OR] 80.140.63.147:29545
+        : Unknown
+        : DP: 9
+
+offline0: i4pc-gx-------- UDP [L] 10.0.2.15:28681 --> [OR] 124.244.211.43:23459
+        : Unknown
+        : DP: 4
+
+offline0: i4pc-gx----r--- UDP [L] 10.0.2.15:28681 <-- [OR] 50.58.238.149:54436
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-gx----r--- UDP [L] 10.0.2.15:28681 --> [OR] 213.32.245.121:12333
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-gx----r--- UDP [L] 10.0.2.15:28681 <-- [OR] 118.168.15.71:53883
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 2
+
+offline0: i4pc-gx----r--- UDP [L] 10.0.2.15:28681 <-- [OR] 87.123.54.234:47184
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 2
+
+offline0: i4pc-gx-------- UDP [L] 10.0.2.15:28681 --> [OR] 14.199.10.60:23458
+        : Unknown
+        : DP: 4
+
+offline0: i4pc-gx----r--- UDP [L] 10.0.2.15:28681 <-- [OR] 123.192.83.59:33513
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-gx----r--- UDP [L] 10.0.2.15:28681 <-- [OR] 203.220.198.244:50896
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-gx----r--- UDP [L] 10.0.2.15:28681 <-- [OR] 118.168.15.71:53516
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-gx----r--- UDP [L] 10.0.2.15:28681 <-- [OR] 218.103.139.2:51497
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 2
+
+offline0: i4pc-gx----r--- UDP [L] 10.0.2.15:28681 <-- [OR] 80.193.171.146:53143
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-gx-------- UDP [L] 10.0.2.15:28681 <-- [OR] 14.200.255.229:45710
+        : Unknown
+        : DP: 2
+
+offline0: i4pc-gx-------- UDP [L] 10.0.2.15:28681 --> [OR] 111.241.31.96:4814
+        : Unknown
+        : DP: 2
+
+offline0: i4pc-gx----r--- TCP [L] 10.0.2.15:50216 --> [OR] 182.155.128.228:3256
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 3
+
+offline0: i4pc-gx----r--- TCP [L] 10.0.2.15:50210 --> [OR] 36.234.18.166:61404
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 3
+
+offline0: i4pc-gx----r--- UDP [L] 10.0.2.15:28681 <-- [OR] 66.30.221.181:53454
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-gx-------- UDP [L] 10.0.2.15:28681 --> [OR] 113.252.86.162:9239
+        : Unknown
+        : DP: 2
+
+offline0: i4pc-gx----r--- TCP [OR] 1.36.249.91:64920 <-- [L] 10.0.2.15:50229
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 3
+
+offline0: i4pc-gx----r--- TCP [L] 10.0.2.15:50292 --> [OR] 95.10.205.67:11603
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 3
+
+offline0: i4pc-gx----r--- UDP [L] 10.0.2.15:28681 <-- [OR] 112.119.59.24:28755
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-gx----r--- UDP [L] 10.0.2.15:28681 <-- [OR] 94.215.183.71:31310
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-gx----r--- UDP [L] 10.0.2.15:28681 --> [OR] 113.255.250.32:23458
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-gx----r--- TCP [L] 10.0.2.15:50305 --> [OR] 94.54.66.82:63637
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 3
+
+offline0: i4pc-gx-------- UDP [L] 10.0.2.15:28681 --> [OR] 223.16.83.5:10624
+        : Unknown
+        : DP: 2
+
+offline0: i4pc-gx----r--- UDP [L] 10.0.2.15:28681 <-- [OR] 61.222.160.99:53163
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 2
+
+offline0: i4pc-gx----r--- UDP [OR] 1.163.14.246:1630 <-- [L] 10.0.2.15:28681
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-gx-------- UDP [L] 10.0.2.15:28681 --> [OR] 74.50.147.205:17735
+        : Unknown
+        : DP: 4
+
+offline0: i4pc-gx----r--- TCP [L] 10.0.2.15:50258 --> [OR] 122.100.216.210:7097
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 3
+
+offline0: i4pc-gx----r--- UDP [L] 10.0.2.15:28681 <-- [OR] 218.103.139.2:64731
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-gx----r--- UDP [L] 10.0.2.15:28681 <-- [OR] 94.139.21.182:50110
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-gx-------- UDP [OR] 1.162.138.200:24018 <-- [L] 10.0.2.15:28681
+        : Unknown
+        : DP: 2
+
+offline0: i4pc-gx-------- UDP [L] 10.0.2.15:28681 --> [OR] 104.238.172.250:23548
+        : Unknown
+        : DP: 10
+
+offline0: i4pc-gx----r--- UDP [L] 10.0.2.15:28681 <-- [OR] 218.250.6.59:60012
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 2
+
+offline0: i4pc-gx-------- UDP [L] 10.0.2.15:28681 --> [OR] 75.64.6.175:4743
+        : Unknown
+        : DP: 4
+
+offline0: i4pc-gx----r--- TCP [L] 10.0.2.15:50263 --> [OR] 73.182.136.42:27873
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 3
+
+offline0: i4pc-gx----r--- UDP [L] 10.0.2.15:28681 --> [OR] 182.155.128.228:4364
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-gx----r--- TCP [L] 10.0.2.15:50209 --> [OR] 113.252.206.254:49587
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 3
+
+offline0: i4pc-gx----r--- UDP [L] 10.0.2.15:28681 --> [OR] 84.125.218.84:17561
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-gx----r--- UDP [L] 10.0.2.15:28681 --> [OR] 98.249.190.8:25198
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-gx----r--- UDP [L] 10.0.2.15:28681 <-- [OR] 175.39.219.223:31728
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-gx----r--- TCP [L] 10.0.2.15:50213 --> [OR] 85.117.153.7:50138
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 3
+
+offline0: i4pc-gx----r--- UDP [L] 10.0.2.15:28681 --> [OR] 80.7.252.192:24634
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-gx----r--- UDP [L] 10.0.2.15:28681 <-- [OR] 85.172.10.90:40162
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 2
+
+offline0: i4pc--x----r--- UDP [L] 10.0.2.2:5351 <-- [OL] 10.0.2.15:57619
+        : NAT/PMP
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-gx----r--- UDP [L] 10.0.2.15:28681 --> [OR] 23.19.141.110:6346
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-gx----r--- UDP [L] 10.0.2.15:28681 --> [OR] 36.237.25.47:21293
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-gx-------- UDP [L] 10.0.2.15:28681 --> [OR] 119.237.116.22:2566
+        : Unknown
+        : DP: 2
+
+offline0: i4pc-gx----r--- UDP [L] 10.0.2.15:28681 <-- [OR] 112.119.74.26:65498
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 2
+
+offline0: i4pc-gx-------- UDP [L] 10.0.2.15:28681 --> [OR] 83.86.49.195:12019
+        : Unknown
+        : DP: 4
+
+offline0: i4pc-gx----r--- UDP [L] 10.0.2.15:28681 <-- [OR] 84.118.116.198:44616
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-gx----r--- UDP [L] 10.0.2.15:28681 --> [OR] 112.105.52.2:6831
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-gx----r--- UDP [L] 10.0.2.15:28681 --> [OR] 124.218.26.16:20387
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 2
+
+offline0: i4pc-gx----r--- TCP [L] 10.0.2.15:50214 --> [OR] 80.193.171.146:53808
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 3
+
+offline0: i4pc-gx----r--- UDP [L] 10.0.2.15:28681 --> [OR] 119.14.143.237:8075
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-gx----r--- UDP [L] 10.0.2.15:28681 --> [OR] 159.196.95.223:2003
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-gx----r--- UDP [L] 10.0.2.15:28681 --> [OR] 124.218.41.253:14339
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 2
+
+offline0: i4pc-gx----r--- UDP [L] 10.0.2.15:28681 <-- [OR] 118.167.222.160:56121
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 2
+
+offline0: i4pc-gx----r--- TCP [L] 10.0.2.15:50289 --> [OR] 74.195.236.249:18557
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 3
+
+offline0: i4pc-gx-------- UDP [L] 10.0.2.15:28681 --> [OR] 27.94.154.53:6346
+        : Unknown
+        : DP: 4
+
+offline0: i4pc-gx----r--- UDP [L] 10.0.2.15:28681 --> [OR] 125.59.215.249:14571
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-gx----r--- UDP [OR] 1.171.82.65:50072 --> [L] 10.0.2.15:28681
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-gx----r--- TCP [L] 10.0.2.15:50207 --> [OR] 90.78.171.204:6346
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 3
+

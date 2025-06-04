@@ -1,0 +1,9 @@
+offline0: i4pc---------F- TCP [L] 127.0.0.1:37904 <-- [OL] 127.0.0.1:1080
+        : SOCKS
+        : DP: 6
+
+offline0: i4pc-gx----r-F- TCP [L] 127.0.0.1:8388 <-- [OL] 127.0.0.1:44276
+        : Unknown
+        : RID 52: Fully Encrypted Flow
+        : DP: 15
+

@@ -1,0 +1,23 @@
+offline0: i4pc-------r--- UDP [OR] 172.217.23.111:443 <-- [L] 192.168.2.27:51925
+        : QUIC.netify.youtube
+        : H: upload.youtube.com
+        : TLS/SNI: upload.youtube.com
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pcu------r--- TCP [OR] 172.217.23.111:443 <-- [L] 192.168.2.27:57452
+        : HTTP/S.netify.youtube
+        : H: upload.youtube.com
+        : V: 0x0303 CS: 0xc02f
+        : TLS/SNI: upload.youtube.com TLS/CN: upload.video.google.com
+        : TLS/IDN: C=US, O=Google Inc, CN=Google Internet Authority G2 TLS/SDN: C=US, ST=California, L=Mountain View, O=Google Inc, CN=upload.video.google.com
+        : RID 30: TLS Certificate Expired
+        : DP: 8
+
+offline0: i4pc-------r--- UDP [OR] 172.217.23.111:443 <-- [L] 192.168.2.27:62232
+        : QUIC.netify.youtube
+        : H: upload.youtube.com
+        : TLS/SNI: upload.youtube.com
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+

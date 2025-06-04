@@ -1,0 +1,69 @@
+offline0: i4pc----------- UDP [L] 192.168.2.1:57621 --> [OL] 192.168.2.255:57621
+        : Spotify.netify.spotify
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [OR] 31.13.86.48:3478 <-- [L] 192.168.2.12:53688
+        : WhatsApp/Call.netify.whatsapp
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [OR] 185.60.216.51:3478 <-- [L] 192.168.2.12:53688
+        : WhatsApp/Call.netify.whatsapp
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [OR] 157.240.193.48:3478 <-- [L] 192.168.2.12:53688
+        : WhatsApp/Call.netify.whatsapp
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [OR] 179.60.192.48:3478 <-- [L] 192.168.2.12:53688
+        : WhatsApp/Call.netify.whatsapp
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [OR] 157.240.196.62:3478 <-- [L] 192.168.2.12:53688
+        : WhatsApp/Call.netify.whatsapp
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc----------- UDP [L] 192.168.2.12:51277 --> [OM] 239.255.255.250:1900
+        : SSDP
+        : H: 239.255.255.250_1900
+        : DP: 1
+
+offline0: i4pc-g------s-- TCP [OR] 157.240.20.53:5222 <-- [L] 192.168.2.12:49355
+        : XMPP.netify.meta-messaging
+        : DP: 32
+
+offline0: i4pc----------- UDP [L] 0.0.0.0:68 --> [OB] 255.255.255.255:67
+        : DHCP
+        : H: lucas-imac
+        : DHCP/FP: 1,121,3,6,15,119,252,95,44,46
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [OR] 1.60.78.64:59491 --> [L] 192.168.2.12:53688
+        : WhatsApp/Call.netify.whatsapp
+        : RID 16: Known Protocol on Non-standard Port
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [OR] 91.252.56.51:32641 <-- [L] 192.168.2.12:53688
+        : STUN
+        : RID 16: Known Protocol on Non-standard Port
+        : DP: 5
+
+offline0: i4pc----------- UDP [L] 192.168.2.1:17500 --> [OL] 192.168.2.255:17500
+        : Dropbox
+        : DP: 1
+
+offline0: i4pc----------- UDP [L] 192.168.2.12:65025 --> [OM] 239.255.255.250:1900
+        : SSDP
+        : H: 239.255.255.250_1900
+        : DP: 1
+
+offline0: i4pc----------- UDP [L] 192.168.2.12:51458 --> [OM] 239.255.255.250:1900
+        : SSDP
+        : H: 239.255.255.250_1900
+        : DP: 1
+

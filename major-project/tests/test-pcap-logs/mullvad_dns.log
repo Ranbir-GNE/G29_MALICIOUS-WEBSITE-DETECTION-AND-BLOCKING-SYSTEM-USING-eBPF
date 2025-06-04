@@ -1,0 +1,5 @@
+offline0: i4pc----------- UDP [OR] 9.9.9.9:53 <-- [L] 192.168.122.11:51696
+        : DNS.netify.mullvad-vpn
+        : H: www.mullvad.net
+        : DP: 2
+

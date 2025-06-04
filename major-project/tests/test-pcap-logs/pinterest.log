@@ -1,0 +1,230 @@
+offline0: i6pcu------r--- TCP [OR] 64:ff9b::9765:7854:443 <-- [L] 2a01:cb01:2049:8b07:991d:ec85:28df:f629:33262
+        : HTTP/S.netify.pinterest
+        : H: www.pinterest.fr
+        : V: 0x0303 CS: 0xc02f
+        : TLS/SNI: www.pinterest.fr TLS/CN: pinterest.com
+        : TLS/IDN: C=US, O=DigiCert Inc, OU=www.digicert.com, CN=DigiCert SHA2 High Assurance Server CA TLS/SDN: C=US, ST=California, L=San Francisco, O=Pinterest, Inc., CN=*.pinterest.com
+        : RID 30: TLS Certificate Expired
+        : DP: 13
+
+offline0: i6pcu------r--- TCP [OR] 2a01:cb01:2049:8b07:991d:ec85:28df:f629:38512 --> [L] 2a04:4e42:1d::84:443
+        : HTTP/S.netify.pinterest
+        : H: s.pinimg.com
+        : V: 0x0303 CS: 0xc02f
+        : TLS/SNI: s.pinimg.com TLS/CN: pinterest.com
+        : TLS/IDN: C=US, O=DigiCert Inc, OU=www.digicert.com, CN=DigiCert SHA2 High Assurance Server CA TLS/SDN: C=US, ST=California, L=San Francisco, O=Pinterest, Inc., CN=*.pinterest.com
+        : RID 30: TLS Certificate Expired
+        : DP: 9
+
+offline0: i6pcu------r-F- TCP [OR] 2a01:cb01:2049:8b07:991d:ec85:28df:f629:38518 --> [L] 2a04:4e42:1d::84:443
+        : HTTP/S.netify.pinterest
+        : H: s.pinimg.com
+        : V: 0x0303 CS: 0xc02f
+        : TLS/SNI: s.pinimg.com TLS/CN: pinterest.com
+        : TLS/IDN: C=US, O=DigiCert Inc, OU=www.digicert.com, CN=DigiCert SHA2 High Assurance Server CA TLS/SDN: C=US, ST=California, L=San Francisco, O=Pinterest, Inc., CN=*.pinterest.com
+        : RID 30: TLS Certificate Expired
+        : DP: 10
+
+offline0: i6pcu------r-F- TCP [OR] 2a01:cb01:2049:8b07:991d:ec85:28df:f629:38522 --> [L] 2a04:4e42:1d::84:443
+        : HTTP/S.netify.pinterest
+        : H: s.pinimg.com
+        : V: 0x0303 CS: 0xc02f
+        : TLS/SNI: s.pinimg.com TLS/CN: pinterest.com
+        : TLS/IDN: C=US, O=DigiCert Inc, OU=www.digicert.com, CN=DigiCert SHA2 High Assurance Server CA TLS/SDN: C=US, ST=California, L=San Francisco, O=Pinterest, Inc., CN=*.pinterest.com
+        : RID 30: TLS Certificate Expired
+        : DP: 10
+
+offline0: i6pcu------r-F- TCP [OR] 2a01:cb01:2049:8b07:991d:ec85:28df:f629:38516 --> [L] 2a04:4e42:1d::84:443
+        : HTTP/S.netify.pinterest
+        : H: s.pinimg.com
+        : V: 0x0303 CS: 0xc02f
+        : TLS/SNI: s.pinimg.com TLS/CN: pinterest.com
+        : TLS/IDN: C=US, O=DigiCert Inc, OU=www.digicert.com, CN=DigiCert SHA2 High Assurance Server CA TLS/SDN: C=US, ST=California, L=San Francisco, O=Pinterest, Inc., CN=*.pinterest.com
+        : RID 30: TLS Certificate Expired
+        : DP: 13
+
+offline0: i6pcu------r-F- TCP [OR] 2a01:cb01:2049:8b07:991d:ec85:28df:f629:38514 --> [L] 2a04:4e42:1d::84:443
+        : HTTP/S.netify.pinterest
+        : H: s.pinimg.com
+        : V: 0x0303 CS: 0xc02f
+        : TLS/SNI: s.pinimg.com TLS/CN: pinterest.com
+        : TLS/IDN: C=US, O=DigiCert Inc, OU=www.digicert.com, CN=DigiCert SHA2 High Assurance Server CA TLS/SDN: C=US, ST=California, L=San Francisco, O=Pinterest, Inc., CN=*.pinterest.com
+        : RID 30: TLS Certificate Expired
+        : DP: 11
+
+offline0: i6pcu------r-F- TCP [OR] 2a01:cb01:2049:8b07:991d:ec85:28df:f629:38520 --> [L] 2a04:4e42:1d::84:443
+        : HTTP/S.netify.pinterest
+        : H: s.pinimg.com
+        : V: 0x0303 CS: 0xc02f
+        : TLS/SNI: s.pinimg.com TLS/CN: pinterest.com
+        : TLS/IDN: C=US, O=DigiCert Inc, OU=www.digicert.com, CN=DigiCert SHA2 High Assurance Server CA TLS/SDN: C=US, ST=California, L=San Francisco, O=Pinterest, Inc., CN=*.pinterest.com
+        : RID 30: TLS Certificate Expired
+        : DP: 10
+
+offline0: i6pcu---------- TCP [OR] 2600:1901:0:7a0b:::443 <-- [L] 2a01:cb01:2049:8b07:991d:ec85:28df:f629:47032
+        : HTTP/S.netify.bugsnag
+        : H: sessions.bugsnag.com
+        : V: 0x0303 CS: 0x1301
+        : TLS/SNI: sessions.bugsnag.com
+        : DP: 6
+
+offline0: i6pcu---------- TCP [OR] 2a00:1450:4007:816::2004:443 <-- [L] 2a01:cb01:2049:8b07:991d:ec85:28df:f629:40694
+        : HTTP/S.netify.google
+        : H: www.google.com
+        : V: 0x0303 CS: 0x1301
+        : TLS/SNI: www.google.com
+        : DP: 6
+
+offline0: i6pcu------r--- TCP [OR] 64:ff9b::9765:7854:443 <-- [L] 2a01:cb01:2049:8b07:991d:ec85:28df:f629:33280
+        : HTTP/S.netify.pinterest
+        : H: accounts.pinterest.com
+        : V: 0x0303 CS: 0xc02f
+        : TLS/SNI: accounts.pinterest.com TLS/CN: pinterest.com
+        : TLS/IDN: C=US, O=DigiCert Inc, OU=www.digicert.com, CN=DigiCert SHA2 High Assurance Server CA TLS/SDN: C=US, ST=California, L=San Francisco, O=Pinterest, Inc., CN=*.pinterest.com
+        : RID 30: TLS Certificate Expired
+        : DP: 14
+
+offline0: i6pcu------r--- TCP [OR] 2a01:cb01:2049:8b07:991d:ec85:28df:f629:57050 --> [L] 2a04:4e42:1d::720:443
+        : HTTP/S.netify.fastly
+        : H: images.unsplash.com
+        : V: 0x0303 CS: 0xc02f
+        : TLS/SNI: images.unsplash.com TLS/CN: imgix2.map.fastly.net
+        : TLS/IDN: C=BE, O=GlobalSign nv-sa, CN=GlobalSign CloudSSL CA - SHA256 - G3 TLS/SDN: C=US, ST=California, L=San Francisco, O=Fastly, Inc., CN=imgix2.map.fastly.net
+        : RID 30: TLS Certificate Expired
+        : DP: 12
+
+offline0: i6pcu---------- TCP [OR] 2a00:1450:4007:816::2003:443 <-- [L] 2a01:cb01:2049:8b07:991d:ec85:28df:f629:51582
+        : HTTP/S.netify.google
+        : H: www.gstatic.com
+        : V: 0x0303 CS: 0x1301
+        : TLS/SNI: www.gstatic.com
+        : DP: 6
+
+offline0: i6pcu---------- TCP [OR] 2a00:1450:4007:806::200e:443 <-- [L] 2a01:cb01:2049:8b07:991d:ec85:28df:f629:54416
+        : HTTP/S.netify.google
+        : H: apis.google.com
+        : V: 0x0303 CS: 0x1301
+        : TLS/SNI: apis.google.com
+        : DP: 6
+
+offline0: i6pcu---------- TCP [OR] 2a01:cb01:2049:8b07:991d:ec85:28df:f629:51292 --> [L] 2a03:2880:f030:13:face:b00c:0:3:443
+        : HTTP/S.netify.facebook
+        : H: connect.facebook.net
+        : V: 0x0303 CS: 0x1301
+        : TLS/SNI: connect.facebook.net
+        : DP: 6
+
+offline0: i6pcu---------- TCP [OR] 2a01:cb01:2049:8b07:991d:ec85:28df:f629:60340 --> [L] 2a03:2880:f11f:83:face:b00c:0:25de:443
+        : HTTP/S.netify.facebook
+        : H: www.facebook.com
+        : V: 0x0303 CS: 0x1301
+        : TLS/SNI: www.facebook.com
+        : DP: 6
+
+offline0: i6pcu---------- TCP [OR] 2a00:1450:4007:816::200a:443 <-- [L] 2a01:cb01:2049:8b07:991d:ec85:28df:f629:47790
+        : HTTP/S.netify.google
+        : H: content-autofill.googleapis.com
+        : V: 0x0303 CS: 0x1301
+        : TLS/SNI: content-autofill.googleapis.com
+        : DP: 6
+
+offline0: i6pc----------- TCP [OR] 2a00:1450:4007:805::2003:443 <-- [L] 2a01:cb01:2049:8b07:991d:ec85:28df:f629:43562
+        : HTTP/S.netify.google
+        : DP: 15
+
+offline0: i6pcu---------- TCP [OR] 2a00:1450:4007:816::200d:443 <-- [L] 2a01:cb01:2049:8b07:991d:ec85:28df:f629:40894
+        : HTTP/S.netify.google-authentication
+        : H: accounts.google.com
+        : V: 0x0303 CS: 0x1301
+        : TLS/SNI: accounts.google.com
+        : DP: 6
+
+offline0: i6pcu------r--- TCP [OR] 2a01:cb01:2049:8b07:991d:ec85:28df:f629:38546 --> [L] 2a04:4e42:1d::84:443
+        : HTTP/S.netify.pinterest
+        : H: assets.pinterest.com
+        : V: 0x0303 CS: 0xc02f
+        : TLS/SNI: assets.pinterest.com TLS/CN: pinterest.com
+        : TLS/IDN: C=US, O=DigiCert Inc, OU=www.digicert.com, CN=DigiCert SHA2 High Assurance Server CA TLS/SDN: C=US, ST=California, L=San Francisco, O=Pinterest, Inc., CN=*.pinterest.com
+        : RID 30: TLS Certificate Expired
+        : DP: 11
+
+offline0: i6pcu---------- TCP [OR] 2a00:1450:4007:80a::200e:443 <-- [L] 2a01:cb01:2049:8b07:991d:ec85:28df:f629:45126
+        : HTTP/S.netify.analytics
+        : H: www.google-analytics.com
+        : V: 0x0303 CS: 0x1301
+        : TLS/SNI: www.google-analytics.com
+        : DP: 6
+
+offline0: i6pcu------r--- TCP [OR] 64:ff9b::9765:7a6e:443 <-- [L] 2a01:cb01:2049:8b07:991d:ec85:28df:f629:40114
+        : HTTP/S.netify.new-relic
+        : H: js-agent.newrelic.com
+        : V: 0x0303 CS: 0xc02f
+        : TLS/SNI: js-agent.newrelic.com TLS/CN: f4.shared.global.fastly.net
+        : TLS/IDN: C=BE, O=GlobalSign nv-sa, CN=GlobalSign CloudSSL CA - SHA256 - G3 TLS/SDN: C=US, ST=California, L=San Francisco, O=Fastly, Inc., CN=f4.shared.global.fastly.net
+        : RID 30: TLS Certificate Expired
+        : DP: 12
+
+offline0: i6pc-gx-------- TCP [OR] 2a00:1450:4007:807::200a:443 <-- [L] 2a01:cb01:2049:8b07:991d:ec85:28df:f629:40876
+        : HTTP/S.netify.google
+        : DP: 2
+
+offline0: i6pc-gx-------- TCP [OR] 64:ff9b::9765:7854:443 <-- [L] 2a01:cb01:2049:8b07:991d:ec85:28df:f629:33164
+        : HTTP/S
+        : DP: 2
+
+offline0: i6pc-gx-------- TCP [OR] 2a01:cb01:2049:8b07:991d:ec85:28df:f629:56940 --> [L] 2a04:4e42:1d::720:443
+        : HTTP/S
+        : DP: 2
+
+offline0: i6pc-gx-------- TCP [OR] 2a00:1450:4007:80c::200a:443 <-- [L] 2a01:cb01:2049:8b07:991d:ec85:28df:f629:57130
+        : HTTP/S.netify.google
+        : DP: 2
+
+offline0: i6pc-gx-------- TCP [OR] 2600:1901:0:7a0b:::443 <-- [L] 2a01:cb01:2049:8b07:991d:ec85:28df:f629:46918
+        : HTTP/S
+        : DP: 2
+
+offline0: i6pc-gx-------- TCP [OR] 64:ff9b::9765:7854:443 <-- [L] 2a01:cb01:2049:8b07:991d:ec85:28df:f629:33156
+        : HTTP/S
+        : DP: 2
+
+offline0: i6pc-gx-------- TCP [OR] 64:ff9b::acd9:13e2:443 <-- [L] 2a01:cb01:2049:8b07:991d:ec85:28df:f629:34626
+        : HTTP/S
+        : DP: 2
+
+offline0: i6pc-gx-------- TCP [OR] 2a00:1450:4007:816::200a:443 <-- [L] 2a01:cb01:2049:8b07:991d:ec85:28df:f629:47682
+        : HTTP/S.netify.google
+        : DP: 2
+
+offline0: i6pc-gx-------- TCP [OR] 2a00:1450:4007:80b::2002:443 <-- [L] 2a01:cb01:2049:8b07:991d:ec85:28df:f629:58726
+        : HTTP/S.netify.google
+        : DP: 2
+
+offline0: i6pc-gx-------- TCP [OR] 2a00:1450:4007:815::2003:443 <-- [L] 2a01:cb01:2049:8b07:991d:ec85:28df:f629:48890
+        : HTTP/S.netify.google
+        : DP: 2
+
+offline0: i6pc-gx-------- TCP [OR] 2a00:1450:4007:816::2004:443 <-- [L] 2a01:cb01:2049:8b07:991d:ec85:28df:f629:40560
+        : HTTP/S.netify.google
+        : DP: 2
+
+offline0: i6pc-gx-------- TCP [OR] 2a00:1450:4007:806::200e:443 <-- [L] 2a01:cb01:2049:8b07:991d:ec85:28df:f629:54308
+        : HTTP/S.netify.google
+        : DP: 2
+
+offline0: i6pc-gx-------- TCP [OR] 2a01:cb01:2049:8b07:991d:ec85:28df:f629:38402 --> [L] 2a04:4e42:1d::84:443
+        : HTTP/S
+        : DP: 2
+
+offline0: i6pc-gx-------- TCP [OR] 2a00:1450:4007:816::2003:443 <-- [L] 2a01:cb01:2049:8b07:991d:ec85:28df:f629:51472
+        : HTTP/S.netify.google
+        : DP: 2
+
+offline0: i6pc-gx-------- TCP [OR] 2a00:1450:4007:816::2003:443 <-- [L] 2a01:cb01:2049:8b07:991d:ec85:28df:f629:51446
+        : HTTP/S.netify.google
+        : DP: 2
+
+offline0: i6pc-gx-------- TCP [OR] 2a01:cb01:2049:8b07:991d:ec85:28df:f629:38406 --> [L] 2a04:4e42:1d::84:443
+        : HTTP/S
+        : DP: 2
+

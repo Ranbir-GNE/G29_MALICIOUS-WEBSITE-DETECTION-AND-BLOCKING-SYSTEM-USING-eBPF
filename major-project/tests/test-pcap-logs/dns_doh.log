@@ -1,0 +1,7 @@
+offline0: i4pcu---------- TCP [OR] 104.16.248.249:443 <-- [L] 172.20.10.4:49877
+        : HTTP/S.netify.cloudflare-dns
+        : H: mozilla.cloudflare-dns.com
+        : V: 0x0303 CS: 0x1301
+        : TLS/SNI: mozilla.cloudflare-dns.com
+        : DP: 6
+

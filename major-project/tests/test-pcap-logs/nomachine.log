@@ -1,0 +1,11 @@
+offline0: i4pc-------r-F- TCP [L] 192.168.88.208:4000 <-- [OL] 192.168.88.231:48084
+        : NX/NoMachine
+        : RID  4: Desktop/File Sharing
+        : DP: 4
+
+offline0: i4pc-------r--- UDP [L] 192.168.88.208:4000 <-- [OL] 192.168.88.231:56019
+        : NX/NoMachine
+        : RID  4: Desktop/File Sharing
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+

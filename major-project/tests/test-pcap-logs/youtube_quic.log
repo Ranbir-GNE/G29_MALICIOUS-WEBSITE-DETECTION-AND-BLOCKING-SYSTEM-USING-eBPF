@@ -1,0 +1,21 @@
+offline0: i4pc-------r--- UDP [L] 192.168.1.7:54997 --> [OR] 216.58.205.66:443
+        : QUIC.netify.google-ads
+        : H: pagead2.googlesyndication.com
+        : TLS/SNI: pagead2.googlesyndication.com
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 192.168.1.7:56074 --> [OR] 216.58.198.33:443
+        : QUIC.netify.youtube
+        : H: yt3.ggpht.com
+        : TLS/SNI: yt3.ggpht.com
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 192.168.1.7:53859 --> [OR] 216.58.205.66:443
+        : QUIC.netify.google-ads
+        : H: googleads.g.doubleclick.net
+        : TLS/SNI: googleads.g.doubleclick.net
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+

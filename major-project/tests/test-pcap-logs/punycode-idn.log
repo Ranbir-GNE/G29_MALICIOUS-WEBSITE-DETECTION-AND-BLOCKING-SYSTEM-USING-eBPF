@@ -1,0 +1,21 @@
+offline0: i4pc----------- UDP [L] 192.168.2.1:53 <-- [OL] 192.168.2.140:45520
+        : DNS.netify.spotify
+        : H: i.scdn.co
+        : DP: 2
+
+offline0: i4pc-------r-F- TCP [OR] 170.33.9.230:80 <-- [L] 192.168.2.140:56011
+        : HTTP
+        : H: www.love.xn--55qx5d
+        : HTTP/UA: curl/7.77.0
+        : URL: www.love.xn--55qx5d/
+        : RID  8: Error Code
+        : RID 21: IDN Domain Name
+        : DP: 8
+
+offline0: i4pc--x----r--- UDP [L] 192.168.2.1:53 <-- [OL] 192.168.2.140:60156
+        : DNS
+        : H: www.xn--mnich-kva.com
+        : RID  8: Error Code
+        : RID 21: IDN Domain Name
+        : DP: 2
+

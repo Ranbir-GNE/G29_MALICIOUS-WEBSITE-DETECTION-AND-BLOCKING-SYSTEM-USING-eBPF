@@ -1,0 +1,247 @@
+offline0: i4pcu---------- TCP [L] 10.0.0.1:53674 --> [OR] 139.99.222.72:443
+        : HTTP/S
+        : H: doh-2.seby.io
+        : V: 0x0303 CS: 0x1301
+        : TLS/SNI: doh-2.seby.io
+        : DP: 2
+
+offline0: i4pcu---------- TCP [L] 10.0.0.1:53676 --> [OR] 139.99.222.72:443
+        : HTTP/S
+        : H: doh-2.seby.io
+        : V: 0x0303 CS: 0x1301
+        : TLS/SNI: doh-2.seby.io
+        : DP: 2
+
+offline0: i4pcu---------- TCP [L] 10.0.0.1:50614 --> [OR] 185.95.218.42:443
+        : HTTP/S
+        : H: dns.digitale-gesellschaft.ch
+        : V: 0x0303 CS: 0x1302
+        : TLS/SNI: dns.digitale-gesellschaft.ch
+        : DP: 2
+
+offline0: i4pcu---------- TCP [L] 10.0.0.1:55962 --> [OR] 51.158.147.50:443
+        : HTTP/S
+        : H: resolver-eu.lelux.fi
+        : V: 0x0303 CS: 0x1301
+        : TLS/SNI: resolver-eu.lelux.fi
+        : DP: 2
+
+offline0: i4pcu---------- TCP [L] 10.0.0.1:59404 --> [OR] 185.253.154.66:443
+        : HTTP/S
+        : H: dnses.alekberg.net
+        : V: 0x0303 CS: 0x1301
+        : TLS/SNI: dnses.alekberg.net
+        : DP: 2
+
+offline0: i4pcu---------- TCP [L] 10.0.0.1:40938 --> [OR] 172.104.93.80:443
+        : HTTP/S
+        : H: jp.tiar.app
+        : V: 0x0303 CS: 0x1303
+        : TLS/SNI: jp.tiar.app
+        : DP: 2
+
+offline0: i4pcu------r--- TCP [L] 10.0.0.1:37530 --> [OR] 167.114.220.125:453
+        : TLS
+        : H: dns1.dnscrypt.ca
+        : V: 0x0303 CS: 0x1301
+        : TLS/SNI: dns1.dnscrypt.ca
+        : RID 16: Known Protocol on Non-standard Port
+        : DP: 2
+
+offline0: i4pc-------r--- TCP [L] 10.0.0.1:38186 --> [OR] 185.43.135.1:443
+        : HTTP/S
+        : H: odvr.nic.cz
+        : V: 0x0303 CS: 0xc02f
+        : TLS/SNI: odvr.nic.cz TLS/CN: odvr.nic.cz
+        : TLS/IDN: C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3 TLS/SDN: CN=odvr.nic.cz
+        : RID 30: TLS Certificate Expired
+        : DP: 2
+
+offline0: i4pcu---------- TCP [OR] 9.9.9.10:443 <-- [L] 10.0.0.1:51770
+        : HTTP/S.netify.quad9
+        : H: dns10.quad9.net
+        : V: 0x0303 CS: 0x1302
+        : TLS/SNI: dns10.quad9.net
+        : DP: 2
+
+offline0: i4pcu---------- TCP [L] 10.0.0.1:55322 --> [OR] 185.134.196.55:443
+        : HTTP/S
+        : H: rdns.faelix.net
+        : V: 0x0303 CS: 0x1302
+        : TLS/SNI: rdns.faelix.net
+        : DP: 2
+
+offline0: i4pcu---------- TCP [L] 10.0.0.1:52386 --> [OR] 51.15.124.208:443
+        : HTTP/S
+        : H: dnsnl.alekberg.net
+        : V: 0x0303 CS: 0x1301
+        : TLS/SNI: dnsnl.alekberg.net
+        : DP: 2
+
+offline0: i4pcu---------- TCP [L] 10.0.0.1:41720 --> [OR] 116.203.179.248:443
+        : HTTP/S
+        : H: rumpelsepp.org
+        : V: 0x0303 CS: 0x1301
+        : TLS/SNI: rumpelsepp.org
+        : DP: 2
+
+offline0: i4pcu---------- TCP [L] 10.0.0.1:60026 --> [OR] 195.30.94.28:443
+        : HTTP/S
+        : H: doh.ffmuc.net
+        : V: 0x0303 CS: 0x1302
+        : TLS/SNI: doh.ffmuc.net
+        : DP: 2
+
+offline0: i4pcu---------- TCP [L] 10.0.0.1:46658 --> [OR] 185.233.106.232:443
+        : HTTP/S
+        : H: dns.dnshome.de
+        : V: 0x0303 CS: 0x1302
+        : TLS/SNI: dns.dnshome.de
+        : DP: 2
+
+offline0: i4pcu------r--- TCP [L] 10.0.0.1:36012 --> [OR] 149.56.228.45:453
+        : TLS
+        : H: dns2.dnscrypt.ca
+        : V: 0x0303 CS: 0x1301
+        : TLS/SNI: dns2.dnscrypt.ca
+        : RID 16: Known Protocol on Non-standard Port
+        : DP: 2
+
+offline0: i4pcu---------- TCP [L] 10.0.0.1:38018 --> [OR] 45.153.187.96:443
+        : HTTP/S
+        : H: dnsse.alekberg.net
+        : V: 0x0303 CS: 0x1301
+        : TLS/SNI: dnsse.alekberg.net
+        : DP: 2
+
+offline0: i4pcu---------- TCP [L] 10.0.0.1:44640 --> [OR] 185.235.81.1:443
+        : HTTP/S
+        : H: doh.dnslify.com
+        : V: 0x0303 CS: 0x1302
+        : TLS/SNI: doh.dnslify.com
+        : DP: 2
+
+offline0: i4pcu---------- TCP [L] 10.0.0.1:43106 --> [OR] 116.202.176.26:443
+        : HTTP/S
+        : H: doh.libredns.gr
+        : V: 0x0303 CS: 0x1302
+        : TLS/SNI: doh.libredns.gr
+        : DP: 2
+
+offline0: i4pcu---------- TCP [L] 10.0.0.1:59026 --> [OR] 85.5.93.230:443
+        : HTTP/S
+        : H: ibksturm.synology.me
+        : V: 0x0303 CS: 0x1302
+        : TLS/SNI: ibksturm.synology.me
+        : DP: 2
+
+offline0: i4pcu---------- TCP [L] 10.0.0.1:33724 --> [OR] 104.28.28.34:443
+        : HTTP/S
+        : H: jp.tiarap.org
+        : V: 0x0303 CS: 0x1301
+        : TLS/SNI: jp.tiarap.org
+        : DP: 2
+
+offline0: i4pcu---------- TCP [OR] 1.0.0.1:443 <-- [L] 10.0.0.1:53802
+        : HTTP/S.netify.cloudflare-dns
+        : H: dns.cloudflare.com
+        : V: 0x0303 CS: 0x1301
+        : TLS/SNI: dns.cloudflare.com
+        : DP: 2
+
+offline0: i4pcu---------- TCP [L] 10.0.0.1:33338 --> [OR] 45.90.28.0:443
+        : HTTP/S.netify.nextdns
+        : H: dns.nextdns.io
+        : V: 0x0303 CS: 0x1301
+        : TLS/SNI: dns.nextdns.io
+        : DP: 2
+
+offline0: i4pcu---------- TCP [L] 10.0.0.1:52176 --> [OR] 136.144.215.158:443
+        : HTTP/S
+        : H: doh.powerdns.org
+        : V: 0x0303 CS: 0x1302
+        : TLS/SNI: doh.powerdns.org
+        : DP: 2
+
+offline0: i4pcu---------- TCP [L] 10.0.0.1:39214 --> [OR] 104.28.0.106:443
+        : HTTP/S
+        : H: doh.crypto.sx
+        : V: 0x0303 CS: 0x1301
+        : TLS/SNI: doh.crypto.sx
+        : DP: 2
+
+offline0: i4pcu------r--- TCP [L] 10.0.0.1:52028 --> [OR] 45.76.113.31:8443
+        : TLS
+        : H: doh.seby.io
+        : V: 0x0303 CS: 0x1301
+        : TLS/SNI: doh.seby.io
+        : RID 16: Known Protocol on Non-standard Port
+        : DP: 2
+
+offline0: i4pcu---------- TCP [L] 10.0.0.1:34036 --> [OR] 217.169.20.23:443
+        : HTTP/S
+        : H: dns.aa.net.uk
+        : V: 0x0303 CS: 0x1302
+        : TLS/SNI: dns.aa.net.uk
+        : DP: 2
+
+offline0: i4pcu---------- TCP [L] 10.0.0.1:43718 --> [OR] 146.255.56.98:443
+        : HTTP/S
+        : H: doh.appliedprivacy.net
+        : V: 0x0303 CS: 0x1302
+        : TLS/SNI: doh.appliedprivacy.net
+        : DP: 2
+
+offline0: i4pcu---------- TCP [L] 10.0.0.1:54164 --> [OR] 193.70.85.11:443
+        : HTTP/S
+        : H: doh.bortzmeyer.fr
+        : V: 0x0303 CS: 0x1302
+        : TLS/SNI: doh.bortzmeyer.fr
+        : DP: 2
+
+offline0: i4pcu------r--- TCP [L] 10.0.0.1:35714 --> [OR] 209.250.241.25:443
+        : HTTP/S
+        : H: jarjar.meganerd.nl
+        : V: 0x0303 CS: 0xc030
+        : TLS/SNI: jarjar.meganerd.nl TLS/CN: jarjar.meganerd.nl
+        : TLS/IDN: C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3 TLS/SDN: CN=jarjar.meganerd.nl
+        : RID 30: TLS Certificate Expired
+        : DP: 3
+
+offline0: i4pcu---------- TCP [L] 10.0.0.1:43888 --> [OR] 95.216.229.153:443
+        : HTTP/S
+        : H: fi.doh.dns.snopyta.org
+        : V: 0x0303 CS: 0x1302
+        : TLS/SNI: fi.doh.dns.snopyta.org
+        : DP: 2
+
+offline0: i4pcu---------- TCP [L] 10.0.0.1:57058 --> [OR] 46.227.200.54:443
+        : HTTP/S
+        : H: rdns.faelix.net
+        : V: 0x0303 CS: 0x1302
+        : TLS/SNI: rdns.faelix.net
+        : DP: 2
+
+offline0: i4pcu---------- TCP [OR] 9.9.9.10:443 <-- [L] 10.0.0.1:51846
+        : HTTP/S.netify.quad9
+        : H: dns10.quad9.net
+        : V: 0x0303 CS: 0x1302
+        : TLS/SNI: dns10.quad9.net
+        : DP: 2
+
+offline0: i4pcu---------- TCP [L] 10.0.0.1:44704 --> [OR] 185.235.81.1:443
+        : HTTP/S
+        : H: doh.dnslify.com
+        : V: 0x0303 CS: 0x1302
+        : TLS/SNI: doh.dnslify.com
+        : DP: 2
+
+offline0: i4pcu------r--- TCP [L] 10.0.0.1:35742 --> [OR] 209.250.241.25:443
+        : HTTP/S
+        : H: jarjar.meganerd.nl
+        : V: 0x0303 CS: 0xc030
+        : TLS/SNI: jarjar.meganerd.nl TLS/CN: jarjar.meganerd.nl
+        : TLS/IDN: C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3 TLS/SDN: CN=jarjar.meganerd.nl
+        : RID 30: TLS Certificate Expired
+        : DP: 3
+

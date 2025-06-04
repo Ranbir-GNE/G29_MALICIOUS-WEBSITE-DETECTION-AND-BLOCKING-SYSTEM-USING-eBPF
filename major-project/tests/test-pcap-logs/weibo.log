@@ -1,0 +1,249 @@
+offline0: i4pc----------- UDP [L] 192.168.1.1:53 <-- [OL] 192.168.1.105:54988
+        : DNS.netify.weibo
+        : H: weibo.com
+        : DP: 2
+
+offline0: i4pc---------F- TCP [OR] 114.134.80.162:80 <-- [L] 192.168.1.105:59119
+        : HTTP.netify.weibo
+        : D: weibo.com
+        : HTTP/UA: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36
+        : URL: weibo.com/login.php?lang=en-us
+        : DP: 6
+
+offline0: i4pc----------- UDP [L] 192.168.1.1:53 <-- [OL] 192.168.1.105:7148
+        : DNS.netify.weibo
+        : H: www.weibo.com
+        : DP: 2
+
+offline0: i4pc----------- TCP [OR] 93.188.134.137:80 <-- [L] 192.168.1.105:51698
+        : HTTP.netify.weibo
+        : D: www.weibo.com.cdngc.net H: www.weibo.com
+        : HTTP/UA: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36
+        : URL: www.weibo.com/login.php?lang=en-us
+        : DP: 12
+
+offline0: i4pc-------r--- UDP [L] 192.168.1.1:53 <-- [OL] 192.168.1.105:53543
+        : DNS.netify.sina
+        : H: img.t.sinajs.cn
+        : RID 50: Minor Issues
+        : DP: 2
+
+offline0: i4pc----------- TCP [OR] 93.188.134.246:80 <-- [L] 192.168.1.105:35805
+        : HTTP.netify.sina
+        : D: n4cswhk3.gccdn.net H: img.t.sinajs.cn
+        : HTTP/UA: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36
+        : URL: img.t.sinajs.cn/t6/skin/default/skin.css?version=201605130537
+        : DP: 6
+
+offline0: i4pc----------- TCP [OR] 93.188.134.246:80 <-- [L] 192.168.1.105:35804
+        : HTTP.netify.sina
+        : D: n4cswhk3.gccdn.net H: img.t.sinajs.cn
+        : HTTP/UA: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36
+        : URL: img.t.sinajs.cn/t6/style/css/module/combination/comb_login.css?version=201605130537
+        : DP: 6
+
+offline0: i4pc----------- TCP [OR] 93.188.134.246:80 <-- [L] 192.168.1.105:35803
+        : HTTP.netify.sina
+        : D: n4cswhk3.gccdn.net H: img.t.sinajs.cn
+        : HTTP/UA: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36
+        : URL: img.t.sinajs.cn/t6/style/css/module/base/frame.css?version=201605130537
+        : DP: 6
+
+offline0: i4pc----------- UDP [L] 192.168.1.1:53 <-- [OL] 192.168.1.105:18035
+        : DNS.netify.sina
+        : H: u1.img.mobile.sina.cn
+        : DP: 2
+
+offline0: i4pc----------- UDP [L] 192.168.1.1:53 <-- [OL] 192.168.1.105:41352
+        : DNS.netify.sina
+        : H: js.t.sinajs.cn
+        : DP: 2
+
+offline0: i4pc----------- UDP [L] 192.168.1.1:53 <-- [OL] 192.168.1.105:51440
+        : DNS.netify.alibaba-cdn
+        : H: g.alicdn.com
+        : DP: 2
+
+offline0: i4pc----------- UDP [L] 192.168.1.1:53 <-- [OL] 192.168.1.105:53466
+        : DNS.netify.taobao
+        : H: log.mmstat.com
+        : DP: 2
+
+offline0: i4pc----------- TCP [OR] 93.188.134.246:80 <-- [L] 192.168.1.105:35806
+        : HTTP.netify.sina
+        : D: n4cswhk3.gccdn.net H: img.t.sinajs.cn
+        : HTTP/UA: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36
+        : URL: img.t.sinajs.cn/t6/style/images/global_nav/WB_logo_b.png
+        : DP: 6
+
+offline0: i4pc----------- TCP [OR] 93.188.134.246:80 <-- [L] 192.168.1.105:35807
+        : HTTP.netify.sina
+        : D: n4cswhk3.gccdn.net H: img.t.sinajs.cn
+        : HTTP/UA: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36
+        : URL: img.t.sinajs.cn/t6/style/images/growth/login/sprite_login.png?13434210384389
+        : DP: 6
+
+offline0: i4pc----------- TCP [OR] 93.188.134.246:80 <-- [L] 192.168.1.105:35809
+        : HTTP.netify.sina
+        : D: n4cswhk3.gccdn.net H: img.t.sinajs.cn
+        : HTTP/UA: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36
+        : URL: img.t.sinajs.cn/t6/style/images/common/font/wbficon.woff?id=201605111746
+        : DP: 6
+
+offline0: i4pc-------r--- UDP [L] 192.168.1.1:53 <-- [OL] 192.168.1.105:50640
+        : DNS.netify.alibaba-cloud
+        : H: acjstb.aliyun.com
+        : RID 23: Risky Domain Name
+        : RID 27: Suspicious DGA Domain name
+        : DP: 2
+
+offline0: i4pc----------- UDP [L] 192.168.1.1:53 <-- [OL] 192.168.1.105:33822
+        : DNS.netify.taobao
+        : H: login.taobao.com
+        : DP: 2
+
+offline0: i4pc--x-------- TCP [OR] 93.188.134.246:80 <-- [L] 192.168.1.105:35811
+        : HTTP.netify.sina
+        : D: n4cswhk3.gccdn.net H: js.t.sinajs.cn
+        : HTTP/UA: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36
+        : URL: js.t.sinajs.cn/t5/register/js/v6/pl/base.js?version=201605130537
+        : DP: 5
+
+offline0: i4pc-gx-------- TCP [OR] 47.89.65.229:443 <-- [L] 192.168.1.105:50831
+        : HTTP/S.netify.alibaba-cdn
+        : D: g.alicdn.com.danuoyi.alicdn.com
+        : DP: 3
+
+offline0: i4pc--x----r--- UDP [L] 192.168.1.1:53 <-- [OL] 192.168.1.105:11798
+        : DNS.netify.weibo
+        : H: account.weibo.com
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-gx-------- TCP [L] 192.168.1.105:34699 --> [OR] 216.58.212.65:443
+        : HTTP/S.netify.google
+        : DP: 2
+
+offline0: i4pc-gx----r--- TCP [L] 192.168.1.105:42280 --> [OR] 222.73.28.96:80
+        : HTTP.netify.sina
+        : D: weibo.grid.sinaedge.com
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-gx-------- TCP [L] 192.168.1.105:37802 --> [OR] 216.58.212.69:443
+        : HTTP/S.netify.google
+        : DP: 2
+
+offline0: i4pc-gx-------- TCP [L] 192.168.1.105:58480 --> [OR] 216.58.214.78:443
+        : HTTP/S.netify.google
+        : DP: 2
+
+offline0: i4pc-gx----r--- TCP [OR] 140.205.174.1:443 <-- [L] 192.168.1.105:48353
+        : HTTP/S.netify.taobao
+        : D: log.gds.mmstat.com
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-gx----r--- TCP [OR] 140.205.170.63:443 <-- [L] 192.168.1.105:47721
+        : HTTP/S.netify.taobao
+        : D: wagbridge.taobao.com.gds.alibabadns.com
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-gx-------- TCP [OR] 114.134.80.162:80 <-- [L] 192.168.1.105:59121
+        : HTTP.netify.weibo
+        : D: weibo.com
+        : DP: 3
+
+offline0: i4pc-gx----r--- TCP [OR] 42.156.184.19:443 <-- [L] 192.168.1.105:52274
+        : HTTP/S.netify.alibaba-cloud
+        : D: acjs.aliyun.com.gds.alibabadns.com
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc--x----r--- UDP [L] 192.168.1.1:53 <-- [OL] 192.168.1.105:50533
+        : DNS.netify.weibo
+        : H: data.weibo.com
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-gx----r--- TCP [OR] 140.205.174.1:443 <-- [L] 192.168.1.105:48356
+        : HTTP/S.netify.taobao
+        : D: log.gds.mmstat.com
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-gx-------- TCP [OR] 93.188.134.246:80 <-- [L] 192.168.1.105:35808
+        : HTTP.netify.wangsu
+        : D: n4cswhk3.gccdn.net
+        : DP: 3
+
+offline0: i4pc-gx-------- UDP [L] 192.168.1.105:53656 --> [OR] 216.58.210.227:443
+        : QUIC.netify.google
+        : DP: 14
+
+offline0: i4pc-gx----r--- TCP [OR] 140.205.170.63:443 <-- [L] 192.168.1.105:47723
+        : HTTP/S.netify.taobao
+        : D: wagbridge.taobao.com.gds.alibabadns.com
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-gx----r--- TCP [OR] 42.156.184.19:443 <-- [L] 192.168.1.105:52272
+        : HTTP/S.netify.alibaba-cloud
+        : D: acjs.aliyun.com.gds.alibabadns.com
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-gx-------- TCP [L] 192.168.1.105:58481 --> [OR] 216.58.214.78:443
+        : HTTP/S.netify.google
+        : DP: 2
+
+offline0: i4pc-gx-------- TCP [OR] 54.225.163.210:443 <-- [L] 192.168.1.105:40440
+        : HTTP/S
+        : DP: 2
+
+offline0: i4pc-gx-------- TCP [L] 192.168.1.105:35154 --> [OR] 216.58.210.206:443
+        : HTTP/S.netify.google
+        : DP: 2
+
+offline0: i4pc-gx-------- TCP [OR] 114.134.80.162:80 <-- [L] 192.168.1.105:59120
+        : HTTP.netify.weibo
+        : D: weibo.com
+        : DP: 3
+
+offline0: i4pc--x-------- TCP [L] 192.168.1.105:42275 --> [OR] 222.73.28.96:80
+        : HTTP.netify.sina
+        : D: weibo.grid.sinaedge.com H: u1.img.mobile.sina.cn
+        : HTTP/UA: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36
+        : URL: u1.img.mobile.sina.cn/public/files/image/620x300_img5653d57c6dab2.png
+        : DP: 4
+
+offline0: i4pc-gx-------- UDP [L] 192.168.1.105:49361 --> [OR] 216.58.210.14:443
+        : QUIC.netify.google
+        : DP: 9
+
+offline0: i4pc--x-------- TCP [OR] 47.89.65.229:443 <-- [L] 192.168.1.105:50827
+        : HTTP/S.netify.alibaba-cdn
+        : D: g.alicdn.com.danuoyi.alicdn.com H: g.alicdn.com
+        : V: 0x0303
+        : TLS/SNI: g.alicdn.com
+        : DP: 4
+
+offline0: i4pc--x----r--- UDP [L] 192.168.1.1:53 <-- [OL] 192.168.1.105:16804
+        : DNS.netify.weibo
+        : H: c.weibo.cn
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-gx----r--- TCP [OR] 140.205.174.1:443 <-- [L] 192.168.1.105:48352
+        : HTTP/S.netify.taobao
+        : D: log.gds.mmstat.com
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-gx----r--- TCP [OR] 42.156.184.19:443 <-- [L] 192.168.1.105:52271
+        : HTTP/S.netify.alibaba-cloud
+        : D: acjs.aliyun.com.gds.alibabadns.com
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+

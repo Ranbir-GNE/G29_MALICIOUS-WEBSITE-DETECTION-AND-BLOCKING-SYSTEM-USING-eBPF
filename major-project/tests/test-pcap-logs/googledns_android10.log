@@ -1,0 +1,47 @@
+offline0: i4pc-------r-F- TCP [OR] 8.8.4.4:853 <-- [L] 192.168.1.159:48048
+        : DoT.netify.google-dns
+        : H: dns.google
+        : RID 30: TLS Certificate Expired
+        : RID 47: TLS ALPN Not Found
+        : DP: 27
+
+offline0: i4pc-------r--- ICMP [OR] 8.8.8.8:0 <-- [L] 192.168.1.159:0
+        : ICMP.netify.google
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r-F- TCP [OR] 8.8.4.4:853 <-- [L] 192.168.1.159:48098
+        : DoT.netify.google-dns
+        : H: dns.google
+        : RID 47: TLS ALPN Not Found
+        : DP: 6
+
+offline0: i4pc-------r--- TCP [OR] 8.8.4.4:853 <-- [L] 192.168.1.159:48210
+        : DoT.netify.google-dns
+        : H: dns.google
+        : RID 30: TLS Certificate Expired
+        : RID 47: TLS ALPN Not Found
+        : DP: 28
+
+offline0: i4pc-gx------F- TCP [OR] 8.8.4.4:853 <-- [L] 192.168.1.159:47968
+        : DoQ.netify.google
+        : DP: 2
+
+offline0: i4pc--x----r-F- TCP [OR] 8.8.4.4:853 <-- [L] 192.168.1.159:48044
+        : DoT.netify.google-dns
+        : H: dns.google
+        : RID 30: TLS Certificate Expired
+        : RID 47: TLS ALPN Not Found
+        : DP: 21
+
+offline0: i4pc--x----r-F- TCP [OR] 8.8.8.8:853 <-- [L] 192.168.1.159:56024
+        : DoT.netify.google-dns
+        : H: dns.google
+        : RID 30: TLS Certificate Expired
+        : RID 47: TLS ALPN Not Found
+        : DP: 21
+
+offline0: i4pc-gx------F- TCP [OR] 8.8.8.8:853 <-- [L] 192.168.1.159:55856
+        : DoQ.netify.google
+        : DP: 6
+

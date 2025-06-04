@@ -1,0 +1,10 @@
+offline0: i6pc-gx----r--- IPv6 [OR] 2001:4f8:4:7:2e0:81ff:fe52:9a6b:0 <-- [L] 2001:4f8:4:7:2e0:81ff:fe52:ffff:0
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i6pc-gx----r--- IPv6 [OR] feed::beef:0 --> [L] feed::cafe:0
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+

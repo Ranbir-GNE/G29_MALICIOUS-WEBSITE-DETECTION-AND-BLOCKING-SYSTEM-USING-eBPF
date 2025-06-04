@@ -1,0 +1,8 @@
+offline0: i6pc-------r--- UDP [OR] 2f3d:64d1:9d59:549b::200e:443 <-- [L] 3ef4:2194:f4a6:3503:40cd:714:57:c4e4:64229
+        : QUIC.netify.google-play
+        : H: play.google.com
+        : V: 0x0304
+        : TLS/SNI: play.google.com
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+

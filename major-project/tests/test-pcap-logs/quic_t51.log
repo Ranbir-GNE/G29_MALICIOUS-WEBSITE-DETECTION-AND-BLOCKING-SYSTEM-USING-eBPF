@@ -1,0 +1,8 @@
+offline0: i4pc-------r--- UDP [OR] 187.227.136.152:55356 --> [L] 211.247.147.90:443
+        : QUIC.netify.google
+        : H: www.google.com
+        : V: 0x0304
+        : TLS/SNI: www.google.com
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+

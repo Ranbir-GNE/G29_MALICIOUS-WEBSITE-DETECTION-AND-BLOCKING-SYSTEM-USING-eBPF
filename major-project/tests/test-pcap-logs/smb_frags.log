@@ -1,0 +1,7 @@
+offline0: i4pc-------r-F- TCP [L] 10.202.7.8:445 <-- [OL] 10.202.211.125:54120
+        : NETBIOS
+        : RID 16: Known Protocol on Non-standard Port
+        : RID 24: SMB Insecure Version
+        : RID 42: Unsafe Protocol
+        : DP: 5
+

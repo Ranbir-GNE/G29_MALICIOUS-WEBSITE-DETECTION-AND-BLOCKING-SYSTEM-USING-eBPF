@@ -1,0 +1,46 @@
+offline0: i4pc-------r--- UDP [OR] 139.25.22.2:3295 --> [L] 139.25.22.102:111
+        : NFS.netify.siemens
+        : RID 16: Known Protocol on Non-standard Port
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [OR] 139.25.22.2:3296 --> [L] 139.25.22.102:1048
+        : NFS.netify.siemens
+        : RID 16: Known Protocol on Non-standard Port
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [OR] 139.25.22.2:706 <-- [L] 139.25.22.102:1048
+        : NFS.netify.siemens
+        : RID 16: Known Protocol on Non-standard Port
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [OR] 139.25.22.2:3297 --> [L] 139.25.22.102:111
+        : NFS.netify.siemens
+        : RID 16: Known Protocol on Non-standard Port
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [OR] 139.25.22.2:3298 --> [L] 139.25.22.102:2049
+        : NFS.netify.siemens
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [OR] 139.25.22.2:1022 <-- [L] 139.25.22.102:2049
+        : NFS.netify.siemens
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [OR] 139.25.22.2:3299 --> [L] 139.25.22.102:111
+        : NFS.netify.siemens
+        : RID 16: Known Protocol on Non-standard Port
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [OR] 139.25.22.2:722 <-- [L] 139.25.22.102:1048
+        : NFS.netify.siemens
+        : RID 16: Known Protocol on Non-standard Port
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+

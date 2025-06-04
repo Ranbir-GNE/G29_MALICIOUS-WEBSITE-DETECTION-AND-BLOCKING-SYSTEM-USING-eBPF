@@ -1,0 +1,12 @@
+offline0: i4pc-------r--- TCP [L] 192.168.3.107:80 <-- [OL] 192.168.3.109:53514
+        : HTTP
+        : H: 192.168.3.107
+        : HTTP/UA: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36
+        : URL: 192.168.3.107/DVWA-master/vulnerabilities/xss_d/?default=English%3Cscript%3Ealert(1)%3C/script%3E
+        : RID 10: Numeric IP Address
+        : DP: 6
+
+offline0: i4pc-gx-------- TCP [L] 192.168.3.107:80 <-- [OL] 192.168.3.109:53516
+        : HTTP
+        : DP: 3
+

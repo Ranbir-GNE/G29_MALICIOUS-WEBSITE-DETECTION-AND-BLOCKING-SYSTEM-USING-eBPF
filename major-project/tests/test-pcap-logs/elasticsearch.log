@@ -1,0 +1,32 @@
+offline0: i4pc---------F- TCP [L] 172.16.16.107:9300 <-- [OL] 172.16.17.102:40282
+        : ElasticSearch
+        : DP: 4
+
+offline0: i4pc----------- TCP [L] 172.16.16.106:9300 <-- [OL] 172.16.17.102:48038
+        : ElasticSearch
+        : DP: 4
+
+offline0: i4pc-------r--- TCP [L] 172.16.16.107:9300 <-- [OL] 172.16.17.102:40342
+        : ElasticSearch
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc----------- TCP [L] 172.16.16.107:33288 --> [OL] 172.16.17.102:9300
+        : ElasticSearch
+        : DP: 4
+
+offline0: i4pc-------r--- TCP [L] 172.16.16.107:9300 <-- [OL] 172.16.17.102:40298
+        : ElasticSearch
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- TCP [L] 172.16.16.106:9300 <-- [OL] 172.16.17.102:48028
+        : ElasticSearch
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- TCP [L] 172.16.16.106:9300 <-- [OL] 172.16.17.102:47980
+        : ElasticSearch
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+

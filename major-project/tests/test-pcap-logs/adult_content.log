@@ -1,0 +1,6 @@
+offline0: i4pc-------r--- UDP [OR] 31.220.27.69:80 <-- [L] 192.168.1.199:42759
+        : STUN
+        : H: b-eu14.stripcdn.com
+        : RID 16: Known Protocol on Non-standard Port
+        : DP: 7
+

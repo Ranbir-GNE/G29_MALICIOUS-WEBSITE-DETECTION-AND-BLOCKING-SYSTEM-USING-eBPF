@@ -1,0 +1,9 @@
+offline0: i4pc-------r-F- TCP [L] 192.168.0.4:54337 --> [OR] 192.254.189.169:80
+        : HTTP
+        : H: browserspy.dk
+        : HTTP/UA: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/30.0.1599.69 Safari/537.36
+        : URL: browserspy.dk/password-ok.php
+        : RID  3: Clear-Text Credentials
+        : RID  8: Error Code
+        : DP: 6
+

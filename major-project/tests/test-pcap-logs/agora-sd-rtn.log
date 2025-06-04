@@ -1,0 +1,156 @@
+offline0: i4pc-------r--- UDP [OR] 23.248.186.179:8130 <-- [L] 192.168.2.100:35778
+        : SD/RTN.netify.agora
+        : H: 23-248-186-179.edge.agora.io
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [OR] 104.166.161.75:8130 <-- [L] 192.168.2.100:35778
+        : SD/RTN.netify.agora
+        : H: 104-166-161-75.edge.agora.io
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [OR] 104.166.161.75:8130 <-- [L] 192.168.2.100:44131
+        : SD/RTN.netify.agora
+        : H: 104-166-161-75.edge.agora.io
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [OR] 104.166.161.19:8130 <-- [L] 192.168.2.100:44131
+        : SD/RTN.netify.agora
+        : H: 104-166-161-19.edge.agora.io
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [OR] 128.1.77.66:8130 <-- [L] 192.168.2.100:44131
+        : SD/RTN.netify.agora
+        : H: 128-1-77-66.edge.agora.io
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [OR] 23.248.186.179:8130 <-- [L] 192.168.2.100:44131
+        : SD/RTN.netify.agora
+        : H: 23-248-186-179.edge.agora.io
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [OR] 23.248.186.179:8130 <-- [L] 192.168.2.100:46798
+        : SD/RTN.netify.agora
+        : H: 23-248-186-179.edge.agora.io
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [OR] 23.248.186.180:8130 <-- [L] 192.168.2.100:44131
+        : SD/RTN.netify.agora
+        : H: 23-248-186-180.edge.agora.io
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [OR] 23.248.186.179:8130 <-- [L] 192.168.2.100:40393
+        : SD/RTN.netify.agora
+        : H: 23-248-186-179.edge.agora.io
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [OR] 23.248.186.179:8130 <-- [L] 192.168.2.100:47453
+        : SD/RTN.netify.agora
+        : H: 23-248-186-179.edge.agora.io
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [OR] 104.166.161.75:8130 <-- [L] 192.168.2.100:40393
+        : SD/RTN.netify.agora
+        : H: 104-166-161-75.edge.agora.io
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [OR] 104.166.161.75:8130 <-- [L] 192.168.2.100:55322
+        : SD/RTN.netify.agora
+        : H: 104-166-161-75.edge.agora.io
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [OR] 128.1.233.218:8130 <-- [L] 192.168.2.100:55322
+        : SD/RTN.netify.agora
+        : H: 128-1-233-218.edge.agora.io
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 192.168.2.100:55322 --> [OR] 193.118.52.182:8130
+        : SD/RTN.netify.agora
+        : H: 193-118-52-182.edge.agora.io
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [OR] 128.1.193.223:8130 <-- [L] 192.168.2.100:55322
+        : SD/RTN.netify.agora
+        : H: 128-1-193-223.edge.agora.io
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [OR] 23.248.186.180:8130 <-- [L] 192.168.2.100:55322
+        : SD/RTN.netify.agora
+        : H: 23-248-186-180.edge.agora.io
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [OR] 128.1.193.224:8130 <-- [L] 192.168.2.100:55322
+        : SD/RTN.netify.agora
+        : H: 128-1-193-224.edge.agora.io
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [OR] 23.248.186.179:8130 <-- [L] 192.168.2.100:55322
+        : SD/RTN.netify.agora
+        : H: 23-248-186-179.edge.agora.io
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [OR] 128.1.193.223:8130 <-- [L] 192.168.2.100:47805
+        : SD/RTN.netify.agora
+        : H: 128-1-193-223.edge.agora.io
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 192.168.2.100:47805 --> [OR] 202.226.25.166:8130
+        : SD/RTN.netify.agora
+        : H: 202-226-25-166.edge.agora.io
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [OR] 103.104.168.244:8130 <-- [L] 192.168.2.100:47805
+        : SD/RTN.netify.agora
+        : H: 103-104-168-244.edge.agora.io
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 192.168.2.100:47805 --> [OR] 199.190.44.135:8130
+        : SD/RTN.netify.agora
+        : H: 199-190-44-135.edge.agora.io
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [OR] 128.1.193.224:8130 <-- [L] 192.168.2.100:47805
+        : SD/RTN.netify.agora
+        : H: 128-1-193-224.edge.agora.io
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [OR] 23.248.186.179:8130 <-- [L] 192.168.2.100:47805
+        : SD/RTN.netify.agora
+        : H: 23-248-186-179.edge.agora.io
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [OR] 128.1.193.223:8130 <-- [L] 192.168.2.100:55094
+        : SD/RTN.netify.agora
+        : H: 128-1-193-223.edge.agora.io
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [OR] 23.248.186.180:8130 <-- [L] 192.168.2.100:47805
+        : SD/RTN.netify.agora
+        : H: 23-248-186-180.edge.agora.io
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+

@@ -1,0 +1,1149 @@
+offline0: i4pc-------r--- UDP [L] 10.0.0.1:38388 --> [OR] 149.56.228.45:443
+        : DNSCrypt
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.0.1:33565 --> [OR] 149.56.228.45:443
+        : DNSCrypt
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.0.1:60301 --> [OR] 149.56.228.45:443
+        : DNSCrypt
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.0.1:45722 --> [OR] 149.56.228.45:443
+        : DNSCrypt
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.0.1:35228 --> [OR] 149.56.228.45:443
+        : DNSCrypt
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.0.1:35495 --> [OR] 149.56.228.45:443
+        : DNSCrypt
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.0.1:51004 --> [OR] 62.210.180.71:1053
+        : DNSCrypt
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.0.1:52636 --> [OR] 62.210.180.71:1053
+        : DNSCrypt
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.0.1:49518 --> [OR] 62.210.180.71:1053
+        : DNSCrypt
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.0.1:37413 --> [OR] 185.134.196.55:8443
+        : DNSCrypt
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.0.1:59405 --> [OR] 185.134.196.55:8443
+        : DNSCrypt
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.0.1:50435 --> [OR] 185.134.196.55:8443
+        : DNSCrypt
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.0.1:35005 --> [OR] 185.134.196.55:8443
+        : DNSCrypt
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.0.1:53697 --> [OR] 185.134.196.55:8443
+        : DNSCrypt
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.0.1:44712 --> [OR] 104.238.186.192:443
+        : DNSCrypt
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.0.1:39655 --> [OR] 104.238.186.192:443
+        : DNSCrypt
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.0.1:59261 --> [OR] 104.238.186.192:443
+        : DNSCrypt
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.0.1:55123 --> [OR] 185.134.196.55:8443
+        : DNSCrypt
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.0.1:56997 --> [OR] 104.238.186.192:443
+        : DNSCrypt
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.0.1:44491 --> [OR] 104.238.186.192:443
+        : DNSCrypt
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.0.1:59641 --> [OR] 104.238.186.192:443
+        : DNSCrypt
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.0.1:32793 --> [OR] 209.250.241.25:443
+        : DNSCrypt
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.0.1:37950 --> [OR] 209.250.241.25:443
+        : DNSCrypt
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.0.1:34324 --> [OR] 209.250.241.25:443
+        : DNSCrypt
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.0.1:56035 --> [OR] 209.250.241.25:443
+        : DNSCrypt
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.0.1:37123 --> [OR] 209.250.241.25:443
+        : DNSCrypt
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.0.1:38136 --> [OR] 41.79.69.13:443
+        : DNSCrypt
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.0.1:56177 --> [OR] 41.79.69.13:443
+        : DNSCrypt
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.0.1:43365 --> [OR] 41.79.69.13:443
+        : DNSCrypt
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.0.1:59367 --> [OR] 209.250.241.25:443
+        : DNSCrypt
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.0.1:43609 --> [OR] 41.79.69.13:443
+        : DNSCrypt
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.0.1:45767 --> [OR] 51.15.122.250:443
+        : DNSCrypt
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.0.1:36668 --> [OR] 51.15.122.250:443
+        : DNSCrypt
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.0.1:38362 --> [OR] 51.15.122.250:443
+        : DNSCrypt
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.0.1:56043 --> [OR] 41.79.69.13:443
+        : DNSCrypt
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.0.1:46229 --> [OR] 41.79.69.13:443
+        : DNSCrypt
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.0.1:38867 --> [OR] 51.15.122.250:443
+        : DNSCrypt
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.0.1:59709 --> [OR] 51.15.122.250:443
+        : DNSCrypt
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.0.1:39007 --> [OR] 51.15.122.250:443
+        : DNSCrypt
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.0.1:59476 --> [OR] 139.59.200.116:443
+        : DNSCrypt
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.0.1:47341 --> [OR] 139.59.200.116:443
+        : DNSCrypt
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.0.1:50335 --> [OR] 139.59.200.116:443
+        : DNSCrypt
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.0.1:43633 --> [OR] 139.59.200.116:443
+        : DNSCrypt
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.0.1:47865 --> [OR] 195.30.94.28:8443
+        : DNSCrypt
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.0.1:34885 --> [OR] 195.30.94.28:8443
+        : DNSCrypt
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.0.1:44093 --> [OR] 195.30.94.28:8443
+        : DNSCrypt
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.0.1:37595 --> [OR] 139.59.200.116:443
+        : DNSCrypt
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.0.1:59194 --> [OR] 139.59.200.116:443
+        : DNSCrypt
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.0.1:33369 --> [OR] 195.30.94.28:8443
+        : DNSCrypt
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.0.1:32970 --> [OR] 142.4.204.111:443
+        : DNSCrypt
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.0.1:43505 --> [OR] 142.4.204.111:443
+        : DNSCrypt
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.0.1:52284 --> [OR] 142.4.204.111:443
+        : DNSCrypt
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.0.1:53811 --> [OR] 195.30.94.28:8443
+        : DNSCrypt
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.0.1:44282 --> [OR] 195.30.94.28:8443
+        : DNSCrypt
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.0.1:33071 --> [OR] 142.4.204.111:443
+        : DNSCrypt
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.0.1:50035 --> [OR] 149.112.112.10:8443
+        : DNSCrypt.netify.quad9
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.0.1:57465 --> [OR] 149.112.112.10:8443
+        : DNSCrypt.netify.quad9
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.0.1:55482 --> [OR] 149.112.112.10:8443
+        : DNSCrypt.netify.quad9
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.0.1:60962 --> [OR] 142.4.204.111:443
+        : DNSCrypt
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.0.1:46856 --> [OR] 142.4.204.111:443
+        : DNSCrypt
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.0.1:40009 --> [OR] 149.112.112.10:8443
+        : DNSCrypt.netify.quad9
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.0.1:42570 --> [OR] 149.112.112.10:8443
+        : DNSCrypt.netify.quad9
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.0.1:56022 --> [OR] 149.112.112.10:8443
+        : DNSCrypt.netify.quad9
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.0.1:49512 --> [OR] 172.104.93.80:1443
+        : DNSCrypt
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.0.1:38283 --> [OR] 172.104.93.80:1443
+        : DNSCrypt
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.0.1:59489 --> [OR] 172.104.93.80:1443
+        : DNSCrypt
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.0.1:50913 --> [OR] 172.104.93.80:1443
+        : DNSCrypt
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.0.1:56902 --> [OR] 172.104.93.80:1443
+        : DNSCrypt
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.0.1:41800 --> [OR] 172.104.93.80:1443
+        : DNSCrypt
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.0.1:38349 --> [OR] 205.185.116.116:553
+        : DNSCrypt
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.0.1:38879 --> [OR] 205.185.116.116:553
+        : DNSCrypt
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.0.1:43528 --> [OR] 205.185.116.116:553
+        : DNSCrypt
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.0.1:55822 --> [OR] 205.185.116.116:553
+        : DNSCrypt
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.0.1:51770 --> [OR] 205.185.116.116:553
+        : DNSCrypt
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.0.1:38278 --> [OR] 205.185.116.116:553
+        : DNSCrypt
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.0.1:55834 --> [OR] 52.65.235.129:443
+        : DNSCrypt
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.0.1:52911 --> [OR] 52.65.235.129:443
+        : DNSCrypt
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.0.1:55979 --> [OR] 52.65.235.129:443
+        : DNSCrypt
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.0.1:46313 --> [OR] 52.65.235.129:443
+        : DNSCrypt
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.0.1:47685 --> [OR] 52.65.235.129:443
+        : DNSCrypt
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.0.1:55409 --> [OR] 52.65.235.129:443
+        : DNSCrypt
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.0.1:45993 --> [OR] 51.15.62.65:443
+        : DNSCrypt
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.0.1:43714 --> [OR] 51.15.62.65:443
+        : DNSCrypt
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.0.1:60735 --> [OR] 51.15.62.65:443
+        : DNSCrypt
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.0.1:38812 --> [OR] 51.15.62.65:443
+        : DNSCrypt
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.0.1:56688 --> [OR] 51.15.62.65:443
+        : DNSCrypt
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.0.1:41913 --> [OR] 45.153.187.96:4343
+        : DNSCrypt
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.0.1:46063 --> [OR] 45.153.187.96:4343
+        : DNSCrypt
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.0.1:43129 --> [OR] 45.153.187.96:4343
+        : DNSCrypt
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.0.1:33521 --> [OR] 51.15.62.65:443
+        : DNSCrypt
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.0.1:37890 --> [OR] 45.153.187.96:4343
+        : DNSCrypt
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.0.1:45987 --> [OR] 45.153.187.96:4343
+        : DNSCrypt
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.0.1:40451 --> [OR] 45.153.187.96:4343
+        : DNSCrypt
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.0.1:55896 --> [OR] 66.85.30.115:443
+        : DNSCrypt
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.0.1:40099 --> [OR] 66.85.30.115:443
+        : DNSCrypt
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.0.1:54112 --> [OR] 66.85.30.115:443
+        : DNSCrypt
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.0.1:48448 --> [OR] 66.85.30.115:443
+        : DNSCrypt
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.0.1:46255 --> [OR] 93.95.226.165:443
+        : DNSCrypt
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.0.1:42156 --> [OR] 93.95.226.165:443
+        : DNSCrypt
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.0.1:58936 --> [OR] 93.95.226.165:443
+        : DNSCrypt
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.0.1:47432 --> [OR] 66.85.30.115:443
+        : DNSCrypt
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.0.1:35634 --> [OR] 66.85.30.115:443
+        : DNSCrypt
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.0.1:37035 --> [OR] 51.158.166.97:443
+        : DNSCrypt
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.0.1:56494 --> [OR] 51.158.166.97:443
+        : DNSCrypt
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.0.1:60334 --> [OR] 51.158.166.97:443
+        : DNSCrypt
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.0.1:47257 --> [OR] 51.158.166.97:443
+        : DNSCrypt
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.0.1:41717 --> [OR] 176.56.237.171:443
+        : DNSCrypt
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.0.1:46066 --> [OR] 51.158.166.97:443
+        : DNSCrypt
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.0.1:51363 --> [OR] 176.56.237.171:443
+        : DNSCrypt
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.0.1:49008 --> [OR] 176.56.237.171:443
+        : DNSCrypt
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.0.1:48065 --> [OR] 51.158.166.97:443
+        : DNSCrypt
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.0.1:55046 --> [OR] 176.56.237.171:443
+        : DNSCrypt
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.0.1:36676 --> [OR] 176.56.237.171:443
+        : DNSCrypt
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.0.1:60091 --> [OR] 178.216.201.222:2053
+        : DNSCrypt
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.0.1:53117 --> [OR] 178.216.201.222:2053
+        : DNSCrypt
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.0.1:58740 --> [OR] 178.216.201.222:2053
+        : DNSCrypt
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.0.1:52356 --> [OR] 178.216.201.222:2053
+        : DNSCrypt
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.0.1:52221 --> [OR] 178.216.201.222:2053
+        : DNSCrypt
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.0.1:38594 --> [OR] 178.216.201.222:2053
+        : DNSCrypt
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.0.1:43224 --> [OR] 45.76.113.31:443
+        : DNSCrypt
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.0.1:51589 --> [OR] 45.76.113.31:443
+        : DNSCrypt
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.0.1:43776 --> [OR] 45.76.113.31:443
+        : DNSCrypt
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.0.1:59707 --> [OR] 45.76.113.31:443
+        : DNSCrypt
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.0.1:52069 --> [OR] 45.76.113.31:443
+        : DNSCrypt
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.0.1:55267 --> [OR] 45.76.113.31:443
+        : DNSCrypt
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.0.1:53876 --> [OR] 151.80.222.79:443
+        : DNSCrypt
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.0.1:52040 --> [OR] 151.80.222.79:443
+        : DNSCrypt
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.0.1:38511 --> [OR] 151.80.222.79:443
+        : DNSCrypt
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.0.1:45497 --> [OR] 151.80.222.79:443
+        : DNSCrypt
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.0.1:59011 --> [OR] 142.4.205.47:443
+        : DNSCrypt
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.0.1:40138 --> [OR] 142.4.205.47:443
+        : DNSCrypt
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.0.1:35903 --> [OR] 142.4.205.47:443
+        : DNSCrypt
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.0.1:57636 --> [OR] 151.80.222.79:443
+        : DNSCrypt
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.0.1:47729 --> [OR] 151.80.222.79:443
+        : DNSCrypt
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.0.1:51935 --> [OR] 142.4.205.47:443
+        : DNSCrypt
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.0.1:50387 --> [OR] 142.4.205.47:443
+        : DNSCrypt
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.0.1:37328 --> [OR] 193.191.187.107:443
+        : DNSCrypt
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.0.1:35885 --> [OR] 193.191.187.107:443
+        : DNSCrypt
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.0.1:49115 --> [OR] 193.191.187.107:443
+        : DNSCrypt
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.0.1:54096 --> [OR] 142.4.205.47:443
+        : DNSCrypt
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.0.1:33279 --> [OR] 193.191.187.107:443
+        : DNSCrypt
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.0.1:54215 --> [OR] 193.191.187.107:443
+        : DNSCrypt
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.0.1:49040 --> [OR] 193.191.187.107:443
+        : DNSCrypt
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.0.1:45375 --> [OR] 51.15.124.208:4343
+        : DNSCrypt
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.0.1:55768 --> [OR] 51.15.124.208:4343
+        : DNSCrypt
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.0.1:53887 --> [OR] 51.15.124.208:4343
+        : DNSCrypt
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.0.1:49975 --> [OR] 51.15.124.208:4343
+        : DNSCrypt
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.0.1:36930 --> [OR] 167.114.220.125:443
+        : DNSCrypt
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.0.1:39816 --> [OR] 167.114.220.125:443
+        : DNSCrypt
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.0.1:45747 --> [OR] 167.114.220.125:443
+        : DNSCrypt
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.0.1:38310 --> [OR] 51.15.124.208:4343
+        : DNSCrypt
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.0.1:39910 --> [OR] 51.15.124.208:4343
+        : DNSCrypt
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.0.1:38508 --> [OR] 167.114.220.125:443
+        : DNSCrypt
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [OR] 5.189.170.196:465 <-- [L] 10.0.0.1:35734
+        : DNSCrypt
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [OR] 5.189.170.196:465 <-- [L] 10.0.0.1:44496
+        : DNSCrypt
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [OR] 5.189.170.196:465 <-- [L] 10.0.0.1:40748
+        : DNSCrypt
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.0.1:45613 --> [OR] 167.114.220.125:443
+        : DNSCrypt
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.0.1:59589 --> [OR] 167.114.220.125:443
+        : DNSCrypt
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.0.1:38709 --> [OR] 185.253.154.66:4343
+        : DNSCrypt
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.0.1:45815 --> [OR] 185.253.154.66:4343
+        : DNSCrypt
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.0.1:43540 --> [OR] 185.253.154.66:4343
+        : DNSCrypt
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.0.1:44469 --> [OR] 185.253.154.66:4343
+        : DNSCrypt
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.0.1:38482 --> [OR] 185.253.154.66:4343
+        : DNSCrypt
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.0.1:48159 --> [OR] 185.253.154.66:4343
+        : DNSCrypt
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.0.1:51647 --> [OR] 142.4.204.111:443
+        : DNSCrypt
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.0.1:41895 --> [OR] 142.4.204.111:443
+        : DNSCrypt
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.0.1:46363 --> [OR] 142.4.204.111:443
+        : DNSCrypt
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.0.1:59224 --> [OR] 142.4.204.111:443
+        : DNSCrypt
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.0.1:57180 --> [OR] 142.4.204.111:443
+        : DNSCrypt
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.0.1:47621 --> [OR] 142.4.204.111:443
+        : DNSCrypt
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.0.1:38371 --> [OR] 212.47.228.136:443
+        : DNSCrypt
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.0.1:52056 --> [OR] 212.47.228.136:443
+        : DNSCrypt
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.0.1:40775 --> [OR] 212.47.228.136:443
+        : DNSCrypt
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.0.1:34228 --> [OR] 212.47.228.136:443
+        : DNSCrypt
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.0.1:56335 --> [OR] 212.47.228.136:443
+        : DNSCrypt
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.0.1:60885 --> [OR] 212.47.228.136:443
+        : DNSCrypt
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.0.1:58948 --> [OR] 85.5.93.230:8443
+        : DNSCrypt
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.0.1:50403 --> [OR] 85.5.93.230:8443
+        : DNSCrypt
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.0.1:46646 --> [OR] 85.5.93.230:8443
+        : DNSCrypt
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.0.1:57090 --> [OR] 85.5.93.230:8443
+        : DNSCrypt
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.0.1:39259 --> [OR] 85.5.93.230:8443
+        : DNSCrypt
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.0.1:51826 --> [OR] 85.5.93.230:8443
+        : DNSCrypt
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.0.1:50601 --> [OR] 139.99.222.72:8443
+        : DNSCrypt
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.0.1:45682 --> [OR] 139.99.222.72:8443
+        : DNSCrypt
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.0.1:59400 --> [OR] 139.99.222.72:8443
+        : DNSCrypt
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.0.1:48300 --> [OR] 144.91.106.227:443
+        : DNSCrypt
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.0.1:54305 --> [OR] 144.91.106.227:443
+        : DNSCrypt
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.0.1:55469 --> [OR] 144.91.106.227:443
+        : DNSCrypt
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.0.1:41108 --> [OR] 144.91.106.227:443
+        : DNSCrypt
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.0.1:33293 --> [OR] 46.227.200.55:8443
+        : DNSCrypt
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.0.1:50277 --> [OR] 46.227.200.55:8443
+        : DNSCrypt
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.0.1:49177 --> [OR] 46.227.200.55:8443
+        : DNSCrypt
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.0.1:48237 --> [OR] 144.91.106.227:443
+        : DNSCrypt
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.0.1:54204 --> [OR] 144.91.106.227:443
+        : DNSCrypt
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.0.1:38242 --> [OR] 46.227.200.55:8443
+        : DNSCrypt
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.0.1:33246 --> [OR] 46.227.200.55:8443
+        : DNSCrypt
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.0.1:44161 --> [OR] 46.227.200.55:8443
+        : DNSCrypt
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.0.1:54375 --> [OR] 107.170.57.34:443
+        : DNSCrypt
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.0.1:36335 --> [OR] 107.170.57.34:443
+        : DNSCrypt
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.0.1:37287 --> [OR] 107.170.57.34:443
+        : DNSCrypt
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.0.1:55185 --> [OR] 107.170.57.34:443
+        : DNSCrypt
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.0.1:33143 --> [OR] 107.170.57.34:443
+        : DNSCrypt
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.0.1:42141 --> [OR] 107.170.57.34:443
+        : DNSCrypt
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.0.1:56988 --> [OR] 185.193.127.244:443
+        : DNSCrypt
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.0.1:50062 --> [OR] 185.193.127.244:443
+        : DNSCrypt
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.0.1:59354 --> [OR] 185.193.127.244:443
+        : DNSCrypt
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.0.1:54920 --> [OR] 185.193.127.244:443
+        : DNSCrypt
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.0.1:47971 --> [OR] 185.193.127.244:443
+        : DNSCrypt
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.0.1:49568 --> [OR] 77.66.84.233:443
+        : DNSCrypt
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.0.1:46140 --> [OR] 77.66.84.233:443
+        : DNSCrypt
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.0.1:49732 --> [OR] 77.66.84.233:443
+        : DNSCrypt
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.0.1:46314 --> [OR] 185.193.127.244:443
+        : DNSCrypt
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.0.1:40209 --> [OR] 77.66.84.233:443
+        : DNSCrypt
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.0.1:50757 --> [OR] 77.66.84.233:443
+        : DNSCrypt
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.0.1:57109 --> [OR] 77.66.84.233:443
+        : DNSCrypt
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.0.1:59587 --> [OR] 23.111.74.205:443
+        : DNSCrypt
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.0.1:60852 --> [OR] 23.111.74.205:443
+        : DNSCrypt
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.0.1:44793 --> [OR] 23.111.74.205:443
+        : DNSCrypt
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.0.1:53045 --> [OR] 23.111.74.205:443
+        : DNSCrypt
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.0.1:60113 --> [OR] 23.111.74.205:443
+        : DNSCrypt
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.0.1:34024 --> [OR] 23.111.74.205:443
+        : DNSCrypt
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc----------- UDP [L] 10.0.0.1:47545 --> [OR] 151.80.222.79:443
+        : DNSCrypt
+        : DP: 2
+
+offline0: i4pc----------- UDP [L] 10.0.0.1:38660 --> [OR] 144.91.106.227:443
+        : DNSCrypt
+        : DP: 2
+
+offline0: i4pc----------- UDP [L] 10.0.0.1:60393 --> [OR] 144.91.106.227:443
+        : DNSCrypt
+        : DP: 2
+
+offline0: i4pc----------- UDP [L] 10.0.0.1:50443 --> [OR] 144.91.106.227:443
+        : DNSCrypt
+        : DP: 2
+
+offline0: i4pc----------- UDP [L] 10.0.0.1:37711 --> [OR] 144.91.106.227:443
+        : DNSCrypt
+        : DP: 2
+
+offline0: i4pc----------- UDP [L] 10.0.0.1:40958 --> [OR] 195.30.94.28:8443
+        : DNSCrypt
+        : DP: 2
+
+offline0: i4pc----------- UDP [L] 10.0.0.1:59812 --> [OR] 195.30.94.28:8443
+        : DNSCrypt
+        : DP: 2
+
+offline0: i4pc----------- UDP [L] 10.0.0.1:45234 --> [OR] 51.15.62.65:443
+        : DNSCrypt
+        : DP: 2
+
+offline0: i4pc----------- UDP [L] 10.0.0.1:36746 --> [OR] 51.15.62.65:443
+        : DNSCrypt
+        : DP: 2
+
+offline0: i4pc----------- UDP [L] 10.0.0.1:33089 --> [OR] 51.15.62.65:443
+        : DNSCrypt
+        : DP: 2
+
+offline0: i4pc----------- UDP [L] 10.0.0.1:40675 --> [OR] 51.15.62.65:443
+        : DNSCrypt
+        : DP: 2
+

@@ -1,0 +1,8 @@
+offline0: i4pc-------r--- UDP [L] 10.9.0.2:60106 --> [OR] 104.26.11.240:443
+        : QUIC
+        : H: www.wireshark.org
+        : V: 0x0304
+        : TLS/SNI: www.wireshark.org
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+

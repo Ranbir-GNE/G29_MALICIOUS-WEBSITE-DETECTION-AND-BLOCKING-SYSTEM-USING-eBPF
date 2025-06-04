@@ -1,0 +1,1374 @@
+offline0: i4pc----------- UDP [L] 192.168.1.2:137 --> [OL] 192.168.1.255:137
+        : NETBIOS
+        : H: eci_domain
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 192.168.1.2:2712 --> [OL] 192.168.1.3:53
+        : DNS
+        : H: sip.cybercity.dk
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc----------- UDP [L] 192.168.1.1:53 <-- [OL] 192.168.1.2:2714
+        : DNS.netify.reverse-dns
+        : H: 1.0.0.127.in-addr.arpa
+        : DP: 2
+
+offline0: i4pc-------r--- UDP [L] 192.168.1.52:5060 --> [OR] 212.242.33.35:5060
+        : SIP
+        : D: sip.cybercity.dk
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 192.168.1.2:5060 <-- [OR] 212.242.33.35:5060
+        : SIP
+        : D: sip.cybercity.dk
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 192.168.1.2:5060 <-- [OR] 208.242.33.35:5060
+        : SIP
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 192.168.1.2:138 --> [OL] 192.168.1.251:138
+        : NETBIOS
+        : RID 42: Unsafe Protocol
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 192.168.1.1:53 <-- [OL] 192.168.1.2:2719
+        : DNS
+        : H: ftp.ecitele.com
+        : RID 17: Malformed Packet
+        : DP: 2
+
+offline0: i4pc-------r--- TCP [OR] 147.234.1.253:21 <-- [L] 192.168.1.2:2732
+        : Protobuf
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 192.168.1.1:53 <-- [OL] 192.168.1.2:2723
+        : DNS
+        : H: 1.0.0.127.in-adds.arpa
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc----------- UDP [L] 192.168.1.1:53 <-- [OL] 192.168.1.2:2725
+        : DNS.netify.reverse-dns
+        : H: 1.0.0.127.in-addr.arpa
+        : DP: 2
+
+offline0: i4pc-------r--- UDP [L] 192.168.1.2:2726 --> [OL] 192.168.1.46:53
+        : DNS
+        : H: sip.cybercity.dk
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc----------- UDP [L] 192.168.1.202:137 --> [OL] 192.168.1.255:137
+        : NETBIOS
+        : H: eci_dom
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 192.168.1.1:53 <-- [OL] 192.168.1.2:2733
+        : DNS.netify.reverse-dns
+        : H: 1.0.0.127.in-addr.arpa
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 192.168.1.2:2735 --> [OR] 253.168.1.1:53
+        : DNS.netify.reverse-dns
+        : H: 1.0.0.127.in-addr.arpa
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc----------- UDP [L] 192.168.1.1:53 <-- [OL] 192.168.1.2:2737
+        : DNS.netify.reverse-dns
+        : H: 1.0.0.127.in-addr.arpa
+        : DP: 2
+
+offline0: i4pc-------r--- UDP [L] 192.168.1.2:20932 --> [OR] 212.242.33.35:5060
+        : SIP
+        : D: sip.cybercity.dk
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc----------- UDP [L] 192.168.1.1:53 <-- [OL] 192.168.1.2:2739
+        : DNS.netify.reverse-dns
+        : H: 1.0.0.127.in-addr.arpa
+        : DP: 2
+
+offline0: i4pc-------r--- UDP [L] 192.168.1.2:2741 --> [OL] 192.168.130.1:53
+        : DNS.netify.reverse-dns
+        : H: 1.0.0.127.in-addr.arpa
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 192.168.1.41:138 --> [OL] 192.168.1.255:138
+        : NETBIOS
+        : H: lab111
+        : RID 42: Unsafe Protocol
+        : DP: 1
+
+offline0: i4pc----------- UDP [L] 192.168.1.1:53 <-- [OL] 192.168.1.2:2743
+        : DNS.netify.reverse-dns
+        : H: 1.0.0.127.in-addr.arpa
+        : DP: 2
+
+offline0: i4pc----------- UDP [L] 192.168.1.2:88 <-- [OL] 192.168.1.255:137
+        : NETBIOS
+        : H: eci_domain
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 192.168.1.1:53 <-- [OL] 192.168.1.2:2745
+        : DNS.netify.reverse-dns
+        : H: 1.0.0.127.in-addr.arpa
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 192.168.1.1:53 <-- [OL] 192.168.1.2:2747
+        : DNS.netify.reverse-dns
+        : H: 1.0.0.127.in-addr.arpa
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 192.168.1.2:5060 --> [OR] 200.68.120.81:4932
+        : SIP
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 192.168.1.2:5060 --> [OR] 200.68.120.81:5060
+        : SIP
+        : RID 46: Unidirectional Traffic
+        : DP: 2
+
+offline0: i4pc-------r--- UDP [L] 192.168.1.1:53 <-- [OL] 192.168.1.2:2751
+        : DNS
+        : RID 15: Text With Non-Printable Characters
+        : RID 17: Malformed Packet
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 192.168.1.2:4292 <-- [OR] 200.68.37.115:5060
+        : SIP
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [OR] 192.169.1.2:5060 --> [L] 200.68.120.81:5060
+        : SIP
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc----------- UDP [L] 192.168.1.1:53 <-- [OL] 192.168.1.2:2753
+        : DNS
+        : H: 1.0.0.127.tn-addr.arpa
+        : DP: 2
+
+offline0: i4pc----------- UDP [L] 192.168.1.1:53 <-- [OL] 192.168.1.2:2755
+        : DNS.netify.reverse-dns
+        : H: 1.0.0.127.in-addr.arpa
+        : DP: 2
+
+offline0: i4pc-------r--- UDP [L] 192.168.1.1:53 <-- [OL] 192.168.1.2:2757
+        : DNS.netify.reverse-dns
+        : H: 1.v.0.127.in-addr.arpa
+        : RID 15: Text With Non-Printable Characters
+        : RID 17: Malformed Packet
+        : DP: 2
+
+offline0: i4pc-------r--- UDP [L] 192.168.1.1:53 <-- [OL] 192.168.1.2:2761
+        : DNS.netify.reverse-dns
+        : H: 1.0.0.127.in-addr.arpa
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 192.168.1.1:53 <-- [OL] 192.168.1.2:2763
+        : DNS.netify.reverse-dns
+        : H: 1.0.0.127.in-addr.arpa
+        : RID 17: Malformed Packet
+        : DP: 2
+
+offline0: i4pc-------r--- UDP [L] 192.168.1.1:53 <-- [OL] 192.168.1.2:2764
+        : DNS
+        : H: _sip._udp.sip.cybercity.dk
+        : RID  8: Error Code
+        : RID 15: Text With Non-Printable Characters
+        : RID 17: Malformed Packet
+        : RID 46: Unidirectional Traffic
+        : DP: 4
+
+offline0: i4pc-------r--- UDP [L] 192.168.1.1:53 <-- [OL] 192.168.1.2:2765
+        : DNS
+        : RID 17: Malformed Packet
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc----------- UDP [L] 192.168.1.1:53 <-- [OL] 192.168.1.2:2767
+        : DNS.netify.reverse-dns
+        : H: 1.0.0.127.in-addr.arpa
+        : DP: 2
+
+offline0: i4pc----------- UDP [OR] 120.168.1.255:137 <-- [L] 192.168.1.2:137
+        : NETBIOS
+        : H: eci_doma
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 192.168.1.1:53 <-- [OL] 192.168.1.2:2771
+        : DNS.netify.reverse-dns
+        : H: 1.0.0.127.in-addr.arpa
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 192.168.1.2:138 --> [OL] 192.168.1.255:138
+        : NETBIOS
+        : H: d002465
+        : RID 42: Unsafe Protocol
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 192.168.1.1:53 <-- [OL] 192.168.1.2:2775
+        : DNS
+        : H: 1.0.0.127.in-aqd_.arpa
+        : RID 15: Text With Non-Printable Characters
+        : DP: 2
+
+offline0: i4pc-------r--- UDP [L] 192.168.1.1:53 <-- [OL] 192.168.1.2:2782
+        : DNS.netify.reverse-dns
+        : H: 1.0.0.127.in-addr.arpa
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 192.168.1.1:53 <-- [OL] 192.168.5.2:2784
+        : DNS
+        : H: 1.0.0.127.in-addr.aspa
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc----------- UDP [OR] 192.37.115.0:5060 <-- [L] 212.242.33.35:5060
+        : SIP
+        : D: sip.cybercity.dk
+        : DP: 1
+
+offline0: i4pc----------- UDP [L] 192.168.1.2:137 --> [OR] 192.194.1.255:137
+        : NETBIOS
+        : H: eci_domain
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 192.168.1.1:53 <-- [OR] 240.168.1.2:2792
+        : DNS
+        : H: 1.0.0.127.in-a_dr.arpa
+        : RID 15: Text With Non-Printable Characters
+        : RID 17: Malformed Packet
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 192.168.1.2:137 --> [OL] 192.168.1.112:137
+        : NETBIOS
+        : H: eci_domain
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc----------- UDP [OR] 192.136.1.2:137 --> [L] 192.168.1.255:137
+        : NETBIOS
+        : H: 5ci_dombin
+        : DP: 1
+
+offline0: i4pc----------- UDP [L] 192.168.1.255:137 <-- [OR] 192.184.189.41:137
+        : NETBIOS
+        : H: workg
+        : DP: 1
+
+offline0: i4pc----------- UDP [L] 192.168.1.41:137 --> [OL] 192.168.1.255:137
+        : NETBIOS
+        : H: workgroup
+        : DP: 1
+
+offline0: i4pc----------- UDP [OR] 107.168.1.255:137 <-- [L] 192.168.1.41:137
+        : NETBIOS
+        : H: workgroup
+        : DP: 1
+
+offline0: i4pc----------- UDP [OR] 115.0.1.41:137 --> [L] 192.168.1.255:137
+        : NETBIOS
+        : H: workgroup
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 192.168.1.41:137 --> [OL] 192.168.37.115:137
+        : NETBIOS
+        : H: workgroup
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc----------- UDP [L] 192.168.1.2:137 --> [OR] 200.168.1.255:137
+        : NETBIOS
+        : H: eci_domain
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 192.168.1.1:67 <-- [OL] 192.168.1.2:68
+        : DHCP
+        : H: d002465
+        : DHCP/FP: 1,15,3,6,44,46,47,31,33,43 DHCP/CI: MSFT 5.0
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 192.168.1.1:53 <-- [OL] 192.168.1.2:2793
+        : DNS
+        : H: re-.sippstar.com
+        : RID 15: Text With Non-Printable Characters
+        : DP: 3
+
+offline0: i4pc----------- UDP [L] 192.168.1.1:53 <-- [OL] 192.168.1.2:2795
+        : DNS
+        : H: sip.cybercity.dk
+        : DP: 4
+
+offline0: i4pc----------- UDP [L] 192.168.1.1:53 <-- [OL] 192.168.1.2:2794
+        : DNS
+        : H: sip.cybercity.dk
+        : DP: 3
+
+offline0: i4pc-------r--- UDP [L] 192.168.1.1:53 <-- [OL] 192.168.1.2:2797
+        : DNS
+        : H: 1.0.0.127.in-addr.arp_
+        : RID 15: Text With Non-Printable Characters
+        : DP: 2
+
+offline0: i4pc-------r--- UDP [L] 192.168.1.1:53 <-- [OL] 192.168.119.2:2799
+        : DNS.netify.reverse-dns
+        : H: 1.0.0.127.in-addr.arpa
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 192.168.1.1:53 <-- [OL] 192.168.1.2:2801
+        : DNS.netify.reverse-dns
+        : H: 1.0.0.127.in-addr.arpa
+        : RID 15: Text With Non-Printable Characters
+        : RID 17: Malformed Packet
+        : DP: 2
+
+offline0: i4pc----------- UDP [L] 192.168.1.1:53 <-- [OL] 192.168.1.2:2803
+        : DNS.netify.reverse-dns
+        : H: 1.0.0.127.in-addr.arpa
+        : DP: 2
+
+offline0: i4pc-------r--- UDP [L] 192.168.1.1:53 <-- [OL] 192.168.1.2:2805
+        : DNS.netify.reverse-dns
+        : H: 1.0.0.127.in-addr.arpa
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 192.168.1.1:53 <-- [OL] 192.168.1.2:2807
+        : DNS
+        : RID 15: Text With Non-Printable Characters
+        : RID 17: Malformed Packet
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc----------- UDP [L] 192.168.1.1:53 <-- [OL] 192.168.1.2:2809
+        : DNS.netify.reverse-dns
+        : H: 1.0.0.127.in-addr.arpa
+        : DP: 2
+
+offline0: i4pc-------r--- UDP [L] 192.168.1.2:2811 --> [OL] 192.168.233.1:53
+        : DNS.netify.reverse-dns
+        : H: 1.0.0.127.in-addr.arpa
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 192.168.1.2:29440 --> [OL] 192.168.1.37:137
+        : NETBIOS
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 192.168.1.1:53 <-- [OL] 192.168.1.2:2815
+        : DNS
+        : RID  8: Error Code
+        : RID 17: Malformed Packet
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc----------- UDP [L] 192.168.1.2:30000 <-- [OR] 212.242.33.36:40392
+        : RTP
+        : DP: 3
+
+offline0: i4pc-------r--- UDP [L] 192.168.1.2:5060 --> [OR] 212.234.33.35:5060
+        : SIP
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc----------- UDP [L] 192.168.1.1:53 <-- [OL] 192.168.1.2:2824
+        : DNS.netify.reverse-dns
+        : H: 1.0.0.127.in-addr.arpa
+        : DP: 2
+
+offline0: i4pc-------r--- UDP [L] 192.168.1.1:53 <-- [OL] 192.168.1.2:2826
+        : DNS.netify.reverse-dns
+        : H: 1._.0.127.in-addr.arpa
+        : RID 15: Text With Non-Printable Characters
+        : DP: 2
+
+offline0: i4pc-------r--- UDP [L] 192.168.1.1:53 <-- [OL] 192.168.1.2:2572
+        : DNS
+        : RID 17: Malformed Packet
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc----------- UDP [L] 192.168.1.2:11 <-- [OL] 192.168.1.255:137
+        : NETBIOS
+        : H: eci_domain
+        : DP: 1
+
+offline0: i4pc----------- UDP [OR] 62.168.1.2:137 --> [L] 192.168.1.255:137
+        : NETBIOS
+        : H: eci_domain
+        : DP: 1
+
+offline0: i4pc----------- UDP [L] 192.168.1.1:53 <-- [OL] 192.168.1.2:2830
+        : DNS
+        : H: sip.cybercity.dk
+        : DP: 4
+
+offline0: i4pc----------- UDP [L] 192.168.1.1:53 <-- [OL] 192.168.1.2:2831
+        : DNS.netify.reverse-dns
+        : H: 1.0.0.127.in-addr.arpa
+        : DP: 2
+
+offline0: i4pc-gx----r--- 240 [L] 192.168.1.1:0 <-- [OL] 192.168.1.2:0
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc--x----r--- UDP [OR] 116.168.1.2:2829 --> [L] 192.168.1.1:53
+        : DNS
+        : H: _sip._udp.sip.cybercity.dk
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc--x----r--- UDP [L] 192.168.1.1:53 <-- [OL] 192.168.1.2:2784
+        : DNS
+        : RID 17: Malformed Packet
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-gx----r--- TCP [OR] 147.234.1.253:21 <-- [L] 192.168.1.2:2679
+        : FTP/C
+        : RID  3: Clear-Text Credentials
+        : RID 42: Unsafe Protocol
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc--x----r--- UDP [L] 192.168.1.1:53 <-- [OL] 192.168.1.53:2791
+        : DNS
+        : H: _sip._udp.sip.cybercity.dk
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc--x----r--- UDP [L] 192.168.1.2:2738 --> [OL] 192.168.84.1:53
+        : DNS
+        : H: _sip._udp.sip.cybercitu.dk
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc--x----r--- UDP [L] 192.168.1.1:53 <-- [OL] 192.168.1.2:2760
+        : DNS
+        : H: _sip.eudp.sip.cybercity.dk
+        : RID 46: Unidirectional Traffic
+        : DP: 3
+
+offline0: i4pc--x----r--- UDP [L] 192.168.1.1:53 <-- [OL] 192.168.1.2:2754
+        : DNS
+        : H: _sip._udp.sip.cyberciwy.dk
+        : RID 46: Unidirectional Traffic
+        : DP: 2
+
+offline0: i4pc--x----r--- UDP [L] 192.168.1.1:53 <-- [OL] 192.168.1.2:2789
+        : DNS
+        : H: _sip._udp.sip.cybercity.dk
+        : RID 17: Malformed Packet
+        : RID 46: Unidirectional Traffic
+        : DP: 5
+
+offline0: i4pc--x----r--- UDP [L] 192.168.1.1:53 <-- [OL] 192.168.1.2:2787
+        : DNS
+        : H: _sip._udp.sip.cybercity.dk
+        : RID 15: Text With Non-Printable Characters
+        : RID 46: Unidirectional Traffic
+        : DP: 4
+
+offline0: i4pc--x----r--- UDP [L] 192.168.1.1:53 <-- [OL] 192.168.1.2:2716
+        : DNS.netify.reverse-dns
+        : H: 1.0.0.127.in-addr.arpa
+        : RID 46: Unidirectional Traffic
+        : DP: 2
+
+offline0: i4pc--x----r--- UDP [L] 192.168.1.1:53 <-- [OL] 192.168.1.2:2829
+        : DNS
+        : H: _sip._udp.sip.cybercity.dk
+        : RID 46: Unidirectional Traffic
+        : DP: 2
+
+offline0: i4pc--x----r--- UDP [L] 192.168.1.1:53 <-- [OL] 192.168.1.2:2759
+        : DNS
+        : H: 1.0.0.127.sn-addr.arpa
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc--x----r--- UDP [L] 192.168.1.1:53 <-- [OL] 192.168.1.2:2742
+        : DNS
+        : H: _sip._udp.sip.cybercity.dk
+        : RID 46: Unidirectional Traffic
+        : DP: 4
+
+offline0: i4pc-gx-------- UDP [L] 192.168.1.2:137 <-- [OL] 192.168.1.255:8329
+        : NETBIOS
+        : DP: 1
+
+offline0: i4pc--x----r--- UDP [L] 192.168.1.1:53 <-- [OL] 192.168.1.2:2752
+        : DNS
+        : H: _sip._udp.sip.cybercity.dk
+        : RID 46: Unidirectional Traffic
+        : DP: 3
+
+offline0: i4pc-gx----r--- TCP [OR] 147.234.1.253:21 <-- [L] 192.169.1.2:2720
+        : FTP/C
+        : RID 42: Unsafe Protocol
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc--x----r--- UDP [L] 192.168.1.1:53 <-- [OL] 192.168.1.2:2712
+        : DNS
+        : H: sip.cybercity.dk
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc--x----r--- UDP [L] 192.168.1.1:53 <-- [OL] 192.168.1.2:2816
+        : DNS
+        : H: _sip._udp.shp.cybercity.dk
+        : RID 15: Text With Non-Printable Characters
+        : RID 46: Unidirectional Traffic
+        : DP: 4
+
+offline0: i4pc--x----r--- UDP [L] 192.168.1.1:53 <-- [OL] 192.168.79.2:2791
+        : DNS
+        : H: _sip._udp.sip.cybercity.dk
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc--x----r--- UDP [OR] 0.168.1.2:2783 --> [L] 192.168.1.1:53
+        : DNS
+        : H: _sip._udp.sip.cybercity.dk
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc--x----r--- UDP [L] 192.168.1.1:53 <-- [OL] 192.168.1.2:2736
+        : DNS
+        : H: _sip._udp.sip.cybercity.dk
+        : RID 17: Malformed Packet
+        : RID 46: Unidirectional Traffic
+        : DP: 3
+
+offline0: i4pc--x----r--- UDP [L] 192.168.1.1:53 <-- [OL] 192.168.1.2:2762
+        : DNS
+        : H: _sip._udp.sip.cybercity.dk
+        : RID 17: Malformed Packet
+        : RID 46: Unidirectional Traffic
+        : DP: 3
+
+offline0: i4pc--x----r--- UDP [L] 192.168.1.1:53 <-- [OL] 192.168.1.2:2749
+        : DNS
+        : RID 17: Malformed Packet
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-gx-------- UDP [L] 192.168.1.41:138 <-- [OL] 192.168.1.255:394
+        : NETBIOS
+        : DP: 1
+
+offline0: i4pc--x----r--- UDP [L] 192.168.1.1:53 <-- [OL] 192.168.1.110:2765
+        : DNS.netify.reverse-dns
+        : H: 1.0.0.127.in-addr.arpa
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc--x----r--- UDP [L] 192.168.1.1:53 <-- [OL] 192.168.1.2:2734
+        : DNS
+        : H: _sip._udp.sip.cybercity.dk
+        : RID 46: Unidirectional Traffic
+        : DP: 4
+
+offline0: i4pc--x----r--- UDP [L] 192.168.1.1:53 <-- [OL] 192.168.1.2:2746
+        : DNS
+        : H: _sip._udp.voip.brujula.net
+        : RID 46: Unidirectional Traffic
+        : DP: 3
+
+offline0: i4pc--x----r--- UDP [L] 192.168.1.2:2736 --> [OL] 192.168.1.17:53
+        : DNS
+        : H: _sip._udp.sip.cybercity.dk
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-gx----r--- UDP [OR] 128.168.1.1:53 <-- [L] 192.168.37.115:2758
+        : DNS
+        : RID 17: Malformed Packet
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-gx-------- UDP [L] 192.168.1.255:137 <-- [OR] 217.168.1.2:137
+        : NETBIOS
+        : DP: 1
+
+offline0: i4pc--x----r--- UDP [L] 192.168.1.2:2794 --> [OL] 192.168.108.1:53
+        : DNS
+        : H: sip.cybercity.dk
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc--x----r--- UDP [L] 192.168.1.1:53 <-- [OL] 192.168.1.2:2810
+        : DNS
+        : H: _sip._udq.sip.mybercity.dk
+        : RID 46: Unidirectional Traffic
+        : DP: 3
+
+offline0: i4pc-gx----r--- UDP [L] 192.168.1.2:30000 <-- [OR] 214.242.33.36:40392
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-gx----r--- UDP [L] 192.168.1.6:5060 --> [OR] 212.242.33.35:5060
+        : SIP
+        : D: sip.cybercity.dk
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc--x----r--- UDP [L] 192.168.1.1:53 <-- [OL] 192.168.1.2:2750
+        : DNS
+        : H: _sip._udp.voip.brujula.net
+        : RID 15: Text With Non-Printable Characters
+        : RID 17: Malformed Packet
+        : RID 46: Unidirectional Traffic
+        : DP: 4
+
+offline0: i4pc-gx----r--- TCP [OR] 147.234.1.253:21 <-- [L] 192.168.1.2:2208
+        : FTP/C
+        : RID 42: Unsafe Protocol
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-gx----r--- 127 [L] 192.168.1.1:0 <-- [OL] 192.168.1.2:0
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc--x----r--- UDP [OR] 25.168.1.1:53 <-- [L] 192.98.1.2:2752
+        : DNS
+        : H: _sip._udp.sip.cybercity.dk
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc--x----r--- UDP [OR] 14.168.1.2:2754 --> [L] 192.168.1.1:53
+        : DNS
+        : H: _sip._udp.sip.cybercity.dk
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-gx----r--- TCP [OR] 37.115.0.2:2639 --> [L] 147.234.1.253:21
+        : FTP/C
+        : RID 42: Unsafe Protocol
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc--x----r--- UDP [L] 192.168.1.1:53 <-- [OR] 200.168.1.2:2785
+        : DNS
+        : H: _sip._udp.sip.cybercity.dk
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-gx----r--- UDP [L] 192.168.1.1:29440 --> [OL] 192.168.1.2:2597
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc--x----r--- UDP [L] 192.168.1.1:53 <-- [OL] 192.168.33.2:2782
+        : DNS
+        : RID 17: Malformed Packet
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc--x----r--- UDP [L] 192.168.1.1:53 <-- [OL] 192.168.1.18:2751
+        : DNS
+        : RID 17: Malformed Packet
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-gx----r--- TCP [OR] 147.117.1.253:21 <-- [L] 192.168.1.2:2720
+        : FTP/C
+        : RID 42: Unsafe Protocol
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc--x----r--- UDP [L] 192.168.1.1:53 <-- [OL] 192.168.1.2:29688
+        : DNS
+        : H: _sip._udp.sip.cyberciby.dk
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc--x----r--- UDP [L] 192.168.1.1:53 <-- [OL] 192.168.1.2:2808
+        : DNS
+        : H: _sip._udp.sip.cybercity.dk
+        : RID 46: Unidirectional Traffic
+        : DP: 2
+
+offline0: i4pc--x----r--- UDP [L] 192.168.1.1:53 <-- [OL] 192.168.1.2:2684
+        : DNS
+        : H: _sip._udp.sip.dybercity.dk
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc--x----r--- UDP [L] 192.168.1.1:53 <-- [OL] 192.168.1.2:2823
+        : DNS
+        : H: _sip._udp.sip.cybercity.dk
+        : RID 46: Unidirectional Traffic
+        : DP: 3
+
+offline0: i4pc--x----r--- UDP [L] 192.168.1.2:2724 --> [OL] 192.168.17.1:53
+        : DNS
+        : H: _zip._udp.sip.cybercity.dk
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc--x----r--- UDP [L] 192.168.1.1:53 <-- [OL] 192.168.1.2:2722
+        : DNS
+        : H: _sip._udp.sip.cybercity.dk
+        : RID 46: Unidirectional Traffic
+        : DP: 4
+
+offline0: i4pc--x----r--- UDP [L] 192.168.1.2:2827 --> [OR] 192.170.1.1:53
+        : DNS
+        : H: _sip._udp.sip.cyberc_ty.dk
+        : RID 15: Text With Non-Printable Characters
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc--x----r--- UDP [L] 192.168.1.1:53 <-- [OL] 192.168.1.2:2769
+        : DNS.netify.reverse-dns
+        : H: 1.0.0.127.in-addr.arpa
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc--x----r--- UDP [L] 192.168.1.1:53 <-- [OL] 192.168.1.2:2713
+        : DNS
+        : H: _sip._udp.sip.cybercity.dk
+        : RID 46: Unidirectional Traffic
+        : DP: 2
+
+offline0: i4pc--x----r--- UDP [L] 192.168.1.1:53 <-- [OL] 192.168.1.2:2741
+        : DNS.netify.reverse-dns
+        : H: 1.0.0.127.in-addr.arpa
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc--x----r--- UDP [L] 192.168.1.1:53 <-- [OL] 192.168.1.110:2713
+        : DNS
+        : RID 17: Malformed Packet
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc--x----r--- UDP [L] 192.168.1.1:53 <-- [OL] 192.168.1.2:2783
+        : DNS
+        : H: _sip._udp.sip.cybercity.dk
+        : RID 17: Malformed Packet
+        : RID 46: Unidirectional Traffic
+        : DP: 3
+
+offline0: i4pc-gx----r--- TCP [OR] 147.234.1.253:21 <-- [L] 192.168.1.66:2720
+        : FTP/C
+        : RID 42: Unsafe Protocol
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc--x----r--- UDP [L] 192.168.1.1:53 <-- [OL] 192.168.1.2:2758
+        : DNS
+        : H: _sip._udp.sip.cybercity.dk
+        : RID 46: Unidirectional Traffic
+        : DP: 2
+
+offline0: i4pc--x----r--- UDP [L] 192.168.1.1:53 <-- [OL] 192.168.1.2:2796
+        : DNS
+        : H: _sip._udp.sip.cybercity.ak
+        : RID 15: Text With Non-Printable Characters
+        : RID 17: Malformed Packet
+        : RID 46: Unidirectional Traffic
+        : DP: 3
+
+offline0: i4pc-gx-------- UDP [L] 192.168.1.2:137 <-- [OL] 192.168.1.255:35721
+        : NETBIOS
+        : DP: 1
+
+offline0: i4pc--x----r--- UDP [L] 192.168.1.1:53 <-- [OL] 192.168.1.2:2785
+        : DNS
+        : H: _sip._tdp.sip.cybercity.dk
+        : RID 46: Unidirectional Traffic
+        : DP: 2
+
+offline0: i4pc--x----r--- UDP [L] 192.168.1.1:53 <-- [OL] 192.168.1.2:2738
+        : DNS
+        : H: _sip._udp.sip.cybercity.dk
+        : RID 46: Unidirectional Traffic
+        : DP: 3
+
+offline0: i4pc--x----r--- UDP [L] 192.168.1.1:53 <-- [OL] 192.168.1.2:2568
+        : DNS
+        : H: _sip._udp.sip.cybercity.dk
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-gx----r--- UDP [L] 192.168.1.1:38709 --> [OL] 192.168.1.2:2808
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc--x----r--- UDP [L] 192.168.1.1:53 <-- [OR] 200.168.1.2:2735
+        : DNS
+        : H: 1.0.0.127.in-adds.arpa
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc--x----r--- UDP [L] 192.168.1.1:53 <-- [OL] 192.168.1.2:10942
+        : DNS
+        : H: _sip._udp.voip.brujula.net
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc--x----r--- UDP [OR] 192.114.1.2:2719 --> [L] 192.168.1.1:53
+        : DNS
+        : H: ftp.ecite_e.com
+        : RID 15: Text With Non-Printable Characters
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc--x----r--- UDP [L] 192.168.1.1:53 <-- [OL] 192.168.1.2:2640
+        : DNS
+        : RID 15: Text With Non-Printable Characters
+        : RID 17: Malformed Packet
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-gx----r--- TCP [OR] 147.234.1.170:43690 --> [L] 170.170.170.170:43690
+        : Unknown.netify.fedex
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc--x----r--- UDP [L] 192.168.1.2:202 --> [OL] 192.168.37.115:53
+        : DNS
+        : H: _sip._udp.sip.cybercity.dk
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc--x----r--- UDP [L] 192.168.1.1:53 <-- [OL] 192.168.1.2:2827
+        : DNS
+        : H: _sip._udp.sip.cybercimy.v_
+        : RID 15: Text With Non-Printable Characters
+        : RID 46: Unidirectional Traffic
+        : DP: 2
+
+offline0: i4pc-gx----r--- TCP [OR] 147.137.21.94:445 <-- [L] 192.168.1.2:2717
+        : SMBv23
+        : RID 46: Unidirectional Traffic
+        : DP: 3
+
+offline0: i4pc-gx-------- UDP [L] 192.168.1.2:137 <-- [OL] 192.168.1.255:905
+        : NETBIOS
+        : DP: 1
+
+offline0: i4pc--x----r--- UDP [L] 192.168.1.1:53 <-- [OR] 192.170.1.2:2810
+        : DNS
+        : RID 17: Malformed Packet
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc--x----r--- UDP [L] 192.168.1.1:53 <-- [OL] 192.168.1.2:2766
+        : DNS
+        : H: _sip._udp.sip.cybercity.dk
+        : RID 46: Unidirectional Traffic
+        : DP: 2
+
+offline0: i4pc-gx----r--- UDP [L] 192.168.1.2:5060 <-- [OR] 212.242.33.35:17860
+        : SIP
+        : D: sip.cybercity.dk
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc--x----r--- UDP [L] 192.168.1.1:53 <-- [OL] 192.168.1.2:2744
+        : DNS
+        : H: _sip._udp.sip.cybercity.dk
+        : RID 46: Unidirectional Traffic
+        : DP: 4
+
+offline0: i4pc--x----r--- UDP [L] 192.168.1.1:53 <-- [OL] 192.168.1.2:2792
+        : DNS.netify.reverse-dns
+        : H: 1.0.0.127.in-addr.arpa
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc--x----r--- UDP [L] 192.168.1.1:53 <-- [OL] 192.168.1.2:2748
+        : DNS
+        : H: _sip._udp.sip.cybercity.dk
+        : RID 15: Text With Non-Printable Characters
+        : RID 17: Malformed Packet
+        : RID 46: Unidirectional Traffic
+        : DP: 5
+
+offline0: i4pc-gx----r-F- TCP [OR] 147.234.1.253:58999 --> [L] 192.168.1.2:2721
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc--x----r--- UDP [L] 192.168.1.1:53 <-- [OL] 192.168.1.57:2771
+        : DNS
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-gx----r--- UDP [L] 192.168.1.2:196 <-- [OR] 212.242.33.35:9587
+        : Unknown
+        : D: sip.cybercity.dk
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-gx----r--- 19 [L] 192.168.1.1:0 <-- [OL] 192.168.1.2:0
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc--x----r--- UDP [L] 192.168.1.1:53 <-- [OL] 192.168.1.2:35536
+        : DNS
+        : H: _sip._udp.sip.cybercity.dk
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-gx----r--- UDP [OR] 94.168.1.2:2768 --> [L] 192.168.1.1:4
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc--x----r--- UDP [L] 192.168.1.2:2791 --> [OL] 192.168.67.1:53
+        : DNS
+        : RID 15: Text With Non-Printable Characters
+        : RID 17: Malformed Packet
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-gx----r-F- TCP [OR] 147.234.1.253:21 <-- [L] 192.168.1.2:2720
+        : FTP/C
+        : H: proftpd
+        : RID 42: Unsafe Protocol
+        : DP: 25
+
+offline0: i4pc-gx----r--- UDP [L] 192.168.1.1:9587 --> [OL] 192.168.1.2:2724
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc--x----r--- UDP [L] 192.168.1.1:53 <-- [OL] 192.168.1.2:2790
+        : DNS.netify.reverse-dns
+        : H: 1.0.0.127.in-addr.arpa
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc--x----r--- UDP [L] 192.168.1.1:53 <-- [OL] 192.168.1.2:2813
+        : DNS
+        : H: 1.0.0.127_in-ad_r_arpa___
+        : RID 15: Text With Non-Printable Characters
+        : RID 17: Malformed Packet
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc--x----r--- UDP [OR] 192.136.1.1:53 <-- [L] 192.168.1.2:2722
+        : DNS
+        : H: _sip._udp.sip.cybercity.dk
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc--x----r--- UDP [L] 192.168.1.1:53 <-- [OL] 192.168.1.2:2774
+        : DNS
+        : H: _sip._udp.sip.cybercity.dk
+        : RID 15: Text With Non-Printable Characters
+        : RID 17: Malformed Packet
+        : RID 46: Unidirectional Traffic
+        : DP: 4
+
+offline0: i4pc-gx----r--- TCP [OR] 147.234.1.253:1045 <-- [L] 192.168.1.2:2720
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-gx----r--- TCP [OR] 147.137.21.122:139 <-- [L] 192.168.1.71:2718
+        : NETBIOS
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc--x----r--- UDP [L] 192.168.1.1:53 <-- [OL] 192.168.1.2:2740
+        : DNS
+        : H: _sip._udp.sip.cyberci_s
+        : RID 15: Text With Non-Printable Characters
+        : RID 17: Malformed Packet
+        : RID 46: Unidirectional Traffic
+        : DP: 4
+
+offline0: i4pc--x----r--- UDP [L] 192.168.1.1:53 <-- [OL] 192.168.1.2:2814
+        : DNS
+        : H: dsip._udp.sip.cybercity.dk
+        : RID 17: Malformed Packet
+        : RID 46: Unidirectional Traffic
+        : DP: 3
+
+offline0: i4pc--x----r--- UDP [L] 192.168.1.1:53 <-- [OL] 192.168.1.2:2715
+        : DNS
+        : H: _sip._udp.sip.cybercity.dk
+        : RID 15: Text With Non-Printable Characters
+        : RID 46: Unidirectional Traffic
+        : DP: 2
+
+offline0: i4pc--x----r--- UDP [L] 192.168.1.1:53 <-- [OL] 192.168.1.2:2791
+        : DNS
+        : H: _sip._udp.sip.cybercity.dk
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc--x----r--- UDP [L] 192.168.1.1:53 <-- [OL] 192.168.1.2:2773
+        : DNS
+        : H: 1.0.0.127.il-addr.arpa
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-gx----r--- TCP [OR] 147.234.1.253:21 <-- [L] 192.112.1.2:2720
+        : FTP/C
+        : RID 42: Unsafe Protocol
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc--x----r--- UDP [L] 192.168.1.2:2796 --> [OL] 192.168.1.129:53
+        : DNS
+        : RID 17: Malformed Packet
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc--x----r--- UDP [L] 192.168.1.1:53 <-- [OL] 192.168.1.2:2806
+        : DNS
+        : H: _sim._udp.sip.c_ber_itm.dk
+        : RID 15: Text With Non-Printable Characters
+        : RID 46: Unidirectional Traffic
+        : DP: 5
+
+offline0: i4pc-gx----r--- UDP [L] 192.168.1.1:117 <-- [OL] 192.168.1.2:2769
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc--x----r--- UDP [OR] 67.168.1.1:53 <-- [L] 192.168.1.2:2747
+        : DNS.netify.reverse-dns
+        : H: 1.0.0.127.in-addr.arpa
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc--x----r--- UDP [L] 192.168.1.1:53 <-- [OL] 192.168.1.2:2828
+        : DNS.netify.reverse-dns
+        : H: 1.0.0.127.in-addr.arpa
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-gx----r--- UDP [OR] 37.115.0.36:40392 --> [L] 192.168.1.2:30000
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-gx----r--- UDP [OR] 192.22.1.2:2760 --> [L] 192.168.1.1:53
+        : DNS
+        : RID 17: Malformed Packet
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc--x----r--- UDP [OR] 102.168.1.1:53 <-- [L] 192.168.1.2:2752
+        : DNS
+        : RID 17: Malformed Packet
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc--x----r--- UDP [L] 192.168.1.1:53 <-- [OL] 192.168.1.34:2746
+        : DNS
+        : H: _sip._udp._s_p.brvjula.net
+        : RID 15: Text With Non-Printable Characters
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc--x----r--- UDP [L] 192.168.1.2:2733 --> [OL] 192.168.115.1:53
+        : DNS
+        : H: 1.0.0.127.in-addr.arqa
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc--x----r--- UDP [L] 192.168.1.1:53 <-- [OL] 192.168.1.2:2788
+        : DNS.netify.reverse-dns
+        : H: 1.0.0.127.in-addr.arpa
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc--x----r--- UDP [L] 192.168.1.1:53 <-- [OL] 192.168.1.2:2812
+        : DNS
+        : H: _sip._udp.sip.cyaercity.dk
+        : RID 46: Unidirectional Traffic
+        : DP: 4
+
+offline0: i4pc--x----r--- UDP [L] 192.168.1.2:2772 --> [OR] 192.184.1.1:53
+        : DNS
+        : H: _sip._udp.sip.cybercity.dk
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc--x----r--- UDP [L] 192.168.1.1:53 <-- [OL] 192.168.1.2:2825
+        : DNS
+        : H: _sip._udp.sip.cybercity.dk
+        : RID 15: Text With Non-Printable Characters
+        : RID 17: Malformed Packet
+        : RID 46: Unidirectional Traffic
+        : DP: 5
+
+offline0: i4pc--x----r--- UDP [L] 192.168.1.1:53 <-- [OL] 192.168.9.2:2774
+        : DNS
+        : H: _sip._udp.sip.cybercity.dk
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc--x----r--- UDP [L] 192.168.1.1:53 <-- [OL] 192.168.1.2:2756
+        : DNS
+        : H: _sip._udp.sip.cybercity.dk
+        : RID 15: Text With Non-Printable Characters
+        : RID 46: Unidirectional Traffic
+        : DP: 5
+
+offline0: i4pc--x----r--- UDP [L] 192.168.1.1:53 <-- [OL] 192.168.1.2:2804
+        : DNS
+        : H: _sip._udp.sip.cybercity.dk
+        : RID 15: Text With Non-Printable Characters
+        : RID 46: Unidirectional Traffic
+        : DP: 4
+
+offline0: i4pc--x----r--- UDP [L] 192.168.1.1:53 <-- [OL] 192.168.1.2:2832
+        : DNS
+        : H: _sip._udp.sip.cybercity.dk
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc--x----r--- UDP [L] 192.168.1.1:53 <-- [OL] 192.168.1.2:18162
+        : DNS
+        : H: _sip._udp.sip.cyhercity.dk
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc--x----r--- UDP [L] 192.168.1.1:53 <-- [OL] 192.168.1.2:2802
+        : DNS
+        : H: _sip._udp.sip.cybercity.dk
+        : RID 46: Unidirectional Traffic
+        : DP: 3
+
+offline0: i4pc--x----r--- UDP [L] 192.168.1.1:53 <-- [OL] 192.168.1.2:19192
+        : DNS
+        : H: _sip._udp.sip.cybercity.dk
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-gx-------- UDP [L] 192.168.1.2:137 <-- [OL] 192.168.1.255:169
+        : NETBIOS
+        : DP: 1
+
+offline0: i4pc--x----r--- UDP [L] 192.168.1.1:53 <-- [OL] 192.168.1.2:2811
+        : DNS
+        : RID 17: Malformed Packet
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-gx----r--- TCP [OR] 147.234.1.253:21 <-- [L] 192.2.1.2:2720
+        : FTP/C
+        : RID 42: Unsafe Protocol
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-gx----r--- TCP [OR] 147.234.1.253:21 <-- [L] 192.168.65.2:2720
+        : FTP/C
+        : RID 42: Unsafe Protocol
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc--x----r--- UDP [L] 192.168.1.1:53 <-- [OL] 192.168.1.2:2732
+        : DNS
+        : H: _sip._udp.sip.cybercity.dk
+        : RID 46: Unidirectional Traffic
+        : DP: 2
+
+offline0: i4pc-gx----r--- UDP [OR] 192.86.1.2:5060 --> [L] 200.68.120.99:5060
+        : SIP
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-gx----r--- TCP [OR] 84.168.1.2:2720 --> [L] 147.234.1.253:21
+        : FTP/C
+        : RID 42: Unsafe Protocol
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc--x----r--- UDP [L] 192.168.1.1:53 <-- [OR] 208.168.1.2:2713
+        : DNS
+        : RID 15: Text With Non-Printable Characters
+        : RID 17: Malformed Packet
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-gx----r--- 118 [L] 192.168.1.2:0 --> [OR] 200.68.120.81:0
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc--x----r--- UDP [L] 192.168.1.1:53 <-- [OL] 192.168.1.2:2724
+        : DNS
+        : H: _sip._udp._s_.cybercity.dk
+        : RID 15: Text With Non-Printable Characters
+        : RID 17: Malformed Packet
+        : RID 46: Unidirectional Traffic
+        : DP: 3
+
+offline0: i4pc--x----r--- UDP [L] 192.168.1.1:53 <-- [OL] 192.168.1.2:2822
+        : DNS.netify.reverse-dns
+        : H: 1.0.0.1_7.in-addr.arpa
+        : RID 15: Text With Non-Printable Characters
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc--x----r--- UDP [L] 192.168.1.1:53 <-- [OL] 192.168.1.172:2766
+        : DNS
+        : H: _sip._udp.sip.cybercity.dk
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc--x----r--- UDP [L] 192.168.1.1:53 <-- [OL] 192.168.1.2:14798
+        : DNS
+        : H: _sip._udp.sip.cybercity.dk
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-gx----r--- TCP [OR] 147.137.21.94:139 <-- [L] 192.168.1.2:2718
+        : NETBIOS
+        : RID 46: Unidirectional Traffic
+        : DP: 2
+
+offline0: i4pc-gx----r--- UDP [OR] 81.168.1.2:30000 <-- [L] 212.242.33.36:40392
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc--x----r--- UDP [L] 192.168.1.1:53 <-- [OL] 192.168.1.2:2776
+        : DNS
+        : H: _sip._udp.sip.cybercity.dk
+        : RID 15: Text With Non-Printable Characters
+        : RID 17: Malformed Packet
+        : RID 46: Unidirectional Traffic
+        : DP: 4
+
+offline0: i4pc--x----r--- UDP [L] 192.168.1.2:2786 --> [OL] 192.168.1.3:53
+        : DNS
+        : H: 1.0.0.127.in-ad_r.arpa
+        : RID 15: Text With Non-Printable Characters
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc--x----r--- UDP [L] 192.168.1.1:53 <-- [OR] 194.168.1.2:2807
+        : DNS
+        : RID 17: Malformed Packet
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-gx-------- UDP [L] 192.168.1.2:137 <-- [OL] 192.168.1.255:25481
+        : NETBIOS
+        : DP: 1
+
+offline0: i4pc-gx----r--- UDP [OR] 128.168.1.2:2810 --> [L] 192.168.1.1:53
+        : DNS
+        : RID 17: Malformed Packet
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc--x----r--- UDP [L] 192.168.1.1:53 <-- [OL] 192.168.1.2:2772
+        : DNS
+        : H: _sip
+        : RID 15: Text With Non-Printable Characters
+        : RID 17: Malformed Packet
+        : RID 46: Unidirectional Traffic
+        : DP: 4
+
+offline0: i4pc--x----r--- UDP [L] 192.168.1.1:53 <-- [OL] 192.168.54.2:2829
+        : DNS
+        : RID 17: Malformed Packet
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-gx----r--- UDP [L] 192.168.1.1:51 <-- [OL] 192.168.1.2:2805
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc--x----r--- UDP [L] 192.168.1.1:53 <-- [OL] 192.168.1.2:2800
+        : DNS
+        : H: _s_p._udp.sip.cybercity.dk
+        : RID 15: Text With Non-Printable Characters
+        : RID 46: Unidirectional Traffic
+        : DP: 2
+
+offline0: i4pc--x----r--- UDP [L] 192.168.1.1:53 <-- [OL] 192.168.1.2:2768
+        : DNS
+        : H: _sip._udp.sip.cybercity.dk
+        : RID 17: Malformed Packet
+        : RID 46: Unidirectional Traffic
+        : DP: 2
+
+offline0: i4pc-gx----r--- DDP [L] 192.168.1.1:0 --> [OL] 192.168.1.2:0
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc--x----r--- UDP [OR] 172.168.1.2:2734 --> [L] 192.168.1.1:53
+        : DNS
+        : H: _sip._udp.sip.cybercity.dk
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc--x----r--- UDP [L] 192.168.1.1:53 <-- [OL] 192.168.1.2:2798
+        : DNS
+        : H: _sip._udp.sip.cybercity.dk
+        : RID 15: Text With Non-Printable Characters
+        : RID 46: Unidirectional Traffic
+        : DP: 4
+
+offline0: i4pc--x----r--- UDP [L] 192.168.1.2:2827 --> [OL] 192.168.1.114:53
+        : DNS
+        : H: _sip._udp.sip.cybercity.dk
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-gx----r--- TCP [OR] 37.115.0.253:58999 <-- [L] 192.168.1.2:2721
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-gx----r--- UDP [L] 192.168.1.1:49973 --> [OL] 192.168.1.2:2712
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc--x----r--- UDP [L] 192.168.1.1:53 <-- [OL] 192.168.1.2:2770
+        : DNS
+        : RID 17: Malformed Packet
+        : RID 46: Unidirectional Traffic
+        : DP: 2
+
+offline0: i4pc-gx----r--- TCP [OR] 147.234.1.253:58999 --> [L] 192.232.1.2:2721
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+

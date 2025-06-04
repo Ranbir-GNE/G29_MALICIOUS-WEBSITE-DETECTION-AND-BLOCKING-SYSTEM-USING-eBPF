@@ -1,0 +1,35 @@
+offline0: i4pc-------r--- UDP [OR] 78.159.118.97:25383 <-- [L] 192.168.2.100:61837
+        : CryNetwork
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [OR] 37.58.56.245:20250 <-- [L] 192.168.2.100:56333
+        : CryNetwork
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [OR] 84.16.230.222:28665 <-- [L] 192.168.2.100:56970
+        : CryNetwork
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [OR] 78.159.98.94:28375 <-- [L] 192.168.2.100:55645
+        : CryNetwork
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [OR] 84.16.248.143:30098 <-- [L] 192.168.2.100:60751
+        : CryNetwork
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [OR] 78.159.106.139:28343 <-- [L] 192.168.2.100:60224
+        : CryNetwork
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [OR] 78.159.118.143:21931 <-- [L] 192.168.2.100:55460
+        : CryNetwork
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+

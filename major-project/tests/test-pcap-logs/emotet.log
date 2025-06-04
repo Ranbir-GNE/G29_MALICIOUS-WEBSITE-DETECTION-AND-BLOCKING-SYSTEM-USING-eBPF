@@ -1,0 +1,47 @@
+offline0: i4pc----------- TCP [L] 10.2.25.102:57309 --> [OR] 193.252.22.84:587
+        : SMTP
+        : H: opmta1mto02nd1
+        : DP: 19
+
+offline0: i4pc----------- TCP [L] 10.3.29.101:56309 --> [OR] 104.161.127.22:80
+        : HTTP
+        : H: fkl.co.ke
+        : HTTP/UA: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.74 Safari/537.36 Edg/99.0.1150.55
+        : URL: fkl.co.ke/wp-content/Elw3kPvOsZxM5/
+        : DP: 6
+
+offline0: i4pc-------r--- TCP [L] 10.4.20.102:54319 --> [OR] 107.161.178.210:80
+        : HTTP
+        : H: gandhitoday.org
+        : HTTP/UA: Mozilla/5.0 (Windows NT 10.0; Win64; x64; Trident/7.0; rv:11.0) like Gecko
+        : URL: gandhitoday.org/video/6JvA8/
+        : RID  2: Binary Application Transfer
+        : DP: 5
+
+offline0: i4pc-------r--- TCP [L] 10.4.25.101:49797 --> [OR] 77.105.36.156:80
+        : HTTP
+        : H: filmmogzivota.rs
+        : HTTP/UA: vBKbaQgjyvRRbcgfvlsc
+        : URL: filmmogzivota.rs/SpryAssets/gDR/
+        : RID  2: Binary Application Transfer
+        : RID 14: HTTP Suspicious User-Agent
+        : DP: 6
+
+offline0: i4pcu------r--- TCP [L] 10.4.25.101:49803 --> [OR] 138.197.147.101:443
+        : HTTP/S
+        : V: 0x0303 CS: 0xc030
+        : TLS/CN: example.com
+        : TLS/IDN: C=GB, ST=London, L=London, O=Global Security, OU=IT Department, CN=example.com TLS/SDN: C=GB, ST=London, L=London, O=Global Security, OU=IT Department, CN=example.com
+        : RID 30: TLS Certificate Expired
+        : RID 35: TLS SNI Extension Not Found
+        : RID 37: Self-signed Certificate
+        : RID 47: TLS ALPN Not Found
+        : DP: 6
+
+offline0: i4pcu------r-F- TCP [L] 10.4.25.101:49804 --> [OR] 138.197.147.101:443
+        : HTTP/S
+        : V: 0x0303 CS: 0xc030
+        : RID 35: TLS SNI Extension Not Found
+        : RID 47: TLS ALPN Not Found
+        : DP: 6
+

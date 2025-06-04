@@ -1,0 +1,22 @@
+# Netify Agent command-line options
+# Copyright (C) 2016-2024 eGloo Incorporated
+#
+# This is free software, licensed under the GNU General Public License v3.
+#
+# See the netifyd(8) manual for common options.
+
+# Auto-detect (when possible) network ineterface roles (yes/no)?
+NETIFYD_AUTODETECT="yes"
+
+# Set desired custom options here:
+# NETIFYD_EXTRA_OPTS=""
+
+# Define internal network interfaces and if needed, corresponding network
+# addresses.  Normally network addresses are discovered via Netlink but for
+# cases where Netlink is unavailable or when capturing from a mirrored port,
+# they should be specified as a comma-delimited list as shown below:
+# NETIFYD_INTNET="eth1 eth2 eth3,192.168.0.0/24,10.0.0.0/16"
+
+# Define external network interfaces.  For PPPoE interfaces, you can optionally
+# specify the associated software interface to dynamically track the address(es).
+# NETIFYD_EXTNET="eth4 eth5,ppp0

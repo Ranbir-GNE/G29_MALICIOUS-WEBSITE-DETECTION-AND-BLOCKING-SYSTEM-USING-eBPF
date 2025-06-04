@@ -1,0 +1,27 @@
+offline0: i4pc-------r-F- TCP [L] 10.10.10.49:55341 --> [OL] 10.10.10.251:631
+        : HTTP
+        : H: 10.10.10.251
+        : HTTP/UA: CUPS/1.3.4
+        : URL: 10.10.10.251/ipp/
+        : RID 10: Numeric IP Address
+        : RID 16: Known Protocol on Non-standard Port
+        : DP: 7
+
+offline0: i4pc-------r-F- TCP [L] 10.10.10.49:55342 --> [OL] 10.10.10.251:631
+        : HTTP
+        : H: 10.10.10.251
+        : HTTP/UA: CUPS/1.3.4
+        : URL: 10.10.10.251/ipp/
+        : RID 10: Numeric IP Address
+        : RID 16: Known Protocol on Non-standard Port
+        : DP: 7
+
+offline0: i4pc-------r-F- TCP [L] 10.10.10.49:55343 --> [OL] 10.10.10.251:631
+        : HTTP
+        : H: 10.10.10.251
+        : HTTP/UA: CUPS/1.3.4
+        : URL: 10.10.10.251/ipp/
+        : RID 10: Numeric IP Address
+        : RID 16: Known Protocol on Non-standard Port
+        : DP: 7
+

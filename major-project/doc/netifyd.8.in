@@ -1,0 +1,114 @@
+.TH NETIFYD 8
+.SH NAME
+@PACKAGE_TARNAME@ \- @PACKAGE_NAME@ v@PACKAGE_VERSION@
+.SH DESCRIPTION
+The @PACKAGE_NAME@ is a deep-packet inspection server.  The Agent is built on top of nDPI (\fIhttp://www.ntop.org/products/deep-packet-inspection/ndpi/\fR) (formerly OpenDPI) to detect network protocols and applications.  These detections can be saved locally, served over a UNIX or TCP socket, and/or "pushed" (via HTTP POSTs) to a remote third-party server.  Flow metadata, network statistics, and detection classifications are stored using JSON encoding.
+
+Optionally, the @PACKAGE_NAME@ can be coupled with a Netify Cloud (\fIhttps://www.netify.ai/\fR) subscription for further cloud processing, historical storage, machine-learning analysis, event notifications, device detection/identification, along with the option (on supported platforms) to take an active role in policing/bandwidth-shaping specific network protocols and applications.
+.SH SYNOPSIS
+.B @PACKAGE_TARNAME@
+\fB\-p\fR, \fB\-\-provision\fR
+.IR
+
+.B @PACKAGE_TARNAME@
+\fB\-\-enable/disable-sink\fR
+.IR
+
+.B @PACKAGE_TARNAME@
+\fB\-s\fR, \fB\-\-status\fR
+.IR
+
+.B @PACKAGE_TARNAME@
+\fB\-P\fR, \fB\-\-protocols\fR
+.IR
+
+.B @PACKAGE_TARNAME@
+\fB\-U\fR, \fB\-\-uuidgen\fR
+.IR
+
+.B @PACKAGE_TARNAME@
+[\fB\-v\fR, \fB\-\-verbose\fR]
+[\fB\-d\fR, \fB\-\-debug\fR]
+[\fB\-e\fR, \fB\-\-debug-ether-names\fR]
+[\fB\-D\fR, \fB\-\-debug-uploads\fR]
+[\fB\-t\fR, \fB\-\-disable-conntrack\fR]
+[\fB\-l\fR, \fB\-\-disable-netlink\fR]
+[\fB\-c\fR, \fB\-\-config\fR=\fICONFIG\fR]
+[\fB\-s\fR, \fB\-\-serial\fR=\fIUUID\fR]
+[\fB\-C\fR, \fB\-\-sink-conf\fR=\fIFILENAME\fR]
+[\fB\-j\fR, \fB\-\-json-export\fR=\fIFILENAME\fR]
+\fB\-I\fR, \fB\-\-internal\fR=\fIINTERFACE\fR [capture device opts...] [\fB\-I\fR, \fB\-\-internal\fR=\fIINTERFACE\fR]...
+\fB\-E\fR, \fB\-\-external\fR=\fIINTERFACE\fR [capture device opts...] [\fB\-E\fR, \fB\-\-external\fR=\fIINTERFACE\fR]...
+.IR
+
+.B Capture device options:
+[\fB\-A\fR, \fB\-\-device-address\fR=\fIADDRESS\fR]
+[\fB\-F\fR, \fB\-\-device-filter\fR=\fIBPF\fR]
+.IR
+.SH OPTIONS
+.BR \-p ", " \-\-provision
+.TP
+Generate a new client UUID if one hasn't already been set.  Display the URL used to provision this Agent.
+.TP
+.BR \-\-enable-sink ", " \-\-disable-sink
+Enable or disable access to the Netify Cloud.  When enabled, flow metadata and DPI detection information will be uploaded to the Cloud for further processing and analysis.  A Netify Cloud Subscription (\fIhttps://netify.ai/\fR) is required.  This option is disabled by default.
+.TP
+.BR \-s ", " \-\-status
+Display the latest service status.
+.TP
+.BR \-P ", " \-\-protocols
+Display the current protocol and service ID list.
+.TP
+.BR \-U ", " \-\-uuidgen
+Generate a client UUID.
+.TP
+.BR \-v ", " \-\-verbose
+When running in foreground mode, enabling verbose mode will display each flow detection as they complete.
+.TP
+.BR \-d ", " \-\-debug
+Enable debug mode.  Remain in the foreground and emit debug messages.
+.TP
+.BR \-e ", " \-\-debug-ether-names
+Try to resolve MAC addresses to names using contents of /etc/ethers if available.
+.TP
+.BR \-D ", " \-\-debug-uploads
+Emit JSON upload debug messages (client/server HTTP headers, etc).
+.TP
+.BR \-t ", " \-\-disable-conntrack
+Disable connection tracking support.  This option will disable IP NAT detection for flows captured from external interfaces.
+.TP
+.BR \-l ", " \-\-disable-netlink
+Disable netlink support.  This option will disable the detection of IP address and routing changes.  The address and routing configuration for an interface must be supplied using the \-\-device-address=\fIADDRESS\fR option (described below).
+.TP
+.BR \-A ", " \-\-device-address=\fIADDRESS\fR
+For interfaces receiving mirrored traffic, or when netlink is disabled or unavailable, use this to specify the addresses local to the previous interface (-I, or -E) parameter.  Can be specified more than once for multiple addresses.
+.TP
+.BR \-c ", " \-\-config=\fICONFIG\fR
+Specify an alternate configuration file.  Default: /etc/@PACKAGE_TARNAME@.conf
+.TP
+.BR \-s ", " \-\-serial=\fIUUID\fR
+Specify a client serial number (UUID).  Used for device identification with the Netify Cloud Sync server(s).  Normally, the auto-generated client UUID is used for this purpose.
+.TP
+.BR \-f ", " \-\-sink-conf=\fIFILENAME\fR
+Specify an alternate Netify Cloud Sink configuration file.
+.TP
+.BR \-j ", " \-\-json-export=\fIFILENAME\fR
+JSON encode flow and application state and write it to this file every update interval.  \fBNOTE:\fR the \fIjson_export\fR option must be enabled in @PACKAGE_TARNAME@.conf(5) for this payload to be written.
+.TP
+.BR \-I ", " \-\-internal=\fIINTERFACE\fR
+Capture packets on this internal (LAN) interface.  Can be specified more than once for multiple interfaces.
+.TP
+.BR \-E ", " \-\-external=\fIINTERFACE\fR
+Capture packets on this external (WAN) interface.  Can be specified more than once for multiple interfaces.
+.SH BUGS
+If you find a bug or have a feature request, please report it here: \fI@PACKAGE_BUGREPORT@\fR
+.SH SEE ALSO
+@PACKAGE_TARNAME@.conf(5)
+.SH COPYRIGHT
+Copyright (C) 2015-2024 eGloo Incorporated <\fIhttp://www.egloo.ca\fR>
+.SH LICENSE
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+

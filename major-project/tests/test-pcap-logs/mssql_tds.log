@@ -1,0 +1,60 @@
+offline0: i4pc-------r--- TCP [L] 10.0.0.1:1433 --> [OL] 10.111.111.111:1111
+        : MSSQL/TDS
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- TCP [L] 10.0.0.1:1433 <-- [OL] 10.111.111.111:2222
+        : MSSQL/TDS
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- TCP [L] 10.0.0.1:1433 <-- [OL] 10.111.111.111:3333
+        : MSSQL/TDS
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- TCP [L] 10.0.0.1:1433 <-- [OL] 10.111.111.111:4444
+        : MSSQL/TDS
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- TCP [L] 10.0.0.1:1433 <-- [OL] 10.111.111.111:5555
+        : MSSQL/TDS
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- TCP [L] 10.0.0.1:1433 <-- [OL] 10.111.111.111:7777
+        : MSSQL/TDS
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- TCP [L] 10.0.0.1:1433 <-- [OL] 10.111.111.111:8888
+        : MSSQL/TDS
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- TCP [L] 10.0.0.1:1433 <-- [OL] 10.111.111.111:9999
+        : MSSQL/TDS
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- TCP [L] 10.0.0.1:1433 <-- [OL] 10.111.111.111:11111
+        : MSSQL/TDS
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- TCP [L] 10.0.0.1:1433 <-- [OL] 10.111.111.111:22222
+        : MSSQL/TDS
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- TCP [L] 10.0.0.1:1433 <-- [OL] 10.111.111.111:33333
+        : MSSQL/TDS
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-gx----r--- TCP [L] 10.0.0.1:1433 <-- [OL] 10.111.111.111:6666
+        : MSSQL/TDS
+        : RID 46: Unidirectional Traffic
+        : DP: 7
+

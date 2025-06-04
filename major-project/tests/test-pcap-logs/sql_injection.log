@@ -1,0 +1,8 @@
+offline0: i4pc-------r--- TCP [L] 192.168.3.107:80 <-- [OL] 192.168.3.109:53528
+        : HTTP
+        : H: 192.168.3.107
+        : HTTP/UA: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36
+        : URL: 192.168.3.107/DVWA-master/vulnerabilities/sqli/?id=%3Fid%3Da%27+UNION+SELECT+%22text1%22%2C%22text2%22%3B--+-%26Submit%3DSubmit&Submit=Submit
+        : RID 10: Numeric IP Address
+        : DP: 3
+

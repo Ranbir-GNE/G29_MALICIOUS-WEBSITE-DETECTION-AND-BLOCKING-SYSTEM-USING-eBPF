@@ -1,0 +1,16 @@
+offline0: i6pc----------- UDP [L] fe80::6238:e0ff:fec5:35a0:42370 --> [OM] ff12::8384:21027
+        : Syncthing.netify.syncthing
+        : DP: 1
+
+offline0: i4pc----------- UDP [L] 192.168.2.100:33927 --> [OL] 192.168.2.255:21027
+        : Syncthing.netify.syncthing
+        : DP: 1
+
+offline0: i6pc----------- UDP [L] fe80::6238:e0ff:fec5:35a0:47077 --> [OM] ff12::8384:21027
+        : Syncthing.netify.syncthing
+        : DP: 1
+
+offline0: i4pc----------- UDP [L] 192.168.2.100:54977 --> [OL] 192.168.2.255:21027
+        : Syncthing.netify.syncthing
+        : DP: 1
+

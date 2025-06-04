@@ -1,0 +1,19 @@
+offline0: i4pc-------r--- UDP [L] 192.168.1.2:5060 --> [OR] 212.242.33.35:5060
+        : SIP
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 192.168.1.2:5060 --> [OR] 200.68.120.81:5060
+        : SIP
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc----------- UDP [L] 192.168.1.2:30000 <-- [OR] 212.242.33.36:40392
+        : RTP
+        : DP: 3
+
+offline0: i4pc-------r--- UDP [L] 192.168.1.2:30001 <-- [OR] 212.242.33.36:40393
+        : RTCP
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+

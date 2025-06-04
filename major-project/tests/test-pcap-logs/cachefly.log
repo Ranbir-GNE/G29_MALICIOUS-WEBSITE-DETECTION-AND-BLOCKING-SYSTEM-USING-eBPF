@@ -1,0 +1,9 @@
+offline0: i4pcu------r--- TCP [L] 10.10.10.1:443 <-- [OL] 192.168.0.1:43766
+        : HTTP/S.netify.cachefly
+        : H: apptv.cachefly.net
+        : V: 0x0303 CS: 0xc02f
+        : TLS/SNI: apptv.cachefly.net TLS/CN: cachefly.net
+        : TLS/IDN: C=BE, O=GlobalSign nv-sa, CN=GlobalSign RSA OV SSL CA 2018 TLS/SDN: C=US, ST=Illinois, L=Chicago, O=Cachenetworks, LLC, CN=*.cachefly.net
+        : RID 30: TLS Certificate Expired
+        : DP: 6
+

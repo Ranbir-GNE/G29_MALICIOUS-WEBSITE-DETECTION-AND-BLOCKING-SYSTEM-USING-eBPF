@@ -1,0 +1,16 @@
+offline0: i4pcu------r--- TCP [L] 192.168.1.128:48260 --> [OR] 195.181.174.176:443
+        : HTTP/S
+        : V: 0x0303 CS: 0xc02c
+        : RID  4: Desktop/File Sharing
+        : RID 35: TLS SNI Extension Not Found
+        : RID 40: Uncommon TLS ALPN
+        : DP: 8
+
+offline0: i4pc-------r--- TCP [L] 192.168.1.128:59754 --> [OL] 192.168.1.181:7070
+        : TLS
+        : V: 0x0303
+        : RID 16: Known Protocol on Non-standard Port
+        : RID 35: TLS SNI Extension Not Found
+        : RID 47: TLS ALPN Not Found
+        : DP: 8
+

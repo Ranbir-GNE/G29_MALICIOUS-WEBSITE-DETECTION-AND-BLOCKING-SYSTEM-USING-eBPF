@@ -1,0 +1,221 @@
+offline0: i4pc-------rs-- UDP [L] 10.8.0.1:46214 --> [OR] 200.89.75.198:123
+        : NTP.netify.ntp
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc---------F- TCP [L] 10.8.0.1:45529 --> [OR] 54.230.227.172:80
+        : HTTP.netify.waze
+        : H: roadshields.waze.com
+        : HTTP/UA: /3.9.4.0
+        : URL: roadshields.waze.com/images/HD/CH2.png
+        : DP: 8
+
+offline0: i4pcu------r--- TCP [L] 10.8.0.1:36585 --> [OR] 173.194.118.48:443
+        : HTTP/S.netify.google
+        : V: 0x0301 CS: 0xc011
+        : RID 36: Obsolete TLS (v1.1 or older)
+        : DP: 6
+
+offline0: i4pc---------F- TCP [L] 10.8.0.1:45536 --> [OR] 54.230.227.172:80
+        : HTTP.netify.waze
+        : H: cres.waze.com
+        : HTTP/UA: /3.9.4.0
+        : URL: cres.waze.com/lang_asr/lang.portuguese_br_asr
+        : DP: 8
+
+offline0: i4pcu------r-F- TCP [L] 10.8.0.1:36100 --> [OR] 46.51.173.182:443
+        : HTTP/S.netify.waze
+        : V: 0x0301 CS: 0x0035
+        : TLS/CN: world.waze.com
+        : TLS/IDN: C=US, O=Google Inc, CN=Google Internet Authority G2 TLS/SDN: C=US, ST=California, L=Mountain View, O=Google Inc, CN=*.world.waze.com
+        : RID 30: TLS Certificate Expired
+        : RID 36: Obsolete TLS (v1.1 or older)
+        : RID 41: Weak TLS Cipher
+        : DP: 6
+
+offline0: i4pcu------r-F- TCP [L] 10.8.0.1:36102 --> [OR] 46.51.173.182:443
+        : HTTP/S.netify.waze
+        : V: 0x0301 CS: 0x0035
+        : TLS/CN: world.waze.com
+        : TLS/IDN: C=US, O=Google Inc, CN=Google Internet Authority G2 TLS/SDN: C=US, ST=California, L=Mountain View, O=Google Inc, CN=*.world.waze.com
+        : RID 30: TLS Certificate Expired
+        : RID 36: Obsolete TLS (v1.1 or older)
+        : RID 41: Weak TLS Cipher
+        : DP: 8
+
+offline0: i4pc-------r-F- TCP [L] 10.8.0.1:54915 --> [OR] 65.39.128.135:80
+        : HTTP
+        : H: xtra1.gpsonextra.net
+        : HTTP/UA: Android
+        : URL: xtra1.gpsonextra.net/xtra2.bin
+        : RID  2: Binary Application Transfer
+        : DP: 6
+
+offline0: i4pc---------F- TCP [L] 10.8.0.1:45540 --> [OR] 54.230.227.172:80
+        : HTTP.netify.waze
+        : H: roadshields.waze.com
+        : HTTP/UA: /3.9.4.0
+        : URL: roadshields.waze.com/shields_conf_new_latam?rtserver-id=15
+        : DP: 8
+
+offline0: i4pc---------F- TCP [L] 10.8.0.1:45538 --> [OR] 54.230.227.172:80
+        : HTTP.netify.waze
+        : H: cres.waze.com
+        : HTTP/UA: /3.9.4.0
+        : URL: cres.waze.com/lang_tts/lang.portuguese_br_tts?rtserver-id=15
+        : DP: 8
+
+offline0: i4pc---------F- TCP [L] 10.8.0.1:45546 --> [OR] 54.230.227.172:80
+        : HTTP.netify.waze
+        : H: cres.waze.com
+        : HTTP/UA: /3.9.4.0
+        : URL: cres.waze.com/newVconfig/1.0/3/prompts_conf.buf?rtserver-id=15
+        : DP: 8
+
+offline0: i4pcu------r--- TCP [L] 10.8.0.1:39010 --> [OR] 52.17.114.219:443
+        : HTTP/S.netify.waze
+        : V: 0x0301 CS: 0xc013
+        : TLS/CN: world.waze.com
+        : TLS/IDN: C=US, O=Google Inc, CN=Google Internet Authority G2 TLS/SDN: C=US, ST=California, L=Mountain View, O=Google Inc, CN=*.world.waze.com
+        : RID 30: TLS Certificate Expired
+        : RID 36: Obsolete TLS (v1.1 or older)
+        : DP: 6
+
+offline0: i4pc---------F- TCP [L] 10.8.0.1:45552 --> [OR] 54.230.227.172:80
+        : HTTP.netify.waze
+        : H: cres.waze.com
+        : HTTP/UA: /3.9.4.0
+        : URL: cres.waze.com/langs/1.0/lang.portuguese_br?rtserver-id=15
+        : DP: 8
+
+offline0: i4pc---------F- TCP [L] 10.8.0.1:45554 --> [OR] 54.230.227.172:80
+        : HTTP.netify.waze
+        : H: cres.waze.com
+        : HTTP/UA: /3.9.4.0
+        : URL: cres.waze.com/newVconfig/1.0/3/lang.conf?rtserver-id=15
+        : DP: 8
+
+offline0: i4pcu------r--- TCP [L] 10.8.0.1:51051 --> [OR] 176.34.103.105:443
+        : HTTP/S.netify.waze
+        : V: 0x0301 CS: 0xc013
+        : TLS/CN: waze.com
+        : TLS/IDN: C=US, O=Google Inc, CN=Google Internet Authority G2 TLS/SDN: C=US, ST=California, L=Mountain View, O=Google Inc, CN=*.waze.com
+        : RID 30: TLS Certificate Expired
+        : RID 36: Obsolete TLS (v1.1 or older)
+        : DP: 8
+
+offline0: i4pcu------r--- TCP [L] 10.8.0.1:51050 --> [OR] 176.34.103.105:443
+        : HTTP/S.netify.waze
+        : V: 0x0301 CS: 0xc013
+        : TLS/CN: waze.com
+        : TLS/IDN: C=US, O=Google Inc, CN=Google Internet Authority G2 TLS/SDN: C=US, ST=California, L=Mountain View, O=Google Inc, CN=*.waze.com
+        : RID 30: TLS Certificate Expired
+        : RID 36: Obsolete TLS (v1.1 or older)
+        : DP: 8
+
+offline0: i4pcu------r--- TCP [L] 10.8.0.1:51049 --> [OR] 176.34.103.105:443
+        : HTTP/S.netify.waze
+        : V: 0x0301 CS: 0xc013
+        : TLS/CN: waze.com
+        : TLS/IDN: C=US, O=Google Inc, CN=Google Internet Authority G2 TLS/SDN: C=US, ST=California, L=Mountain View, O=Google Inc, CN=*.waze.com
+        : RID 30: TLS Certificate Expired
+        : RID 36: Obsolete TLS (v1.1 or older)
+        : DP: 10
+
+offline0: i4pc-------r-F- TCP [L] 10.8.0.1:39021 --> [OR] 52.17.114.219:443
+        : HTTP/S
+        : V: 0x0301
+        : RID 36: Obsolete TLS (v1.1 or older)
+        : DP: 4
+
+offline0: i4pcu------r--- TCP [L] 10.8.0.1:36312 --> [OR] 176.34.186.180:443
+        : HTTP/S.netify.waze
+        : V: 0x0301 CS: 0xc013
+        : TLS/CN: world.waze.com
+        : TLS/IDN: C=US, O=Google Inc, CN=Google Internet Authority G2 TLS/SDN: C=US, ST=California, L=Mountain View, O=Google Inc, CN=*.world.waze.com
+        : RID 30: TLS Certificate Expired
+        : RID 36: Obsolete TLS (v1.1 or older)
+        : DP: 8
+
+offline0: i4pcu------r--- TCP [L] 10.8.0.1:36314 --> [OR] 176.34.186.180:443
+        : HTTP/S.netify.waze
+        : V: 0x0301 CS: 0xc013
+        : TLS/CN: world.waze.com
+        : TLS/IDN: C=US, O=Google Inc, CN=Google Internet Authority G2 TLS/SDN: C=US, ST=California, L=Mountain View, O=Google Inc, CN=*.world.waze.com
+        : RID 30: TLS Certificate Expired
+        : RID 36: Obsolete TLS (v1.1 or older)
+        : DP: 8
+
+offline0: i4pcu------r--- TCP [L] 10.8.0.1:36316 --> [OR] 176.34.186.180:443
+        : HTTP/S.netify.waze
+        : V: 0x0301 CS: 0xc013
+        : TLS/CN: world.waze.com
+        : TLS/IDN: C=US, O=Google Inc, CN=Google Internet Authority G2 TLS/SDN: C=US, ST=California, L=Mountain View, O=Google Inc, CN=*.world.waze.com
+        : RID 30: TLS Certificate Expired
+        : RID 36: Obsolete TLS (v1.1 or older)
+        : DP: 6
+
+offline0: i4pcu------r-F- TCP [L] 10.8.0.1:36134 --> [OR] 46.51.173.182:443
+        : HTTP/S.netify.waze
+        : V: 0x0301 CS: 0x0035
+        : TLS/CN: world.waze.com
+        : TLS/IDN: C=US, O=Google Inc, CN=Google Internet Authority G2 TLS/SDN: C=US, ST=California, L=Mountain View, O=Google Inc, CN=*.world.waze.com
+        : RID 30: TLS Certificate Expired
+        : RID 36: Obsolete TLS (v1.1 or older)
+        : RID 41: Weak TLS Cipher
+        : DP: 6
+
+offline0: i4pc----------- TCP [L] 10.8.0.1:50828 --> [OR] 108.168.176.228:443
+        : WhatsApp
+        : DP: 4
+
+offline0: i4pcu------r-F- TCP [L] 10.8.0.1:36137 --> [OR] 46.51.173.182:443
+        : HTTP/S.netify.waze
+        : V: 0x0301 CS: 0x0035
+        : TLS/CN: world.waze.com
+        : TLS/IDN: C=US, O=Google Inc, CN=Google Internet Authority G2 TLS/SDN: C=US, ST=California, L=Mountain View, O=Google Inc, CN=*.world.waze.com
+        : RID 30: TLS Certificate Expired
+        : RID 36: Obsolete TLS (v1.1 or older)
+        : RID 41: Weak TLS Cipher
+        : DP: 8
+
+offline0: i4pc-gx------F- TCP [L] 10.16.37.157:52746 --> [OR] 200.160.4.49:80
+        : HTTP
+        : DP: 4
+
+offline0: i4pc-gx------F- TCP [L] 10.8.0.1:45169 --> [OR] 200.160.4.198:80
+        : HTTP
+        : DP: 4
+
+offline0: i4pc-gx------F- TCP [L] 10.16.37.157:41823 --> [OR] 200.160.4.49:80
+        : HTTP
+        : DP: 4
+
+offline0: i4pc-gx------F- TCP [L] 10.16.37.157:46473 --> [OR] 200.160.4.49:80
+        : HTTP
+        : DP: 4
+
+offline0: i4pc-gx------F- TCP [L] 10.16.37.157:42256 --> [OR] 174.37.231.81:5222
+        : Unknown
+        : DP: 10
+
+offline0: i4pc-gx------F- TCP [L] 10.16.37.157:52953 --> [OR] 200.160.4.49:80
+        : HTTP
+        : DP: 4
+
+offline0: i4pc-gx------F- TCP [L] 10.8.0.1:43089 --> [OR] 200.160.4.198:443
+        : HTTP/S
+        : DP: 4
+
+offline0: i4pc-gx------F- TCP [L] 10.16.37.157:43991 --> [OR] 200.160.4.31:80
+        : HTTP
+        : DP: 4
+
+offline0: i4pc-gx------F- TCP [L] 10.8.0.1:60479 --> [OR] 200.160.4.49:443
+        : HTTP/S
+        : DP: 4
+
+offline0: i4pc-gx------F- TCP [L] 10.8.0.1:60574 --> [OR] 200.160.4.49:80
+        : HTTP
+        : DP: 4
+

@@ -1,0 +1,17 @@
+offline0: i4pc-------r-F- TCP [L] 10.0.0.1:1637 --> [OL] 10.0.0.2:21477
+        : SOCKS
+        : RID 16: Known Protocol on Non-standard Port
+        : DP: 5
+
+offline0: i4pc---------F- TCP [L] 10.180.156.185:53533 --> [OL] 10.180.156.249:1080
+        : SOCKS
+        : DP: 6
+
+offline0: i4pc---------F- TCP [L] 10.180.156.185:53534 --> [OL] 10.180.156.249:1080
+        : SOCKS
+        : DP: 6
+
+offline0: i4pc---------F- TCP [L] 10.180.156.185:53535 --> [OL] 10.180.156.249:1080
+        : SOCKS
+        : DP: 6
+

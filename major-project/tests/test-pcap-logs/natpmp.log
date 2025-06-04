@@ -1,0 +1,19 @@
+offline0: i4pc--x-------- UDP [L] 192.168.1.128:36852 --> [OL] 192.168.1.254:5351
+        : NAT/PMP
+        : DP: 4
+
+offline0: i4pc--x----r--- UDP [L] 192.168.2.1:5351 <-- [OL] 192.168.2.100:35763
+        : NAT/PMP
+        : RID 46: Unidirectional Traffic
+        : DP: 4
+
+offline0: i4pc--x----r--- UDP [L] 192.168.2.1:5351 <-- [OL] 192.168.2.100:36845
+        : NAT/PMP
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc--x----r--- UDP [L] 192.168.2.1:5351 <-- [OL] 192.168.2.100:59817
+        : NAT/PMP
+        : RID 46: Unidirectional Traffic
+        : DP: 2
+

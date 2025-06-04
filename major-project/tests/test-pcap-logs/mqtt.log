@@ -1,0 +1,9 @@
+offline0: i4pc----------- TCP [L] 10.10.10.1:1883 <-- [OL] 192.168.0.1:41892
+        : MQTT
+        : DP: 2
+
+offline0: i4pc-------r--- TCP [OR] 51.137.28.239:1883 <-- [L] 100.67.35.238:35035
+        : MQTT
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+

@@ -1,0 +1,13 @@
+offline0: i4pcu------r-F- TCP [OR] 151.121.193.160:443 <-- [L] 192.168.147.177:58496
+        : HTTP/S
+        : H: 192.69.136.179
+        : V: 0x0303 CS: 0x009d
+        : TLS/SNI: 192.69.136.179 TLS/CN: munniccan.de
+        : TLS/IDN: C=DE, ST=Munich, L=Grenoble, O=Munniccan Establishment GmBH, OU=Munnican Workforce, CN=munniccan.de TLS/SDN: C=DE, ST=Munich, L=Grenoble, O=Munniccan Establishment GmBH, OU=Munnican Workforce, CN=munniccan.de
+        : RID 10: Numeric IP Address
+        : RID 30: TLS Certificate Expired
+        : RID 37: Self-signed Certificate
+        : RID 41: Weak TLS Cipher
+        : RID 47: TLS ALPN Not Found
+        : DP: 7
+

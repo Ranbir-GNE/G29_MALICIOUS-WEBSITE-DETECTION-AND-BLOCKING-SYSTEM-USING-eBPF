@@ -1,0 +1,5 @@
+offline0: i4pc-------r--- UDP [L] 10.101.0.2:1024 <-- [OL] 10.102.0.2:2123
+        : GTP
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+

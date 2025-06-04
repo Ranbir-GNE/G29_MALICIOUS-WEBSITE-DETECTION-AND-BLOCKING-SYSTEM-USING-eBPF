@@ -1,0 +1,114 @@
+offline0: i4pc-------r--- UDP [OR] 91.8.243.35:49432 <-- [L] 192.168.12.114:52119
+        : Nintendo
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [OR] 134.3.248.25:56955 --> [L] 192.168.12.114:52119
+        : Nintendo
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [OR] 109.21.255.11:50251 <-- [L] 192.168.12.114:52119
+        : Nintendo
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [OR] 35.158.74.61:33335 <-- [L] 192.168.12.114:52119
+        : Nintendo
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc----------- TCP [OR] 54.187.10.185:443 <-- [L] 192.168.12.114:48328
+        : HTTP/S
+        : DP: 14
+
+offline0: i4pc----------- UDP [L] 192.168.12.1:53 <-- [OL] 192.168.12.114:18874
+        : DNS.netify.nintendo
+        : H: e0d67c509fb203858ebcb2fe3f88c2aa.baas.nintendo.com
+        : DP: 2
+
+offline0: i4pcu------r-F- TCP [OR] 54.192.27.217:443 <-- [L] 192.168.12.114:41517
+        : HTTP/S.netify.nintendo
+        : D: d3fthpvv7fzx00.cloudfront.net H: e0d67c509fb203858ebcb2fe3f88c2aa.baas.nintendo.com
+        : V: 0x0303 CS: 0xc02f
+        : TLS/SNI: e0d67c509fb203858ebcb2fe3f88c2aa.baas.nintendo.com TLS/CN: baas.nintendo.com
+        : TLS/IDN: C=US, O=DigiCert Inc, OU=www.digicert.com, CN=DigiCert SHA2 High Assurance Server CA TLS/SDN: C=JP, ST=Kyoto, L=Minami-ku, O=Nintendo Co., Ltd., CN=*.baas.nintendo.com
+        : RID 30: TLS Certificate Expired
+        : RID 47: TLS ALPN Not Found
+        : DP: 7
+
+offline0: i4pc----------- UDP [L] 192.168.12.1:53 <-- [OL] 192.168.12.114:10184
+        : DNS.netify.nintendo
+        : H: g2df33d01-lp1.p.srv.nintendo.net
+        : DP: 4
+
+offline0: i4pc----------- UDP [L] 192.168.12.1:53 <-- [OL] 192.168.12.114:51035
+        : DNS.netify.nintendo
+        : H: e0d67c509fb203858ebcb2fe3f88c2aa.baas.nintendo.com
+        : DP: 2
+
+offline0: i4pcu------r-F- TCP [OR] 54.192.27.8:443 <-- [L] 192.168.12.114:31329
+        : HTTP/S.netify.nintendo
+        : D: d3fthpvv7fzx00.cloudfront.net H: e0d67c509fb203858ebcb2fe3f88c2aa.baas.nintendo.com
+        : V: 0x0303 CS: 0xc02f
+        : TLS/SNI: e0d67c509fb203858ebcb2fe3f88c2aa.baas.nintendo.com TLS/CN: baas.nintendo.com
+        : TLS/IDN: C=US, O=DigiCert Inc, OU=www.digicert.com, CN=DigiCert SHA2 High Assurance Server CA TLS/SDN: C=JP, ST=Kyoto, L=Minami-ku, O=Nintendo Co., Ltd., CN=*.baas.nintendo.com
+        : RID 30: TLS Certificate Expired
+        : RID 47: TLS ALPN Not Found
+        : DP: 7
+
+offline0: i4pc-------r--- UDP [OR] 185.118.169.65:27520 <-- [L] 192.168.12.114:55915
+        : Nintendo
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- ICMP [OR] 151.6.184.100:0 --> [L] 192.168.12.114:0
+        : ICMP
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [OR] 93.237.131.235:56066 --> [L] 192.168.12.114:55915
+        : Nintendo
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [OR] 81.61.158.138:51769 <-- [L] 192.168.12.114:55915
+        : Nintendo
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- ICMP [OR] 151.6.184.98:0 --> [L] 192.168.12.114:0
+        : ICMP
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-gx-------- TCP [OR] 54.146.242.74:443 <-- [L] 192.168.12.114:11534
+        : HTTP/S
+        : DP: 2
+
+offline0: i4pc-gx----r--- UDP [OR] 52.10.205.177:34343 <-- [L] 192.168.12.114:52119
+        : Unknown.netify.nintendo
+        : D: g2df33d01-lp1.p.srv.nintendo.net
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-gx----r--- UDP [OR] 35.158.74.61:33334 <-- [L] 192.168.12.114:55915
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 5
+
+offline0: i4pc-gx-------- UDP [OR] 35.158.74.61:10025 <-- [L] 192.168.12.114:55915
+        : Unknown
+        : DP: 10
+
+offline0: i4pc-gx----r--- UDP [OR] 52.10.205.177:34343 <-- [L] 192.168.12.114:55915
+        : Unknown.netify.nintendo
+        : D: g2df33d01-lp1.p.srv.nintendo.net
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-gx----r--- UDP [OR] 35.158.74.61:33335 <-- [L] 192.168.12.114:55915
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 3
+

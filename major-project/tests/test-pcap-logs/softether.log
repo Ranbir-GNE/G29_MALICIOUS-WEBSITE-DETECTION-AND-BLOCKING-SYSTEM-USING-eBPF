@@ -1,0 +1,19 @@
+offline0: i4pc-g--------- UDP [OR] 130.158.6.113:5004 <-- [L] 192.168.2.100:51381
+        : Unknown
+        : DP: 32
+
+offline0: i4pc-gx-------- UDP [OR] 130.158.6.112:5004 <-- [L] 192.168.2.100:51381
+        : Unknown
+        : DP: 30
+
+offline0: i4pc-gx-------- UDP [OR] 130.158.6.105:5004 <-- [L] 192.168.2.100:51381
+        : Unknown
+        : DP: 30
+
+offline0: i4pc--x-------- TCP [OR] 130.158.75.45:80 <-- [L] 192.168.2.100:37504
+        : HTTP.netify.softether
+        : H: x0.x0.dev.open.servers.ddns.softether-network.net
+        : HTTP/UA: Mozilla/5.0 (Windows NT 6.3; WOW64; rv:29.0) Gecko/20100101 Firefox/29.0
+        : URL: x0.x0.dev.open.servers.ddns.softether-network.net/ddns/ddns.aspx?v=9291257684825389030
+        : DP: 4
+

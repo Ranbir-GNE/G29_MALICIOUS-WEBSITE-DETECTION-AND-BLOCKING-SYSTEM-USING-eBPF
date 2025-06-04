@@ -1,0 +1,16 @@
+offline0: i4pc-------r-F- TCP [L] 192.168.0.7:8080 <-- [OL] 192.168.0.20:33632
+        : HTTP.netify.internal-network
+        : H: wwww.lan
+        : HTTP/UA: curl/7.64.0
+        : URL: wwww.lan:8080/
+        : RID 16: Known Protocol on Non-standard Port
+        : DP: 6
+
+offline0: i4pc-------r--- TCP [L] 192.168.0.7:8080 <-- [OL] 192.168.0.20:33684
+        : HTTP.netify.internal-network
+        : H: www.lan
+        : HTTP/UA: Mozilla/5.0 (X11; Linux x86_64; rv:81.0) Gecko/20100101 Firefox/81.0
+        : URL: www.lan:8080/aaaaaaaaaaaaaaaaaaaaaaaa_very_long_uri
+        : RID 16: Known Protocol on Non-standard Port
+        : DP: 6
+

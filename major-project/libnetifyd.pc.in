@@ -1,0 +1,14 @@
+prefix=@prefix@
+exec_prefix=@exec_prefix@
+libdir=@libdir@
+includedir=@includedir@
+datarootdir=@datarootdir@
+persistentstatedir=@persistentstatedir@
+volatilestatedir=@volatilestatedir@
+
+Name: @PACKAGE_STRING@ Development Files
+Description: @PACKAGE_NAME@ development files
+URL: @PACKAGE_URL@
+Version: @VERSION@
+Libs: -L${libdir} -l:lib@PACKAGE_TARNAME@.@LIBNETIFY_VERSION_SO@
+Cflags: @ND_DEFINES@ -I${includedir}/@PACKAGE_TARNAME@ -I${includedir}/@PACKAGE_TARNAME@/ndpi -I${includedir}/ndpi

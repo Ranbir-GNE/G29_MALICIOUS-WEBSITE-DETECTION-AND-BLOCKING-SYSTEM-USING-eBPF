@@ -1,0 +1,5 @@
+offline0: i4pc-------r--- UDP [L] 10.1.2.2:61426 --> [OL] 10.1.2.4:177
+        : XDMCP
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+

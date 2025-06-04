@@ -1,0 +1,15 @@
+offline0: i4pc-------r--- TCP [OR] 46.101.231.218:443 <-- [L] 192.168.1.77:60140
+        : OpenVPN
+        : RID 16: Known Protocol on Non-standard Port
+        : DP: 6
+
+offline0: i4pc-------r--- UDP [OR] 139.59.151.137:13680 <-- [L] 192.168.43.12:41507
+        : OpenVPN
+        : RID 16: Known Protocol on Non-standard Port
+        : DP: 2
+
+offline0: i4pc-------r--- UDP [OR] 139.59.151.137:13680 <-- [L] 192.168.43.18:13680
+        : OpenVPN
+        : RID 16: Known Protocol on Non-standard Port
+        : DP: 3
+

@@ -1,0 +1,36 @@
+offline0: i4pc-gx----r--- TCP [L] 192.168.1.2:3391 <-- [OL] 192.168.1.178:57916
+        : Unknown
+        : RID 51: TCP Connection Issues
+        : DP: 2
+
+offline0: i4pc-gx----r--- TCP [L] 192.168.1.2:443 <-- [OL] 192.168.1.178:56273
+        : HTTP/S
+        : RID 51: TCP Connection Issues
+        : DP: 4
+
+offline0: i4pc-gx----r--- TCP [L] 192.168.1.2:445 <-- [OL] 192.168.1.178:56274
+        : SMBv23
+        : RID 51: TCP Connection Issues
+        : DP: 2
+
+offline0: i4pc-gx----r--- TCP [L] 192.168.1.2:3389 <-- [OL] 192.168.1.178:43067
+        : RDP
+        : RID  4: Desktop/File Sharing
+        : RID 51: TCP Connection Issues
+        : DP: 2
+
+offline0: i4pc-gx----r--- TCP [L] 192.168.1.2:80 <-- [OL] 192.168.1.178:56272
+        : HTTP
+        : RID 51: TCP Connection Issues
+        : DP: 4
+
+offline0: i4pc-gx----r--- TCP [L] 192.168.1.2:3390 <-- [OL] 192.168.1.178:62971
+        : Unknown
+        : RID 51: TCP Connection Issues
+        : DP: 2
+
+offline0: i4pc-gx----r--- TCP [L] 192.168.1.2:3392 <-- [OL] 192.168.1.178:63243
+        : Unknown
+        : RID 51: TCP Connection Issues
+        : DP: 2
+

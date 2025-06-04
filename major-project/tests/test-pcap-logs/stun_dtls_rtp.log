@@ -1,0 +1,10 @@
+offline0: i4pc-------rs-- UDP [OR] 142.250.82.76:19305 <-- [L] 192.168.12.156:37967
+        : Google/Call.netify.google-hangouts
+        : RID 30: TLS Certificate Expired
+        : DP: 17
+
+offline0: i4pc--------s-- TCP [OR] 142.250.82.249:3478 <-- [L] 192.168.12.182:50221
+        : Google/Call.netify.google-hangouts
+        : H: turn.l.google.com
+        : DP: 11
+

@@ -1,0 +1,40 @@
+offline0: i4pc-------r--- UDP [L] 10.25.32.59:19948 --> [OR] 64.200.148.86:8888
+        : Kontiki
+        : RID 42: Unsafe Protocol
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- ICMP [L] 10.25.32.59:0 <-- [OL] 10.25.249.14:0
+        : ICMP
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.25.32.59:19948 --> [OR] 64.200.148.88:80
+        : Kontiki
+        : RID 42: Unsafe Protocol
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- ICMP [L] 10.25.32.3:0 --> [OL] 10.25.32.59:0
+        : ICMP
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- ICMP [L] 10.25.32.59:0 <-- [OR] 216.168.241.157:0
+        : ICMP
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- ICMP [OR] 4.79.219.125:0 --> [L] 10.25.32.59:0
+        : ICMP
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-gx-------- UDP [L] 10.25.32.59:19948 --> [OR] 64.200.148.82:1948
+        : Unknown
+        : DP: 3
+
+offline0: i4pc-gx-------- UDP [L] 10.25.32.59:19948 --> [OB] 255.255.255.255:19948
+        : Unknown
+        : DP: 1
+

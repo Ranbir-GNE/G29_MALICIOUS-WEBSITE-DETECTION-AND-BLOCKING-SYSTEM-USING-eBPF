@@ -1,0 +1,21 @@
+offline0: i4pc---------F- TCP [L] 10.0.2.15:44188 --> [OR] 192.0.47.59:43
+        : Whois/DAS
+        : H: example.com
+        : DP: 4
+
+offline0: i4pcu------r--- TCP [L] 10.17.34.139:64016 --> [OL] 10.17.51.8:4343
+        : TLS
+        : V: 0x0303 CS: 0xc028
+        : TLS/CN: 10.17.51.7
+        : TLS/IDN: CN=10.17.51.7 TLS/SDN: CN=10.17.51.7, CN=10.17.51.7
+        : RID 16: Known Protocol on Non-standard Port
+        : RID 30: TLS Certificate Expired
+        : RID 35: TLS SNI Extension Not Found
+        : RID 53: TLS ALPN/SNI Mismatch
+        : DP: 7
+
+offline0: i4pc-gx----r-F- TCP [L] 10.160.63.128:53217 --> [OR] 192.30.45.30:43
+        : Whois/DAS
+        : RID 46: Unidirectional Traffic
+        : DP: 5
+

@@ -1,0 +1,31 @@
+offline0: i4pc-------r-F- TCP [OR] 74.208.5.28:110 <-- [L] 143.225.229.181:35287
+        : POP3
+        : RID  3: Clear-Text Credentials
+        : RID 42: Unsafe Protocol
+        : DP: 10
+
+offline0: i4pc-------r-F- TCP [L] 192.168.0.4:26284 --> [OR] 212.227.15.166:110
+        : POP3
+        : RID 42: Unsafe Protocol
+        : DP: 17
+
+offline0: i4pc-------r-F- TCP [L] 192.168.0.4:26308 --> [OR] 212.227.15.166:110
+        : POP3
+        : RID 42: Unsafe Protocol
+        : DP: 16
+
+offline0: i4pc-------r-F- TCP [L] 192.168.0.4:26383 --> [OR] 212.227.15.166:110
+        : POP3
+        : RID 42: Unsafe Protocol
+        : DP: 16
+
+offline0: i4pc--x----r-F- TCP [L] 192.168.0.4:26304 --> [OR] 212.227.15.166:110
+        : POP3
+        : RID 42: Unsafe Protocol
+        : DP: 12
+
+offline0: i4pc--x----r-F- TCP [L] 192.168.0.4:26272 --> [OR] 212.227.15.166:110
+        : POP3
+        : RID 42: Unsafe Protocol
+        : DP: 12
+

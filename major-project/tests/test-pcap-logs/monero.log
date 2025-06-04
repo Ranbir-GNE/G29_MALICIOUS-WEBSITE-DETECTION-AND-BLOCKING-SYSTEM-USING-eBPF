@@ -1,0 +1,10 @@
+offline0: i4pc-------r--- TCP [OR] 94.23.199.191:3333 <-- [L] 192.168.2.148:46838
+        : Mining
+        : RID 42: Unsafe Protocol
+        : DP: 4
+
+offline0: i4pc-------r--- TCP [OR] 116.211.167.195:3333 <-- [L] 192.168.2.148:53846
+        : Mining
+        : RID 42: Unsafe Protocol
+        : DP: 4
+

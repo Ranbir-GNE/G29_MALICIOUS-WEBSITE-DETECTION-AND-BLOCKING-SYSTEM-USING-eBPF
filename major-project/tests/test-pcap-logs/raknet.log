@@ -1,0 +1,57 @@
+offline0: i4pc----------- UDP [OR] 148.153.35.205:60030 --> [L] 192.168.2.100:44501
+        : RakNet
+        : DP: 3
+
+offline0: i4pc----------- UDP [OR] 148.153.35.205:60028 <-- [L] 192.168.2.100:60689
+        : RakNet
+        : DP: 3
+
+offline0: i4pc----------- UDP [OR] 148.153.35.205:60021 --> [L] 192.168.2.100:32951
+        : RakNet
+        : DP: 3
+
+offline0: i4pc-------r--- UDP [OR] 148.153.35.205:60022 --> [L] 192.168.2.100:32951
+        : RakNet
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [OR] 148.153.35.205:60021 --> [L] 192.168.2.100:32952
+        : RakNet
+        : RID 46: Unidirectional Traffic
+        : DP: 3
+
+offline0: i4pc-------r--- UDP [OR] 148.153.35.205:60025 --> [L] 192.168.2.100:32951
+        : RakNet
+        : RID 46: Unidirectional Traffic
+        : DP: 3
+
+offline0: i4pc-------r--- UDP [OR] 148.153.35.205:60021 --> [L] 192.168.2.100:32953
+        : RakNet
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [OR] 148.153.35.205:60028 <-- [L] 192.168.2.100:60690
+        : RakNet
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [OR] 148.153.35.205:60005 --> [L] 192.168.2.100:32951
+        : RakNet
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [OR] 148.153.35.205:60031 --> [L] 192.168.2.100:44501
+        : RakNet
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [OR] 148.153.35.205:59935 --> [L] 192.168.2.100:44501
+        : RakNet
+        : RID 46: Unidirectional Traffic
+        : DP: 3
+
+offline0: i4pc-------r--- UDP [OR] 148.153.35.205:43582 <-- [L] 192.168.2.100:44501
+        : RakNet
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+

@@ -1,0 +1,18 @@
+offline0: i6pcu------r-F- TCP [OR] 2001:db8:1::1:64720 --> [L] 2001:db8:200::1:20868
+        : SSH
+        : SSH/CA: SSH-1.5-1.2.26 SSH/SA: SSH-1.5-1.2.26
+        : RID 16: Known Protocol on Non-standard Port
+        : DP: 16
+
+offline0: i4pcu------r--- TCP [L] 172.26.219.44:58639 --> [OL] 172.30.69.103:22
+        : SSH
+        : SSH/CA: SSH-1.99-OpenSSH_4.3 SSH/SA: SSH-2.0-OpenSSH_6.1
+        : RID 25: SSH Obsolete Client Version/Cipher
+        : RID 26: SSH Obsolete Server Version/Cipher
+        : DP: 10
+
+offline0: i6pc-------r--- IPSEC-ESP [OR] 2001:1670:8:40a6:a08e:332b:aa69:18dc:0 <-- [L] 2a01:e34:ef6f:4340:94be:5dac:c20a:d2a0:0
+        : IPSEC
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+

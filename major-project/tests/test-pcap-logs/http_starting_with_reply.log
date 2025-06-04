@@ -1,0 +1,8 @@
+offline0: i4pcu------r-F- TCP [L] 192.168.1.103:1044 --> [OL] 192.168.1.146:80
+        : HTTP.netify.internal-network
+        : H: proxy.wiresharkfest.acropolis.local
+        : HTTP/UA: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:91.0) Gecko/20100101 Firefox/91.0
+        : URL: proxy.wiresharkfest.acropolis.local/icons/ubuntu-logo.png
+        : RID 28: Suspicious Entropy
+        : DP: 7
+

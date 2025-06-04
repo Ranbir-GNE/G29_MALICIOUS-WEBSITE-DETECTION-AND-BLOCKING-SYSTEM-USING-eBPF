@@ -1,0 +1,64 @@
+offline0: i4pc-------r-F- TCP [L] 10.24.8.189:50652 --> [OR] 104.156.149.6:80
+        : HTTP
+        : H: 104.156.149.6
+        : HTTP/UA: Microsoft-WebDAV-MiniRedir/10.0.19045
+        : URL: 104.156.149.6/webdav
+        : RID 10: Numeric IP Address
+        : DP: 6
+
+offline0: i4pc-------r-F- TCP [L] 192.168.16.173:35612 --> [OR] 198.244.151.63:80
+        : HTTP
+        : H: www.dlp-test.com
+        : HTTP/UA: curl/7.68.0
+        : URL: www.dlp-test.com/webdav
+        : RID  8: Error Code
+        : DP: 5
+
+offline0: i4pc-------r-F- TCP [L] 192.168.16.173:41714 --> [OR] 198.244.151.63:80
+        : HTTP
+        : H: www.dlp-test.com
+        : HTTP/UA: curl/7.68.0
+        : URL: www.dlp-test.com/webdav
+        : RID  8: Error Code
+        : DP: 5
+
+offline0: i4pc-------r-F- TCP [L] 192.168.16.173:55974 --> [OR] 198.244.151.63:80
+        : HTTP
+        : H: www.dlp-test.com
+        : HTTP/UA: curl/7.68.0
+        : URL: www.dlp-test.com/webdav
+        : RID  8: Error Code
+        : DP: 5
+
+offline0: i4pc-------r-F- TCP [L] 192.168.16.173:47432 --> [OR] 198.244.151.63:80
+        : HTTP
+        : H: www.dlp-test.com
+        : HTTP/UA: curl/7.68.0
+        : URL: www.dlp-test.com/webdav
+        : RID  8: Error Code
+        : DP: 5
+
+offline0: i4pc-------r-F- TCP [L] 192.168.16.173:47436 --> [OR] 198.244.151.63:80
+        : HTTP
+        : H: www.dlp-test.com
+        : HTTP/UA: curl/7.68.0
+        : URL: www.dlp-test.com/webdav
+        : RID  8: Error Code
+        : DP: 5
+
+offline0: i4pc-------r-F- TCP [L] 192.168.16.173:47726 --> [OR] 198.244.151.63:80
+        : HTTP
+        : H: www.dlp-test.com
+        : HTTP/UA: curl/7.68.0
+        : URL: www.dlp-test.com/webdav
+        : RID  8: Error Code
+        : DP: 5
+
+offline0: i4pc-------r-F- TCP [L] 192.168.16.173:57432 --> [OR] 198.244.151.63:80
+        : HTTP
+        : H: www.dlp-test.com
+        : HTTP/UA: curl/7.68.0
+        : URL: www.dlp-test.com/webdav
+        : RID  8: Error Code
+        : DP: 5
+

@@ -1,0 +1,8 @@
+offline0: i4pc-------r--- UDP [OR] 26.83.9.81:57567 --> [L] 33.35.223.103:540
+        : STUN
+        : RID 16: Known Protocol on Non-standard Port
+        : RID 30: TLS Certificate Expired
+        : RID 37: Self-signed Certificate
+        : RID 46: Unidirectional Traffic
+        : DP: 3
+

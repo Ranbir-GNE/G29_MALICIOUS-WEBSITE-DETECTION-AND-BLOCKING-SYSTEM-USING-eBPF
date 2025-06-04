@@ -1,0 +1,9 @@
+offline0: i4pc-------r--- UDP [OR] 163.205.15.180:38876 --> [L] 191.62.60.190:443
+        : DTLS.netify.windows-update
+        : V: 0xfefd CS: 0xc030
+        : TLS/CN: www.update.microsoft.com
+        : TLS/IDN: C=US, ST=Washington, L=Redmond, O=Microsoft Corporation, CN=Microsoft Update Secure Server CA 1 TLS/SDN: C=US, ST=Washington, L=Redmond, O=Microsoft, OU=DSP, CN=www.update.microsoft.com
+        : RID 30: TLS Certificate Expired
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+

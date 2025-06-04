@@ -1,0 +1,12 @@
+offline0: i4pc-------rs-- UDP [OR] 134.224.90.111:8801 <-- [L] 192.168.43.169:48854
+        : ZOOM.netify.zoom
+        : RID 16: Known Protocol on Non-standard Port
+        : RID 30: TLS Certificate Expired
+        : RID 35: TLS SNI Extension Not Found
+        : DP: 14
+
+offline0: i4pc-------rs-- UDP [OR] 134.224.90.111:8801 <-- [L] 192.168.43.169:53065
+        : ZOOM.netify.zoom
+        : RID 16: Known Protocol on Non-standard Port
+        : DP: 5
+

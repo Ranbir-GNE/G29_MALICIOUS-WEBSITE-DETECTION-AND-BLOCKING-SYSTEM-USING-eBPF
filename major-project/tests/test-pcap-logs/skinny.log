@@ -1,0 +1,40 @@
+offline0: i4pc-------r--- TCP [L] 192.168.193.12:2000 <-- [OL] 192.168.195.58:49399
+        : Cisco/Skinny
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- TCP [L] 192.168.193.12:2000 <-- [OL] 192.168.195.50:51532
+        : Cisco/Skinny
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc----------- UDP [L] 192.168.195.50:17718 <-- [OL] 192.168.195.58:32144
+        : RTP
+        : DP: 3
+
+offline0: i4pc----------- UDP [L] 192.168.193.24:9395 <-- [OL] 192.168.195.58:32150
+        : RTP
+        : DP: 3
+
+offline0: i4pc----------- UDP [L] 192.168.193.24:9399 <-- [OL] 192.168.195.50:17726
+        : RTP
+        : DP: 3
+
+offline0: i4pc----------- UDP [L] 192.168.193.24:9396 <-- [OL] 192.168.195.58:32152
+        : RTP
+        : DP: 3
+
+offline0: i4pc----------- UDP [L] 192.168.193.24:9400 <-- [OL] 192.168.195.50:17732
+        : RTP
+        : DP: 3
+
+offline0: i4pc-------r--- TCP [L] 10.16.2.25:2000 <-- [OL] 192.168.195.58:50917
+        : Cisco/Skinny
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- ICMP [L] 192.168.195.50:0 --> [OL] 192.168.195.58:0
+        : ICMP
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+

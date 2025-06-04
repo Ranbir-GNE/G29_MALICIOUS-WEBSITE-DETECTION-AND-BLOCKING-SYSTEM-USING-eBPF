@@ -1,0 +1,8 @@
+offline0: i6pc-------r--- UDP [OR] 2e4a:774d:26fd:7f9b:785b:2d1b:4f8a:63c7:50339 --> [L] 3bcc:9991:faba:bae1:cd2a:e2fd:b3be:c5ab:443
+        : QUIC
+        : H: quic.aiortc.org
+        : V: 0x0304
+        : TLS/SNI: quic.aiortc.org
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+

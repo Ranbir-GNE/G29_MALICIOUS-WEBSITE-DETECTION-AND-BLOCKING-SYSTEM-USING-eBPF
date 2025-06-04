@@ -1,0 +1,350 @@
+offline0: i4pcu---------- TCP [OR] 69.171.250.20:443 <-- [L] 192.168.12.169:46160
+        : HTTP/S.netify.meta-messaging
+        : H: edge-mqtt.facebook.com
+        : V: 0x0303 CS: 0x1301
+        : TLS/SNI: edge-mqtt.facebook.com
+        : DP: 4
+
+offline0: i4pcu--------F- TCP [OR] 92.122.95.99:443 <-- [L] 192.168.1.250:41878
+        : HTTP/S.netify.tiktok
+        : H: vcs-va.tiktokv.com
+        : V: 0x0303 CS: 0x1302
+        : TLS/SNI: vcs-va.tiktokv.com
+        : DP: 6
+
+offline0: i4pcu------r-F- TCP [OR] 52.73.71.226:443 <-- [L] 192.168.1.227:50071
+        : HTTP/S
+        : H: presence.fuze.com
+        : V: 0x0303 CS: 0xc02f
+        : TLS/SNI: presence.fuze.com TLS/CN: presence.fuze.com
+        : TLS/IDN: C=US, O=Amazon, OU=Server CA 1B, CN=Amazon TLS/SDN: CN=*.presence.fuze.com
+        : RID 30: TLS Certificate Expired
+        : DP: 9
+
+offline0: i4pcu--------F- TCP [OR] 91.198.174.208:443 <-- [L] 192.168.1.128:50620
+        : HTTP/S.netify.wikimedia
+        : H: upload.wikimedia.org
+        : V: 0x0303 CS: 0x1302
+        : TLS/SNI: upload.wikimedia.org
+        : DP: 6
+
+offline0: i4pc---------F- TCP [OR] 45.82.241.51:80 <-- [L] 192.168.1.250:39890
+        : HTTP.netify.likee
+        : H: videosnap.like.video
+        : HTTP/UA: Like-Android
+        : URL: videosnap.like.video/eu_live/5uz/1YOmxT.webp?type=8&resize=1&dw=360
+        : DP: 6
+
+offline0: i4pcu------r-F- TCP [L] 192.168.1.128:46724 --> [OR] 199.232.82.109:443
+        : HTTP/S.netify.vimeo
+        : H: f.vimeocdn.com
+        : V: 0x0303 CS: 0xc02f
+        : TLS/SNI: f.vimeocdn.com TLS/CN: vimeocdn.com
+        : TLS/IDN: C=BE, O=GlobalSign nv-sa, CN=GlobalSign Atlas R3 DV TLS CA 2020 TLS/SDN: CN=*.vimeocdn.com
+        : RID 30: TLS Certificate Expired
+        : DP: 10
+
+offline0: i4pcu--------F- TCP [OR] 143.204.9.65:443 <-- [L] 192.168.1.128:48918
+        : HTTP/S.netify.disney-plus
+        : H: prod-static.disney-plus.net
+        : V: 0x0303 CS: 0x1301
+        : TLS/SNI: prod-static.disney-plus.net
+        : DP: 8
+
+offline0: i4pcu--------F- TCP [OR] 23.12.104.83:443 <-- [L] 192.168.12.169:39248
+        : HTTP/S.netify.accuweather
+        : H: api.accuweather.com
+        : V: 0x0303 CS: 0x1302
+        : TLS/SNI: api.accuweather.com
+        : DP: 6
+
+offline0: i4pc-------r--- UDP [L] 192.168.1.123:59102 --> [OR] 216.58.209.46:443
+        : QUIC.netify.google
+        : H: classroom.google.com
+        : V: 0x0304
+        : TLS/SNI: classroom.google.com
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pcu---------- TCP [OR] 31.222.67.112:443 <-- [L] 192.168.1.128:35054
+        : HTTP/S.netify.badoo
+        : H: www.badoo.com
+        : V: 0x0303 CS: 0x1302
+        : TLS/SNI: www.badoo.com
+        : DP: 4
+
+offline0: i4pcu---------- TCP [OR] 172.65.251.78:443 <-- [L] 192.168.1.128:53998
+        : HTTP/S.netify.gitlab
+        : H: www.gitlab.com
+        : V: 0x0303 CS: 0x1301
+        : TLS/SNI: www.gitlab.com
+        : DP: 4
+
+offline0: i4pcu------r--- TCP [OR] 2.17.141.128:443 <-- [L] 192.168.1.128:42580
+        : HTTP/S.netify.activision-blizzard
+        : H: www.activision.com
+        : V: 0x0303 CS: 0xc030
+        : TLS/SNI: www.activision.com TLS/CN: activision.com
+        : TLS/IDN: C=US, O=DigiCert Inc, CN=DigiCert SHA2 Secure Server CA TLS/SDN: C=US, ST=California, L=Santa Monica, O=Activision Publishing, Inc., CN=activision.com
+        : RID 30: TLS Certificate Expired
+        : DP: 7
+
+offline0: i4pcu---------- TCP [OR] 146.75.62.167:443 <-- [L] 192.168.1.128:46084
+        : HTTP/S.netify.twitch
+        : H: gql.twitch.tv
+        : V: 0x0303 CS: 0x1301
+        : TLS/SNI: gql.twitch.tv
+        : DP: 4
+
+offline0: i4pcu---------- TCP [OR] 18.66.196.102:443 <-- [L] 192.168.1.128:51806
+        : HTTP/S.netify.soundcloud
+        : H: soundcloud.com
+        : V: 0x0303 CS: 0x1301
+        : TLS/SNI: soundcloud.com
+        : DP: 4
+
+offline0: i4pcu------r--- TCP [OR] 151.101.192.92:443 <-- [L] 192.168.1.128:56468
+        : HTTP/S.netify.vevo
+        : H: vevo.com
+        : V: 0x0303 CS: 0xc02f
+        : TLS/SNI: vevo.com TLS/CN: cache.vevo.com
+        : TLS/IDN: C=BE, O=GlobalSign nv-sa, CN=GlobalSign Atlas R3 DV TLS CA 2020 TLS/SDN: CN=*.cache.vevo.com
+        : RID 30: TLS Certificate Expired
+        : DP: 6
+
+offline0: i4pcu---------- TCP [OR] 23.1.66.79:443 <-- [L] 192.168.1.128:48140
+        : HTTP/S.netify.cnn
+        : H: cdn.cnn.com
+        : V: 0x0303 CS: 0x1302
+        : TLS/SNI: cdn.cnn.com
+        : DP: 4
+
+offline0: i4pcu---------- TCP [OR] 2.17.141.49:443 <-- [L] 192.168.1.128:40832
+        : HTTP/S.netify.ebay
+        : H: www.ebay.com
+        : V: 0x0303 CS: 0x1302
+        : TLS/SNI: www.ebay.com
+        : DP: 4
+
+offline0: i4pcu---------- TCP [OR] 185.125.190.21:443 <-- [L] 192.168.1.128:42884
+        : HTTP/S.netify.ubuntu
+        : H: assets.ubuntu.com
+        : V: 0x0303 CS: 0x1302
+        : TLS/SNI: assets.ubuntu.com
+        : DP: 4
+
+offline0: i4pcu------r--- TCP [OR] 95.131.169.91:443 <-- [L] 192.168.1.128:51248
+        : HTTP/S.netify.tuenti
+        : H: tuenti.com
+        : V: 0x0303 CS: 0xc02f
+        : TLS/SNI: tuenti.com TLS/CN: tuenti.com
+        : TLS/IDN: C=US, O=DigiCert Inc, CN=DigiCert TLS RSA SHA256 2020 CA1 TLS/SDN: C=ES, L=Madrid, O=Tuenti Technologies S.L., CN=*.tuenti.com
+        : RID 30: TLS Certificate Expired
+        : DP: 6
+
+offline0: i4pcu------r--- TCP [OR] 95.131.170.91:443 <-- [L] 192.168.1.128:39302
+        : HTTP/S.netify.tuenti
+        : H: static.tuenti.com
+        : V: 0x0303 CS: 0xc02f
+        : TLS/SNI: static.tuenti.com TLS/CN: tuenti.com
+        : TLS/IDN: C=US, O=DigiCert Inc, CN=DigiCert TLS RSA SHA256 2020 CA1 TLS/SDN: C=ES, L=Madrid, O=Tuenti Technologies S.L., CN=*.tuenti.com
+        : RID 30: TLS Certificate Expired
+        : DP: 6
+
+offline0: i4pcu---------- TCP [OR] 95.101.195.214:443 <-- [L] 192.168.1.128:51432
+        : HTTP/S.netify.hulu
+        : H: hulu.com
+        : V: 0x0303 CS: 0x1302
+        : TLS/SNI: hulu.com
+        : DP: 4
+
+offline0: i4pcu---------- TCP [OR] 35.201.112.136:443 <-- [L] 192.168.1.128:47122
+        : HTTP/S.netify.last-fm
+        : H: kerve.last.fm
+        : V: 0x0303 CS: 0x1301
+        : TLS/SNI: kerve.last.fm
+        : DP: 4
+
+offline0: i4pcu------r--- TCP [OR] 151.101.193.73:443 <-- [L] 192.168.1.128:43412
+        : HTTP/S.netify.bloomberg
+        : H: www.bloomberg.com
+        : V: 0x0303 CS: 0xc02f
+        : TLS/SNI: www.bloomberg.com TLS/CN: www.bloomberg.com
+        : TLS/IDN: C=US, O=DigiCert Inc, CN=DigiCert TLS RSA SHA256 2020 CA1 TLS/SDN: C=US, ST=New York, L=New York, O=Bloomberg LP, CN=www.bloomberg.com
+        : RID 30: TLS Certificate Expired
+        : DP: 6
+
+offline0: i4pcu---------- TCP [OR] 108.139.210.102:443 <-- [L] 192.168.1.128:57014
+        : HTTP/S.netify.bloomberg
+        : H: sourcepointcmp.bloomberg.com
+        : V: 0x0303 CS: 0x1301
+        : TLS/SNI: sourcepointcmp.bloomberg.com
+        : DP: 4
+
+offline0: i4pc-------r--- TCP [OR] 13.107.42.14:443 <-- [L] 192.168.1.128:48654
+        : HTTP/S.netify.linkedin
+        : H: www.linkedin.com
+        : V: 0x0303 CS: 0xc030
+        : TLS/SNI: www.linkedin.com TLS/CN: www.linkedin.com
+        : TLS/IDN: C=US, O=DigiCert Inc, CN=DigiCert SHA2 Secure Server CA TLS/SDN: C=US, ST=California, L=Sunnyvale, O=LinkedIn Corporation, CN=www.linkedin.com
+        : RID 30: TLS Certificate Expired
+        : DP: 7
+
+offline0: i4pcu---------- TCP [OR] 104.23.98.190:443 <-- [L] 192.168.1.128:39934
+        : HTTP/S
+        : H: pastebin.com
+        : V: 0x0303 CS: 0x1301
+        : TLS/SNI: pastebin.com
+        : DP: 4
+
+offline0: i4pcu------r--- TCP [OR] 23.1.68.189:443 <-- [L] 192.168.1.128:57336
+        : HTTP/S.netify.playstation
+        : H: www.playstation.com
+        : V: 0x0303 CS: 0xc02f
+        : TLS/SNI: www.playstation.com TLS/CN: www.playstation.com
+        : TLS/IDN: C=US, O=DigiCert Inc, CN=DigiCert SHA2 Secure Server CA TLS/SDN: C=US, ST=California, L=San Mateo, O=SONY INTERACTIVE ENTERTAINMENT LLC, CN=www.playstation.com
+        : RID 30: TLS Certificate Expired
+        : DP: 6
+
+offline0: i4pcu---------- TCP [OR] 23.51.246.65:443 <-- [L] 192.168.1.128:46264
+        : HTTP/S.netify.playstation
+        : H: static.playstation.com
+        : V: 0x0303 CS: 0x1302
+        : TLS/SNI: static.playstation.com
+        : DP: 4
+
+offline0: i4pcu---------- TCP [OR] 108.138.199.67:443 <-- [L] 192.168.1.128:43150
+        : HTTP/S.netify.deezer
+        : H: deezer.com
+        : V: 0x0303 CS: 0x1301
+        : TLS/SNI: deezer.com
+        : DP: 4
+
+offline0: i4pcu---------- TCP [OR] 142.250.180.142:443 <-- [L] 192.168.1.128:38858
+        : HTTP/S.netify.google-maps
+        : H: maps.google.com
+        : V: 0x0303 CS: 0x1301
+        : TLS/SNI: maps.google.com
+        : DP: 4
+
+offline0: i4pcu---------- TCP [OR] 2.17.140.63:443 <-- [L] 192.168.1.128:48902
+        : HTTP/S.netify.xbox
+        : H: account.xbox.com
+        : V: 0x0303 CS: 0x1302
+        : TLS/SNI: account.xbox.com
+        : DP: 4
+
+offline0: i4pcu------r--- TCP [OR] 40.97.160.2:443 <-- [L] 192.168.1.128:39828
+        : HTTP/S.netify.outlook
+        : H: outlook.com
+        : V: 0x0303 CS: 0xc030
+        : TLS/SNI: outlook.com TLS/CN: outlook.com
+        : TLS/IDN: C=US, O=DigiCert Inc, CN=DigiCert Cloud Services CA-1 TLS/SDN: C=US, ST=Washington, L=Redmond, O=Microsoft Corporation, CN=outlook.com
+        : RID 30: TLS Certificate Expired
+        : DP: 7
+
+offline0: i4pcu---------- TCP [OR] 15.160.39.187:443 <-- [L] 192.168.1.128:45898
+        : HTTP/S.netify.apple-siri
+        : H: guzzoni.apple.com
+        : V: 0x0303 CS: 0x1301
+        : TLS/SNI: guzzoni.apple.com
+        : DP: 4
+
+offline0: i4pc-------r--- TCP [OR] 52.113.194.132:443 <-- [L] 192.168.1.128:57878
+        : HTTP/S.netify.teams
+        : H: teams.office.com
+        : V: 0x0303 CS: 0xc030
+        : TLS/SNI: teams.office.com TLS/CN: teams.office.com
+        : TLS/IDN: C=US, O=Microsoft Corporation, CN=Microsoft RSA TLS CA 01 TLS/SDN: CN=teams.office.com
+        : RID 30: TLS Certificate Expired
+        : DP: 6
+
+offline0: i4pcu---------- TCP [OR] 108.138.185.106:443 <-- [L] 192.168.1.128:33664
+        : HTTP/S.netify.amazon-prime
+        : H: www.primevideo.com
+        : V: 0x0303 CS: 0x1301
+        : TLS/SNI: www.primevideo.com
+        : DP: 4
+
+offline0: i4pcu---------- TCP [OR] 142.250.185.142:443 <-- [L] 192.168.1.128:56458
+        : HTTP/S.netify.gsuite
+        : H: drive.google.com
+        : V: 0x0303 CS: 0x1301
+        : TLS/SNI: drive.google.com
+        : DP: 4
+
+offline0: i4pc-------r--- TCP [OR] 13.81.118.91:443 <-- [L] 192.168.1.128:33102
+        : HTTP/S.netify.microsoft-onedrive
+        : H: onedrive.com
+        : V: 0x0303 CS: 0xc030
+        : TLS/SNI: onedrive.com TLS/CN: onedrive.com
+        : TLS/IDN: C=US, O=Microsoft Corporation, CN=Microsoft RSA TLS CA 01 TLS/SDN: CN=onedrive.com
+        : RID 30: TLS Certificate Expired
+        : DP: 7
+
+offline0: i4pc-------r--- TCP [OR] 13.107.42.13:443 <-- [L] 192.168.1.128:56836
+        : HTTP/S.netify.microsoft-onedrive
+        : H: onedrive.live.com
+        : V: 0x0303 CS: 0xc030
+        : TLS/SNI: onedrive.live.com TLS/CN: onedrive.com
+        : TLS/IDN: C=US, O=Microsoft Corporation, CN=Microsoft RSA TLS CA 02 TLS/SDN: CN=onedrive.com
+        : RID 30: TLS Certificate Expired
+        : DP: 8
+
+offline0: i4pcu------r--- TCP [OR] 129.226.107.210:443 <-- [L] 192.168.1.128:45014
+        : HTTP/S
+        : H: www.iflix.com
+        : V: 0x0303 CS: 0xc02f
+        : TLS/SNI: www.iflix.com TLS/CN: jan18-2022-1.ias.iflix.com
+        : TLS/IDN: C=US, O=DigiCert Inc, CN=DigiCert Secure Site CN CA G3 TLS/SDN: C=CN, ST=Guangdong Province, L=Shenzhen, O=Shenzhen Tencent Computer Systems Company Limited, CN=jan18-2022-1.ias.iflix.com
+        : RID 30: TLS Certificate Expired
+        : DP: 6
+
+offline0: i4pc-------r--- UDP [L] 192.168.1.128:38642 --> [OR] 216.58.212.142:443
+        : QUIC.netify.google-hangouts
+        : H: hangouts.google.com
+        : V: 0x0304
+        : TLS/SNI: hangouts.google.com
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pcu---------- TCP [OR] 142.250.185.206:443 <-- [L] 192.168.1.128:50608
+        : HTTP/S.netify.google
+        : H: googleplus.com
+        : V: 0x0303 CS: 0x1301
+        : TLS/SNI: googleplus.com
+        : DP: 4
+
+offline0: i4pc-------r--- UDP [OR] 142.250.181.238:443 <-- [L] 192.168.1.128:36832
+        : QUIC.netify.gsuite
+        : H: plus.google.com
+        : V: 0x0304
+        : TLS/SNI: plus.google.com
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pcu------r--- TCP [L] 192.168.1.128:53978 --> [OR] 208.85.40.158:443
+        : HTTP/S.netify.pandora
+        : H: pandora.com
+        : V: 0x0303 CS: 0xc030
+        : TLS/SNI: pandora.com TLS/CN: pandora.com
+        : TLS/IDN: C=US, O=DigiCert Inc, OU=www.digicert.com, CN=GeoTrust TLS RSA CA G1 TLS/SDN: C=US, ST=California, L=Oakland, O=Pandora Media, LLC, CN=*.pandora.com
+        : RID 30: TLS Certificate Expired
+        : DP: 6
+
+offline0: i4pc-gx-------- TCP [L] 192.168.1.128:45936 --> [OR] 208.85.40.158:80
+        : HTTP.netify.pandora
+        : DP: 2
+
+offline0: i4pc-gx-------- TCP [OR] 34.96.123.111:80 <-- [L] 192.168.1.128:44954
+        : HTTP
+        : DP: 2
+
+offline0: i4pc-gx-------- TCP [OR] 18.65.82.67:80 <-- [L] 192.168.1.128:52070
+        : HTTP
+        : DP: 2
+
+offline0: i4pc-gx-------- TCP [OR] 69.191.252.15:80 <-- [L] 192.168.1.128:39036
+        : HTTP.netify.bloomberg
+        : DP: 8
+

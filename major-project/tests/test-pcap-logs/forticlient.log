@@ -1,0 +1,55 @@
+offline0: i4pcu------r-F- TCP [OR] 82.81.46.13:10443 <-- [L] 192.168.1.178:61805
+        : TLS
+        : H: 82.81.46.13
+        : V: 0x0303 CS: 0xc030
+        : TLS/SNI: 82.81.46.13 TLS/CN: fwf60e4q16012050
+        : TLS/IDN: C=US, ST=California, L=Sunnyvale, O=Fortinet, OU=Certificate Authority, CN=support TLS/SDN: C=US, ST=California, L=Sunnyvale, O=Fortinet, OU=FortiGate, CN=FWF60E4Q16012050
+        : RID 10: Numeric IP Address
+        : RID 16: Known Protocol on Non-standard Port
+        : RID 47: TLS ALPN Not Found
+        : DP: 7
+
+offline0: i4pcu------r-F- TCP [OR] 82.81.46.13:10443 <-- [L] 192.168.1.178:61806
+        : TLS
+        : H: 82.81.46.13
+        : V: 0x0303 CS: 0xc030
+        : TLS/SNI: 82.81.46.13 TLS/CN: fwf60e4q16012050
+        : TLS/IDN: C=US, ST=California, L=Sunnyvale, O=Fortinet, OU=Certificate Authority, CN=support TLS/SDN: C=US, ST=California, L=Sunnyvale, O=Fortinet, OU=FortiGate, CN=FWF60E4Q16012050
+        : RID 10: Numeric IP Address
+        : RID 16: Known Protocol on Non-standard Port
+        : RID 47: TLS ALPN Not Found
+        : DP: 7
+
+offline0: i4pcu------r-F- TCP [OR] 82.81.46.13:10443 <-- [L] 192.168.1.178:61811
+        : TLS
+        : H: 82.81.46.13
+        : V: 0x0303 CS: 0xc030
+        : TLS/SNI: 82.81.46.13 TLS/CN: fwf60e4q16012050
+        : TLS/IDN: C=US, ST=California, L=Sunnyvale, O=Fortinet, OU=Certificate Authority, CN=support TLS/SDN: C=US, ST=California, L=Sunnyvale, O=Fortinet, OU=FortiGate, CN=FWF60E4Q16012050
+        : RID 10: Numeric IP Address
+        : RID 16: Known Protocol on Non-standard Port
+        : RID 47: TLS ALPN Not Found
+        : DP: 7
+
+offline0: i4pcu------r-F- TCP [OR] 82.81.46.13:10443 <-- [L] 192.168.1.178:61812
+        : TLS
+        : H: 82.81.46.13
+        : V: 0x0303 CS: 0xc030
+        : TLS/SNI: 82.81.46.13 TLS/CN: fwf60e4q16012050
+        : TLS/IDN: C=US, ST=California, L=Sunnyvale, O=Fortinet, OU=Certificate Authority, CN=support TLS/SDN: C=US, ST=California, L=Sunnyvale, O=Fortinet, OU=FortiGate, CN=FWF60E4Q16012050
+        : RID 10: Numeric IP Address
+        : RID 16: Known Protocol on Non-standard Port
+        : RID 47: TLS ALPN Not Found
+        : DP: 7
+
+offline0: i4pcu------r--- TCP [OR] 82.81.46.13:10443 <-- [L] 192.168.1.178:61820
+        : TLS
+        : H: 82.81.46.13
+        : V: 0x0303 CS: 0xc030
+        : TLS/SNI: 82.81.46.13 TLS/CN: fwf60e4q16012050
+        : TLS/IDN: C=US, ST=California, L=Sunnyvale, O=Fortinet, OU=Certificate Authority, CN=support TLS/SDN: C=US, ST=California, L=Sunnyvale, O=Fortinet, OU=FortiGate, CN=FWF60E4Q16012050
+        : RID 10: Numeric IP Address
+        : RID 16: Known Protocol on Non-standard Port
+        : RID 47: TLS ALPN Not Found
+        : DP: 7
+

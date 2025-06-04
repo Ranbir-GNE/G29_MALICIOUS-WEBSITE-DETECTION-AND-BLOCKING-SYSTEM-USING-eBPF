@@ -1,0 +1,229 @@
+offline0: i6pc----------- TCP [OR] 64:ff9b::98c7:1593:443 <-- [L] 2a01:cb01:2049:8b07:991d:ec85:28df:f629:42908
+        : HTTP/S
+        : DP: 23
+
+offline0: i6pc----------- TCP [OR] 64:ff9b::c000:4d28:443 <-- [L] 2a01:cb01:2049:8b07:991d:ec85:28df:f629:43434
+        : HTTP/S
+        : DP: 32
+
+offline0: i6pc----------- TCP [OR] 64:ff9b::c000:4d28:443 <-- [L] 2a01:cb01:2049:8b07:991d:ec85:28df:f629:43434
+        : HTTP/S
+        : DP: 32
+
+offline0: i6pcu---------- TCP [OR] 2606:2800:135:155a:23ba:b2a:25ff:122d:443 <-- [L] 2a01:cb01:2049:8b07:991d:ec85:28df:f629:58380
+        : HTTP/S.netify.yahoo
+        : H: consent.cmp.oath.com
+        : V: 0x0303 CS: 0x1302
+        : TLS/SNI: consent.cmp.oath.com
+        : DP: 6
+
+offline0: i6pcu--------F- TCP [OR] 2606:2800:135:155a:23ba:b2a:25ff:122d:443 <-- [L] 2a01:cb01:2049:8b07:991d:ec85:28df:f629:58382
+        : HTTP/S.netify.yahoo
+        : H: consent.cmp.oath.com
+        : V: 0x0303 CS: 0x1302
+        : TLS/SNI: consent.cmp.oath.com
+        : DP: 7
+
+offline0: i6pcu---------- TCP [OR] 64:ff9b::6006:749:443 <-- [L] 2a01:cb01:2049:8b07:991d:ec85:28df:f629:39152
+        : HTTP/S.netify.comscore
+        : H: sb.scorecardresearch.com
+        : V: 0x0303 CS: 0x1302
+        : TLS/SNI: sb.scorecardresearch.com
+        : DP: 6
+
+offline0: i6pc----------- TCP [OR] 64:ff9b::c000:4d03:443 <-- [L] 2a01:cb01:2049:8b07:991d:ec85:28df:f629:56794
+        : HTTP/S
+        : DP: 32
+
+offline0: i6pc----------- TCP [OR] 64:ff9b::c000:4d03:443 <-- [L] 2a01:cb01:2049:8b07:991d:ec85:28df:f629:56794
+        : HTTP/S
+        : DP: 32
+
+offline0: i6pcu---------- TCP [OR] 2001:4998:14:800::1001:443 <-- [L] 2a01:cb01:2049:8b07:991d:ec85:28df:f629:47118
+        : HTTP/S.netify.yahoo
+        : H: cookiex.ngd.yahoo.com
+        : V: 0x0303 CS: 0x1301
+        : TLS/SNI: cookiex.ngd.yahoo.com
+        : DP: 6
+
+offline0: i6pcu---------- TCP [OR] 64:ff9b::c000:4d03:443 <-- [L] 2a01:cb01:2049:8b07:991d:ec85:28df:f629:56842
+        : HTTP/S.netify.tumblr
+        : H: 64.media.tumblr.com
+        : V: 0x0303 CS: 0x1301
+        : TLS/SNI: 64.media.tumblr.com
+        : DP: 6
+
+offline0: i6pcu------r--- TCP [OR] 64:ff9b::4a72:9a16:443 <-- [L] 2a01:cb01:2049:8b07:991d:ec85:28df:f629:43328
+        : HTTP/S.netify.tumblr
+        : H: catasters.tumblr.com
+        : V: 0x0303 CS: 0xcca8
+        : TLS/SNI: catasters.tumblr.com TLS/CN: tumblr.com
+        : TLS/IDN: C=GB, ST=Greater Manchester, L=Salford, O=Sectigo Limited, CN=Sectigo RSA Domain Validation Secure Server CA TLS/SDN: CN=*.tumblr.com
+        : RID 30: TLS Certificate Expired
+        : DP: 12
+
+offline0: i6pc----------- TCP [OR] 64:ff9b::9765:789d:443 <-- [L] 2a01:cb01:2049:8b07:991d:ec85:28df:f629:48240
+        : HTTP/S
+        : DP: 32
+
+offline0: i6pc----------- TCP [OR] 64:ff9b::9765:789d:443 <-- [L] 2a01:cb01:2049:8b07:991d:ec85:28df:f629:48240
+        : HTTP/S
+        : DP: 32
+
+offline0: i6pcu---------- TCP [OR] 2a00:1450:4007:809::200e:443 <-- [L] 2a01:cb01:2049:8b07:991d:ec85:28df:f629:49548
+        : HTTP/S.netify.google
+        : H: apis.google.com
+        : V: 0x0303 CS: 0x1301
+        : TLS/SNI: apis.google.com
+        : DP: 6
+
+offline0: i6pcu---------- TCP [OR] 2a00:1450:4007:80b::200a:443 <-- [L] 2a01:cb01:2049:8b07:991d:ec85:28df:f629:38608
+        : HTTP/S.netify.google
+        : H: ajax.googleapis.com
+        : V: 0x0303 CS: 0x1301
+        : TLS/SNI: ajax.googleapis.com
+        : DP: 6
+
+offline0: i6pc----------- TCP [OR] 64:ff9b::c000:4c03:443 <-- [L] 2a01:cb01:2049:8b07:991d:ec85:28df:f629:51874
+        : HTTP/S
+        : DP: 18
+
+offline0: i6pc----------- TCP [OR] 64:ff9b::6006:749:443 <-- [L] 2a01:cb01:2049:8b07:991d:ec85:28df:f629:39164
+        : HTTP/S.netify.comscore
+        : H: sb.scorecardresearch.com
+        : V: 0x0303
+        : TLS/SNI: sb.scorecardresearch.com
+        : DP: 4
+
+offline0: i6pc-gx-------- TCP [OR] 64:ff9b::9765:798c:443 <-- [L] 2a01:cb01:2049:8b07:991d:ec85:28df:f629:56558
+        : HTTP/S
+        : DP: 2
+
+offline0: i6pc-gx-------- TCP [OR] 64:ff9b::d83a:d582:443 <-- [L] 2a01:cb01:2049:8b07:991d:ec85:28df:f629:50906
+        : HTTP/S
+        : DP: 2
+
+offline0: i6pc--x-------- TCP [OR] 2620:116:800d:21:8c6e:cf2c:8d6:9fb5:443 <-- [L] 2a01:cb01:2049:8b07:991d:ec85:28df:f629:41266
+        : HTTP/S.netify.quantcast
+        : DP: 9
+
+offline0: i6pc-gx-------- TCP [OR] 64:ff9b::4a72:9a15:443 <-- [L] 2a01:cb01:2049:8b07:991d:ec85:28df:f629:42674
+        : HTTP/S
+        : DP: 2
+
+offline0: i6pc--x-------- TCP [OR] 64:ff9b::68f4:2ac8:443 <-- [L] 2a01:cb01:2049:8b07:991d:ec85:28df:f629:56782
+        : HTTP/S
+        : DP: 10
+
+offline0: i6pc-gx-------- TCP [OR] 2a00:1450:4007:80b::200e:443 <-- [L] 2a01:cb01:2049:8b07:991d:ec85:28df:f629:57788
+        : HTTP/S.netify.google
+        : DP: 2
+
+offline0: i6pc-gx-------- TCP [OR] 2a00:1450:4007:80a::200a:443 <-- [L] 2a01:cb01:2049:8b07:991d:ec85:28df:f629:40190
+        : HTTP/S.netify.google
+        : DP: 2
+
+offline0: i6pc-gx-------- TCP [OR] 2a00:1450:4007:805::2003:443 <-- [L] 2a01:cb01:2049:8b07:991d:ec85:28df:f629:44164
+        : HTTP/S.netify.google
+        : DP: 2
+
+offline0: i6pc-gx-------- TCP [OR] 2a00:1450:4007:815::2002:443 <-- [L] 2a01:cb01:2049:8b07:991d:ec85:28df:f629:35892
+        : HTTP/S.netify.google
+        : DP: 2
+
+offline0: i6pc-gx-------- TCP [OR] 2a00:1450:4007:815::2003:443 <-- [L] 2a01:cb01:2049:8b07:991d:ec85:28df:f629:49496
+        : HTTP/S.netify.google
+        : DP: 2
+
+offline0: i6pc-gx-------- TCP [OR] 2a00:1450:4007:815::2003:443 <-- [L] 2a01:cb01:2049:8b07:991d:ec85:28df:f629:49546
+        : HTTP/S.netify.google
+        : DP: 2
+
+offline0: i6pc-gx-------- TCP [OR] 2a00:1450:4007:809::200e:443 <-- [L] 2a01:cb01:2049:8b07:991d:ec85:28df:f629:49462
+        : HTTP/S.netify.google
+        : DP: 2
+
+offline0: i6pc-gx-------- TCP [OR] 2a00:1450:4007:808::200e:443 <-- [L] 2a01:cb01:2049:8b07:991d:ec85:28df:f629:58004
+        : HTTP/S.netify.google
+        : DP: 2
+
+offline0: i6pc-gx-------- TCP [OR] 2a00:1450:4007:805::200e:443 <-- [L] 2a01:cb01:2049:8b07:991d:ec85:28df:f629:58614
+        : HTTP/S.netify.google
+        : DP: 2
+
+offline0: i6pc-gx-------- TCP [OR] 2a00:1450:4007:805::200e:443 <-- [L] 2a01:cb01:2049:8b07:991d:ec85:28df:f629:58618
+        : HTTP/S.netify.google
+        : DP: 2
+
+offline0: i6pc-gx-------- TCP [OR] 2a00:1450:4007:80b::200e:443 <-- [L] 2a01:cb01:2049:8b07:991d:ec85:28df:f629:57770
+        : HTTP/S.netify.google
+        : DP: 2
+
+offline0: i6pc-gx-------- TCP [OR] 2a00:1450:4007:806::200e:443 <-- [L] 2a01:cb01:2049:8b07:991d:ec85:28df:f629:55014
+        : HTTP/S.netify.google
+        : DP: 2
+
+offline0: i6pc-gx-------- TCP [OR] 64:ff9b::9765:798c:443 <-- [L] 2a01:cb01:2049:8b07:991d:ec85:28df:f629:56582
+        : HTTP/S
+        : DP: 2
+
+offline0: i6pc-gx-------- TCP [OR] 2a00:1450:4007:809::200e:443 <-- [L] 2a01:cb01:2049:8b07:991d:ec85:28df:f629:49464
+        : HTTP/S.netify.google
+        : DP: 2
+
+offline0: i6pc-gx-------- TCP [OR] 64:ff9b::9765:798c:443 <-- [L] 2a01:cb01:2049:8b07:991d:ec85:28df:f629:56592
+        : HTTP/S
+        : DP: 2
+
+offline0: i6pc-gx-------- TCP [OR] 2a00:1450:4007:805::200e:443 <-- [L] 2a01:cb01:2049:8b07:991d:ec85:28df:f629:58616
+        : HTTP/S.netify.google
+        : DP: 2
+
+offline0: i6pc-gx-------- TCP [OR] 64:ff9b::9765:798c:443 <-- [L] 2a01:cb01:2049:8b07:991d:ec85:28df:f629:56564
+        : HTTP/S
+        : DP: 2
+
+offline0: i6pc-gx-------- TCP [OR] 2a00:1450:4007:80a::200e:443 <-- [L] 2a01:cb01:2049:8b07:991d:ec85:28df:f629:45706
+        : HTTP/S.netify.google
+        : DP: 2
+
+offline0: i6pc--x-------- TCP [OR] 64:ff9b::c000:4d28:443 <-- [L] 2a01:cb01:2049:8b07:991d:ec85:28df:f629:43420
+        : HTTP/S
+        : DP: 31
+
+offline0: i6pc--x-------- TCP [OR] 64:ff9b::8fcc:d927:443 <-- [L] 2a01:cb01:2049:8b07:991d:ec85:28df:f629:57286
+        : HTTP/S
+        : DP: 9
+
+offline0: i6pc-gx-------- TCP [OR] 64:ff9b::df9:21c6:443 <-- [L] 2a01:cb01:2049:8b07:991d:ec85:28df:f629:43602
+        : HTTP/S
+        : DP: 2
+
+offline0: i6pc-gx-------- TCP [OR] 2a00:1450:4007:811::2004:443 <-- [L] 2a01:cb01:2049:8b07:991d:ec85:28df:f629:49002
+        : HTTP/S.netify.google
+        : DP: 2
+
+offline0: i6pc-gx-------- TCP [OR] 2a00:1450:4007:805::2002:443 <-- [L] 2a01:cb01:2049:8b07:991d:ec85:28df:f629:50960
+        : HTTP/S.netify.google
+        : DP: 2
+
+offline0: i6pc-gx-------- TCP [OR] 64:ff9b::9765:798c:443 <-- [L] 2a01:cb01:2049:8b07:991d:ec85:28df:f629:56594
+        : HTTP/S
+        : DP: 2
+
+offline0: i6pc--x-------- TCP [OR] 2a00:1450:4007:817::200a:443 <-- [L] 2a01:cb01:2049:8b07:991d:ec85:28df:f629:55560
+        : HTTP/S.netify.google
+        : DP: 13
+
+offline0: i6pc-gx-------- TCP [OR] 64:ff9b::9765:798c:443 <-- [L] 2a01:cb01:2049:8b07:991d:ec85:28df:f629:56640
+        : HTTP/S
+        : DP: 2
+
+offline0: i6pc-gx-------- TCP [OR] 2a00:1450:4007:811::2004:443 <-- [L] 2a01:cb01:2049:8b07:991d:ec85:28df:f629:48988
+        : HTTP/S.netify.google
+        : DP: 2
+
+offline0: i6pc-gx-------- TCP [OR] 64:ff9b::9765:798c:443 <-- [L] 2a01:cb01:2049:8b07:991d:ec85:28df:f629:56578
+        : HTTP/S
+        : DP: 2
+

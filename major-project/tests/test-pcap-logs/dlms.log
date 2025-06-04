@@ -1,0 +1,10 @@
+offline0: i4pc-------r-F- TCP [L] 192.168.137.20:60797 --> [OL] 192.168.137.189:4060
+        : IEC/62056
+        : RID 16: Known Protocol on Non-standard Port
+        : DP: 4
+
+offline0: i4pc-------r--- UDP [L] 10.1.1.1:0 <-- [OL] 10.2.2.2:4059
+        : IEC/62056
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+

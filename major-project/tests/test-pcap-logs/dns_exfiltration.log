@@ -1,0 +1,7 @@
+offline0: i4pc-------r--- UDP [L] 192.168.203.167:53 <-- [OL] 192.168.220.56:56373
+        : DNS
+        : H: e1aa8f8fdb1bbe8d5e04952141f7d4f82c7e3b06dcc8b87fad7a.19e4d098dc8c618f8d81cfeb02
+        : RID 23: Risky Domain Name
+        : RID 27: Suspicious DGA Domain name
+        : DP: 2
+

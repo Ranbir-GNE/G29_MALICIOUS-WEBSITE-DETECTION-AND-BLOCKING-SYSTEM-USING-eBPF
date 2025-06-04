@@ -1,0 +1,5 @@
+offline0: i4pc-gx----r--- TCP [OR] 178.62.197.130:443 <-- [L] 192.168.1.13:53059
+        : HTTP/S
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+

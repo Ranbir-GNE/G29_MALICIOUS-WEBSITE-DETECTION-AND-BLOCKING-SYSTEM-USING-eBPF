@@ -1,0 +1,35 @@
+offline0: i4pc----------- TCP [L] 10.10.10.10:51822 --> [OL] 10.10.10.11:27017
+        : MongoDB
+        : DP: 4
+
+offline0: i4pc----------- TCP [L] 10.10.10.12:55582 --> [OL] 10.10.10.13:27017
+        : MongoDB
+        : DP: 4
+
+offline0: i4pc----------- TCP [L] 10.10.10.14:61503 --> [OL] 10.10.10.15:27017
+        : MongoDB
+        : DP: 4
+
+offline0: i4pc----------- TCP [L] 10.10.10.16:51358 --> [OL] 10.10.10.17:27017
+        : MongoDB
+        : DP: 4
+
+offline0: i4pc-------r--- TCP [L] 10.10.10.18:64566 --> [OL] 10.10.10.19:30000
+        : MongoDB
+        : RID 16: Known Protocol on Non-standard Port
+        : DP: 4
+
+offline0: i4pc-gx-------- TCP [L] 10.10.10.18:64566 --> [OL] 10.10.10.19:30000
+        : Unknown
+        : DP: 3
+
+offline0: i4pc-gx----r--- TCP [L] 10.10.10.10:51822 --> [OL] 10.10.10.11:27017
+        : MongoDB
+        : RID 46: Unidirectional Traffic
+        : DP: 2
+
+offline0: i4pc-gx----r--- TCP [L] 10.10.10.12:55582 --> [OL] 10.10.10.13:27017
+        : MongoDB
+        : RID 46: Unidirectional Traffic
+        : DP: 2
+

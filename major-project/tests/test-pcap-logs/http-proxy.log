@@ -1,0 +1,7 @@
+offline0: i4pc---------F- TCP [L] 192.168.1.103:1241 --> [OL] 192.168.1.146:8080
+        : HTTP/Proxy
+        : H: http.com
+        : HTTP/UA: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:91.0) Gecko/20100101 Firefox/91.0
+        : URL: http://http.com/
+        : DP: 6
+

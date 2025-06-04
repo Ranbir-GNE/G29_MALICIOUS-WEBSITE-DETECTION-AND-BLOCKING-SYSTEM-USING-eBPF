@@ -1,0 +1,24 @@
+offline0: i4pc-------r--- UDP [L] 10.23.1.42:2944 <-- [OL] 10.35.40.22:2944
+        : Megaco
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.35.60.72:5060 --> [OL] 10.35.60.100:5060
+        : SIP
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.35.40.25:5060 --> [OL] 10.35.40.200:5060
+        : SIP
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [OR] 138.132.169.101:5060 --> [L] 192.168.100.219:5060
+        : SIP
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc----------- UDP [L] 10.23.1.52:16756 --> [OL] 10.35.60.100:15580
+        : RTP
+        : DP: 3
+

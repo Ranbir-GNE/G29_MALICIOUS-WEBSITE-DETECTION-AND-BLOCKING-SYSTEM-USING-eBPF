@@ -1,0 +1,14 @@
+offline0: i4pc-------r--- UDP [L] 10.4.14.102:58722 --> [OL] 10.130.130.130:9600
+        : FINS
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc---------F- TCP [L] 10.1.1.164:9600 <-- [OL] 10.1.1.173:17134
+        : FINS
+        : DP: 4
+
+offline0: i4pc-------r--- UDP [L] 10.1.1.164:9600 <-- [OL] 10.1.1.173:54855
+        : FINS
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+

@@ -1,0 +1,279 @@
+offline0: i4pc----------- TCP [OR] 17.172.100.70:993 <-- [L] 192.168.2.4:49199
+        : IMAP/S.netify.apple
+        : DP: 14
+
+offline0: i4pc---------F- TCP [OR] 23.50.148.228:443 <-- [L] 192.168.2.4:49172
+        : HTTP/S
+        : DP: 2
+
+offline0: i4pc----------- UDP [L] 192.168.2.1:53 <-- [OL] 192.168.2.4:51897
+        : DNS.netify.apple
+        : H: query.ess.apple.com
+        : DP: 2
+
+offline0: i4pc----------- UDP [L] 192.168.2.1:53 <-- [OL] 192.168.2.4:52190
+        : DNS.netify.whatsapp
+        : H: e13.whatsapp.net
+        : DP: 2
+
+offline0: i4pcu------r-F- TCP [OR] 17.178.104.12:443 <-- [L] 192.168.2.4:49201
+        : HTTP/S.netify.apple
+        : D: query.ess-apple.com.akadns.net H: query.ess.apple.com
+        : V: 0x0303 CS: 0x0004
+        : TLS/SNI: query.ess.apple.com TLS/CN: ess.apple.com
+        : TLS/IDN: CN=Apple Server Authentication CA, OU=Certification Authority, O=Apple Inc., C=US TLS/SDN: CN=*.ess.apple.com, OU=ISG Delivery Ops, O=Apple Inc., C=US
+        : RID 30: TLS Certificate Expired
+        : RID 47: TLS ALPN Not Found
+        : DP: 7
+
+offline0: i4pc-------r--- TCP [OR] 17.110.229.14:5223 <-- [L] 192.168.2.4:49193
+        : Apple/Push.netify.apple-push
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc---------F- TCP [OR] 184.173.179.37:5222 <-- [L] 192.168.2.4:49202
+        : WhatsApp.netify.whatsapp
+        : D: e13.whatsapp.net
+        : DP: 5
+
+offline0: i4pcu------r-F- TCP [OR] 17.173.66.102:443 <-- [L] 192.168.2.4:49204
+        : HTTP/S.netify.apple-itunes
+        : H: p53-buy.itunes.apple.com
+        : V: 0x0303 CS: 0x0004
+        : TLS/SNI: p53-buy.itunes.apple.com
+        : RID 47: TLS ALPN Not Found
+        : DP: 7
+
+offline0: i4pc-------r--- UDP [OR] 31.13.100.14:3478 <-- [L] 192.168.2.4:51518
+        : WhatsApp/Call.netify.whatsapp
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [OR] 31.13.70.48:3478 <-- [L] 192.168.2.4:51518
+        : WhatsApp/Call.netify.whatsapp
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [OR] 31.13.64.48:3478 <-- [L] 192.168.2.4:51518
+        : WhatsApp/Call.netify.whatsapp
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [OR] 31.13.85.48:3478 <-- [L] 192.168.2.4:51518
+        : WhatsApp/Call.netify.whatsapp
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [OR] 31.13.91.48:3478 <-- [L] 192.168.2.4:51518
+        : WhatsApp/Call.netify.whatsapp
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [OR] 31.13.79.192:3478 <-- [L] 192.168.2.4:51518
+        : WhatsApp/Call.netify.whatsapp
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [OR] 31.13.93.48:3478 <-- [L] 192.168.2.4:51518
+        : WhatsApp/Call.netify.whatsapp
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [OR] 31.13.73.48:3478 <-- [L] 192.168.2.4:51518
+        : WhatsApp/Call.netify.whatsapp
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc----------- UDP [L] 192.168.2.1:17500 --> [OL] 192.168.2.255:17500
+        : Dropbox
+        : DP: 1
+
+offline0: i4pc----------- UDP [L] 192.168.2.1:57621 --> [OL] 192.168.2.255:57621
+        : Spotify.netify.spotify
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [OR] 1.194.90.191:60312 --> [L] 192.168.2.4:51518
+        : WhatsApp/Call.netify.whatsapp
+        : RID 16: Known Protocol on Non-standard Port
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [OR] 91.253.176.65:9344 <-- [L] 192.168.2.4:51518
+        : WhatsApp/Call.netify.whatsapp
+        : RID 16: Known Protocol on Non-standard Port
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- ICMP [OR] 91.253.176.65:0 <-- [L] 192.168.2.4:0
+        : ICMP
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc----------- UDP [L] 0.0.0.0:68 --> [OB] 255.255.255.255:67
+        : DHCP
+        : H: lucas-imac
+        : DHCP/FP: 1,3,6,15,119,95,252,44,46
+        : DP: 1
+
+offline0: i4pc----------- UDP [L] 169.254.166.207:5353 --> [OM] 224.0.0.251:5353
+        : MDNS.netify.internal-network
+        : H: lucas-imac.local
+        : DP: 2
+
+offline0: i4pc----------- UDP [L] 192.168.2.1:5353 --> [OM] 224.0.0.251:5353
+        : MDNS.netify.internal-network
+        : H: lucas-imac.local
+        : DP: 2
+
+offline0: i6pc----------- UDP [L] fe80::c42c:3ff:fe60:6a64:5353 --> [OM] ff02::fb:5353
+        : MDNS.netify.internal-network
+        : H: lucas-imac.local
+        : DP: 2
+
+offline0: i6pc----------- UDP [L] fe80::da30:62ff:fe56:1c:5353 --> [OM] ff02::fb:5353
+        : MDNS.netify.internal-network
+        : H: lucas-imac.local
+        : DP: 2
+
+offline0: i4pc-------r--- UDP [OR] 31.13.73.48:3478 <-- [L] 192.168.2.4:52794
+        : WhatsApp/Call.netify.whatsapp
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [OR] 31.13.93.48:3478 <-- [L] 192.168.2.4:52794
+        : WhatsApp/Call.netify.whatsapp
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [OR] 31.13.79.192:3478 <-- [L] 192.168.2.4:52794
+        : WhatsApp/Call.netify.whatsapp
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [OR] 179.60.192.48:3478 <-- [L] 192.168.2.4:52794
+        : WhatsApp/Call.netify.whatsapp
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [OR] 173.252.114.1:3478 <-- [L] 192.168.2.4:52794
+        : WhatsApp/Call.netify.whatsapp
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [OR] 31.13.90.48:3478 <-- [L] 192.168.2.4:52794
+        : WhatsApp/Call.netify.whatsapp
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [OR] 31.13.74.48:3478 <-- [L] 192.168.2.4:52794
+        : WhatsApp/Call.netify.whatsapp
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [OR] 31.13.84.48:3478 <-- [L] 192.168.2.4:52794
+        : WhatsApp/Call.netify.whatsapp
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [OR] 91.253.176.65:9665 <-- [L] 192.168.2.4:52794
+        : WhatsApp/Call.netify.whatsapp
+        : RID 16: Known Protocol on Non-standard Port
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [OR] 1.194.90.191:51727 <-- [L] 192.168.2.4:52794
+        : STUN
+        : RID 16: Known Protocol on Non-standard Port
+        : RID 46: Unidirectional Traffic
+        : DP: 5
+
+offline0: i4pcu------r--- TCP [OR] 17.173.66.102:443 <-- [L] 192.168.2.4:49205
+        : HTTP/S.netify.apple-itunes
+        : H: p53-buy.itunes.apple.com
+        : V: 0x0303 CS: 0x0004
+        : TLS/SNI: p53-buy.itunes.apple.com
+        : RID 47: TLS ALPN Not Found
+        : DP: 7
+
+offline0: i4pc-gx------F- TCP [OR] 17.167.142.31:443 <-- [L] 192.168.2.4:49164
+        : HTTP/S.netify.apple
+        : DP: 3
+
+offline0: i4pc-gx------F- TCP [OR] 17.172.100.53:443 <-- [L] 192.168.2.4:49175
+        : HTTP/S.netify.apple
+        : DP: 3
+
+offline0: i4pc-gx------F- TCP [OR] 17.154.66.121:443 <-- [L] 192.168.2.4:49166
+        : HTTP/S.netify.apple
+        : DP: 3
+
+offline0: i4pc-gx------F- TCP [OR] 93.186.135.82:80 <-- [L] 192.168.2.4:49173
+        : HTTP
+        : DP: 3
+
+offline0: i4pc-gx------F- TCP [OR] 17.167.142.39:443 <-- [L] 192.168.2.4:49197
+        : HTTP/S.netify.apple
+        : DP: 3
+
+offline0: i4pc-gx------F- TCP [OR] 17.172.100.8:443 <-- [L] 192.168.2.4:49167
+        : HTTP/S.netify.apple
+        : DP: 3
+
+offline0: i4pc-gx------F- TCP [OR] 17.167.142.13:443 <-- [L] 192.168.2.4:49200
+        : HTTP/S.netify.apple
+        : DP: 3
+
+offline0: i4pc-gx------F- TCP [OR] 93.62.150.157:443 <-- [L] 192.168.2.4:49194
+        : HTTP/S
+        : DP: 3
+
+offline0: i4pc-gx------F- TCP [OR] 17.172.100.52:443 <-- [L] 192.168.2.4:49182
+        : HTTP/S.netify.apple
+        : DP: 3
+
+offline0: i4pc-gx------F- TCP [OR] 17.167.142.13:443 <-- [L] 192.168.2.4:49198
+        : HTTP/S.netify.apple
+        : DP: 3
+
+offline0: i4pc-gx------F- TCP [OR] 17.172.100.59:443 <-- [L] 192.168.2.4:49180
+        : HTTP/S.netify.apple
+        : DP: 3
+
+offline0: i4pc-gx------F- TCP [OR] 93.186.135.8:80 <-- [L] 192.168.2.4:49192
+        : HTTP
+        : DP: 5
+
+offline0: i4pc-gx------F- TCP [OR] 17.154.66.111:443 <-- [L] 192.168.2.4:49163
+        : HTTP/S.netify.apple
+        : DP: 3
+
+offline0: i4pc-gx------F- TCP [OR] 5.178.42.26:80 <-- [L] 192.168.2.4:49174
+        : HTTP
+        : DP: 3
+
+offline0: i4pc-gx------F- TCP [OR] 17.172.100.55:443 <-- [L] 192.168.2.4:49165
+        : HTTP/S.netify.apple
+        : DP: 3
+
+offline0: i4pc-gx------F- TCP [OR] 17.172.100.37:443 <-- [L] 192.168.2.4:49181
+        : HTTP/S.netify.apple
+        : DP: 3
+
+offline0: i4pc-gx------F- TCP [OR] 17.172.100.49:443 <-- [L] 192.168.2.4:49191
+        : HTTP/S.netify.apple
+        : DP: 3
+
+offline0: i4pc-gx------F- TCP [OR] 17.130.137.77:443 <-- [L] 192.168.2.4:49176
+        : HTTP/S.netify.apple
+        : DP: 3
+
+offline0: i4pc-gx----r--- TCP [OR] 17.178.104.14:443 <-- [L] 192.168.2.4:49203
+        : HTTP/S.netify.apple
+        : D: query.ess-apple.com.akadns.net
+        : RID 51: TCP Connection Issues
+        : DP: 3
+
+offline0: i4pc-gx------F- TCP [OR] 17.173.66.102:443 <-- [L] 192.168.2.4:49169
+        : HTTP/S.netify.apple
+        : DP: 3
+

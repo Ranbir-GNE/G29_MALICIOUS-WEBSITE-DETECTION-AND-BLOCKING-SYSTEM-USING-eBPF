@@ -1,0 +1,8 @@
+offline0: i4pc-------r--- UDP [OR] 94.140.14.14:784 <-- [L] 192.168.12.169:41070
+        : QUIC.netify.adguard
+        : H: dns.adguard.com
+        : V: 0x0304
+        : TLS/SNI: dns.adguard.com
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+

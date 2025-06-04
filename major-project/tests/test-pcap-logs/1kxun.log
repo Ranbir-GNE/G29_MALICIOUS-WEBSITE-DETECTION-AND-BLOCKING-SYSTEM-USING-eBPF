@@ -1,0 +1,1197 @@
+offline0: i4pc----------- UDP [L] 192.168.5.44:59571 --> [OM] 224.0.0.252:5355
+        : LLMNR
+        : H: jason-pc
+        : DP: 1
+
+offline0: i4pc----------- UDP [L] 192.168.5.57:55809 --> [OM] 239.255.255.250:1900
+        : SSDP
+        : H: 239.255.255.250_1900
+        : DP: 1
+
+offline0: i4pc----------- UDP [L] 192.168.5.44:51389 --> [OM] 239.255.255.250:1900
+        : SSDP
+        : H: 239.255.255.250_1900
+        : DP: 1
+
+offline0: i4pc----------- UDP [L] 192.168.119.1:67 <-- [OB] 255.255.255.255:68
+        : DHCP
+        : DP: 1
+
+offline0: i4pc----------- UDP [L] 192.168.5.50:64674 --> [OM] 239.255.255.250:1900
+        : SSDP
+        : H: 239.255.255.250_1900
+        : DP: 1
+
+offline0: i4pc----------- UDP [L] 192.168.5.41:55312 --> [OM] 239.255.255.250:1900
+        : SSDP
+        : H: 239.255.255.250_1900
+        : DP: 1
+
+offline0: i4pc----------- UDP [L] 0.0.0.0:68 --> [OB] 255.255.255.255:67
+        : DHCP
+        : H: shen
+        : DHCP/FP: 1,121,3,6,15,119,252
+        : DP: 1
+
+offline0: i6pc----------- UDP [L] fe80::406:55a8:6453:25dd:546 <-- [OM] ff02::1:2:547
+        : DHCPv6
+        : DP: 1
+
+offline0: i6pc----------- UDP [L] fe80::edf5:240a:c8c0:8312:61603 --> [OM] ff02::1:3:5355
+        : LLMNR
+        : H: ro_x1c
+        : DP: 1
+
+offline0: i4pc----------- UDP [L] 192.168.5.47:61603 --> [OM] 224.0.0.252:5355
+        : LLMNR
+        : H: ro_x1c
+        : DP: 1
+
+offline0: i4pc----------- UDP [L] 192.168.5.47:60267 --> [OM] 239.255.255.250:1900
+        : SSDP
+        : H: 239.255.255.250_1900
+        : DP: 1
+
+offline0: i4pc----------- UDP [L] 192.168.115.8:51458 --> [OM] 224.0.0.252:5355
+        : LLMNR
+        : H: wpad
+        : DP: 1
+
+offline0: i4pc----------- UDP [OR] 8.8.8.8:53 <-- [L] 192.168.115.8:51024
+        : DNS
+        : H: jp.kankan.1kxun.mobi
+        : DP: 3
+
+offline0: i4pc----------- TCP [OR] 106.185.35.110:80 <-- [L] 192.168.115.8:49597
+        : HTTP
+        : D: jp.kankan.1kxun.mobi
+        : HTTP/UA: Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.152 Safari/537.22
+        : URL: jp.kankan.1kxun.mobi/api/videos/10410.json?callback=jQuery18306855657112319022_1470103242123&_=1470104377698
+        : DP: 9
+
+offline0: i4pc----------- UDP [L] 192.168.115.8:137 --> [OL] 192.168.255.255:137
+        : NETBIOS
+        : H: wpad
+        : DP: 1
+
+offline0: i6pc-------r--- UDP [L] fe80::e98f:bae2:19f7:6b0f:58779 --> [OM] ff02::1:3:5355
+        : LLMNR
+        : H: ____________
+        : RID 15: Text With Non-Printable Characters
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 192.168.3.95:58779 --> [OM] 224.0.0.252:5355
+        : LLMNR
+        : H: ____________
+        : RID 15: Text With Non-Printable Characters
+        : DP: 1
+
+offline0: i4pc----------- UDP [L] 192.168.3.95:59468 --> [OM] 239.255.255.250:1900
+        : SSDP
+        : H: 239.255.255.250_1900
+        : DP: 1
+
+offline0: i4pc----------- UDP [OR] 168.95.1.1:53 <-- [L] 192.168.115.8:52723
+        : DNS
+        : H: kankan.1kxun.com
+        : DP: 3
+
+offline0: i4pc----------- UDP [OR] 8.8.8.8:53 <-- [L] 192.168.115.8:52723
+        : DNS
+        : H: kankan.1kxun.com
+        : DP: 3
+
+offline0: i4pc----------- TCP [L] 192.168.115.8:49598 --> [OR] 222.73.254.167:80
+        : HTTP
+        : D: kankan.1kxun.com
+        : HTTP/UA: Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.152 Safari/537.22
+        : URL: kankan.1kxun.com/api/videos/alsolikes/10410.json?callback=jQuery18306855657112319022_1470103242123&_=1470104377899
+        : DP: 9
+
+offline0: i4pc----------- UDP [OR] 8.8.8.8:53 <-- [L] 192.168.115.8:60724
+        : DNS
+        : H: pic.1kxun.com
+        : DP: 3
+
+offline0: i6pc-------r--- UDP [L] fe80::e98f:bae2:19f7:6b0f:54888 --> [OM] ff02::1:3:5355
+        : LLMNR
+        : H: ____________
+        : RID 15: Text With Non-Printable Characters
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 192.168.3.95:54888 --> [OM] 224.0.0.252:5355
+        : LLMNR
+        : H: ____________
+        : RID 15: Text With Non-Printable Characters
+        : DP: 1
+
+offline0: i4pc----------- TCP [OR] 106.187.35.246:80 <-- [L] 192.168.115.8:49601
+        : HTTP
+        : D: pic.1kxun.com
+        : HTTP/UA: Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.152 Safari/537.22
+        : URL: pic.1kxun.com/video_kankan/images/videos/3578-ywzj.jpg
+        : DP: 9
+
+offline0: i4pc----------- TCP [OR] 106.187.35.246:80 <-- [L] 192.168.115.8:49604
+        : HTTP
+        : D: pic.1kxun.com
+        : HTTP/UA: Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.152 Safari/537.22
+        : URL: pic.1kxun.com/video_kankan/images/videos/4657-jfyj.jpg
+        : DP: 9
+
+offline0: i4pc----------- TCP [OR] 106.187.35.246:80 <-- [L] 192.168.115.8:49600
+        : HTTP
+        : D: pic.1kxun.com
+        : HTTP/UA: Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.152 Safari/537.22
+        : URL: pic.1kxun.com/video_kankan/images/videos/18283-jfyj3.jpg
+        : DP: 9
+
+offline0: i4pc----------- TCP [OR] 106.187.35.246:80 <-- [L] 192.168.115.8:49599
+        : HTTP
+        : D: pic.1kxun.com
+        : HTTP/UA: Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.152 Safari/537.22
+        : URL: pic.1kxun.com/video_kankan/images/videos/13480-alps.jpg
+        : DP: 9
+
+offline0: i4pc----------- TCP [OR] 106.187.35.246:80 <-- [L] 192.168.115.8:49602
+        : HTTP
+        : D: pic.1kxun.com
+        : HTTP/UA: Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.152 Safari/537.22
+        : URL: pic.1kxun.com/video_kankan/images/videos/3713-ydm.jpg
+        : DP: 9
+
+offline0: i4pc----------- TCP [OR] 106.187.35.246:80 <-- [L] 192.168.115.8:49603
+        : HTTP
+        : D: pic.1kxun.com
+        : HTTP/UA: Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.152 Safari/537.22
+        : URL: pic.1kxun.com/video_kankan/images/videos/16649-ljdz.jpg
+        : DP: 9
+
+offline0: i4pc-------r--- UDP [L] 192.168.5.67:138 --> [OL] 192.168.255.255:138
+        : NETBIOS
+        : H: sanji-lifebook-
+        : RID 42: Unsafe Protocol
+        : DP: 1
+
+offline0: i4pc-------r--- TCP [OR] 106.185.35.110:80 <-- [L] 192.168.115.8:49605
+        : HTTP
+        : D: jp.kankan.1kxun.mobi
+        : URL: jp.kankan.1kxun.mobi/api/videos/10410.json
+        : RID 14: HTTP Suspicious User-Agent
+        : DP: 9
+
+offline0: i4pc-------r--- TCP [OR] 106.185.35.110:80 <-- [L] 192.168.115.8:49606
+        : HTTP
+        : D: jp.kankan.1kxun.mobi
+        : URL: jp.kankan.1kxun.mobi/api/movies/mp4script/10410?definition=true
+        : RID 14: HTTP Suspicious User-Agent
+        : DP: 9
+
+offline0: i4pc-------r--- TCP [L] 192.168.115.8:49607 --> [OR] 218.244.135.170:9099
+        : HTTP
+        : H: 218.244.135.170
+        : HTTP/UA: Mozilla/5.0
+        : URL: 218.244.135.170:9099/api/qqlive_ckey/get?vid=y0013xaeeyo&platform=10902
+        : RID 10: Numeric IP Address
+        : RID 16: Known Protocol on Non-standard Port
+        : DP: 8
+
+offline0: i4pc----------- UDP [OR] 8.8.8.8:53 <-- [L] 192.168.115.8:54420
+        : DNS.netify.qq
+        : H: vv.video.qq.com
+        : DP: 3
+
+offline0: i4pc----------- TCP [L] 192.168.115.8:49608 --> [OR] 203.205.151.234:80
+        : HTTP.netify.qq
+        : D: proxy-set1.video.qq.com H: vv.video.qq.com
+        : HTTP/UA: Mozilla/5.0
+        : URL: vv.video.qq.com/getvinfo
+        : DP: 9
+
+offline0: i4pc-------r--- TCP [OR] 42.120.51.152:8080 <-- [L] 192.168.115.8:49609
+        : HTTP
+        : H: 42.120.51.152
+        : HTTP/UA: Mozilla/5.0
+        : URL: 42.120.51.152:8080/api/proxy?url=http%3A%2F%2Fvv.video.qq.com%2Fgetvinfo
+        : RID 10: Numeric IP Address
+        : RID 16: Known Protocol on Non-standard Port
+        : DP: 9
+
+offline0: i4pc----------- UDP [L] 192.168.5.37:56366 --> [OM] 224.0.0.252:5355
+        : LLMNR
+        : H: notebook
+        : DP: 1
+
+offline0: i4pc----------- UDP [L] 192.168.5.37:57325 --> [OM] 239.255.255.250:1900
+        : SSDP
+        : H: 239.255.255.250_1900
+        : DP: 1
+
+offline0: i4pcu------r-F- TCP [L] 192.168.5.16:53623 --> [OL] 192.168.115.75:443
+        : HTTP/S
+        : H: 192.168.115.75
+        : V: 0x0303 CS: 0x002f
+        : TLS/SNI: 192.168.115.75
+        : RID 10: Numeric IP Address
+        : RID 41: Weak TLS Cipher
+        : RID 47: TLS ALPN Not Found
+        : DP: 6
+
+offline0: i4pc----------- UDP [L] 192.168.101.33:58456 --> [OM] 224.0.0.252:5355
+        : LLMNR
+        : H: joanna-pc
+        : DP: 1
+
+offline0: i4pc----------- UDP [L] 192.168.5.9:58456 --> [OM] 224.0.0.252:5355
+        : LLMNR
+        : H: joanna-pc
+        : DP: 1
+
+offline0: i4pc-------r-F- TCP [OR] 183.131.48.145:80 <-- [L] 192.168.115.8:49612
+        : HTTP
+        : H: 183.131.48.145
+        : URL: 183.131.48.145/vlive.qqvideo.tc.qq.com/u0020mkrnds.p1203.1.mp4?vkey=7AB139BF6B32F53747E8FF192E6FE557B3A3D644C034E34BF6EAEB4E0774F2A92EF3AC5C007520BB925E5C8A18E6D302C2DAE0A295B26AA8FD1DC8069D47CE1B4A16A56870BD1ACA3E86ABE4C079659DB2182FC71217AB68CCD344CE65694457E3F53549CD617D5C9F671A26C70DC68F93F1D7BCD017762F&guid=F5EB01CC01A8E08CD83630828DE17C2B02162FD8
+        : RID 10: Numeric IP Address
+        : RID 14: HTTP Suspicious User-Agent
+        : DP: 9
+
+offline0: i4pc-------r--- TCP [OR] 183.131.48.144:80 <-- [L] 192.168.115.8:49613
+        : HTTP
+        : H: 183.131.48.144
+        : URL: 183.131.48.144/vlive.qqvideo.tc.qq.com/u0020mkrnds.p1203.1.mp4?vkey=7AB139BF6B32F53747E8FF192E6FE557B3A3D644C034E34BF6EAEB4E0774F2A92EF3AC5C007520BB925E5C8A18E6D302C2DAE0A295B26AA8FD1DC8069D47CE1B4A16A56870BD1ACA3E86ABE4C079659DB2182FC71217AB68CCD344CE65694457E3F53549CD617D5C9F671A26C70DC68F93F1D7BCD017762F&guid=F5EB01CC01A8E08CD83630828DE17C2B02162FD8&locid=a06f98fd-fa26-44e5-acc5-0d83f9df03af&size=9418655&ocid=253564332
+        : RID 10: Numeric IP Address
+        : RID 14: HTTP Suspicious User-Agent
+        : DP: 9
+
+offline0: i4pc----------- UDP [L] 192.168.101.33:55485 --> [OM] 239.255.255.250:1900
+        : SSDP
+        : H: 239.255.255.250_1900
+        : DP: 1
+
+offline0: i4pc----------- UDP [L] 192.168.5.9:55484 --> [OM] 239.255.255.250:1900
+        : SSDP
+        : H: 239.255.255.250_1900
+        : DP: 1
+
+offline0: i6pc----------- UDP [L] fe80::9bd:81dd:2fdc:5750:61548 --> [OM] ff02::1:3:5355
+        : LLMNR
+        : H: caesar-thinkpad
+        : DP: 1
+
+offline0: i4pc----------- UDP [L] 192.168.5.49:61548 --> [OM] 224.0.0.252:5355
+        : LLMNR
+        : H: caesar-thinkpad
+        : DP: 1
+
+offline0: i4pc----------- UDP [L] 192.168.5.49:51704 --> [OM] 239.255.255.250:1900
+        : SSDP
+        : H: 239.255.255.250_1900
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 192.168.5.16:68 --> [OL] 192.168.119.1:67
+        : DHCP
+        : H: macbook-air
+        : DHCP/FP: 1,3,6,15,119,95,252,44,46
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r-F- TCP [OR] 68.233.253.133:80 <-- [L] 192.168.5.16:53624
+        : HTTP
+        : H: api.magicansoft.com
+        : HTTP/UA: Magican (unknown version) CFNetwork/720.5.7 Darwin/14.5.0 (x86_64)
+        : URL: api.magicansoft.com/comMagicanApi/composite/app.php/Global/Index/ip
+        : RID  8: Error Code
+        : DP: 6
+
+offline0: i6pc----------- UDP [L] fe80::5d92:62a8:ebde:1319:63659 --> [OM] ff02::1:3:5355
+        : LLMNR
+        : H: isatap
+        : DP: 1
+
+offline0: i4pc----------- UDP [L] 192.168.3.236:51714 --> [OM] 224.0.0.252:5355
+        : LLMNR
+        : H: isatap
+        : DP: 1
+
+offline0: i4pc----------- UDP [L] 192.168.3.236:137 --> [OL] 192.168.255.255:137
+        : NETBIOS
+        : H: isatap
+        : DP: 1
+
+offline0: i4pc----------- UDP [L] 192.168.5.45:59789 --> [OL] 192.168.255.255:137
+        : NETBIOS
+        : H: sanji-lifebook-
+        : DP: 1
+
+offline0: i4pc----------- UDP [L] 192.168.5.45:59461 --> [OL] 192.168.255.255:137
+        : NETBIOS
+        : H: gfile
+        : DP: 1
+
+offline0: i4pc----------- UDP [L] 192.168.5.45:137 --> [OL] 192.168.255.255:137
+        : NETBIOS
+        : H: nasfile
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 192.168.5.45:138 --> [OL] 192.168.255.255:138
+        : NETBIOS
+        : H: macbookair-e1d0
+        : RID 42: Unsafe Protocol
+        : DP: 1
+
+offline0: i4pc----------- UDP [L] 0.0.0.0:68 --> [OB] 255.255.255.255:67
+        : DHCP
+        : DHCP/FP: 1,3,6,15,44,33
+        : DP: 1
+
+offline0: i6pc----------- UDP [L] fe80::4568:efbc:40b1:1346:50194 --> [OM] ff02::1:3:5355
+        : LLMNR
+        : H: kevin-pc
+        : DP: 1
+
+offline0: i4pc----------- UDP [L] 192.168.5.41:54470 --> [OM] 224.0.0.252:5355
+        : LLMNR
+        : H: kevin-pc
+        : DP: 1
+
+offline0: i4pc----------- UDP [L] 192.168.5.9:68 --> [OB] 255.255.255.255:67
+        : DHCP
+        : H: joanna-pc
+        : DHCP/FP: 1,15,3,6,44,46,47,31,33,121,249,43,252 DHCP/CI: MSFT 5.0
+        : DP: 1
+
+offline0: i4pc----------- UDP [L] 192.168.5.48:49701 --> [OM] 239.255.255.250:1900
+        : SSDP
+        : H: 239.255.255.250_1900
+        : DP: 1
+
+offline0: i4pc----------- UDP [L] 192.168.5.48:59797 --> [OM] 224.0.0.252:5355
+        : LLMNR
+        : H: kasper-mac
+        : DP: 1
+
+offline0: i4pc----------- UDP [L] 192.168.5.57:65150 --> [OM] 224.0.0.252:5355
+        : LLMNR
+        : H: usher-pc
+        : DP: 1
+
+offline0: i6pc----------- UDP [L] fe80::e034:7be:d8f9:6197:62756 --> [OM] ff02::1:3:5355
+        : LLMNR
+        : H: charming-pc
+        : DP: 1
+
+offline0: i4pc----------- UDP [L] 192.168.5.50:62756 --> [OM] 224.0.0.252:5355
+        : LLMNR
+        : H: charming-pc
+        : DP: 1
+
+offline0: i4pc----------- UDP [L] 192.168.5.49:1900 --> [OM] 239.255.255.250:1900
+        : SSDP
+        : H: 239.255.255.250_1900
+        : DP: 1
+
+offline0: i6pc----------- UDP [L] fe80::9bd:81dd:2fdc:5750:1900 --> [OM] ff02::c:1900
+        : SSDP
+        : H: _ff02__c__1900
+        : DP: 1
+
+offline0: i4pc----------- UDP [L] 192.168.5.50:50030 --> [OM] 224.0.0.252:5355
+        : LLMNR
+        : H: charming-pc
+        : DP: 1
+
+offline0: i4pc----------- UDP [L] 0.0.0.0:68 --> [OB] 255.255.255.255:67
+        : DHCP
+        : H: android-f7ca0f571270c52d
+        : DHCP/FP: 1,33,3,6,15,28,51,58,59 DHCP/CI: dhcpcd-5.5.6
+        : DP: 1
+
+offline0: i4pcu------r-F- TCP [L] 192.168.5.16:53625 --> [OL] 192.168.115.75:443
+        : HTTP/S
+        : H: 192.168.115.75
+        : V: 0x0303 CS: 0x002f
+        : TLS/SNI: 192.168.115.75
+        : RID 10: Numeric IP Address
+        : RID 41: Weak TLS Cipher
+        : RID 47: TLS ALPN Not Found
+        : DP: 6
+
+offline0: i6pc----------- UDP [L] fe80::5d92:62a8:ebde:1319:49735 --> [OM] ff02::1:3:5355
+        : LLMNR
+        : H: wangs-ltw
+        : DP: 1
+
+offline0: i4pc----------- UDP [L] 192.168.3.236:62069 --> [OM] 224.0.0.252:5355
+        : LLMNR
+        : H: wangs-ltw
+        : DP: 1
+
+offline0: i4pc----------- UDP [L] 192.168.5.44:58702 --> [OM] 224.0.0.252:5355
+        : LLMNR
+        : H: jason-pc
+        : DP: 1
+
+offline0: i6pc----------- UDP [L] fe80::beee:7bff:fe0c:b3de:546 <-- [OM] ff02::1:2:547
+        : DHCPv6
+        : DP: 1
+
+offline0: i6pc----------- UDP [L] fe80::edf5:240a:c8c0:8312:53962 --> [OM] ff02::1:3:5355
+        : LLMNR
+        : H: ro_x1c
+        : DP: 1
+
+offline0: i4pc----------- UDP [L] 192.168.5.47:53962 --> [OM] 224.0.0.252:5355
+        : LLMNR
+        : H: ro_x1c
+        : DP: 1
+
+offline0: i6pc-------r--- UDP [L] fe80::e98f:bae2:19f7:6b0f:51451 --> [OM] ff02::1:3:5355
+        : LLMNR
+        : H: ____________
+        : RID 15: Text With Non-Printable Characters
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 192.168.3.95:51451 --> [OM] 224.0.0.252:5355
+        : LLMNR
+        : H: ____________
+        : RID 15: Text With Non-Printable Characters
+        : DP: 1
+
+offline0: i6pc----------- UDP [L] fe80::5d92:62a8:ebde:1319:53938 --> [OM] ff02::1:3:5355
+        : LLMNR
+        : H: isatap
+        : DP: 1
+
+offline0: i4pc----------- UDP [L] 192.168.3.236:56043 --> [OM] 224.0.0.252:5355
+        : LLMNR
+        : H: isatap
+        : DP: 1
+
+offline0: i4pc----------- UDP [L] 192.168.5.37:54506 --> [OM] 224.0.0.252:5355
+        : LLMNR
+        : H: notebook
+        : DP: 1
+
+offline0: i6pc----------- UDP [L] fe80::9bd:81dd:2fdc:5750:64568 --> [OM] ff02::1:3:5355
+        : LLMNR
+        : H: caesar-thinkpad
+        : DP: 1
+
+offline0: i4pc----------- UDP [L] 192.168.5.49:64568 --> [OM] 224.0.0.252:5355
+        : LLMNR
+        : H: caesar-thinkpad
+        : DP: 1
+
+offline0: i4pc----------- UDP [L] 192.168.5.41:68 --> [OB] 255.255.255.255:67
+        : DHCP
+        : H: kevin-pc
+        : DHCP/FP: 1,15,3,6,44,46,47,31,33,121,249,43,252 DHCP/CI: MSFT 5.0
+        : DP: 1
+
+offline0: i4pcu------r-F- TCP [L] 192.168.5.16:53626 --> [OL] 192.168.115.75:443
+        : HTTP/S
+        : H: 192.168.115.75
+        : V: 0x0303 CS: 0x002f
+        : TLS/SNI: 192.168.115.75
+        : RID 10: Numeric IP Address
+        : RID 41: Weak TLS Cipher
+        : RID 47: TLS ALPN Not Found
+        : DP: 6
+
+offline0: i4pc----------- UDP [OR] 168.95.1.1:53 <-- [L] 192.168.5.16:63372
+        : DNS.netify.line
+        : H: dl-obs.official.line.naver.jp
+        : DP: 2
+
+offline0: i4pc----------- TCP [L] 192.168.5.16:53628 --> [OR] 203.69.81.73:80
+        : HTTP.netify.line
+        : D: a1867.g2.akamai.net H: dl-obs.official.line.naver.jp
+        : HTTP/UA: DESKTOP:MAC:10.10.5-YOSEMITE(4.7.2)
+        : URL: dl-obs.official.line.naver.jp/r/talk/m/4697716971500/preview
+        : DP: 6
+
+offline0: i4pc----------- TCP [L] 192.168.5.16:53627 --> [OR] 203.69.81.73:80
+        : HTTP.netify.line
+        : D: a1867.g2.akamai.net H: dl-obs.official.line.naver.jp
+        : HTTP/UA: DESKTOP:MAC:10.10.5-YOSEMITE(4.7.2)
+        : URL: dl-obs.official.line.naver.jp/r/talk/m/4697716954688/preview
+        : DP: 6
+
+offline0: i4pc----------- UDP [L] 192.168.101.33:62822 --> [OM] 224.0.0.252:5355
+        : LLMNR
+        : H: joanna-pc
+        : DP: 1
+
+offline0: i4pc----------- UDP [L] 192.168.5.9:62822 --> [OM] 224.0.0.252:5355
+        : LLMNR
+        : H: joanna-pc
+        : DP: 1
+
+offline0: i6pc----------- UDP [L] fe80::5d92:62a8:ebde:1319:61172 --> [OM] ff02::1:3:5355
+        : LLMNR
+        : H: sonusav
+        : DP: 1
+
+offline0: i4pc----------- UDP [L] 192.168.3.236:59730 --> [OM] 224.0.0.252:5355
+        : LLMNR
+        : H: sonusav
+        : DP: 1
+
+offline0: i4pc----------- UDP [L] 0.0.0.0:68 --> [OB] 255.255.255.255:67
+        : DHCP
+        : H: sanji-lifebook-lh531
+        : DHCP/FP: 1,28,2,3,15,6,119,12,44,47,26,121,42,121,249,25
+        : DP: 1
+
+offline0: i6pc----------- UDP [L] fe80::f65c:89ff:fe89:e607:546 <-- [OM] ff02::1:2:547
+        : DHCPv6
+        : DP: 1
+
+offline0: i4pcu------r-F- TCP [L] 192.168.5.16:53629 --> [OL] 192.168.115.75:443
+        : HTTP/S
+        : H: 192.168.115.75
+        : V: 0x0303 CS: 0x002f
+        : TLS/SNI: 192.168.115.75
+        : RID 10: Numeric IP Address
+        : RID 41: Weak TLS Cipher
+        : RID 47: TLS ALPN Not Found
+        : DP: 6
+
+offline0: i4pc----------- UDP [L] 192.168.0.104:137 --> [OL] 192.168.255.255:137
+        : NETBIOS
+        : H: sc.arrancar.org
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [OR] 17.253.26.125:123 <-- [L] 192.168.5.16:123
+        : NTP.netify.apple
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i6pc----------- UDP [L] fe80::4568:efbc:40b1:1346:57148 --> [OM] ff02::1:3:5355
+        : LLMNR
+        : H: kevin-pc
+        : DP: 1
+
+offline0: i4pc----------- UDP [L] 192.168.5.41:55593 --> [OM] 224.0.0.252:5355
+        : LLMNR
+        : H: kevin-pc
+        : DP: 1
+
+offline0: i4pc----------- UDP [L] 192.168.5.57:64428 --> [OM] 224.0.0.252:5355
+        : LLMNR
+        : H: usher-pc
+        : DP: 1
+
+offline0: i6pc----------- UDP [L] fe80::e034:7be:d8f9:6197:57143 --> [OM] ff02::1:3:5355
+        : LLMNR
+        : H: charming-pc
+        : DP: 1
+
+offline0: i4pc----------- UDP [L] 192.168.5.50:57143 --> [OM] 224.0.0.252:5355
+        : LLMNR
+        : H: charming-pc
+        : DP: 1
+
+offline0: i6pc----------- UDP [L] fe80::e034:7be:d8f9:6197:49766 --> [OM] ff02::1:3:5355
+        : LLMNR
+        : H: charming-pc
+        : DP: 1
+
+offline0: i4pc----------- UDP [L] 192.168.5.50:49766 --> [OM] 224.0.0.252:5355
+        : LLMNR
+        : H: charming-pc
+        : DP: 1
+
+offline0: i4pc----------- UDP [L] 192.168.5.44:59062 --> [OM] 224.0.0.252:5355
+        : LLMNR
+        : H: jason-pc
+        : DP: 1
+
+offline0: i6pc----------- UDP [L] fe80::5d92:62a8:ebde:1319:58468 --> [OM] ff02::1:3:5355
+        : LLMNR
+        : H: wangs-ltw
+        : DP: 1
+
+offline0: i4pc----------- UDP [L] 192.168.3.236:65496 --> [OM] 224.0.0.252:5355
+        : LLMNR
+        : H: wangs-ltw
+        : DP: 1
+
+offline0: i4pc-------r--- TCP [OR] 172.104.93.92:1234 <-- [L] 192.168.2.126:60962
+        : HTTP
+        : H: ws.1kxun.mobi
+        : HTTP/UA: okhttp/3.10.0
+        : URL: ws.1kxun.mobi:1234/?_brand=Google&_model=sdk_gphone_x86&_ov=Android11&_cpu=i686&_resolution=1080%2C1794&_package=com.sceneway.kankan&_v=2.8.2.1&_channel=1kxun&_carrier=310260&_android_id=b9e28776354d259e&_network=wifi&_aid=5ac6a0ff-8d18-47bc-a902-2812cf0c251e&&_country=US&_locale=en&_=1654385117
+        : RID 16: Known Protocol on Non-standard Port
+        : DP: 2
+
+offline0: i4pc-------r--- TCP [OR] 172.104.93.92:1234 <-- [L] 192.168.2.126:60972
+        : HTTP
+        : H: ws.1kxun.mobi
+        : HTTP/UA: okhttp/3.10.0
+        : URL: ws.1kxun.mobi:1234/?_brand=Google&_model=sdk_gphone_x86&_ov=Android11&_cpu=i686&_resolution=1080%2C1794&_package=com.sceneway.kankan&_v=2.8.2.1&_channel=1kxun&_carrier=310260&_android_id=b9e28776354d259e&_network=wifi&_aid=5ac6a0ff-8d18-47bc-a902-2812cf0c251e&&_country=US&_locale=en&_=1654385118
+        : RID 16: Known Protocol on Non-standard Port
+        : DP: 2
+
+offline0: i4pc-------r--- TCP [OR] 172.104.93.92:1234 <-- [L] 192.168.2.126:60984
+        : HTTP
+        : H: ws.1kxun.mobi
+        : HTTP/UA: okhttp/3.10.0
+        : URL: ws.1kxun.mobi:1234/?_brand=Google&_model=sdk_gphone_x86&_ov=Android11&_cpu=i686&_resolution=1080%2C1794&_package=com.sceneway.kankan&_v=2.8.2.1&_channel=1kxun&_carrier=310260&_android_id=b9e28776354d259e&_network=wifi&_aid=5ac6a0ff-8d18-47bc-a902-2812cf0c251e&&_country=US&_locale=en&_=1654385119
+        : RID 16: Known Protocol on Non-standard Port
+        : DP: 2
+
+offline0: i4pc-------r--- TCP [OR] 161.117.13.29:80 <-- [L] 192.168.2.126:47230
+        : HTTP
+        : H: kankan.1kxun.mobi
+        : HTTP/UA: okhttp/3.10.0
+        : URL: kankan.1kxun.mobi/api.domain.conf
+        : RID  2: Binary Application Transfer
+        : DP: 2
+
+offline0: i4pc----------- TCP [OR] 129.226.107.77:80 <-- [L] 192.168.2.126:41134
+        : HTTP.netify.qq
+        : H: cgi.connect.qq.com
+        : HTTP/UA: AndroidSDK_30_generic_x86_arm_11
+        : URL: cgi.connect.qq.com/qqconnectopen/openapi/policy_conf?status_os=11&status_version=30&status_machine=sdk_gphone_x86&sdkp=a&sdkv=3.1.0.lite&appid=100258135
+        : DP: 2
+
+offline0: i4pc----------- TCP [OR] 161.117.13.29:80 <-- [L] 192.168.2.126:47262
+        : HTTP
+        : H: kankan.1kxun.com
+        : HTTP/UA: okhttp/3.10.0
+        : URL: kankan.1kxun.com/video_kankan_tags/v2/api/messages?min_id=0&access_token=&_brand=Google&_model=sdk_gphone_x86&_ov=Android11&_cpu=i686&_resolution=1080%2C1794&_package=com.sceneway.kankan&_v=2.8.2.1&_channel=1kxun&_carrier=310260&_android_id=b9e28776354d259e&_network=wifi&_aid=5ac6a0ff-8d18-47bc-a902-2812cf0c251e&_udid=e6dbd30b-3b84-44b4-9751-631148a3ede9&&_country=US&_locale=en&_=1654385125
+        : DP: 2
+
+offline0: i4pc----------- TCP [OR] 161.117.13.29:80 <-- [L] 192.168.2.126:47246
+        : HTTP
+        : H: kankan.1kxun.com
+        : HTTP/UA: okhttp/3.10.0
+        : URL: kankan.1kxun.com/video_kankan_tags/v2/api/homePageVideoCollections/HomePageBanners?_brand=Google&_model=sdk_gphone_x86&_ov=Android11&_cpu=i686&_resolution=1080%2C1794&_package=com.sceneway.kankan&_v=2.8.2.1&_channel=1kxun&_carrier=310260&_android_id=b9e28776354d259e&_network=wifi&_aid=5ac6a0ff-8d18-47bc-a902-2812cf0c251e&_udid=e6dbd30b-3b84-44b4-9751-631148a3ede9&&_country=US&_locale=en&_=1654385125
+        : DP: 2
+
+offline0: i4pc----------- TCP [OR] 161.117.13.29:80 <-- [L] 192.168.2.126:47272
+        : HTTP
+        : H: messages.1kxun.mobi
+        : HTTP/UA: okhttp/3.10.0
+        : URL: messages.1kxun.mobi/api/messages/listForYingshi?client-uid=e6dbd30b-3b84-44b4-9751-631148a3ede9&min_id=0&access_token=&_brand=Google&_model=sdk_gphone_x86&_ov=Android11&_cpu=i686&_resolution=1080%2C1794&_package=com.sceneway.kankan&_v=2.8.2.1&_channel=1kxun&_carrier=310260&_android_id=b9e28776354d259e&_network=wifi&_aid=5ac6a0ff-8d18-47bc-a902-2812cf0c251e&_udid=e6dbd30b-3b84-44b4-9751-631148a3ede9&&_country=US&_locale=en&_=1654385125
+        : DP: 2
+
+offline0: i4pc-------r--- TCP [OR] 119.45.78.184:80 <-- [L] 192.168.2.126:38834
+        : HTTP.netify.qq
+        : H: pingma.qq.com
+        : URL: pingma.qq.com:80/mstat/report
+        : RID  8: Error Code
+        : RID 14: HTTP Suspicious User-Agent
+        : DP: 3
+
+offline0: i4pc----------- TCP [OR] 172.105.121.82:80 <-- [L] 192.168.2.126:60148
+        : HTTP
+        : H: pic.1kxun.com
+        : HTTP/UA: okhttp/3.10.0
+        : URL: pic.1kxun.com/video_kankan/images/icons/5-328e3cdf244c003df08754cca05fbc2f.png
+        : DP: 2
+
+offline0: i4pc-------r--- TCP [OR] 172.104.119.80:80 <-- [L] 192.168.2.126:49242
+        : HTTP
+        : H: android.yingshi.tcclick.1kxun.com
+        : HTTP/UA: okhttp/3.10.0
+        : URL: android.yingshi.tcclick.1kxun.com/api/upload.php
+        : RID  8: Error Code
+        : DP: 2
+
+offline0: i4pc----------- TCP [OR] 172.105.121.82:80 <-- [L] 192.168.2.126:46184
+        : HTTP
+        : H: pic.1kxun.com
+        : HTTP/UA: okhttp/3.10.0
+        : URL: pic.1kxun.com/video_kankan/images/releases/299/4704-5017bcdcacc02cc3af4833cd1ed72a8f.jpg
+        : DP: 2
+
+offline0: i4pc----------- TCP [OR] 172.105.121.82:80 <-- [L] 192.168.2.126:46212
+        : HTTP
+        : H: pic.1kxun.com
+        : HTTP/UA: okhttp/3.10.0
+        : URL: pic.1kxun.com/video_kankan/images/releases/300/5183-51fb99a2391e774037ba21cbca307be4.jpg
+        : DP: 2
+
+offline0: i4pc----------- TCP [OR] 172.105.121.82:80 <-- [L] 192.168.2.126:46170
+        : HTTP
+        : H: pic.1kxun.com
+        : HTTP/UA: okhttp/3.10.0
+        : URL: pic.1kxun.com/video_kankan/images/releases/296/4701-e14d0481c8fbe8a42795abb879cda2d2.jpg
+        : DP: 2
+
+offline0: i4pc----------- TCP [OR] 172.105.121.82:80 <-- [L] 192.168.2.126:46200
+        : HTTP
+        : H: pic.1kxun.com
+        : HTTP/UA: okhttp/3.10.0
+        : URL: pic.1kxun.com/video_kankan/images/releases/301/5027-d707192bfa2dabf22771a4d56454ab88.jpg
+        : DP: 2
+
+offline0: i4pc----------- TCP [OR] 103.29.71.30:80 <-- [L] 192.168.2.126:35200
+        : HTTP
+        : H: release.bigdata.1kxun.com
+        : HTTP/UA: Mozilla/5.0 (Linux; Android 11; sdk_gphone_x86 Build/RSR1.201013.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/83.0.4103.106 Mobile Safari/537.36
+        : URL: release.bigdata.1kxun.com/c/35/13277?&_in_app=kankan&_udid=e6dbd30b-3b84-44b4-9751-631148a3ede9&_v=2.8.2.1&_package=com.sceneway.kankan&_model=sdk_gphone_x86&_ov=11&_brand=Google&_android_id=b9e28776354d259e&_gaid=5ac6a0ff-8d18-47bc-a902-2812cf0c251e&t=1654385136&_=1654385137968&_channel=1kxun&_locale=US_en&_carrier=310260&_resolution=1080%2C1794&_aid=5ac6a0ff-8d18-47bc-a902-2812cf0c251e
+        : DP: 2
+
+offline0: i4pc----------- TCP [OR] 161.117.13.29:80 <-- [L] 192.168.2.126:45380
+        : HTTP
+        : H: mangaweb.1kxun.mobi
+        : HTTP/UA: Mozilla/5.0 (Linux; Android 11; sdk_gphone_x86 Build/RSR1.201013.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/83.0.4103.106 Mobile Safari/537.36
+        : URL: mangaweb.1kxun.mobi/detail?id=27159&sytjdt&_in_app=kankan&_udid=e6dbd30b-3b84-44b4-9751-631148a3ede9&_v=2.8.2.1&_package=com.sceneway.kankan&_model=sdk_gphone_x86&_ov=11&_brand=Google&_android_id=b9e28776354d259e&_gaid=5ac6a0ff-8d18-47bc-a902-2812cf0c251e&t=1654385139
+        : DP: 2
+
+offline0: i4pc----------- TCP [OR] 161.117.13.29:80 <-- [L] 192.168.2.126:45388
+        : HTTP
+        : H: mangaweb.1kxun.mobi
+        : HTTP/UA: Mozilla/5.0 (Linux; Android 11; sdk_gphone_x86 Build/RSR1.201013.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/83.0.4103.106 Mobile Safari/537.36
+        : URL: mangaweb.1kxun.mobi/js/swiper/swiper.min.css
+        : DP: 2
+
+offline0: i4pc----------- TCP [OR] 161.117.13.29:80 <-- [L] 192.168.2.126:45398
+        : HTTP
+        : H: mangaweb.1kxun.mobi
+        : HTTP/UA: Mozilla/5.0 (Linux; Android 11; sdk_gphone_x86 Build/RSR1.201013.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/83.0.4103.106 Mobile Safari/537.36
+        : URL: mangaweb.1kxun.mobi/js/dependency-all.js
+        : DP: 2
+
+offline0: i4pc----------- TCP [OR] 161.117.13.29:80 <-- [L] 192.168.2.126:45414
+        : HTTP
+        : H: mangaweb.1kxun.mobi
+        : HTTP/UA: Mozilla/5.0 (Linux; Android 11; sdk_gphone_x86 Build/RSR1.201013.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/83.0.4103.106 Mobile Safari/537.36
+        : URL: mangaweb.1kxun.mobi/js/fb-sdk.js
+        : DP: 2
+
+offline0: i4pc----------- TCP [OR] 161.117.13.29:80 <-- [L] 192.168.2.126:45416
+        : HTTP
+        : H: mangaweb.1kxun.mobi
+        : HTTP/UA: Mozilla/5.0 (Linux; Android 11; sdk_gphone_x86 Build/RSR1.201013.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/83.0.4103.106 Mobile Safari/537.36
+        : URL: mangaweb.1kxun.mobi/js/vendor.bundle.js?1644807874
+        : DP: 2
+
+offline0: i4pc----------- TCP [OR] 161.117.13.29:80 <-- [L] 192.168.2.126:45424
+        : HTTP
+        : H: tcad.wedolook.com
+        : HTTP/UA: Mozilla/5.0 (Linux; Android 11; sdk_gphone_x86 Build/RSR1.201013.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/83.0.4103.106 Mobile Safari/537.36
+        : URL: tcad.wedolook.com/js/websdk.js
+        : DP: 2
+
+offline0: i4pc----------- TCP [OR] 18.64.79.37:80 <-- [L] 192.168.2.126:41390
+        : HTTP
+        : H: google.open-js.com
+        : HTTP/UA: Mozilla/5.0 (Linux; Android 11; sdk_gphone_x86 Build/RSR1.201013.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/83.0.4103.106 Mobile Safari/537.36
+        : URL: google.open-js.com/doubleclick/ca0ecde2.js
+        : DP: 2
+
+offline0: i4pc----------- TCP [OR] 142.250.186.34:80 <-- [L] 192.168.2.126:38354
+        : HTTP.netify.google-ads
+        : H: pagead2.googlesyndication.com
+        : HTTP/UA: Mozilla/5.0 (Linux; Android 11; sdk_gphone_x86 Build/RSR1.201013.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/83.0.4103.106 Mobile Safari/537.36
+        : URL: pagead2.googlesyndication.com/pagead/show_ads.js
+        : DP: 9
+
+offline0: i4pc----------- TCP [OR] 142.250.186.174:80 <-- [L] 192.168.2.126:36732
+        : HTTP.netify.analytics
+        : H: www.google-analytics.com
+        : HTTP/UA: Mozilla/5.0 (Linux; Android 11; sdk_gphone_x86 Build/RSR1.201013.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/83.0.4103.106 Mobile Safari/537.36
+        : URL: www.google-analytics.com/analytics.js
+        : DP: 2
+
+offline0: i4pc----------- TCP [OR] 161.117.13.29:80 <-- [L] 192.168.2.126:45422
+        : HTTP
+        : H: mangaweb.1kxun.mobi
+        : HTTP/UA: Mozilla/5.0 (Linux; Android 11; sdk_gphone_x86 Build/RSR1.201013.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/83.0.4103.106 Mobile Safari/537.36
+        : URL: mangaweb.1kxun.mobi/js/application.min.js?1644808200
+        : DP: 5
+
+offline0: i4pc----------- TCP [OR] 14.136.136.108:80 <-- [L] 192.168.2.126:49354
+        : HTTP
+        : H: hkbn.content.1kxun.com
+        : HTTP/UA: Mozilla/5.0 (Linux; Android 11; sdk_gphone_x86 Build/RSR1.201013.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/83.0.4103.106 Mobile Safari/537.36
+        : URL: hkbn.content.1kxun.com/manga-hant/images/project/cartoons/7e07d4417e0edc98d327d0ddfd3e227a.jpg?format=webp
+        : DP: 2
+
+offline0: i4pc----------- TCP [OR] 14.136.136.108:80 <-- [L] 192.168.2.126:49372
+        : HTTP
+        : H: hkbn.content.1kxun.com
+        : HTTP/UA: Mozilla/5.0 (Linux; Android 11; sdk_gphone_x86 Build/RSR1.201013.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/83.0.4103.106 Mobile Safari/537.36
+        : URL: hkbn.content.1kxun.com/manga-hant/images/project/cartoons/aec00b1dbdf678ee8d2b89df3fdbd059.jpg
+        : DP: 2
+
+offline0: i4pc----------- TCP [OR] 14.136.136.108:80 <-- [L] 192.168.2.126:49370
+        : HTTP
+        : H: hkbn.content.1kxun.com
+        : HTTP/UA: Mozilla/5.0 (Linux; Android 11; sdk_gphone_x86 Build/RSR1.201013.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/83.0.4103.106 Mobile Safari/537.36
+        : URL: hkbn.content.1kxun.com/manga-hant/images/project/cartoons/b057f5cd8fe013d2299b57f14faa5fa9.jpg
+        : DP: 2
+
+offline0: i4pc----------- TCP [OR] 14.136.136.108:80 <-- [L] 192.168.2.126:49396
+        : HTTP
+        : H: hkbn.content.1kxun.com
+        : HTTP/UA: Mozilla/5.0 (Linux; Android 11; sdk_gphone_x86 Build/RSR1.201013.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/83.0.4103.106 Mobile Safari/537.36
+        : URL: hkbn.content.1kxun.com/manga-hant/images/project/cartoons/00dd6bfe750c02c8d10d7112d143f322.jpg?format=webp
+        : DP: 2
+
+offline0: i4pc----------- TCP [OR] 14.136.136.108:80 <-- [L] 192.168.2.126:49412
+        : HTTP
+        : H: hkbn.content.1kxun.com
+        : HTTP/UA: Mozilla/5.0 (Linux; Android 11; sdk_gphone_x86 Build/RSR1.201013.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/83.0.4103.106 Mobile Safari/537.36
+        : URL: hkbn.content.1kxun.com/manga-hant/images/project/cartoons/13aeb81a47e7632ccdf1aefee19ea65e.jpg?format=webp
+        : DP: 9
+
+offline0: i4pc----------- TCP [OR] 14.136.136.108:80 <-- [L] 192.168.2.126:49380
+        : HTTP
+        : H: hkbn.content.1kxun.com
+        : HTTP/UA: Mozilla/5.0 (Linux; Android 11; sdk_gphone_x86 Build/RSR1.201013.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/83.0.4103.106 Mobile Safari/537.36
+        : URL: hkbn.content.1kxun.com/manga-hant/images/project/cartoons/f05074256b39572ad852c1c95eb5f8a7.jpg
+        : DP: 9
+
+offline0: i4pc----------- TCP [OR] 172.217.18.98:80 <-- [L] 192.168.2.126:44368
+        : HTTP.netify.google-ads
+        : H: www.googletagservices.com
+        : HTTP/UA: Mozilla/5.0 (Linux; Android 11; sdk_gphone_x86 Build/RSR1.201013.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/83.0.4103.106 Mobile Safari/537.36
+        : URL: www.googletagservices.com/tag/js/gpt.js
+        : DP: 2
+
+offline0: i4pc----------- TCP [OR] 161.117.13.29:80 <-- [L] 192.168.2.126:50140
+        : HTTP
+        : H: mangaweb.1kxun.mobi
+        : HTTP/UA: Mozilla/5.0 (Linux; Android 11; sdk_gphone_x86 Build/RSR1.201013.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/83.0.4103.106 Mobile Safari/537.36
+        : URL: mangaweb.1kxun.mobi/images/readpage_revision/left.png
+        : DP: 2
+
+offline0: i4pc----------- TCP [OR] 161.117.13.29:80 <-- [L] 192.168.2.126:50148
+        : HTTP
+        : H: mangaweb.1kxun.mobi
+        : HTTP/UA: Mozilla/5.0 (Linux; Android 11; sdk_gphone_x86 Build/RSR1.201013.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/83.0.4103.106 Mobile Safari/537.36
+        : URL: mangaweb.1kxun.mobi/images/readpage_revision/like_1.png
+        : DP: 2
+
+offline0: i4pc----------- TCP [OR] 161.117.13.29:80 <-- [L] 192.168.2.126:50164
+        : HTTP
+        : H: mangaweb.1kxun.mobi
+        : HTTP/UA: Mozilla/5.0 (Linux; Android 11; sdk_gphone_x86 Build/RSR1.201013.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/83.0.4103.106 Mobile Safari/537.36
+        : URL: mangaweb.1kxun.mobi/images/readpage_revision/more_white.png
+        : DP: 2
+
+offline0: i4pc----------- TCP [OR] 161.117.13.29:80 <-- [L] 192.168.2.126:50166
+        : HTTP
+        : H: mangaweb.1kxun.mobi
+        : HTTP/UA: Mozilla/5.0 (Linux; Android 11; sdk_gphone_x86 Build/RSR1.201013.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/83.0.4103.106 Mobile Safari/537.36
+        : URL: mangaweb.1kxun.mobi/images/readpage_revision/right.png
+        : DP: 2
+
+offline0: i4pc----------- TCP [OR] 161.117.13.29:80 <-- [L] 192.168.2.126:50176
+        : HTTP
+        : H: mangaweb.1kxun.mobi
+        : HTTP/UA: Mozilla/5.0 (Linux; Android 11; sdk_gphone_x86 Build/RSR1.201013.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/83.0.4103.106 Mobile Safari/537.36
+        : URL: mangaweb.1kxun.mobi/images/list_default.png
+        : DP: 2
+
+offline0: i4pc----------- TCP [OR] 172.105.121.82:80 <-- [L] 192.168.2.126:38326
+        : HTTP
+        : H: pic.1kxun.com
+        : HTTP/UA: okhttp/3.10.0
+        : URL: pic.1kxun.com/video_kankan/images/videos/40730-48fd657abd5a1d3e45d03403ddcb0663.jpg
+        : DP: 2
+
+offline0: i4pc----------- TCP [OR] 172.105.121.82:80 <-- [L] 192.168.2.126:38314
+        : HTTP
+        : H: pic.1kxun.com
+        : HTTP/UA: okhttp/3.10.0
+        : URL: pic.1kxun.com/video_kankan/images/videos/40750-585645353a7a47615755b7714c611835.jpg
+        : DP: 2
+
+offline0: i4pc----------- TCP [OR] 172.105.121.82:80 <-- [L] 192.168.2.126:38316
+        : HTTP
+        : H: pic.1kxun.com
+        : HTTP/UA: okhttp/3.10.0
+        : URL: pic.1kxun.com/video_kankan/images/videos/40701-8fa7d916c55e31f90fa55f450b716505.jpg
+        : DP: 2
+
+offline0: i4pc----------- TCP [OR] 104.117.221.10:80 <-- [L] 192.168.2.126:59324
+        : HTTP
+        : H: m.vpon.com
+        : HTTP/UA: Mozilla/5.0 (Linux; Android 11; sdk_gphone_x86 Build/RSR1.201013.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/83.0.4103.106 Mobile Safari/537.36(Mobile; vpadn-sdk-a-v4.6.4)
+        : URL: m.vpon.com/sdk/vpadn-sdk-core-v1.js
+        : DP: 2
+
+offline0: i4pc----------- TCP [OR] 3.72.69.158:80 <-- [L] 192.168.2.126:56094
+        : HTTP
+        : H: setting.rayjump.com
+        : HTTP/UA: Apache-HttpClient/UNAVAILABLE (java 1.4)
+        : URL: setting.rayjump.com/rewardsetting?app_id=32456&sign=3c28ded04e0f4090229968618244b583&channel=&platform=1&os_version=11&package_name=com.sceneway.kankan&app_version_name=2.8.2.1&app_version_code=146&orientation=2&model=sdk_gphone_x86&brand=google&gaid=&mnc=&mcc=&network_type=1&network_str=&language=en&timezone=GMT%2B01%3A00&useragent=Mozilla%2F5.0%20%28Linux%3B%20Android%2011%3B%20sdk_gphone_x86%20Build%2FRSR1.201013.001%3B%20wv%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Version%2F4.0%20Chrome%2F83.0.4103.106%20Mobile%20Safari%2F537.36&sdk_version=MAL_8.7.4&gp_version=22.4.25-21%20%5B0%5D%20%5BPR%5D%20337959405&screen_size=1794x1080&is_clever=2
+        : DP: 2
+
+offline0: i4pc----------- TCP [OR] 3.72.69.158:80 <-- [L] 192.168.2.126:56098
+        : HTTP
+        : H: setting.rayjump.com
+        : HTTP/UA: Apache-HttpClient/UNAVAILABLE (java 1.4)
+        : URL: setting.rayjump.com/rewardsetting?app_id=32456&sign=3c28ded04e0f4090229968618244b583&channel=&platform=1&os_version=11&package_name=com.sceneway.kankan&app_version_name=2.8.2.1&app_version_code=146&orientation=2&model=sdk_gphone_x86&brand=google&gaid=&mnc=&mcc=&network_type=1&network_str=&language=en&timezone=&useragent=Mozilla%2F5.0%20%28Linux%3B%20Android%2011%3B%20sdk_gphone_x86%20Build%2FRSR1.201013.001%3B%20wv%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Version%2F4.0%20Chrome%2F83.0.4103.106%20Mobile%20Safari%2F537.36&sdk_version=MAL_8.7.4&gp_version=22.4.25-21%20%5B0%5D%20%5BPR%5D%20337959405&screen_size=1794x1080&is_clever=2
+        : DP: 2
+
+offline0: i4pc----------- TCP [OR] 3.72.69.158:80 <-- [L] 192.168.2.126:56096
+        : HTTP
+        : H: setting.rayjump.com
+        : HTTP/UA: Apache-HttpClient/UNAVAILABLE (java 1.4)
+        : URL: setting.rayjump.com/setting?app_id=32456&sign=3c28ded04e0f4090229968618244b583&channel=&platform=1&os_version=11&package_name=com.sceneway.kankan&app_version_name=2.8.2.1&app_version_code=146&orientation=2&model=sdk_gphone_x86&brand=google&gaid=&mnc=&mcc=&network_type=1&network_str=&language=en&timezone=&useragent=Mozilla%2F5.0%20%28Linux%3B%20Android%2011%3B%20sdk_gphone_x86%20Build%2FRSR1.201013.001%3B%20wv%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Version%2F4.0%20Chrome%2F83.0.4103.106%20Mobile%20Safari%2F537.36&sdk_version=MAL_8.7.4&gp_version=22.4.25-21%20%5B0%5D%20%5BPR%5D%20337959405&screen_size=1794x1080&is_clever=2
+        : DP: 2
+
+offline0: i4pc----------- TCP [OR] 3.72.69.158:80 <-- [L] 192.168.2.126:56104
+        : HTTP
+        : H: setting.rayjump.com
+        : HTTP/UA: Apache-HttpClient/UNAVAILABLE (java 1.4)
+        : URL: setting.rayjump.com/rewardsetting?app_id=32456&sign=3c28ded04e0f4090229968618244b583&unit_ids=%5B8881%5D&channel=&platform=1&os_version=11&package_name=com.sceneway.kankan&app_version_name=2.8.2.1&app_version_code=146&orientation=2&model=sdk_gphone_x86&brand=google&gaid=&mnc=&mcc=&network_type=1&network_str=&language=en&timezone=GMT%2B01%3A00&useragent=Mozilla%2F5.0%20%28Linux%3B%20Android%2011%3B%20sdk_gphone_x86%20Build%2FRSR1.201013.001%3B%20wv%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Version%2F4.0%20Chrome%2F83.0.4103.106%20Mobile%20Safari%2F537.36&sdk_version=MAL_8.7.4&gp_version=22.4.25-21%20%5B0%5D%20%5BPR%5D%20337959405&screen_size=1794x1080&is_clever=2
+        : DP: 2
+
+offline0: i4pc----------- TCP [OR] 8.209.97.107:80 <-- [L] 192.168.2.126:56826
+        : HTTP
+        : H: analytics.rayjump.com
+        : HTTP/UA: Apache-HttpClient/UNAVAILABLE (java 1.4)
+        : URL: analytics.rayjump.com/
+        : DP: 3
+
+offline0: i4pc----------- TCP [OR] 18.64.79.58:80 <-- [L] 192.168.2.126:43272
+        : HTTP
+        : H: net.rayjump.com
+        : HTTP/UA: Dalvik/2.1.0 (Linux; U; Android 11; sdk_gphone_x86 Build/RSR1.201013.001)
+        : URL: net.rayjump.com/openapi/ads?app_id=32456&unit_id=52498&sign=3c28ded04e0f4090229968618244b583&is_vast=1&ad_num=1&http_req=1&client_ip=92.219.40.235&useragent=Dalvik%2F2.1.0+%28Linux%3B+U%3B+Android+11%3B+sdk_gphone_x86+Build%2FRSR1.201013.001%29&os_version=Android11&gaid=5ac6a0ff-8d18-47bc-a902-2812cf0c251e&model=sdk_gphone_x86&brand=Google&android_id=b9e28776354d259e&platform=1&imei=1&network_type=9
+        : DP: 2
+
+offline0: i4pc----------- TCP [OR] 18.66.2.90:80 <-- [L] 192.168.2.126:35664
+        : HTTP.netify.liftoff
+        : H: cdn.liftoff.io
+        : HTTP/UA: Apache-HttpClient/UNAVAILABLE (java 1.4)
+        : URL: cdn.liftoff.io/customers/45d4b09eba/image/lambda_jpg_89/398101234e6cf5b3a8d8.jpg
+        : DP: 2
+
+offline0: i4pc----------- TCP [OR] 18.64.103.30:80 <-- [L] 192.168.2.126:36636
+        : HTTP
+        : H: hybird.rayjump.com
+        : HTTP/UA: Dalvik/2.1.0 (Linux; U; Android 11; sdk_gphone_x86 Build/RSR1.201013.001)
+        : URL: hybird.rayjump.com/rv-zip-2022/0428/tpl4-4209ad845e61d9ad67b6f04187d00be0.zip?md5filename=4209ad845e61d9ad67b6f04187d00be0&foldername=tpl4&layout=1&tpl=4&wfr=1&to=9999&alecfc=1&whs_chn=m
+        : DP: 9
+
+offline0: i4pc----------- TCP [OR] 18.64.103.30:80 <-- [L] 192.168.2.126:36640
+        : HTTP
+        : H: hybird.rayjump.com
+        : HTTP/UA: Dalvik/2.1.0 (Linux; U; Android 11; sdk_gphone_x86 Build/RSR1.201013.001)
+        : URL: hybird.rayjump.com/rv-zip-2022/0428/endcard-dsp-1302-f2714a34f6661a70fedea1667fb7a9e4.zip?md5filename=f2714a34f6661a70fedea1667fb7a9e4&foldername=endcard-dsp-1302&mof=1&mof_uid=91199&n_imp=1&mof_pkg=com.sceneway.kankan&n_region=fk&alecfc=1&bait_click=1&mof_textmod=1&bp_test=2&wglbp=1&cta_type=1&mof_use_get=1&dlst=0&mof_use_get=1&plmug=1
+        : DP: 9
+
+offline0: i4pc----------- TCP [OR] 18.64.103.30:80 <-- [L] 192.168.2.126:36654
+        : HTTP
+        : H: hybird.rayjump.com
+        : HTTP/UA: Dalvik/2.1.0 (Linux; U; Android 11; sdk_gphone_x86 Build/RSR1.201013.001)
+        : URL: hybird.rayjump.com/rv-zip-2019/1113/mini-260291c208bf3376b5111db855e89451.zip?md5filename=260291c208bf3376b5111db855e89451&foldername=mini
+        : DP: 9
+
+offline0: i4pc----------- TCP [L] 192.168.2.126:58758 --> [OR] 202.153.196.53:80
+        : HTTP
+        : H: tw.api.vpon.com
+        : HTTP/UA: Mozilla/5.0 (Linux; Android 11; sdk_gphone_x86 Build/RSR1.201013.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/83.0.4103.106 Mobile Safari/537.36(Mobile; vpadn-sdk-a-v4.6.4)
+        : URL: tw.api.vpon.com/api/webviewAdReq?s_w=411&s_h=731&u_w=411&u_h=683&u_sd=2.625&lang=en_US&ni=0&sdk=vpadn-sdk-a-v4.6.4&u_o=1&os_v=30&n_mnc=260&n_mcc=310&mnc=260&mcc=310&format=320x50_mb&msid=com.sceneway.kankan&app_name=30.android.com.sceneway.kankan&simulator=0&cap=cal_m2_a_inv_cam_ph_sms_comp_fr_banInv_vid_vid2_vid3_vid4_vid5_crazyAd_cal_stoPic_exp&output=html&pf=TW&sid=1654385180339&seq=0&bid=8a8081824ff371e0014ff95e599f072d&adtest=0&ad_x=0&ad_y=0&ad_w=0&ad_h=0&ad_v=0&ms=C5QEn98CxlhiR4J%2FlC6Jf%2BtJncJYA72vXPe2O30%2FS7VTBF1NaLeAFAR5FIfYrRaYSVaBH%2BSKUFr11A2FE8GRJzLjt3bu0AA46LRogz0hoDRpsqbVLYu0zYcV0c0VkdMXnVfJhjpJRgKcxHWo4vQzq6LswfA0t80W6gGyFv5IyzBT6b6E1FNHU2pQIOg0j9WNqraa%2BiGRqWm5ptj1pymrNv7tznIxuy%2FwOIXeDKq%2BPJOWztIn5uQ1CdG%2B%2BPd0orwc&build=21407102
+        : DP: 2
+
+offline0: i4pc----------- TCP [L] 192.168.2.126:58760 --> [OR] 202.153.196.53:80
+        : HTTP
+        : H: tw.api.vpon.com
+        : HTTP/UA: Mozilla/5.0 (Linux; Android 11; sdk_gphone_x86 Build/RSR1.201013.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/83.0.4103.106 Mobile Safari/537.36(Mobile; vpadn-sdk-a-v4.6.4)
+        : URL: tw.api.vpon.com/api/webviewAdReq?s_w=731&s_h=411&u_w=683&u_h=411&u_sd=2.625&lang=en_US&ni=0&sdk=vpadn-sdk-a-v4.6.4&u_o=2&os_v=30&n_mnc=260&n_mcc=310&mnc=260&mcc=310&format=320x50_mb&msid=com.sceneway.kankan&app_name=30.android.com.sceneway.kankan&simulator=0&cap=cal_m2_a_inv_cam_ph_sms_comp_fr_banInv_vid_vid2_vid3_vid4_vid5_crazyAd_cal_stoPic_exp&output=html&pf=TW&sid=1654385180339&seq=1&bid=8a8081824ff371e0014ff95e599f072d&adtest=0&ad_x=0&ad_y=0&ad_w=0&ad_h=0&ad_v=0&ms=C5QEn98CxlhiR4J%2FlC6Jf%2BtJncJYA72vXPe2O30%2FS7VTBF1NaLeAFAR5FIfYrRaYSVaBH%2BSKUFr11A2FE8GRJzLjt3bu0AA46LRogz0hoDRpsqbVLYu0zYcV0c0VkdMXnVfJhjpJRgKcxHWo4vQzq6LswfA0t80W6gGyFv5IyzBT6b6E1FNHU2pQIOg0j9WNqraa%2BiGRqWm5ptj1pymrNv7tznIxuy%2FwOIXeDKq%2BPJOWztIn5uQ1CdG%2B%2BPd0orwc&build=21407102
+        : DP: 2
+
+offline0: i4pc----------- TCP [OR] 35.156.44.13:80 <-- [L] 192.168.2.126:42554
+        : HTTP
+        : H: de01.rayjump.com
+        : HTTP/UA: Mozilla/5.0 (Linux; Android 11; sdk_gphone_x86 Build/RSR1.201013.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/83.0.4103.106 Mobile Safari/537.36
+        : URL: de01.rayjump.com/onlyImpression?k=629bea20a4e5410001f01c7x&mp=fURPDr5tiUStf7V2fajMiaveHUveDAJ96aiPfU5IiARTfnHIGal9i%2BMefbMM6jxc6aRAGaxIi%2BMPfdMei%2BewDke6Go9bWUxIi099WUR%2Fi%2BegYFKgY75IhFx8%2BFJML7K%2FH5K9GaHIinhPfdleialM6azIHkPIG%2BeIGnR%2FiUjPWUNMWURAf%2BeIiB9eiUj%2FiURTWUhA6deIDUQQiUlbfADAfnx3iUVPH%2BM2DkiFDnSrH0T9Haj9WnNbDriwDn3Mi0TBGajBDFDMDAR2ik5I6ajMigMBidMe6aSIinh1GUcI67KMHkPth7QI67cbhFH8LAtA6aSI4BzULoR1invMiajsRrxAh7Q3RUEFfZM0DFQ3RUE0inNAGaN2R0M0DkxwRUuYRrc1D%2BzsL%2BHQWrfXYZzJWoz0HoR1RrfXYZPt4rcBY7QFHZPtYrxBYFQ3R0M0hdzuDF56Lk90GUiBGZ9FGnRAWozMhrQUH5KXJ%2BN0GUiBGZ9FGnRAWozuh2KED0R1ioM0hdzuDF56hrcbRUEAiU3%2FfU3BiBM0J7c9RUEeWozrDkwQRUEeWoztJkfTLkK%2FRUEeWoztHQKTD%2Bl0GUiBGZ9FGnRAWozMhrQUH5KBH0R1iARPWUDPiUisRgSBLkfQ%2BbzrJoR1iARPWUDPiUisRgSBLkfQ%2BbzrJ7j0GUiBGZ9FGnRAWozrhdzuDFV0GUi%2FiU3FGnRAWoztJdQMHZR1iZM0L7D0GUvsRgfQD2KMhrQUHZR1iUVMWozUJ%2BzBHkPU4ZR1RQ5nxoRsRgzTDkh0Ggs0J7HsYbh0G0zrfZRsRgxEHk2uhBR1RrKTL75BhBzKWozADgxtHBR1R3RwHdfMW5xZRg2IideI6deI6dMb6aRbinRe6aSI6ds0Yr5THBR1R0zK6av%3D
+        : DP: 2
+
+offline0: i4pcu---------- TCP [OR] 52.29.177.177:80 <-- [L] 192.168.2.126:37100
+        : HTTP
+        : H: adx-tk.rayjump.com
+        : HTTP/UA: Mozilla/5.0 (Linux; Android 11; sdk_gphone_x86 Build/RSR1.201013.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/83.0.4103.106 Mobile Safari/537.36
+        : DP: 4
+
+offline0: i4pc----------- TCP [OR] 35.156.44.13:80 <-- [L] 192.168.2.126:42566
+        : HTTP
+        : H: de01.rayjump.com
+        : HTTP/UA: Mozilla/5.0 (Linux; Android 11; sdk_gphone_x86 Build/RSR1.201013.001; wv) AppleWebKit/537.36 (KHTML, like Gec
+        : DP: 4
+
+offline0: i4pc----------- TCP [OR] 18.64.79.50:80 <-- [L] 192.168.2.126:41940
+        : HTTP
+        : H: tknet-cdn.rayjump.com
+        : HTTP/UA: Mozilla/5.0 (Linux; Android 11; sdk_gphone_x86 Build/RSR1.201013.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/83.0.4103.106 Mobile Safari/537.36
+        : URL: tknet-cdn.rayjump.com/ad/log/play?k=629bea20a4e5410001f01c7x&mp=fURPDr5tiUStf7V2fajMiaveHUveDAJ96aiPfU5IiARTfnHIGal9i%2BMefbMefAEeGn3TfaiFfnRPGnEe6jxc6aRAGaxIi%2BMPfdMei%2BewDke6Go9bWUxIi099WUR%2Fi%2BegYFKgY75IhFx8%2BFJML7K%2FH5K9GaHIinhPfdleialM6azIHkPIG%2BeIidMM6aSI6de0GkVBGahbfUi2f7NBfnQQ6a5tDAHti7HrWnt3inlwfaJ0DB2tGnvBWnR9inzUHUSUiUVeH%2BeIinvB6aRM6acIidMefAE1ibeIYbSQYrcML%2BeI6aSI4BzULoR1invMiajsRrxAh7Q3RUEFfZM0DFQ3RUE0inNAGaN2R0M0DkxwRUuYRrc1D%2BzsL%2BHQWrfXYZzJWoz0HoR1RrfXYZPt4rcBY7QFHZPtYrxBYFQ3R0M0hdzuDF56Lk90GUiBGZ9FGnRAWozMhrQUH5KXJ%2BN0GUiBGZ9FGnRAWozuh2KED0R1ioM0hdzuDF56hrcbRUEAiU3%2FfU3BiBM0J7c9RUEeWozrDkwQRUEeWoztJkfTLkK%2FRUEeWoztHQKTD%2Bl0GUiBGZ9FGnRAWozMhrQUH5KBH0R1iARPWUDPiUisRgSBLkfQ%2BbzrJoR1iARPWUDPiUisRgSBLkfQ%2BbzrJ7j0GUiBGZ9FGnRAWozrhdzuDFV0GUi%2FiU3FGnRAWoztJdQMHZR1iZM0L7D0GUvsRgfQD2KMhrQUHZR1iUVMWozUJ%2BzBHkPU4ZR1RQ5nxoRsRgzTDkh0Ggs0J7HsYbh0G0zrfZRsRgxEHk2uhBR1RrKTL75BhBzKWozADgxtHBR1R3RwHdfMW5xZRg2IideI6deI6dMb&type=reward_video&key=play_percentage&rate=0
+        : DP: 2
+
+offline0: i4pc----------- TCP [OR] 18.233.123.55:80 <-- [L] 192.168.2.126:54810
+        : HTTP.netify.liftoff
+        : H: impression-east.liftoff.io
+        : HTTP/UA: Mozilla/5.0 (Linux; Android 11; sdk_gphone_x86 Build/RSR1.201013.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/83.0.4103.106 Mobile Safari/537.36
+        : URL: impression-east.liftoff.io/mintegral/beacon?ad_group_id=143845&channel_id=117&creative_id=253640&auction_id=f84f54bf-31cd-43ff-bd27-526ccc6457da&origin=haggler-mintegral021
+        : DP: 2
+
+offline0: i4pc----------- TCP [OR] 18.235.204.9:80 <-- [L] 192.168.2.126:40204
+        : HTTP.netify.liftoff
+        : H: adexp.liftoff.io
+        : HTTP/UA: Mozilla/5.0 (Linux; Android 11; sdk_gphone_x86 Build/RSR1.201013.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/83.0.4103.106 Mobile Safari/537.36
+        : URL: adexp.liftoff.io/event/vast/start/57aa80COXjCBIkZjg0ZjU0YmYtMzFjZC00M2ZmLWJkMjctNTI2Y2NjNjQ1N2RhGICaqoiTMCB1KMi9DzCiEDobY29tLnNjZW5ld2F5Lmthbmthbi5tYXJrZXQzQhhoYXdrZXItcmVuZGVyaW5nLWNvbnRyb2xKCmQ4MTI5YmY1ZTRQAloDREVVYAJoBHIJdXMtZWFzdC0x4AEBgAF1kgECZW6YAQKhAQAAAAAAALA_qgEIMTI4MHg3MjCyAQ1FbnRlcnRhaW5tZW50ugEcUSBWaWRlby1Nb3ZpZXMgYW5kIFRWIHNlcmllc8IBGXZhc3QtNDI4MDVkMzNhNTBhNjIxZDE4NDPKAQEB0gEFMDQzMTfaAQV2aWRlbw?playhead=[CONTENTPLAYHEAD]&sr=1
+        : DP: 2
+
+offline0: i4pc----------- TCP [OR] 172.217.16.142:80 <-- [L] 192.168.2.126:53416
+        : HTTP.netify.google-play
+        : H: play.google.com
+        : HTTP/UA: Mozilla/5.0 (Linux; Android 11; sdk_gphone_x86 Build/RSR1.201013.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/83.0.4103.106 Mobile Safari/537.36
+        : URL: play.google.com/store/apps/details?id=com.azarlive.android&referrer=adjust_external_click_id%3Dv.2_g.143845_a.f84f54bf-31cd-43ff-bd27-526ccc6457da_c.117_t.ua_u.e7df87247cbcea13%26utm_campaign%3DTest%2BCampaign%26utm_content%3DTest%2BSource%2BApp_123456789%26utm_source%3DLiftoff%26utm_term%3DTest%2BCreative
+        : DP: 2
+
+offline0: i4pc----------- TCP [OR] 3.122.190.70:80 <-- [L] 192.168.2.126:33042
+        : HTTP.netify.liftoff
+        : H: click.liftoff.io
+        : HTTP/UA: Mozilla/5.0 (Linux; Android 11; sdk_gphone_x86 Build/RSR1.201013.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/83.0.4103.106 Mobile Safari/537.36
+        : URL: click.liftoff.io/v1/campaign_click/ddfWbX-c_ZpIF_3wE-XgJSwRJPn_5OpS9IR6X4XG91XQL6ssRLV4QPLSEQgWyRbP_OAHXGp-3z8zKxdRjL-BT6h7z46z4qmAWxR5DboEhr1DytY4W5gfQLUcV6yE3POR7PrQlrVbVtH-7uW1oie-jkR4naGHTVVHKv5kFXBJ9yTIX-JngaE2MMTER1HuBx9qTlyLhiZCtWSUSv4Ze5z4QuGqjWijD0QBgAo00Wtj4VqQypzCho_p-UzOrVF8wX9LmysoZ3202xt-1RlmBNXddH_i_evO5yZGpOvG8ktdiKfhG7cddZTR6o5lyR15wY-SJTSM3ffr4dspVSFx6XdnXgfUtxY80spI9tmFMhT97KSC4cMkRv-AyNLWhDaD33WCpU7HN-VnTuM0zl4WQMna-AVBk1Ho0vhTz5ZBU32OhTf9uAkGNxuNj5w5Ifg1GnMwZxKis8J3Z6Z5mtc7gire0eQeDQ7ehtCMFLs0M1aXGE8mHhoANg_w0Ahx43Mu7zvDXSCthH8D4QhHaWoRSuGUgfBDYLzrD8LXz6qHILoQNjj8ieRBLfH22UewVLgMF7dqhXgl73VqgU1_cu-GIfsbBm90zhfd9eoo8rQfdJF2xczqvrQz6-I4FA?vast_el=1
+        : DP: 2
+
+offline0: i4pc----------- TCP [OR] 8.209.112.118:80 <-- [L] 192.168.2.126:35426
+        : HTTP
+        : H: analytics.rayjump.com
+        : HTTP/UA: Apache-HttpClient/UNAVAILABLE (java 1.4)
+        : URL: analytics.rayjump.com/
+        : DP: 5
+
+offline0: i4pc----------- TCP [OR] 18.64.79.64:80 <-- [L] 192.168.2.126:51686
+        : HTTP
+        : H: net.rayjump.com
+        : HTTP/UA: Apache-HttpClient/UNAVAILABLE (java 1.4)
+        : URL: net.rayjump.com/openapi/ad/v3?app_id=32456&unit_id=8881&sign=3c28ded04e0f4090229968618244b583&req_type=3&ad_num=20&tnum=1&only_impression=1&ping_mode=1&ttc_ids=%5B%5D&display_cids=%5B19944365299%5D&exclude_ids=%5B19944365299%5D&ad_source_id=1&session_id=629bea20a4e54100010f01c8&ad_type=94&offset=0&channel=&platform=1&os_version=11&package_name=com.sceneway.kankan&app_version_name=2.8.2.1&app_version_code=146&orientation=1&model=sdk_gphone_x86&brand=google&gaid=5ac6a0ff-8d18-47bc-a902-2812cf0c251e&mnc=&mcc=&network_type=9&network_str=&language=en&timezone=GMT%2B01%3A00&useragent=Mozilla%2F5.0%20%28Linux%3B%20Android%2011%3B%20sdk_gphone_x86%20Build%2FRSR1.201013.001%3B%20wv%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Version%2F4.0%20Chrome%2F83.0.4103.106%20Mobile%20Safari%2F537.36&sdk_version=MAL_8.7.4&gp_version=22.4.25-21%20%5B0%5D%20%5BPR%5D%20337959405&screen_size=1080x1794&is_clever=2&version_flag=1&cache1=6240&cache2=5365&power_rate=100&charging=0&sub_ip=10.0.2.16&dvi=4BztYrxBYFQ3%2BFQ3RUE0DUQQiUlbfADAfnx3iUVPHZRsRrfuHoR1RUv06N%3D%3D&api_version=1.3
+        : DP: 2
+
+offline0: i4pc--x----r--- TCP [OR] 119.28.164.143:80 <-- [L] 192.168.2.126:51888
+        : HTTP.netify.qq
+        : H: qzonestyle.gtimg.cn
+        : HTTP/UA: Mozilla/5.0 (Linux; Android 11; sdk_gphone_x86 Build/RSR1.201013.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/83.0.4103.106 Mobile Safari/537.36
+        : URL: qzonestyle.gtimg.cn/qzone/openapi/qc-1.0.1.js
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i6pc-gx-------- UDP [L] 2001:b020:6:0:c2a0:bbff:fe73:eb57:62976 --> [OM] ff02::1:62976
+        : Unknown
+        : DP: 2
+
+offline0: i4pc-gx-------- UDP [L] 192.168.119.2:43786 --> [OB] 255.255.255.255:5678
+        : Unknown
+        : DP: 1
+
+offline0: i4pc-gx-------- UDP [L] 192.168.2.186:32768 --> [OB] 255.255.255.255:1947
+        : Unknown
+        : DP: 2
+
+offline0: i4pc-gx----r-F- TCP [OR] 68.233.253.133:80 <-- [L] 192.168.5.16:53613
+        : HTTP
+        : RID 46: Unidirectional Traffic
+        : DP: 3
+
+offline0: i4pc-gx-------- UDP [L] 192.168.0.100:50925 --> [OB] 255.255.255.255:5678
+        : Unknown
+        : DP: 1
+
+offline0: i4pc-gx-------- UDP [L] 192.168.119.1:56861 --> [OB] 255.255.255.255:5678
+        : Unknown
+        : DP: 1
+
+offline0: i4pc--x----r--- TCP [OR] 18.66.2.90:80 <-- [L] 192.168.2.126:35666
+        : HTTP.netify.liftoff
+        : H: cdn.liftoff.io
+        : HTTP/UA: Dalvik/2.1.0 (Linux; U; Android 11; sdk_gphone_x86 Build/RSR1.201013.001)
+        : URL: cdn.liftoff.io/customers/45d4b09eba/videos/mobile/fd5692dd53042b199e03.mp4
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-gx-------- TCP [L] 192.168.115.8:49596 --> [OR] 203.66.182.87:443
+        : HTTP/S
+        : DP: 6
+
+offline0: i4pc--x----r--- TCP [OR] 18.64.79.58:80 <-- [L] 192.168.2.126:43266
+        : HTTP
+        : H: net.rayjump.com
+        : HTTP/UA: Apache-HttpClient/UNAVAILABLE (java 1.4)
+        : URL: net.rayjump.com/openapi/ad/v3?app_id=32456&unit_id=8881&sign=3c28ded04e0f4090229968618244b583&req_type=2&ad_num=20&tnum=1&only_impression=1&ping_mode=1&ttc_ids=%5B%5D&ad_source_id=1&ad_type=94&offset=0&channel=&platform=1&os_version=11&package_name=com.sceneway.kankan&app_version_name=2.8.2.1&app_version_code=146&orientation=2&model=sdk_gphone_x86&brand=google&gaid=5ac6a0ff-8d18-47bc-a902-2812cf0c251e&mnc=&mcc=&network_type=9&network_str=&language=en&timezone=GMT%2B01%3A00&useragent=Mozilla%2F5.0%20%28Linux%3B%20Android%2011%3B%20sdk_gphone_x86%20Build%2FRSR1.201013.001%3B%20wv%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Version%2F4.0%20Chrome%2F83.0.4103.106%20Mobile%20Safari%2F537.36&sdk_version=MAL_8.7.4&gp_version=22.4.25-21%20%5B0%5D%20%5BPR%5D%20337959405&screen_size=1794x1080&is_clever=2&version_flag=1&cache1=6240&cache2=5365&power_rate=100&charging=0&sub_ip=10.0.2.16&dvi=4BztYrxBYFQ3%2BFQ3RUE0DUQQiUlbfADAfnx3iUVPHZRsRrfuHoR1RUv06N%3D%3D&api_version=1.3
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-gx-------- UDP [L] 192.168.10.110:60480 <-- [OB] 255.255.255.255:62976
+        : Unknown
+        : DP: 5
+
+offline0: i6pc-gx-------- UDP [L] fe80::4e5e:cff:fe9a:ec54:5678 --> [OM] ff02::1:5678
+        : Unknown
+        : DP: 1
+
+offline0: i4pc--x-------- TCP [OR] 18.64.103.30:80 <-- [L] 192.168.2.126:36660
+        : HTTP
+        : H: hybird.rayjump.com
+        : HTTP/UA: Dalvik/2.1.0 (Linux; U; Android 11; sdk_gphone_x86 Build/RSR1.201013.001)
+        : URL: hybird.rayjump.com/rv/endv4.html?mof=1&ec_id=4&mof_uid=91199&n_imp=1&unit_id=8881&sdk_version=mal_8.7.4
+        : DP: 4
+
+offline0: i4pc-gx-------- UDP [L] 192.168.10.7:62976 --> [OB] 255.255.255.255:62976
+        : Unknown
+        : DP: 2
+
+offline0: i4pc-gx-------- TCP [OR] 119.235.235.84:443 <-- [L] 192.168.5.16:53406
+        : HTTP/S.netify.line
+        : DP: 23
+
+offline0: i4pc-gx----r-F- TCP [OR] 68.233.253.133:80 <-- [L] 192.168.5.16:53605
+        : HTTP
+        : RID 46: Unidirectional Traffic
+        : DP: 2
+
+offline0: i4pc--x-------- TCP [OR] 31.13.87.36:443 <-- [L] 192.168.5.16:53580
+        : HTTP/S.netify.meta
+        : DP: 9
+
+offline0: i4pc-gx-------- TCP [OR] 64.233.189.128:80 <-- [L] 192.168.115.8:49581
+        : HTTP.netify.google
+        : DP: 3
+
+offline0: i4pc-gx-------- UDP [L] 59.120.208.212:32768 --> [OB] 255.255.255.255:1947
+        : Unknown
+        : DP: 1
+
+offline0: i4pc-gx-------- UDP [L] 192.168.125.30:62976 --> [OB] 255.255.255.255:62976
+        : Unknown
+        : DP: 2
+
+offline0: i6pc-gx-------- UDP [L] 2001:b030:214:100:c2a0:bbff:fe73:eb47:62976 --> [OM] ff02::1:62976
+        : Unknown
+        : DP: 2
+
+offline0: i6pc-gx-------- UDP [L] fe80::4e5e:cff:feea:365:5678 --> [OM] ff02::1:5678
+        : Unknown
+        : DP: 1
+
+offline0: i4pc--x-------- UDP [L] 192.168.5.64:5353 --> [OM] 224.0.0.251:5353
+        : MDNS.netify.internal-network
+        : H: _googlecast._tcp.local
+        : DP: 1
+
+offline0: i4pc-gx-------- UDP [L] 59.120.208.218:50151 --> [OB] 255.255.255.255:1947
+        : Unknown
+        : DP: 2
+
+offline0: i4pc-gx------F- TCP [L] 192.168.5.16:53622 --> [OL] 192.168.115.75:443
+        : HTTP/S
+        : DP: 2
+
+offline0: i4pc-gx-------- UDP [L] 192.168.140.140:62976 --> [OB] 255.255.255.255:62976
+        : Unknown
+        : DP: 1
+
+offline0: i4pc--x-------- TCP [OR] 31.13.87.1:443 <-- [L] 192.168.5.16:53578
+        : HTTP/S.netify.meta
+        : DP: 10
+

@@ -1,0 +1,9 @@
+offline0: i4pc-------r-F- TCP [OR] 129.187.139.43:9991 <-- [L] 192.168.0.20:46524
+        : Z39/50
+        : RID 16: Known Protocol on Non-standard Port
+        : DP: 11
+
+offline0: i4pc-gx------F- TCP [L] 192.168.2.100:58921 --> [OR] 193.174.240.93:210
+        : Z39/50
+        : DP: 15
+

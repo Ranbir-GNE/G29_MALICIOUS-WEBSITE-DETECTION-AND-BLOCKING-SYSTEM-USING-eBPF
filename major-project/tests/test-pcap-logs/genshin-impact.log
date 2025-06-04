@@ -1,0 +1,29 @@
+offline0: i4pc-------r--- UDP [OR] 47.245.143.85:22101 <-- [L] 192.168.2.100:58766
+        : Genshin/Impact
+        : RID 16: Known Protocol on Non-standard Port
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [OR] 47.254.169.109:22102 <-- [L] 192.168.2.100:59145
+        : Genshin/Impact
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [OR] 8.209.69.191:22101 <-- [L] 192.168.2.100:52575
+        : Genshin/Impact
+        : RID 16: Known Protocol on Non-standard Port
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc----------- TCP [OR] 49.51.190.178:80 <-- [L] 192.168.2.100:39822
+        : Genshin/Impact
+        : DP: 4
+
+offline0: i4pc----------- TCP [OR] 49.51.181.168:80 <-- [L] 192.168.2.100:39686
+        : Genshin/Impact
+        : DP: 4
+
+offline0: i4pc----------- TCP [OR] 49.51.181.168:10012 <-- [L] 192.168.2.100:45246
+        : Genshin/Impact
+        : DP: 4
+

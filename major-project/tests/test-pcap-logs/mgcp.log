@@ -1,0 +1,30 @@
+offline0: i4pc-------r--- UDP [L] 172.16.1.116:2427 --> [OL] 172.16.1.119:2427
+        : MGCP
+        : H: gateway44.myplace.com
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.10.228.72:2427 --> [OL] 10.10.244.2:2427
+        : MGCP
+        : H: vg224
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [OR] 187.43.37.188:40798 --> [L] 196.167.59.124:2427
+        : MGCP
+        : H: gateway44.myplace.com
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [OR] 67.232.180.250:38238 --> [L] 186.112.128.179:2427
+        : MGCP
+        : H: gateway44.myplace.com
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [OR] 83.250.239.33:2427 <-- [L] 92.173.166.213:51954
+        : MGCP
+        : H: gateway44.myplace.com
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+

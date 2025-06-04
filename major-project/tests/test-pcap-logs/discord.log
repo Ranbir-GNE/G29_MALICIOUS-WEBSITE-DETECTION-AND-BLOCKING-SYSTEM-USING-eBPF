@@ -1,0 +1,141 @@
+offline0: i4pcu------r--- TCP [L] 10.0.2.15:42834 --> [OR] 162.159.128.233:443
+        : HTTP/S.netify.discord
+        : H: discord.com
+        : V: 0x0303 CS: 0xc02b
+        : TLS/SNI: discord.com TLS/CN: sni.cloudflaressl.com
+        : TLS/IDN: C=US, O=Cloudflare, Inc., CN=Cloudflare Inc ECC CA-3 TLS/SDN: C=US, ST=CA, L=San Francisco, O=Cloudflare, Inc., CN=sni.cloudflaressl.com
+        : RID 30: TLS Certificate Expired
+        : DP: 5
+
+offline0: i4pc----------- UDP [OR] 35.214.238.161:50001 <-- [L] 192.168.2.100:64837
+        : RTP
+        : DP: 5
+
+offline0: i4pc----------- UDP [OR] 66.22.196.173:50004 <-- [L] 192.168.2.100:55085
+        : RTP
+        : DP: 5
+
+offline0: i4pc----------- UDP [OR] 66.22.196.173:50004 <-- [L] 192.168.2.100:52283
+        : RTP
+        : DP: 5
+
+offline0: i4pc----------- UDP [OR] 66.22.196.173:50004 <-- [L] 192.168.2.100:50199
+        : RTP
+        : DP: 5
+
+offline0: i4pc----------- UDP [OR] 66.22.196.173:50004 <-- [L] 192.168.2.100:61435
+        : RTP
+        : DP: 5
+
+offline0: i4pc----------- UDP [OR] 66.22.196.173:50004 <-- [L] 192.168.2.100:63362
+        : RTP
+        : DP: 5
+
+offline0: i4pc----------- UDP [OR] 66.22.196.173:50004 <-- [L] 192.168.2.100:62844
+        : RTP
+        : DP: 5
+
+offline0: i4pc----------- UDP [OR] 66.22.196.173:50004 <-- [L] 192.168.2.100:61985
+        : RTP
+        : DP: 5
+
+offline0: i4pc----------- UDP [OR] 66.22.196.173:50004 <-- [L] 192.168.2.100:55432
+        : RTP
+        : DP: 5
+
+offline0: i4pc----------- UDP [OR] 66.22.196.173:50004 <-- [L] 192.168.2.100:63893
+        : RTP
+        : DP: 5
+
+offline0: i4pc----------- UDP [OR] 66.22.196.173:50004 <-- [L] 192.168.2.100:62481
+        : RTP
+        : DP: 5
+
+offline0: i4pc-gx-------- UDP [OR] 66.22.196.173:50004 <-- [L] 192.168.2.100:54950
+        : Unknown
+        : DP: 15
+
+offline0: i4pc-gx-------- UDP [OR] 66.22.196.173:50004 <-- [L] 192.168.2.100:52323
+        : Unknown
+        : DP: 15
+
+offline0: i4pc-gx-------- UDP [OR] 66.22.237.138:50004 <-- [L] 192.168.2.100:56271
+        : Unknown
+        : DP: 2
+
+offline0: i4pc-gx-------- UDP [OR] 66.22.241.5:50004 <-- [L] 192.168.2.100:56271
+        : Unknown
+        : DP: 2
+
+offline0: i4pc-gx-------- UDP [OR] 66.22.244.154:50004 <-- [L] 192.168.2.100:56271
+        : Unknown
+        : DP: 2
+
+offline0: i4pc-gx-------- UDP [OR] 66.22.241.7:50004 <-- [L] 192.168.2.100:56271
+        : Unknown
+        : DP: 2
+
+offline0: i4pc-gx-------- UDP [OR] 66.22.196.173:50004 <-- [L] 192.168.2.100:61060
+        : Unknown
+        : DP: 15
+
+offline0: i4pc-gx-------- UDP [OR] 66.22.196.173:50004 <-- [L] 192.168.2.100:58322
+        : Unknown
+        : DP: 15
+
+offline0: i4pc-gx-------- UDP [OR] 66.22.196.173:50004 <-- [L] 192.168.2.100:57956
+        : Unknown
+        : DP: 2
+
+offline0: i4pc-gx-------- UDP [OR] 66.22.244.139:50004 <-- [L] 192.168.2.100:56271
+        : Unknown
+        : DP: 2
+
+offline0: i4pc-gx-------- UDP [OR] 66.22.196.173:50004 <-- [L] 192.168.2.100:59891
+        : Unknown
+        : DP: 15
+
+offline0: i4pc-gx-------- UDP [OR] 66.22.196.173:50004 <-- [L] 192.168.2.100:58753
+        : Unknown
+        : DP: 15
+
+offline0: i4pc-gx-------- UDP [OR] 66.22.196.173:50004 <-- [L] 192.168.2.100:57764
+        : Unknown
+        : DP: 15
+
+offline0: i4pc-gx-------- UDP [OR] 66.22.237.11:50004 <-- [L] 192.168.2.100:56271
+        : Unknown
+        : DP: 2
+
+offline0: i4pc-gx-------- UDP [OR] 66.22.196.173:50004 <-- [L] 192.168.2.100:62379
+        : Unknown
+        : DP: 15
+
+offline0: i4pc-gx-------- UDP [OR] 66.22.196.173:50004 <-- [L] 192.168.2.100:65053
+        : Unknown
+        : DP: 15
+
+offline0: i4pc-gx-------- UDP [OR] 66.22.196.173:50004 <-- [L] 192.168.2.100:59240
+        : Unknown
+        : DP: 15
+
+offline0: i4pc-gx-------- UDP [OR] 66.22.196.173:50004 <-- [L] 192.168.2.100:50335
+        : Unknown
+        : DP: 15
+
+offline0: i4pc-gx-------- UDP [OR] 66.22.196.173:50004 --> [L] 192.168.2.100:49648
+        : Unknown
+        : DP: 15
+
+offline0: i4pc-gx-------- UDP [OR] 66.22.196.173:50004 <-- [L] 192.168.2.100:57955
+        : Unknown
+        : DP: 15
+
+offline0: i4pc-gx-------- UDP [OR] 66.22.196.173:50004 <-- [L] 192.168.2.100:61392
+        : Unknown
+        : DP: 15
+
+offline0: i4pc-gx-------- UDP [OR] 66.22.196.173:50004 <-- [L] 192.168.2.100:53459
+        : Unknown
+        : DP: 15
+

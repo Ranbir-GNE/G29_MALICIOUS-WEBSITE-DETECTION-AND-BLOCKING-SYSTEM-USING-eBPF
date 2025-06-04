@@ -1,0 +1,10 @@
+offline0: i4pc-------r--- TCP [OR] 45.58.148.2:8888 <-- [L] 82.178.111.221:5060
+        : HTTP
+        : H: 45.58.148.2
+        : HTTP/UA: exoplayer-codelab
+        : URL: 45.58.148.2/star-123456/index.m3u8?token=89b198b8844824ca15b8b379c26fc1b7dfcba368-5KUJTJ5Y73AGIAOV-1618753174-1618742374
+        : RID  8: Error Code
+        : RID 10: Numeric IP Address
+        : RID 16: Known Protocol on Non-standard Port
+        : DP: 4
+

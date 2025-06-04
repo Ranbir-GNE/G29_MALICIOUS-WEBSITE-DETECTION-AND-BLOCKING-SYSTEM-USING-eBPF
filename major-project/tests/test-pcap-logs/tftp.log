@@ -1,0 +1,35 @@
+offline0: i4pc-------r--- UDP [L] 192.168.0.10:69 <-- [OL] 192.168.0.253:50618
+        : TFTP
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 192.168.0.10:3445 <-- [OL] 192.168.0.253:50618
+        : TFTP
+        : RID 16: Known Protocol on Non-standard Port
+        : DP: 4
+
+offline0: i4pc-------r--- UDP [L] 172.16.5.170:69 <-- [OL] 172.28.4.53:54627
+        : TFTP
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 172.28.5.91:44618 --> [OL] 172.28.5.170:69
+        : TFTP
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 172.28.5.91:44618 <-- [OL] 172.28.5.170:62058
+        : TFTP
+        : RID 16: Known Protocol on Non-standard Port
+        : DP: 4
+
+offline0: i4pc-gx----r--- UDP [L] 172.16.5.170:69 <-- [OL] 172.28.4.53:54632
+        : TFTP
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-gx----r--- UDP [L] 172.16.5.170:69 <-- [OL] 172.28.4.53:54626
+        : TFTP
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+

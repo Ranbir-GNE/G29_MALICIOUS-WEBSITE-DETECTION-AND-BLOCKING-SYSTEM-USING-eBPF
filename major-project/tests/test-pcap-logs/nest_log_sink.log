@@ -1,0 +1,69 @@
+offline0: i4pc-g------sF- TCP [OR] 35.174.82.237:11095 <-- [L] 192.168.242.15:63340
+        : NestLog.netify.nest
+        : DP: 32
+
+offline0: i4pc----------- UDP [L] 192.168.242.1:53 <-- [OL] 192.168.242.15:52849
+        : DNS.netify.nest
+        : H: weave-logsink.nest.com
+        : DP: 2
+
+offline0: i4pc---------F- TCP [OR] 35.188.154.186:11095 <-- [L] 192.168.242.15:63342
+        : NestLog.netify.nest
+        : D: weave-logsink.nest.com
+        : DP: 8
+
+offline0: i4pc---------F- TCP [OR] 35.174.82.237:11095 <-- [L] 192.168.242.15:63343
+        : NestLog.netify.nest
+        : D: ec2-35-174-82-237.compute-1.amazonaws.com
+        : DP: 8
+
+offline0: i4pc---------F- TCP [OR] 35.188.154.186:11095 <-- [L] 192.168.242.15:63344
+        : NestLog.netify.nest
+        : D: weave-logsink.nest.com
+        : DP: 9
+
+offline0: i4pc---------F- TCP [OR] 35.188.154.186:11095 <-- [L] 192.168.242.15:63345
+        : NestLog.netify.nest
+        : D: weave-logsink.nest.com
+        : DP: 8
+
+offline0: i4pc---------F- TCP [OR] 35.174.82.237:11095 <-- [L] 192.168.242.15:63346
+        : NestLog.netify.nest
+        : D: ec2-35-174-82-237.compute-1.amazonaws.com
+        : DP: 8
+
+offline0: i4pc---------F- TCP [OR] 35.188.154.186:11095 <-- [L] 192.168.242.15:63347
+        : NestLog.netify.nest
+        : D: weave-logsink.nest.com
+        : DP: 8
+
+offline0: i4pc---------F- TCP [OR] 35.188.154.186:11095 <-- [L] 192.168.242.15:63348
+        : NestLog.netify.nest
+        : D: weave-logsink.nest.com
+        : DP: 8
+
+offline0: i4pc---------F- TCP [OR] 35.174.82.237:11095 <-- [L] 192.168.242.15:63349
+        : NestLog.netify.nest
+        : D: ec2-35-174-82-237.compute-1.amazonaws.com
+        : DP: 8
+
+offline0: i4pc---------F- TCP [OR] 35.174.82.237:11095 <-- [L] 192.168.242.15:63350
+        : NestLog.netify.nest
+        : D: ec2-35-174-82-237.compute-1.amazonaws.com
+        : DP: 8
+
+offline0: i4pc---------F- TCP [OR] 35.188.154.186:11095 <-- [L] 192.168.242.15:63351
+        : NestLog.netify.nest
+        : D: weave-logsink.nest.com
+        : DP: 8
+
+offline0: i4pc----------- TCP [OR] 35.174.82.237:11095 <-- [L] 192.168.242.15:63352
+        : NestLog.netify.nest
+        : D: ec2-35-174-82-237.compute-1.amazonaws.com
+        : DP: 8
+
+offline0: i4pc---------F- TCP [OR] 35.188.154.186:11095 <-- [L] 192.168.242.15:63353
+        : NestLog.netify.nest
+        : D: weave-logsink.nest.com
+        : DP: 8
+

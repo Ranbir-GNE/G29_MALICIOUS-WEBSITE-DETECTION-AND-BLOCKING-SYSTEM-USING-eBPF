@@ -1,0 +1,18 @@
+offline0: i4pcu------r--- TCP [OR] 167.99.215.164:993 <-- [L] 192.168.1.8:50506
+        : IMAP/S
+        : H: mail.ntop.org
+        : V: 0x0303 CS: 0xc030
+        : TLS/SNI: mail.ntop.org TLS/CN: mail.ntop.org
+        : TLS/IDN: C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3 TLS/SDN: CN=mail.ntop.org
+        : RID 30: TLS Certificate Expired
+        : RID 47: TLS ALPN Not Found
+        : DP: 7
+
+offline0: i4pcu-x----r--- TCP [L] 10.10.10.1:993 <-- [OL] 192.168.0.1:51529
+        : IMAP/S.netify.godaddy
+        : H: imap.asia.secureserver.net
+        : V: 0x0303 CS: 0xc030
+        : TLS/SNI: imap.asia.secureserver.net
+        : RID 47: TLS ALPN Not Found
+        : DP: 8
+

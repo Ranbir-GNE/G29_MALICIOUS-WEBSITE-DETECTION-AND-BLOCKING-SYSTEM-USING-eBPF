@@ -1,0 +1,60 @@
+offline0: i4pc-------r--- TCP [OR] 8.17.22.31:4000 <-- [L] 192.168.0.20:43594
+        : FIX
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- TCP [OR] 8.17.22.31:4000 <-- [L] 192.168.0.20:47968
+        : FIX
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- TCP [L] 192.168.0.20:45578 --> [OR] 208.245.107.3:4000
+        : FIX
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- TCP [OR] 8.17.22.31:4000 <-- [L] 192.168.0.20:47952
+        : FIX
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- TCP [L] 192.168.0.20:45584 --> [OR] 208.245.107.3:4000
+        : FIX
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- TCP [OR] 8.17.22.31:4000 <-- [L] 192.168.0.20:47962
+        : FIX
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- TCP [L] 192.168.0.20:38652 --> [OR] 208.245.107.3:4000
+        : FIX
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- TCP [OR] 8.17.22.31:4000 <-- [L] 192.168.0.20:40918
+        : FIX
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- TCP [L] 192.168.0.20:38646 --> [OR] 208.245.107.3:4000
+        : FIX
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- TCP [L] 192.168.0.20:39094 --> [OR] 208.245.107.3:4000
+        : FIX
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- TCP [L] 192.168.0.20:53330 --> [OR] 217.192.86.32:4000
+        : FIX
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- TCP [OR] 8.17.22.31:4000 <-- [L] 192.168.0.20:40928
+        : FIX
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+

@@ -1,0 +1,10 @@
+offline0: i4pc-------r--- TCP [L] 10.119.105.26:54768 --> [OL] 10.175.211.1:2404
+        : IEC60870/5/104
+        : RID 46: Unidirectional Traffic
+        : DP: 2
+
+offline0: i4pc-------r--- TCP [L] 10.119.105.26:54769 --> [OL] 10.175.211.3:2404
+        : IEC60870/5/104
+        : RID 46: Unidirectional Traffic
+        : DP: 2
+

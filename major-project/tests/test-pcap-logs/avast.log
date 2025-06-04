@@ -1,0 +1,40 @@
+offline0: i4pc----------- TCP [OR] 5.62.54.29:80 <-- [L] 192.168.2.100:64357
+        : AVAST.netify.avast
+        : DP: 4
+
+offline0: i4pc----------- TCP [OR] 5.62.53.53:80 <-- [L] 192.168.2.100:64701
+        : AVAST.netify.avast
+        : DP: 4
+
+offline0: i4pc----------- TCP [OR] 5.62.53.53:80 <-- [L] 192.168.2.100:64903
+        : AVAST.netify.avast
+        : DP: 4
+
+offline0: i4pc----------- TCP [OR] 5.62.54.89:80 <-- [L] 192.168.2.100:58030
+        : AVAST.netify.avast
+        : DP: 4
+
+offline0: i4pc----------- TCP [OR] 5.62.53.53:80 <-- [L] 192.168.2.100:49758
+        : AVAST.netify.avast
+        : DP: 4
+
+offline0: i4pc----------- TCP [OR] 5.62.54.89:80 <-- [L] 192.168.2.100:49532
+        : AVAST.netify.avast
+        : DP: 4
+
+offline0: i4pc----------- TCP [OR] 5.62.54.29:80 <-- [L] 192.168.2.100:58412
+        : AVAST.netify.avast
+        : DP: 4
+
+offline0: i4pc----------- TCP [OR] 5.62.54.89:80 <-- [L] 192.168.2.100:54405
+        : AVAST.netify.avast
+        : DP: 4
+
+offline0: i4pc----------- TCP [OR] 5.62.54.29:80 <-- [L] 192.168.2.100:57727
+        : AVAST.netify.avast
+        : DP: 4
+
+offline0: i4pc----------- TCP [OR] 5.62.53.131:80 <-- [L] 192.168.2.100:62741
+        : AVAST.netify.avast
+        : DP: 4
+

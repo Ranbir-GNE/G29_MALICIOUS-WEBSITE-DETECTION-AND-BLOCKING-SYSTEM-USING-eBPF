@@ -1,0 +1,21 @@
+offline0: i4pcu---------- TCP [OR] 52.84.223.58:443 <-- [L] 192.168.1.128:54020
+        : HTTP/S.netify.dazn
+        : H: www.dazn.com
+        : V: 0x0303 CS: 0x1301
+        : TLS/SNI: www.dazn.com
+        : DP: 4
+
+offline0: i4pcu---------- TCP [OR] 13.226.244.27:443 <-- [L] 192.168.1.128:46036
+        : HTTP/S.netify.dazn
+        : H: user-profile.ar.indazn.com
+        : V: 0x0303 CS: 0x1301
+        : TLS/SNI: user-profile.ar.indazn.com
+        : DP: 4
+
+offline0: i4pcu---------- TCP [OR] 13.226.244.30:443 <-- [L] 192.168.1.128:40882
+        : HTTP/S.netify.dazn
+        : H: subscriptions-service.dazn-api.com
+        : V: 0x0303 CS: 0x1301
+        : TLS/SNI: subscriptions-service.dazn-api.com
+        : DP: 4
+

@@ -1,0 +1,8 @@
+offline0: i4pc-------r--- UDP [L] 10.9.0.1:41436 --> [OL] 10.9.0.2:443
+        : QUIC.netify.internal-network
+        : H: localhost
+        : V: 0x0304
+        : TLS/SNI: localhost
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+

@@ -1,0 +1,21 @@
+offline0: i4pcu------r-F- TCP [L] 10.8.0.1:33233 --> [OR] 74.125.136.141:443
+        : HTTP/S.netify.google
+        : V: 0x0303 CS: 0xc02f
+        : RID 35: TLS SNI Extension Not Found
+        : RID 47: TLS ALPN Not Found
+        : DP: 6
+
+offline0: i4pc----------- TCP [L] 10.8.0.1:44536 --> [OR] 74.125.136.141:443
+        : HTTP/S.netify.snapchat
+        : H: feelinsonice-hrd.appspot.com
+        : V: 0x0303 CS: 0xc02f
+        : TLS/SNI: feelinsonice-hrd.appspot.com
+        : DP: 6
+
+offline0: i4pc----------- TCP [L] 10.8.0.1:56193 --> [OR] 74.125.136.141:443
+        : HTTP/S.netify.snapchat
+        : H: feelinsonice-hrd.appspot.com
+        : V: 0x0303 CS: 0xc02f
+        : TLS/SNI: feelinsonice-hrd.appspot.com
+        : DP: 6
+

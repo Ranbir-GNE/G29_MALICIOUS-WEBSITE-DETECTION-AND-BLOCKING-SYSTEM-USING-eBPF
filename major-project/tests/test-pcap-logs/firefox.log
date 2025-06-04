@@ -1,0 +1,42 @@
+offline0: i4pcu---------- TCP [OR] 146.48.58.18:443 <-- [L] 192.168.1.178:51577
+        : HTTP/S
+        : H: www.iit.cnr.it
+        : V: 0x0303 CS: 0x1302
+        : TLS/SNI: www.iit.cnr.it
+        : DP: 6
+
+offline0: i4pcu---------- TCP [OR] 146.48.58.18:443 <-- [L] 192.168.1.178:51583
+        : HTTP/S
+        : H: www.iit.cnr.it
+        : V: 0x0303 CS: 0x1302
+        : TLS/SNI: www.iit.cnr.it
+        : DP: 6
+
+offline0: i4pcu---------- TCP [OR] 146.48.58.18:443 <-- [L] 192.168.1.178:51588
+        : HTTP/S
+        : H: www.iit.cnr.it
+        : V: 0x0303 CS: 0x1302
+        : TLS/SNI: www.iit.cnr.it
+        : DP: 6
+
+offline0: i4pcu---------- TCP [OR] 146.48.58.18:443 <-- [L] 192.168.1.178:51600
+        : HTTP/S
+        : H: www.iit.cnr.it
+        : V: 0x0303 CS: 0x1302
+        : TLS/SNI: www.iit.cnr.it
+        : DP: 6
+
+offline0: i4pcu---------- TCP [OR] 146.48.58.18:443 <-- [L] 192.168.1.178:51599
+        : HTTP/S
+        : H: www.iit.cnr.it
+        : V: 0x0303 CS: 0x1302
+        : TLS/SNI: www.iit.cnr.it
+        : DP: 6
+
+offline0: i4pcu---------- TCP [OR] 146.48.58.18:443 <-- [L] 192.168.1.178:51601
+        : HTTP/S
+        : H: www.iit.cnr.it
+        : V: 0x0303 CS: 0x1302
+        : TLS/SNI: www.iit.cnr.it
+        : DP: 6
+

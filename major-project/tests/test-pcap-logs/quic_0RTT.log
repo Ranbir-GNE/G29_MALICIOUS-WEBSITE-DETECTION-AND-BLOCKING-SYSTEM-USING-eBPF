@@ -1,0 +1,17 @@
+offline0: i6pc-------r--- UDP [L] ::1:60459 --> [OL] ::1:4443
+        : QUIC
+        : H: abcd
+        : V: 0x0304
+        : TLS/SNI: abcd
+        : RID 16: Known Protocol on Non-standard Port
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [OR] 142.250.181.227:443 <-- [L] 192.168.2.100:51972
+        : QUIC.netify.google
+        : H: ssl.gstatic.com
+        : V: 0x0304
+        : TLS/SNI: ssl.gstatic.com
+        : RID 46: Unidirectional Traffic
+        : DP: 3
+

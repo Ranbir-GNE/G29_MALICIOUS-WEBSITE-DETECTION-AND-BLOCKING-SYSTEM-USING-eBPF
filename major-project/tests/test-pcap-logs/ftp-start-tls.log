@@ -1,0 +1,12 @@
+offline0: i4pcu------r--- TCP [L] 10.220.50.76:21 <-- [OL] 10.238.26.36:62092
+        : FTP/S
+        : H: _authorized
+        : V: 0x0303 CS: 0x000a
+        : TLS/SNI: _authorized TLS/CN: osscertificate
+        : TLS/IDN: C=CN, O=Huawei, OU=Wireless Network Product Line, CN=Huawei Wireless Network Product CA TLS/SDN: C=CN, O=Huawei, OU=Huawei Network Product Line, CN=OSS Certificate
+        : RID 35: TLS SNI Extension Not Found
+        : RID 41: Weak TLS Cipher
+        : RID 42: Unsafe Protocol
+        : RID 47: TLS ALPN Not Found
+        : DP: 17
+

@@ -1,0 +1,8 @@
+offline0: i4pcu-x----r--- TCP [L] 10.10.10.1:995 <-- [OL] 192.168.0.1:55077
+        : POP3/S.netify.godaddy
+        : H: pop.secureserver.net
+        : V: 0x0303 CS: 0xc028
+        : TLS/SNI: pop.secureserver.net
+        : RID 47: TLS ALPN Not Found
+        : DP: 5
+

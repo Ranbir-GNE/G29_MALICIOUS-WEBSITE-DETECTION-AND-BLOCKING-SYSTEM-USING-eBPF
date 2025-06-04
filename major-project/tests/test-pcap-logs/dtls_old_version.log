@@ -1,0 +1,7 @@
+offline0: i4pcu------r--- UDP [OR] 37.188.4.115:56453 --> [L] 70.66.6.128:443
+        : DTLS
+        : V: 0x0100 CS: 0x0035
+        : RID 36: Obsolete TLS (v1.1 or older)
+        : RID 41: Weak TLS Cipher
+        : DP: 7
+

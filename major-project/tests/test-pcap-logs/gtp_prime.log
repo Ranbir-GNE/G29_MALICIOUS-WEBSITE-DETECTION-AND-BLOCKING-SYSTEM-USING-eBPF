@@ -1,0 +1,6 @@
+offline0: i4pc-------r--- UDP [L] 10.10.39.10:3386 <-- [OL] 10.10.54.1:64580
+        : GTP
+        : RID 16: Known Protocol on Non-standard Port
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+

@@ -1,0 +1,5 @@
+offline0: i4pc-------r--- TCP [L] 172.29.43.201:514 <-- [OL] 172.31.78.129:9039
+        : SYSLOG
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+

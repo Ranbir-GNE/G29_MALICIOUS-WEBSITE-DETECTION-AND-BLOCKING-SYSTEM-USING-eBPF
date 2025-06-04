@@ -1,0 +1,5 @@
+offline0: i4pc-------r--- TCP [L] 192.168.110.131:2074 --> [OL] 192.168.110.138:502
+        : Modbus
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+

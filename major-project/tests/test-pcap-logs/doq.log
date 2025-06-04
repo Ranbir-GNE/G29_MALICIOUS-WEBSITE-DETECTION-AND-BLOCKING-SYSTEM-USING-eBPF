@@ -1,0 +1,12 @@
+offline0: i6pc-------r--- UDP [L] ::1:784 <-- [OL] ::1:47826
+        : QUIC
+        : V: 0x0304
+        : RID 35: TLS SNI Extension Not Found
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i6pc-------r--- IPv6-ICMP [L] ::1:0 <-- [OL] ::1:0
+        : ICMPv6
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+

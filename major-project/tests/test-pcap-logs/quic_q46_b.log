@@ -1,0 +1,7 @@
+offline0: i4pc-------r--- UDP [OR] 110.231.134.35:443 <-- [L] 172.27.69.216:45530
+        : QUIC.netify.youtube
+        : H: upload.youtube.com
+        : TLS/SNI: upload.youtube.com
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+

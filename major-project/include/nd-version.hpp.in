@@ -1,0 +1,8 @@
+#pragma once
+
+#define ND_NAME        "@PACKAGE_NAME@"
+#define ND_NAME_SHORT  "@PACKAGE_TARNAME@"
+#define ND_VERSION     @ND_VERSION@
+#define ND_VERSION_STR "@PACKAGE_VERSION@"
+
+// vi: ei=all

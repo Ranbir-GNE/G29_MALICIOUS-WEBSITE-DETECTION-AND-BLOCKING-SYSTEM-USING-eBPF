@@ -1,0 +1,6 @@
+offline0: i4pc-------r--- TCP [OR] 178.71.206.1:6881 <-- [L] 192.168.122.34:48987
+        : BitTorrent
+        : BT/HASH: 0f6b9cd2b7da4de9b6c846203920e3da49cdb795
+        : RID 16: Known Protocol on Non-standard Port
+        : DP: 10
+

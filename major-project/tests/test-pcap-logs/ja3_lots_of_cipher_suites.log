@@ -1,0 +1,10 @@
+offline0: i4pcu------r--- TCP [L] 10.206.65.249:443 <-- [OL] 10.206.131.18:58657
+        : HTTP/S
+        : V: 0x0303 CS: 0x0045
+        : TLS/CN: xrx9c934e949fef
+        : TLS/IDN: C=US, ST=New York, L=Rochester, O=Xerox Corporation, OU=Generic Root Certificate Authority, CN=Xerox Generic Root Certificate Authority TLS/SDN: C=US, ST=Connecticut, L=Norwalk, O=Xerox Corporation, OU=Global Product Delivery Group, CN=XRX9C934E949FEF, C=US, ST=Connecticut, L=Norwalk, O=Xerox Corporation, OU=Global Product Delivery Group, CN=XRX9C934E949FEF
+        : RID 30: TLS Certificate Expired
+        : RID 35: TLS SNI Extension Not Found
+        : RID 47: TLS ALPN Not Found
+        : DP: 7
+

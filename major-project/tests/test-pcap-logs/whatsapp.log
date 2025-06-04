@@ -1,0 +1,430 @@
+offline0: i4pc-------rs-- TCP [OR] 179.60.195.49:5222 <-- [L] 192.168.2.100:44804
+        : XMPP.netify.meta-messaging
+        : RID 46: Unidirectional Traffic
+        : DP: 4
+
+offline0: i4pc-------rs-- TCP [OR] 179.60.195.49:5222 <-- [L] 192.168.2.100:40084
+        : XMPP.netify.meta-messaging
+        : RID 46: Unidirectional Traffic
+        : DP: 4
+
+offline0: i4pc-------rs-- TCP [OR] 179.60.195.49:5222 <-- [L] 192.168.2.100:42272
+        : XMPP.netify.meta-messaging
+        : RID 46: Unidirectional Traffic
+        : DP: 4
+
+offline0: i4pc-------rs-- TCP [OR] 179.60.195.49:5222 <-- [L] 192.168.2.100:42436
+        : XMPP.netify.meta-messaging
+        : RID 46: Unidirectional Traffic
+        : DP: 4
+
+offline0: i4pc-------rs-- TCP [OR] 179.60.195.49:5222 <-- [L] 192.168.2.100:40178
+        : XMPP.netify.meta-messaging
+        : RID 46: Unidirectional Traffic
+        : DP: 4
+
+offline0: i4pc-------rs-- TCP [OR] 179.60.195.49:5222 <-- [L] 192.168.2.100:42646
+        : XMPP.netify.meta-messaging
+        : RID 46: Unidirectional Traffic
+        : DP: 4
+
+offline0: i4pc-------rs-- TCP [OR] 179.60.195.49:5222 <-- [L] 192.168.2.100:40204
+        : XMPP.netify.meta-messaging
+        : RID 46: Unidirectional Traffic
+        : DP: 4
+
+offline0: i4pc-------rs-- TCP [OR] 179.60.195.49:5222 <-- [L] 192.168.2.100:45932
+        : XMPP.netify.meta-messaging
+        : RID 46: Unidirectional Traffic
+        : DP: 4
+
+offline0: i4pc-------rs-- TCP [OR] 179.60.195.49:5222 <-- [L] 192.168.2.100:40954
+        : XMPP.netify.meta-messaging
+        : RID 46: Unidirectional Traffic
+        : DP: 4
+
+offline0: i4pc-------rs-- TCP [OR] 179.60.195.49:5222 <-- [L] 192.168.2.100:41214
+        : XMPP.netify.meta-messaging
+        : RID 46: Unidirectional Traffic
+        : DP: 4
+
+offline0: i4pc-------rs-- TCP [OR] 179.60.195.33:5222 <-- [L] 192.168.2.100:49026
+        : XMPP.netify.meta-messaging
+        : RID 46: Unidirectional Traffic
+        : DP: 4
+
+offline0: i4pc-------rs-- TCP [OR] 179.60.195.49:5222 <-- [L] 192.168.2.100:41288
+        : XMPP.netify.meta-messaging
+        : RID 46: Unidirectional Traffic
+        : DP: 4
+
+offline0: i4pc-------rs-- TCP [OR] 179.60.195.49:5222 <-- [L] 192.168.2.100:41610
+        : XMPP.netify.meta-messaging
+        : RID 46: Unidirectional Traffic
+        : DP: 4
+
+offline0: i4pc-------rs-- TCP [OR] 179.60.195.49:5222 <-- [L] 192.168.2.100:41808
+        : XMPP.netify.meta-messaging
+        : RID 46: Unidirectional Traffic
+        : DP: 4
+
+offline0: i4pc-------rs-- TCP [OR] 179.60.195.33:5222 <-- [L] 192.168.2.100:37482
+        : XMPP.netify.meta-messaging
+        : RID 46: Unidirectional Traffic
+        : DP: 4
+
+offline0: i4pc-------rs-- TCP [OR] 179.60.195.33:5222 <-- [L] 192.168.2.100:37582
+        : XMPP.netify.meta-messaging
+        : RID 46: Unidirectional Traffic
+        : DP: 4
+
+offline0: i4pc-------rs-- TCP [OR] 179.60.195.49:5222 <-- [L] 192.168.2.100:45754
+        : XMPP.netify.meta-messaging
+        : RID 46: Unidirectional Traffic
+        : DP: 4
+
+offline0: i4pc-------rs-- TCP [OR] 179.60.195.49:5222 <-- [L] 192.168.2.100:45824
+        : XMPP.netify.meta-messaging
+        : RID 46: Unidirectional Traffic
+        : DP: 4
+
+offline0: i4pc-------rs-- TCP [OR] 179.60.195.49:5222 <-- [L] 192.168.2.100:46406
+        : XMPP.netify.meta-messaging
+        : RID 46: Unidirectional Traffic
+        : DP: 4
+
+offline0: i4pc-------rs-- TCP [OR] 31.13.83.49:5222 <-- [L] 192.168.2.100:40224
+        : XMPP.netify.meta-messaging
+        : RID 46: Unidirectional Traffic
+        : DP: 4
+
+offline0: i4pc-------rs-- TCP [OR] 179.60.195.33:5222 <-- [L] 192.168.2.100:45470
+        : XMPP.netify.meta-messaging
+        : RID 46: Unidirectional Traffic
+        : DP: 4
+
+offline0: i4pc-------rs-- TCP [OR] 179.60.195.49:5222 <-- [L] 192.168.2.100:43084
+        : XMPP.netify.meta-messaging
+        : RID 46: Unidirectional Traffic
+        : DP: 4
+
+offline0: i4pc-------rs-- TCP [OR] 179.60.195.33:5222 <-- [L] 192.168.2.100:45602
+        : XMPP.netify.meta-messaging
+        : RID 46: Unidirectional Traffic
+        : DP: 4
+
+offline0: i4pc-------rs-- TCP [OR] 179.60.195.49:5222 <-- [L] 192.168.2.100:43152
+        : XMPP.netify.meta-messaging
+        : RID 46: Unidirectional Traffic
+        : DP: 4
+
+offline0: i4pc-------rs-- TCP [OR] 179.60.195.33:5222 <-- [L] 192.168.2.100:46042
+        : XMPP.netify.meta-messaging
+        : RID 46: Unidirectional Traffic
+        : DP: 4
+
+offline0: i4pc-------rs-- TCP [OR] 179.60.195.49:5222 <-- [L] 192.168.2.100:43206
+        : XMPP.netify.meta-messaging
+        : RID 46: Unidirectional Traffic
+        : DP: 4
+
+offline0: i4pc-------rs-- TCP [OR] 179.60.195.49:5222 <-- [L] 192.168.2.100:43230
+        : XMPP.netify.meta-messaging
+        : RID 46: Unidirectional Traffic
+        : DP: 4
+
+offline0: i4pc-------rs-- TCP [OR] 179.60.195.33:5222 <-- [L] 192.168.2.100:46468
+        : XMPP.netify.meta-messaging
+        : RID 46: Unidirectional Traffic
+        : DP: 4
+
+offline0: i4pc-------rs-- TCP [OR] 179.60.195.33:5222 <-- [L] 192.168.2.100:47360
+        : XMPP.netify.meta-messaging
+        : RID 46: Unidirectional Traffic
+        : DP: 4
+
+offline0: i4pc-------rs-- TCP [OR] 179.60.195.33:5222 <-- [L] 192.168.2.100:39828
+        : XMPP.netify.meta-messaging
+        : RID 46: Unidirectional Traffic
+        : DP: 4
+
+offline0: i4pc-------rs-- TCP [OR] 179.60.195.33:5222 <-- [L] 192.168.2.100:40108
+        : XMPP.netify.meta-messaging
+        : RID 46: Unidirectional Traffic
+        : DP: 4
+
+offline0: i4pc-------rs-- TCP [OR] 179.60.195.49:5222 <-- [L] 192.168.2.100:43954
+        : XMPP.netify.meta-messaging
+        : RID 46: Unidirectional Traffic
+        : DP: 4
+
+offline0: i4pc-------rs-- TCP [OR] 31.13.93.54:5222 <-- [L] 192.168.2.100:49096
+        : XMPP.netify.meta-messaging
+        : RID 46: Unidirectional Traffic
+        : DP: 4
+
+offline0: i4pc-------rs-- TCP [OR] 179.60.195.49:5222 <-- [L] 192.168.2.100:43978
+        : XMPP.netify.meta-messaging
+        : RID 46: Unidirectional Traffic
+        : DP: 4
+
+offline0: i4pc-------rs-- TCP [OR] 179.60.195.33:5222 <-- [L] 192.168.2.100:40990
+        : XMPP.netify.meta-messaging
+        : RID 46: Unidirectional Traffic
+        : DP: 4
+
+offline0: i4pc-------rs-- TCP [OR] 179.60.195.49:5222 <-- [L] 192.168.2.100:45290
+        : XMPP.netify.meta-messaging
+        : RID 46: Unidirectional Traffic
+        : DP: 4
+
+offline0: i4pc-------rs-- TCP [OR] 179.60.195.49:5222 <-- [L] 192.168.2.100:51544
+        : XMPP.netify.meta-messaging
+        : RID 46: Unidirectional Traffic
+        : DP: 4
+
+offline0: i4pc-------rs-- TCP [OR] 179.60.195.49:5222 <-- [L] 192.168.2.100:47948
+        : XMPP.netify.meta-messaging
+        : RID 46: Unidirectional Traffic
+        : DP: 4
+
+offline0: i4pc-------rs-- TCP [OR] 179.60.195.49:5222 <-- [L] 192.168.2.100:51724
+        : XMPP.netify.meta-messaging
+        : RID 46: Unidirectional Traffic
+        : DP: 4
+
+offline0: i4pc-------rs-- TCP [OR] 179.60.195.49:5222 <-- [L] 192.168.2.100:45334
+        : XMPP.netify.meta-messaging
+        : RID 46: Unidirectional Traffic
+        : DP: 4
+
+offline0: i4pc-------rs-- TCP [OR] 179.60.195.49:5222 <-- [L] 192.168.2.100:52152
+        : XMPP.netify.meta-messaging
+        : RID 46: Unidirectional Traffic
+        : DP: 4
+
+offline0: i4pc-------rs-- TCP [OR] 179.60.195.33:5222 <-- [L] 192.168.2.100:41664
+        : XMPP.netify.meta-messaging
+        : RID 46: Unidirectional Traffic
+        : DP: 4
+
+offline0: i4pc-------rs-- TCP [OR] 179.60.195.49:5222 <-- [L] 192.168.2.100:52294
+        : XMPP.netify.meta-messaging
+        : RID 46: Unidirectional Traffic
+        : DP: 4
+
+offline0: i4pc-------rs-- TCP [OR] 179.60.195.33:5222 <-- [L] 192.168.2.100:41722
+        : XMPP.netify.meta-messaging
+        : RID 46: Unidirectional Traffic
+        : DP: 4
+
+offline0: i4pc-------rs-- TCP [OR] 179.60.195.49:5222 <-- [L] 192.168.2.100:48234
+        : XMPP.netify.meta-messaging
+        : RID 46: Unidirectional Traffic
+        : DP: 4
+
+offline0: i4pc-------rs-- TCP [OR] 179.60.195.49:5222 <-- [L] 192.168.2.100:55038
+        : XMPP.netify.meta-messaging
+        : RID 46: Unidirectional Traffic
+        : DP: 4
+
+offline0: i4pc-------rs-- TCP [OR] 31.13.70.50:5222 <-- [L] 192.168.2.100:55476
+        : XMPP.netify.meta-messaging
+        : RID 46: Unidirectional Traffic
+        : DP: 4
+
+offline0: i4pc-------rs-- TCP [OR] 179.60.195.49:5222 <-- [L] 192.168.2.100:48538
+        : XMPP.netify.meta-messaging
+        : RID 46: Unidirectional Traffic
+        : DP: 4
+
+offline0: i4pc-------rs-- TCP [OR] 179.60.195.49:5222 <-- [L] 192.168.2.100:45850
+        : XMPP.netify.meta-messaging
+        : RID 46: Unidirectional Traffic
+        : DP: 4
+
+offline0: i4pc-------rs-- TCP [OR] 179.60.195.33:5222 <-- [L] 192.168.2.100:42622
+        : XMPP.netify.meta-messaging
+        : RID 46: Unidirectional Traffic
+        : DP: 4
+
+offline0: i4pc-------rs-- TCP [OR] 179.60.195.49:5222 <-- [L] 192.168.2.100:58198
+        : XMPP.netify.meta-messaging
+        : RID 46: Unidirectional Traffic
+        : DP: 4
+
+offline0: i4pc-------rs-- TCP [OR] 179.60.195.33:5222 <-- [L] 192.168.2.100:42796
+        : XMPP.netify.meta-messaging
+        : RID 46: Unidirectional Traffic
+        : DP: 4
+
+offline0: i4pc-------rs-- TCP [OR] 179.60.195.33:5222 <-- [L] 192.168.2.100:43152
+        : XMPP.netify.meta-messaging
+        : RID 46: Unidirectional Traffic
+        : DP: 4
+
+offline0: i4pc-------rs-- TCP [OR] 179.60.195.49:5222 <-- [L] 192.168.2.100:46732
+        : XMPP.netify.meta-messaging
+        : RID 46: Unidirectional Traffic
+        : DP: 4
+
+offline0: i4pc-------rs-- TCP [OR] 179.60.195.49:5222 <-- [L] 192.168.2.100:58882
+        : XMPP.netify.meta-messaging
+        : RID 46: Unidirectional Traffic
+        : DP: 4
+
+offline0: i4pc-------rs-- TCP [OR] 179.60.195.49:5222 <-- [L] 192.168.2.100:46598
+        : XMPP.netify.meta-messaging
+        : RID 46: Unidirectional Traffic
+        : DP: 4
+
+offline0: i4pc-------rs-- TCP [OR] 179.60.195.49:5222 <-- [L] 192.168.2.100:46768
+        : XMPP.netify.meta-messaging
+        : RID 46: Unidirectional Traffic
+        : DP: 4
+
+offline0: i4pc-------rs-- TCP [OR] 179.60.195.33:5222 <-- [L] 192.168.2.100:45130
+        : XMPP.netify.meta-messaging
+        : RID 46: Unidirectional Traffic
+        : DP: 4
+
+offline0: i4pc-------rs-- TCP [OR] 179.60.195.49:5222 <-- [L] 192.168.2.100:60328
+        : XMPP.netify.meta-messaging
+        : RID 46: Unidirectional Traffic
+        : DP: 4
+
+offline0: i4pc-------rs-- TCP [OR] 179.60.195.49:5222 <-- [L] 192.168.2.100:32798
+        : XMPP.netify.meta-messaging
+        : RID 46: Unidirectional Traffic
+        : DP: 4
+
+offline0: i4pc-------rs-- TCP [OR] 179.60.195.49:5222 <-- [L] 192.168.2.100:47086
+        : XMPP.netify.meta-messaging
+        : RID 46: Unidirectional Traffic
+        : DP: 4
+
+offline0: i4pc-------rs-- TCP [OR] 179.60.195.49:5222 <-- [L] 192.168.2.100:49182
+        : XMPP.netify.meta-messaging
+        : RID 46: Unidirectional Traffic
+        : DP: 4
+
+offline0: i4pc-------rs-- TCP [OR] 179.60.195.49:5222 <-- [L] 192.168.2.100:49232
+        : XMPP.netify.meta-messaging
+        : RID 46: Unidirectional Traffic
+        : DP: 4
+
+offline0: i4pc-------rs-- TCP [OR] 179.60.195.49:5222 <-- [L] 192.168.2.100:47350
+        : XMPP.netify.meta-messaging
+        : RID 46: Unidirectional Traffic
+        : DP: 4
+
+offline0: i4pc-------rs-- TCP [OR] 179.60.195.49:5222 <-- [L] 192.168.2.100:49238
+        : XMPP.netify.meta-messaging
+        : RID 46: Unidirectional Traffic
+        : DP: 4
+
+offline0: i4pc-------rs-- TCP [OR] 179.60.195.49:5222 <-- [L] 192.168.2.100:49250
+        : XMPP.netify.meta-messaging
+        : RID 46: Unidirectional Traffic
+        : DP: 4
+
+offline0: i4pc-------rs-- TCP [OR] 179.60.195.49:5222 <-- [L] 192.168.2.100:47296
+        : XMPP.netify.meta-messaging
+        : RID 46: Unidirectional Traffic
+        : DP: 4
+
+offline0: i4pc-------rs-- TCP [OR] 179.60.195.49:5222 <-- [L] 192.168.2.100:47900
+        : XMPP.netify.meta-messaging
+        : RID 46: Unidirectional Traffic
+        : DP: 4
+
+offline0: i4pc-------rs-- TCP [OR] 179.60.195.49:5222 <-- [L] 192.168.2.100:47590
+        : XMPP.netify.meta-messaging
+        : RID 46: Unidirectional Traffic
+        : DP: 4
+
+offline0: i4pc-------rs-- TCP [OR] 179.60.195.49:5222 <-- [L] 192.168.2.100:49428
+        : XMPP.netify.meta-messaging
+        : RID 46: Unidirectional Traffic
+        : DP: 4
+
+offline0: i4pc-------rs-- TCP [OR] 179.60.195.49:5222 <-- [L] 192.168.2.100:47634
+        : XMPP.netify.meta-messaging
+        : RID 46: Unidirectional Traffic
+        : DP: 4
+
+offline0: i4pc-------rs-- TCP [OR] 179.60.195.49:5222 <-- [L] 192.168.2.100:49610
+        : XMPP.netify.meta-messaging
+        : RID 46: Unidirectional Traffic
+        : DP: 4
+
+offline0: i4pc-------rs-- TCP [OR] 179.60.195.49:5222 <-- [L] 192.168.2.100:37378
+        : XMPP.netify.meta-messaging
+        : RID 46: Unidirectional Traffic
+        : DP: 4
+
+offline0: i4pc-------rs-- TCP [OR] 179.60.195.49:5222 <-- [L] 192.168.2.100:47738
+        : XMPP.netify.meta-messaging
+        : RID 46: Unidirectional Traffic
+        : DP: 4
+
+offline0: i4pc-------rs-- TCP [OR] 179.60.195.49:5222 <-- [L] 192.168.2.100:37404
+        : XMPP.netify.meta-messaging
+        : RID 46: Unidirectional Traffic
+        : DP: 4
+
+offline0: i4pc-------rs-- TCP [OR] 179.60.195.49:5222 <-- [L] 192.168.2.100:47776
+        : XMPP.netify.meta-messaging
+        : RID 46: Unidirectional Traffic
+        : DP: 4
+
+offline0: i4pc-------rs-- TCP [OR] 179.60.195.49:5222 <-- [L] 192.168.2.100:37766
+        : XMPP.netify.meta-messaging
+        : RID 46: Unidirectional Traffic
+        : DP: 4
+
+offline0: i4pc-------rs-- TCP [OR] 179.60.195.49:5222 <-- [L] 192.168.2.100:37674
+        : XMPP.netify.meta-messaging
+        : RID 46: Unidirectional Traffic
+        : DP: 4
+
+offline0: i4pc-------rs-- TCP [OR] 179.60.195.49:5222 <-- [L] 192.168.2.100:47810
+        : XMPP.netify.meta-messaging
+        : RID 46: Unidirectional Traffic
+        : DP: 4
+
+offline0: i4pc-------rs-- TCP [OR] 179.60.195.33:5222 <-- [L] 192.168.2.100:46394
+        : XMPP.netify.meta-messaging
+        : RID 46: Unidirectional Traffic
+        : DP: 4
+
+offline0: i4pc-------rs-- TCP [OR] 179.60.195.49:5222 <-- [L] 192.168.2.100:37822
+        : XMPP.netify.meta-messaging
+        : RID 46: Unidirectional Traffic
+        : DP: 4
+
+offline0: i4pc-------rs-- TCP [OR] 179.60.195.33:5222 <-- [L] 192.168.2.100:46576
+        : XMPP.netify.meta-messaging
+        : RID 46: Unidirectional Traffic
+        : DP: 4
+
+offline0: i4pc-------rs-- TCP [OR] 179.60.195.49:5222 <-- [L] 192.168.2.100:38234
+        : XMPP.netify.meta-messaging
+        : RID 46: Unidirectional Traffic
+        : DP: 4
+
+offline0: i4pc-------rs-- TCP [OR] 179.60.195.33:5222 <-- [L] 192.168.2.100:47284
+        : XMPP.netify.meta-messaging
+        : RID 46: Unidirectional Traffic
+        : DP: 4
+
+offline0: i4pc-------rs-- TCP [OR] 179.60.195.49:5222 <-- [L] 192.168.2.100:39334
+        : XMPP.netify.meta-messaging
+        : RID 46: Unidirectional Traffic
+        : DP: 4
+
+offline0: i4pc-------rs-- TCP [OR] 179.60.195.49:5222 <-- [L] 192.168.2.100:40006
+        : XMPP.netify.meta-messaging
+        : RID 46: Unidirectional Traffic
+        : DP: 4
+

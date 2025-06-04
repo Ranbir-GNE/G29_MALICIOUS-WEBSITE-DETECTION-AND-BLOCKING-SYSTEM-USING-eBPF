@@ -1,0 +1,358 @@
+offline0: i4pc-------r--- UDP [L] 10.12.64.30:29200 --> [OR] 108.226.25.53:1812
+        : RADIUS
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.102.64.30:29200 --> [OR] 198.226.25.53:1812
+        : RADIUS
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.12.64.30:29200 --> [OR] 198.226.25.53:1812
+        : RADIUS
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.12.64.30:29200 --> [OR] 198.226.25.53:1813
+        : RADIUS
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.4.64.30:29200 --> [OR] 198.226.25.53:1812
+        : RADIUS
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.12.64.30:29270 --> [OR] 198.226.25.53:1812
+        : RADIUS
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.12.64.30:29264 --> [OR] 198.226.25.53:1813
+        : RADIUS
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [OR] 182.12.64.30:29200 --> [L] 198.226.25.53:1812
+        : RADIUS
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [OR] 74.12.64.30:29200 --> [L] 198.226.25.53:1812
+        : RADIUS
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.12.64.30:29200 --> [OR] 198.226.77.53:1812
+        : RADIUS
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.12.64.30:29200 --> [OR] 198.226.25.62:1812
+        : RADIUS
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.12.64.30:29200 --> [OR] 198.114.25.53:1812
+        : RADIUS
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.12.64.30:29200 --> [OR] 206.226.25.53:1812
+        : RADIUS
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.12.64.30:29200 --> [OR] 198.157.25.53:1812
+        : RADIUS
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.12.64.30:29200 --> [OR] 198.230.25.62:1812
+        : RADIUS
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.12.64.30:29200 --> [OR] 198.226.82.53:1812
+        : RADIUS
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.12.64.30:30224 --> [OR] 198.226.25.53:1812
+        : RADIUS
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.56.64.30:9472 --> [OR] 198.226.25.53:1812
+        : RADIUS
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.28.64.30:29200 --> [OR] 198.226.25.53:1812
+        : RADIUS
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.12.64.30:29200 --> [OR] 198.224.25.53:1812
+        : RADIUS
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc----------- UDP [L] 10.12.37.0:29200 --> [OR] 198.226.25.53:1812
+        : RADIUS
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.12.64.110:29200 --> [OR] 198.226.25.53:1812
+        : RADIUS
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.12.64.30:29200 --> [OR] 72.226.25.53:1812
+        : RADIUS
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc----------- UDP [L] 10.12.64.30:29200 --> [OR] 198.226.37.0:1812
+        : RADIUS
+        : DP: 1
+
+offline0: i4pc-------r--- VRRP [L] 10.12.64.30:0 --> [OR] 198.226.25.53:0
+        : VRRP
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.12.64.30:29200 --> [OR] 37.0.25.62:1812
+        : RADIUS
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc--x----r--- UDP [L] 10.12.64.30:29295 --> [OR] 198.226.25.62:1812
+        : RADIUS
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc--x----r--- UDP [L] 10.12.64.30:29295 --> [OR] 198.226.25.62:1812
+        : RADIUS
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc--x----r--- UDP [L] 10.12.64.30:29295 --> [OR] 198.226.25.62:1812
+        : RADIUS
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.12.64.30:29304 --> [OR] 198.226.25.53:1812
+        : RADIUS
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.12.172.158:29200 --> [OR] 198.226.25.53:1812
+        : RADIUS
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.12.64.30:29200 --> [OR] 198.234.25.53:1812
+        : RADIUS
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.76.64.30:29200 --> [OR] 198.226.25.53:1812
+        : RADIUS
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.12.112.30:29200 --> [OR] 198.226.25.53:1812
+        : RADIUS
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.84.37.0:29200 --> [OR] 198.226.25.53:1812
+        : RADIUS
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [OR] 0.226.25.53:1812 <-- [L] 10.12.64.37:29200
+        : RADIUS
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.12.64.30:29200 --> [OR] 198.48.25.53:1812
+        : RADIUS
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.12.64.30:29200 --> [OR] 198.52.25.53:1812
+        : RADIUS
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.12.64.30:29204 --> [OR] 198.226.25.53:1812
+        : RADIUS
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [OR] 65.12.64.30:29200 --> [L] 198.226.25.53:1812
+        : RADIUS
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.12.69.30:29200 --> [OR] 198.226.25.53:1813
+        : RADIUS
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.12.82.30:29200 --> [OR] 198.226.25.53:1812
+        : RADIUS
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [OR] 88.12.80.30:29200 --> [L] 198.226.25.53:1812
+        : RADIUS
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.6.64.30:29200 --> [OR] 198.226.25.53:1812
+        : RADIUS
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.82.64.30:29200 --> [OR] 198.226.25.53:1812
+        : RADIUS
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.12.64.30:29200 --> [OR] 198.226.80.53:1812
+        : RADIUS
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.12.64.30:29200 --> [OR] 198.7.9.53:1812
+        : RADIUS
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.81.64.30:29200 --> [OR] 198.226.25.53:1812
+        : RADIUS
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.12.64.73:29200 --> [OR] 198.226.25.53:1812
+        : RADIUS
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.12.64.30:29208 --> [OR] 198.226.25.53:1812
+        : RADIUS
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.12.64.30:29289 --> [OR] 198.226.25.53:1812
+        : RADIUS
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.12.64.30:29200 --> [OR] 198.226.25.21:1812
+        : RADIUS
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.12.64.30:22544 --> [OR] 198.226.25.53:1812
+        : RADIUS
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.12.64.30:21008 --> [OR] 198.226.25.53:1813
+        : RADIUS
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.8.64.30:29200 --> [OR] 198.226.25.53:1812
+        : RADIUS
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-gx----r--- UDP [OR] 14.12.64.30:29200 --> [L] 198.226.25.53:3860
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-gx----r--- 170 [OR] 170.170.170.170:0 <-- [L] 170.170.170.170:0
+        : Unknown.netify.fedex
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-gx----r--- UDP [L] 10.12.120.30:29200 --> [OR] 198.226.25.53:1812
+        : RADIUS
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-gx----r--- 85 [L] 10.12.64.30:0 <-- [OR] 198.226.25.62:0
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-gx----r--- UDP [L] 10.12.64.30:29200 --> [OR] 198.226.25.53:1965
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-gx----r--- 254 [L] 10.12.64.30:0 --> [OR] 198.226.25.53:0
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-gx----r--- DDP [L] 10.12.64.30:0 <-- [OR] 198.226.25.53:0
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-gx----r--- UDP [L] 10.12.64.30:29200 --> [OR] 198.226.25.53:1814
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-gx----r--- IP [L] 10.12.64.30:0 --> [OR] 198.226.25.53:0
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-gx----r--- UDP [L] 10.12.64.30:29200 <-- [OR] 198.226.25.53:43028
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-gx----r--- UDP [L] 10.12.64.30:29200 --> [OR] 198.162.25.53:1810
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-gx----r--- EIGRP [L] 10.12.64.30:0 <-- [OR] 198.226.25.53:0
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-gx----r--- UDP [OR] 57.12.64.30:29200 --> [L] 198.226.25.53:28948
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-gx----r--- UDP [L] 10.12.64.30:29200 --> [OR] 198.226.25.53:1895
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-gx----r--- UDP [L] 10.12.64.30:29200 --> [OR] 198.226.25.53:1796
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-gx----r--- UDP [L] 10.12.64.66:29200 --> [OR] 198.226.25.53:1812
+        : RADIUS
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-gx----r--- UDP [L] 10.12.64.30:29200 --> [OR] 198.119.25.53:1812
+        : RADIUS.netify.nasa
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+

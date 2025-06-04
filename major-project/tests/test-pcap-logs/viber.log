@@ -1,0 +1,160 @@
+offline0: i4pc----------- UDP [L] 192.168.0.15:53 <-- [OL] 192.168.0.17:45743
+        : DNS.netify.facebook
+        : H: graph.facebook.com
+        : DP: 2
+
+offline0: i4pc----------- UDP [L] 192.168.0.15:53 <-- [OL] 192.168.0.17:35283
+        : DNS.netify.adjust
+        : H: app.adjust.com
+        : DP: 2
+
+offline0: i4pc----------- UDP [L] 192.168.0.15:53 <-- [OL] 192.168.0.17:62872
+        : DNS.netify.urban-airship
+        : H: mapi.apptimize.com
+        : DP: 2
+
+offline0: i4pcu------r-F- TCP [OR] 54.69.166.226:443 <-- [L] 192.168.0.17:36986
+        : HTTP/S.netify.urban-airship
+        : D: apptimize.com H: mapi.apptimize.com
+        : V: 0x0303 CS: 0xc02f
+        : TLS/SNI: mapi.apptimize.com TLS/CN: apptimize.com
+        : TLS/IDN: C=GB, ST=Greater Manchester, L=Salford, O=COMODO CA Limited, CN=COMODO RSA Organization Validation Secure Server CA TLS/SDN: C=US, ST=CA, L=Mountain View, O=Apptimize, Inc, OU=PremiumSSL Wildcard, CN=*.apptimize.com
+        : RID 30: TLS Certificate Expired
+        : DP: 9
+
+offline0: i4pc---------F- TCP [OR] 54.69.166.226:443 <-- [L] 192.168.0.17:36988
+        : HTTP/S.netify.urban-airship
+        : D: apptimize.com H: mapi.apptimize.com
+        : V: 0x0303
+        : TLS/SNI: mapi.apptimize.com
+        : DP: 6
+
+offline0: i4pc----------- UDP [L] 192.168.0.15:53 <-- [OL] 192.168.0.17:37418
+        : DNS.netify.viber
+        : H: media.cdn.viber.com
+        : DP: 2
+
+offline0: i4pcu------r--- TCP [OR] 54.230.93.96:443 <-- [L] 192.168.0.17:57520
+        : HTTP/S.netify.viber
+        : D: do2gy2kwak9k2.cloudfront.net H: media.cdn.viber.com
+        : V: 0x0303 CS: 0xc02f
+        : TLS/SNI: media.cdn.viber.com TLS/CN: cdn.viber.com
+        : TLS/IDN: C=US, O=thawte, Inc., CN=thawte SSL CA - G2 TLS/SDN: C=LU, ST=Luxembourg, L=Luxembourg, O=Viber Media Sarl, OU=IT, CN=*.cdn.viber.com
+        : RID 30: TLS Certificate Expired
+        : DP: 8
+
+offline0: i4pc----------- UDP [L] 192.168.0.15:53 <-- [OL] 192.168.0.17:40445
+        : DNS.netify.viber
+        : H: dl-media.viber.com
+        : DP: 2
+
+offline0: i4pcu------r--- TCP [OR] 54.230.93.53:443 <-- [L] 192.168.0.17:53934
+        : HTTP/S.netify.viber
+        : D: d1fje9gm3d05t8.cloudfront.net H: dl-media.viber.com
+        : V: 0x0303 CS: 0xc02f
+        : TLS/SNI: dl-media.viber.com TLS/CN: viber.com
+        : TLS/IDN: C=US, O=thawte, Inc., CN=thawte SSL CA - G2 TLS/SDN: C=LU, ST=Luxembourg, L=Luxembourg, O=Viber Media Sarl, OU=IT, CN=*.viber.com
+        : RID 30: TLS Certificate Expired
+        : DP: 8
+
+offline0: i4pc----------- UDP [L] 192.168.0.15:53 <-- [OL] 192.168.0.17:35331
+        : DNS.netify.google-ads
+        : H: app-measurement.com
+        : DP: 2
+
+offline0: i4pc----------- TCP [OR] 172.217.23.78:443 <-- [L] 192.168.0.17:43702
+        : HTTP/S.netify.google-ads
+        : D: app-measurement.com
+        : V: 0x0303 CS: 0xc02f
+        : TLS/SNI: app-measurement.com
+        : DP: 6
+
+offline0: i6pc----------- IPv6-ICMP [L] fe80::3207:4dff:fea3:5fa7:0 --> [OM] ff02::2:0
+        : ICMPv6
+        : DP: 1
+
+offline0: i4pc----------- UDP [L] 192.168.0.15:53 <-- [OL] 192.168.0.17:44376
+        : DNS.netify.braze
+        : H: venetia.iad.appboy.com
+        : DP: 2
+
+offline0: i4pc----------- TCP [OR] 151.101.1.130:443 <-- [L] 192.168.0.17:55746
+        : HTTP/S.netify.braze
+        : D: y.ssl.global.fastly.net H: venetia.iad.appboy.com
+        : V: 0x0303
+        : TLS/SNI: venetia.iad.appboy.com
+        : DP: 6
+
+offline0: i4pc-g--------- TCP [OR] 52.0.253.101:4244 <-- [L] 192.168.0.17:33208
+        : Viber.netify.viber
+        : DP: 32
+
+offline0: i4pc-------r--- UDP [OR] 18.201.4.32:7985 <-- [L] 192.168.0.17:47171
+        : Viber
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [OR] 18.201.4.32:7987 <-- [L] 192.168.0.17:47171
+        : Viber
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pcu------r-F- TCP [OR] 54.187.91.182:443 <-- [L] 192.168.0.17:49048
+        : HTTP/S.netify.urban-airship
+        : D: apptimize.com H: brahe.apptimize.com
+        : V: 0x0303 CS: 0xc02f
+        : TLS/SNI: brahe.apptimize.com TLS/CN: apptimize.com
+        : TLS/IDN: C=GB, ST=Greater Manchester, L=Salford, O=COMODO CA Limited, CN=COMODO RSA Organization Validation Secure Server CA TLS/SDN: C=US, ST=CA, L=Mountain View, O=Apptimize, Inc, OU=PremiumSSL Wildcard, CN=*.apptimize.com
+        : RID 30: TLS Certificate Expired
+        : DP: 9
+
+offline0: i4pc-------r--- UDP [OR] 18.201.4.3:7985 <-- [L] 192.168.0.17:38190
+        : Viber
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [OR] 18.201.4.3:7987 <-- [L] 192.168.0.17:38190
+        : Viber
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc----------- UDP [L] 192.168.0.15:53 <-- [OL] 192.168.0.17:50097
+        : DNS.netify.google
+        : H: www.google.com
+        : DP: 2
+
+offline0: i4pc-------r--- ICMP [L] 192.168.0.15:0 <-- [OL] 192.168.0.17:0
+        : ICMP
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc----------- TCP [OR] 52.0.252.145:4244 <-- [L] 192.168.2.100:48690
+        : Viber.netify.viber
+        : DP: 4
+
+offline0: i4pc---------F- TCP [OR] 52.0.252.2:5242 <-- [L] 192.168.2.100:41184
+        : Viber.netify.viber
+        : DP: 4
+
+offline0: i4pc-------r--- TCP [OR] 44.192.202.74:4244 <-- [L] 192.168.2.100:42900
+        : Viber
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc--x-------- UDP [L] 192.168.0.17:5353 --> [OM] 224.0.0.251:5353
+        : MDNS.netify.internal-network
+        : H: _805741c9._sub._googlecast._tcp.local
+        : DP: 4
+
+offline0: i4pc-gx-------- UDP [OR] 172.217.23.106:443 <-- [L] 192.168.0.17:41993
+        : QUIC.netify.google
+        : DP: 3
+
+offline0: i4pc-gx------F- TCP [OR] 18.201.4.32:443 <-- [L] 192.168.0.17:45424
+        : HTTP/S
+        : DP: 6
+
+offline0: i4pc-gx------F- TCP [OR] 18.201.4.3:443 <-- [L] 192.168.0.17:33744
+        : HTTP/S
+        : DP: 6
+

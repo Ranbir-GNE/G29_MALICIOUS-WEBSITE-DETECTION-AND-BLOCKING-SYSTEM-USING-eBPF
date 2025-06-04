@@ -1,0 +1,7 @@
+offline0: i4pc-------r--- UDP [L] 192.168.1.236:50587 --> [OR] 216.58.206.86:443
+        : QUIC.netify.youtube
+        : H: i.ytimg.com
+        : TLS/SNI: i.ytimg.com
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+

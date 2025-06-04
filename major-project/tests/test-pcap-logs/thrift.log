@@ -1,0 +1,9 @@
+offline0: i4pc----------- TCP [OR] 169.254.46.4:11010 <-- [L] 169.254.59.247:53387
+        : Apache/Thrift
+        : DP: 4
+
+offline0: i4pc-------r--- UDP [L] 127.0.0.1:49164 --> [OL] 127.0.0.1:6831
+        : Apache/Thrift
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+

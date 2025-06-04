@@ -1,0 +1,52 @@
+offline0: i4pc----------- UDP [OR] 8.8.8.8:53 <-- [L] 10.200.2.11:48375
+        : DNS.netify.apple-push
+        : H: 41-courier.push.apple.com
+        : DP: 2
+
+offline0: i4pc----------- UDP [OR] 8.8.8.8:53 <-- [L] 10.200.2.11:57290
+        : DNS.netify.teams
+        : H: teams.skype.com
+        : DP: 2
+
+offline0: i4pc----------- UDP [OR] 8.8.8.8:53 <-- [L] 10.200.2.11:57051
+        : DNS.netify.teams
+        : H: api.teams.skype.com
+        : DP: 2
+
+offline0: i4pc----------- UDP [OR] 8.8.8.8:53 <-- [L] 10.200.2.11:46134
+        : DNS.netify.google-chat
+        : H: alt2-mtalk.google.com
+        : DP: 2
+
+offline0: i4pc----------- UDP [OR] 8.8.8.8:53 <-- [L] 10.200.2.11:57632
+        : DNS.netify.android
+        : H: android.clients.google.com
+        : DP: 2
+
+offline0: i4pc-------r--- UDP [OR] 8.8.8.8:53 <-- [L] 10.200.2.11:42790
+        : DNS.netify.teams
+        : H: _.teams.microsoft.com
+        : RID  8: Error Code
+        : RID 15: Text With Non-Printable Characters
+        : DP: 2
+
+offline0: i4pc----------- UDP [OR] 8.8.8.8:53 <-- [L] 10.200.2.11:44198
+        : DNS.netify.youtube
+        : H: wide-youtube.l.google.com
+        : DP: 2
+
+offline0: i4pc----------- UDP [OR] 8.8.8.8:53 <-- [L] 10.200.2.11:52541
+        : DNS.netify.apple-siri
+        : H: guzzoni.apple.com
+        : DP: 2
+
+offline0: i4pc----------- UDP [OR] 8.8.8.8:53 <-- [L] 10.200.2.11:53951
+        : DNS.netify.wechat
+        : H: short.weixin.qq.com
+        : DP: 2
+
+offline0: i4pc----------- UDP [OR] 8.8.8.8:53 <-- [L] 10.200.2.11:44883
+        : DNS.netify.instagram
+        : H: instagram.faae1-1.fna.fbcdn.net
+        : DP: 2
+

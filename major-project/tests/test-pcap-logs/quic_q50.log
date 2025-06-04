@@ -1,0 +1,7 @@
+offline0: i4pc-------r--- UDP [OR] 184.151.193.237:443 <-- [L] 248.144.129.147:39203
+        : QUIC.netify.analytics
+        : H: www.googletagmanager.com
+        : TLS/SNI: www.googletagmanager.com
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+

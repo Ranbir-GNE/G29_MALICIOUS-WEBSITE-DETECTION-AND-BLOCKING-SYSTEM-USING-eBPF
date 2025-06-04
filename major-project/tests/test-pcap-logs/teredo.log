@@ -1,0 +1,25 @@
+offline0: i4pc-------r--- UDP [L] 10.112.16.106:52513 --> [OR] 194.136.28.76:3544
+        : Teredo
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.112.16.89:60381 --> [OR] 194.136.28.76:3544
+        : Teredo
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.112.16.92:63448 --> [OR] 194.136.28.76:3544
+        : Teredo
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.112.16.64:56154 --> [OR] 194.136.28.76:3544
+        : Teredo
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.112.16.67:51812 --> [OR] 194.136.28.76:3544
+        : Teredo
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+

@@ -1,0 +1,144 @@
+offline0: i4pc----------- TCP [L] 172.16.8.8:88 <-- [OL] 172.16.8.201:49157
+        : Kerberos
+        : DP: 2
+
+offline0: i4pc----------- TCP [L] 172.16.8.8:88 <-- [OL] 172.16.8.201:49160
+        : Kerberos
+        : DP: 2
+
+offline0: i4pc----------- TCP [L] 172.16.8.8:88 <-- [OL] 172.16.8.201:49166
+        : Kerberos
+        : DP: 2
+
+offline0: i4pc----------- TCP [L] 172.16.8.8:88 <-- [OL] 172.16.8.201:49171
+        : Kerberos
+        : DP: 2
+
+offline0: i4pc----------- TCP [L] 172.16.8.8:88 <-- [OL] 172.16.8.201:49176
+        : Kerberos
+        : DP: 2
+
+offline0: i4pc----------- TCP [L] 172.16.8.8:88 <-- [OL] 172.16.8.201:49181
+        : Kerberos
+        : DP: 2
+
+offline0: i4pc----------- TCP [L] 172.16.8.8:88 <-- [OL] 172.16.8.201:49187
+        : Kerberos
+        : DP: 2
+
+offline0: i4pc--x-------- TCP [L] 172.16.8.8:88 <-- [OL] 172.16.8.201:49182
+        : Kerberos
+        : DP: 2
+
+offline0: i4pc-gx-------- TCP [L] 172.16.8.8:49155 <-- [OL] 172.16.8.201:49185
+        : Unknown
+        : DP: 3
+
+offline0: i4pc-gx-------- TCP [L] 172.16.8.8:389 <-- [OL] 172.16.8.201:49191
+        : LDAP
+        : DP: 2
+
+offline0: i4pc-gx-------- TCP [L] 172.16.8.8:88 <-- [OL] 172.16.8.201:49162
+        : Kerberos
+        : DP: 2
+
+offline0: i4pc-gx-------- TCP [L] 172.16.8.8:88 <-- [OL] 172.16.8.201:49173
+        : Kerberos
+        : DP: 2
+
+offline0: i4pc-gx-------- TCP [L] 172.16.8.8:445 <-- [OL] 172.16.8.201:49174
+        : SMBv23
+        : DP: 2
+
+offline0: i4pc-gx-------- TCP [L] 172.16.8.8:88 <-- [OL] 172.16.8.201:49159
+        : Kerberos
+        : DP: 2
+
+offline0: i4pc-gx-------- TCP [L] 172.16.8.8:88 <-- [OL] 172.16.8.201:49183
+        : Kerberos
+        : DP: 2
+
+offline0: i4pc-gx-------- TCP [L] 172.16.8.8:88 <-- [OL] 172.16.8.201:49189
+        : Kerberos
+        : DP: 2
+
+offline0: i4pc-gx-------- TCP [L] 172.16.8.8:49155 <-- [OL] 172.16.8.201:49165
+        : Unknown
+        : DP: 6
+
+offline0: i4pc-gx-------- TCP [L] 172.16.8.8:88 <-- [OL] 172.16.8.201:49196
+        : Kerberos
+        : DP: 2
+
+offline0: i4pc-gx-------- TCP [L] 172.16.8.8:445 <-- [OL] 172.16.8.201:49194
+        : SMBv23
+        : DP: 2
+
+offline0: i4pc-gx-------- TCP [L] 172.16.8.8:445 <-- [OL] 172.16.8.201:49156
+        : SMBv23
+        : DP: 2
+
+offline0: i4pc-gx-------- TCP [L] 172.16.8.8:88 <-- [OL] 172.16.8.201:49190
+        : Kerberos
+        : DP: 2
+
+offline0: i4pc-gx-------- TCP [L] 172.16.8.8:88 <-- [OL] 172.16.8.201:49195
+        : Kerberos
+        : DP: 2
+
+offline0: i4pc-gx-------- TCP [L] 172.16.8.8:88 <-- [OL] 172.16.8.201:49175
+        : Kerberos
+        : DP: 2
+
+offline0: i4pc-gx-------- TCP [L] 172.16.8.8:88 <-- [OL] 172.16.8.201:49170
+        : Kerberos
+        : DP: 2
+
+offline0: i4pc--x-------- TCP [L] 172.16.8.8:88 <-- [OL] 172.16.8.201:49167
+        : Kerberos
+        : DP: 2
+
+offline0: i4pc-gx-------- TCP [L] 172.16.8.8:88 <-- [OL] 172.16.8.201:49168
+        : Kerberos
+        : DP: 2
+
+offline0: i4pc--x-------- TCP [L] 172.16.8.8:88 <-- [OL] 172.16.8.201:49158
+        : Kerberos
+        : DP: 2
+
+offline0: i4pc-gx-------- TCP [L] 172.16.8.8:88 <-- [OL] 172.16.8.201:49192
+        : Kerberos
+        : DP: 2
+
+offline0: i4pc-gx-------- TCP [L] 172.16.8.8:389 <-- [OL] 172.16.8.201:49169
+        : LDAP
+        : DP: 2
+
+offline0: i4pc--x-------- TCP [L] 172.16.8.8:88 <-- [OL] 172.16.8.201:49188
+        : Kerberos
+        : DP: 2
+
+offline0: i4pc-gx-------- TCP [L] 172.16.8.8:389 <-- [OL] 172.16.8.201:49193
+        : LDAP
+        : DP: 2
+
+offline0: i4pc-gx-------- TCP [L] 172.16.8.8:389 <-- [OL] 172.16.8.201:49172
+        : LDAP
+        : DP: 2
+
+offline0: i4pc-gx-------- TCP [L] 172.16.8.8:389 <-- [OL] 172.16.8.201:49180
+        : LDAP
+        : DP: 2
+
+offline0: i4pc-gx-------- TCP [L] 172.16.8.8:88 <-- [OL] 172.16.8.201:49186
+        : Kerberos
+        : DP: 2
+
+offline0: i4pc-gx-------- TCP [L] 172.16.8.8:389 <-- [OL] 172.16.8.201:49179
+        : LDAP
+        : DP: 2
+
+offline0: i4pc-gx-------- TCP [L] 172.16.8.8:389 <-- [OL] 172.16.8.201:49161
+        : LDAP
+        : DP: 2
+

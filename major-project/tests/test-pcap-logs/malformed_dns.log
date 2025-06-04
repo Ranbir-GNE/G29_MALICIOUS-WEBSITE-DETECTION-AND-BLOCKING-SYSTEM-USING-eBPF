@@ -1,0 +1,8 @@
+offline0: i4pc-------r--- UDP [L] 127.0.0.1:50435 --> [OL] 127.0.0.1:53
+        : DNS
+        : H: www.xt.com
+        : RID  6: Large DNS Packet (512+ bytes)
+        : RID 17: Malformed Packet
+        : RID 50: Minor Issues
+        : DP: 2
+

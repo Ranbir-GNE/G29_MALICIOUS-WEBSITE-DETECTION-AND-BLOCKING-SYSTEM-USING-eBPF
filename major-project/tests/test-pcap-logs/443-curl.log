@@ -1,0 +1,9 @@
+offline0: i4pcu------r-F- TCP [OR] 178.62.197.130:443 <-- [L] 192.168.1.13:55523
+        : HTTP/S
+        : H: www.ntop.org
+        : V: 0x0303 CS: 0xc02f
+        : TLS/SNI: www.ntop.org TLS/CN: www.ntop.org
+        : TLS/IDN: C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3 TLS/SDN: CN=www.ntop.org
+        : RID 30: TLS Certificate Expired
+        : DP: 7
+

@@ -1,0 +1,34 @@
+offline0: i4pc----------- TCP [L] 10.77.110.51:41588 --> [OL] 10.206.50.239:42000
+        : Skype/Teams/Call.netify.teams
+        : DP: 3
+
+offline0: i4pc--------s-- UDP [OR] 74.125.247.128:3478 <-- [L] 192.168.12.169:43016
+        : Google/Meet/Duo.netify.google-hangouts
+        : H: turn.l.google.com
+        : DP: 4
+
+offline0: i4pc-------r--- ICMP [OR] 74.125.247.128:0 <-- [L] 192.168.12.169:0
+        : ICMP.netify.google
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i6pc----------- UDP [OR] 2a38:e156:8167:a333:face:b00c:0:24d9:3478 <-- [L] 3516:bf0b:fc53:75e7:70af:f67f:8e49:f603:56880
+        : STUN
+        : DP: 5
+
+offline0: i4pc-------r--- UDP [OR] 31.13.86.54:40003 --> [L] 192.168.12.169:38123
+        : Facebook/VoIP.netify.meta
+        : H: turner.facebook
+        : RID 16: Known Protocol on Non-standard Port
+        : DP: 2
+
+offline0: i4pc----------- TCP [OR] 54.1.57.155:37257 --> [L] 87.47.100.17:3478
+        : STUN
+        : H: apps-host.com
+        : DP: 6
+
+offline0: i4pc-------rs-- UDP [OR] 142.250.82.99:3478 <-- [L] 192.168.12.169:49153
+        : Google/Meet/Duo.netify.google-hangouts
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+

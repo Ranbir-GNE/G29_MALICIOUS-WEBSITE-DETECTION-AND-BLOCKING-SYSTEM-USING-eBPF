@@ -1,0 +1,9 @@
+offline0: i4pcu------r-F- TCP [OR] 104.154.89.105:443 <-- [L] 192.168.2.222:54772
+        : HTTP/S.netify.badssl
+        : H: wrong.host.badssl.com
+        : V: 0x0303 CS: 0xc02f
+        : TLS/SNI: wrong.host.badssl.com TLS/CN: badssl.com
+        : TLS/IDN: C=US, O=DigiCert Inc, CN=DigiCert SHA2 Secure Server CA TLS/SDN: C=US, ST=California, L=Walnut Creek, O=Lucas Garron Torres, CN=*.badssl.com
+        : RID 30: TLS Certificate Expired
+        : DP: 10
+

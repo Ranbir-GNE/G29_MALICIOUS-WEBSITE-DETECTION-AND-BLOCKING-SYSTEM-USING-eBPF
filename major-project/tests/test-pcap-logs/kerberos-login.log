@@ -1,0 +1,64 @@
+offline0: i4pc-------r--- UDP [L] 10.1.12.2:1061 --> [OL] 10.5.3.1:88
+        : Kerberos
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.1.12.2:1065 --> [OL] 10.5.3.1:88
+        : Kerberos
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.1.12.2:1067 --> [OL] 10.5.3.1:88
+        : Kerberos
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.1.12.2:1068 --> [OL] 10.5.3.1:88
+        : Kerberos
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.1.12.2:1069 --> [OL] 10.5.3.1:88
+        : Kerberos
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.1.12.2:1074 --> [OL] 10.5.3.1:88
+        : Kerberos
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.1.12.2:1076 --> [OL] 10.5.3.1:88
+        : Kerberos
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.1.12.2:1084 --> [OL] 10.5.3.1:88
+        : Kerberos
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.1.12.2:1089 --> [OL] 10.5.3.1:88
+        : Kerberos
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.1.12.2:1090 --> [OL] 10.5.3.1:88
+        : Kerberos
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.1.12.2:1092 --> [OL] 10.5.3.1:88
+        : Kerberos
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.1.12.2:1096 --> [OL] 10.5.3.1:88
+        : Kerberos
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc---------F- TCP [L] 192.168.10.3:88 <-- [OL] 192.168.10.12:44256
+        : Kerberos
+        : DP: 11
+

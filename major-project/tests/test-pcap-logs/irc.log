@@ -1,0 +1,7 @@
+offline0: i4pc-------r--- TCP [L] 10.180.156.249:45921 --> [OR] 38.229.70.20:8000
+        : IRC
+        : RID  3: Clear-Text Credentials
+        : RID 16: Known Protocol on Non-standard Port
+        : RID 42: Unsafe Protocol
+        : DP: 7
+

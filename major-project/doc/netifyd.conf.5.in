@@ -1,0 +1,152 @@
+.TH @PACKAGE_TARNAME@.conf 5
+.SH NAME
+@PACKAGE_TARNAME@.conf - @PACKAGE_NAME@ Configuration File Format v@PACKAGE_VERSION@
+.SH DESCRIPTION
+The @PACKAGE_TARNAME@.conf file...
+.IP \(bu 2
+follows the standard INI-style format.
+.IP \(bu 2
+contains configuration parameters for \fB@PACKAGE_TARNAME@(8)\fR, a deep-packet inspection server.
+.IP \(bu 2
+contains configuration parameters for the Netify Cloud service (\fIhttps://www.netify.ai/\fR).
+.SS Main
+The main server options are defined within the [\fB@PACKAGE_TARNAME@\fR] section.
+.PP
+\fBenable_sink\fR=\fIBOOLEAN\fR
+.PP
+Uploading detection flow metadata to the Netify Cloud can be enabled or disabled by setting the \fBenable_sink\fR option.  When enabled, detection flow metadata is JSON-encoded, compressed, and uploaded to the Netify Sink server for further analysis and reporting.  A Netify Portal account is required for registration and provisioning at: \fIhttps://www.netify.ai/\fR
+.PP
+\fBmax_backlog_kb\fR=\fIINTEGER\fR
+.PP
+Use \fBmax_backlog_kb\fR to set a limit on the size of the JSON upload buffer.  This is specified in kibibytes and the default is 2048 (2 MiB).  In the event that a payload can not be uploaded it will be queued until either it is successfully transfered or it is pushed out of the backlog buffer by a new payload.
+.PP
+\fBmax_detection_pkts\fR=\fIINTEGER\fR
+.PP
+This option controls the number of packets that are examined by the DPI engine before taking a guess at the type of flow.  The smaller the value the less processing overhead but the less likely enough of a conversation will be analyzed, resulting in fewer detections.  The larger the value, the greater processing duration required.  The default value is 32 packets.  The default should be a good compromise to extract most metadata from flows such as TLS.
+.PP
+\fBssl_use_tlsv1\fR=\fIBOOLEAN\fR
+.PP
+For some platforms it may be necessary to enforce the use of TLSv1.  The default is false.
+.PP
+\fBssl_verify\fR=\fIBOOLEAN\fR
+.PP
+This option disables host (SNI) and peer certificate verification.  You can use this option for testing against a server with a self-signed certificate.  The default is false.
+.PP
+\fBjson_save\fR=\fIBOOLEAN\fR
+.PP
+Enable/disable the \fBjson_save\fR parameter to set whether the current state is output to a JSON file during each update interval.  The default is false.
+.PP
+.SS Capture Sources
+Capture source options are set under a [\fBcapture\fR] section.
+.PP
+\fBtype\fR=\fITYPE\fR
+.PP
+Specify the packet capture type.  Depending on the platform and compile-time options, valid capture types are: \fBpcap\fR or \fBtpv3\fR
+The default is pcap.
+.SS DNS Hint Cache
+DNS hint cache options are set within the [\fBdns_hint_cache\fR] section.
+
+The DNS hint cache stores DNS response records for a period of time.  These hints are used when application detection fails.  A cache look-up is performed and any matching hostname is used to 'hint' the application detection logic.  In most cases this significantly improves application detection.
+.PP
+\fBenable\fR=\fIBOOLEAN\fR
+.PP
+Enable or disable the DNS hint cache.  On non-embedded systems with more memory, it is highly recommended that this be enabled for more comprehensive application detection.  The default is true.
+.PP
+\fBsave\fR=\fIpersistent\fR | \fIvolatile\fR | \fIdisabled\fR
+.PP
+Enable or disable periodic saving of the DNS hint cache.  When reasonably fast storage (hard-drive, fast flash, or sufficiently large RAM disk) is available this option should be enabled.  In the event of a program crash/reload, or system reboot, the DNS hint cache will be primed on start-up when set to \fIpersistent\fR.  This prevents failed application detection due to missed DNS responses.  The default is: \fIpersistent\fR
+.PP
+\fBttl\fR=\fISECONDS\fR
+.PP
+The number of seconds DNS hints should be cached.  New hints will have their initial TTL set to this value.  Existing hints will have their TTL reset to this value on a cache hit (look-up match).  This value should be adjusted according to available memory and network traffic.  Larger networks will generate significantly more DNS traffic.  The default value is 30 minutes (1800 seconds).
+.SS Sockets
+All socket related configuration options are specified under the [\fBsocket\fR] section.
+
+The @PACKAGE_NAME@ can be configured to listen on one or more sockets (TCP/IP socket, or UNIX-domain socket).  Upon a client connection, \fB@PACKAGE_TARNAME@(8)\fR will pass real-time JSON-encoded flow detections.  This is designed for interfacing with third-party applications.  Take care to protect these sockets as there is no authentication or encryption performed.
+.PP
+\fBdump_established_flows\fR=\fIBOOLEAN\fR
+.PP
+When this option is enabled, all established flows that have completed detection will be passed to the connecting client.  This enables the client to take some action on established connections that it may have missed while reloading or being offline.  On embedded systems where memory is scarce, it is highly recommended that this option be carefully enabled because memory usage can be exhausted if the connecting client can not read from the stream fast enough and the socket buffer grows too large.  At the moment there is no hard limit on the socket buffer size.  The default is false.
+.PP
+\fBdump_unknown_flows\fR=\fIBOOLEAN\fR
+.PP
+By default, flows that have failed to have their "master" or Layer 7 protocol detected will not be passed to connected clients.  The rationale is that this is likely wasteful.  The default is false.
+.PP
+Sockets; declare any of the following paramters as arrays with a starting index[\fIn\fR] of zero.
+.PP
+\fBlisten_path\fR[\fIn\fR]=\fIPATH\fR
+.PP
+Create a UNIX-domain socket at \fIPATH\fR for incoming client connections.
+.PP
+\fBlisten_address\fR[\fIn\fR]\fR=\fIADDRESS\fR
+.PP
+Create and bind a TCP/IP socket on \fIADDRESS\fR for incoming network connections.
+.PP
+\fBlisten_port\fR[\fIn\fR]\fR=[\fISERVICE\fR|\fIPORT\fR]
+.PP
+For TCP/IP sockets, you can specify a corresponding \fISERVICE\fR or \fIPORT\fR.  If not specified, the default TCP port 7150 is used.
+.SS Privacy Filter
+The @PACKAGE_NAME@ can be configured to obfuscate flow addresses (MAC and IP) that match rules in the [\fBprivacy_filter\fR] section.  You can match by MAC or IP address.  When a match is found, the MAC and IP address will be replaced with the following bogus addresses:
+
+ \fBMAC\fR: 01:02:03:04:05:06 (lower addresses) 0a:0b:0c:0d:0e:0f (upper addresses)
+
+ \fBIPv4\fR: 1.2.3.1 (lower addresses) 1.2.3.2 (upper addresses)
+ \fBIPv6\fR: 1230::1 (lower addresses) 1230::2 (upper addresses)
+
+Declare these paramters as arrays with a starting index[\fIn\fR] of zero.
+.PP
+\fBmac\fR[\fIn\fR]\fR=\fIMAC\fR
+.PP
+Privacy filter by MAC address.
+.PP
+\fBhost\fR[\fIn\fR]\fR=\fIADDRESS\fR
+.PP
+Privacy filter by IP address.
+.SH SAMPLE CONFIGURATION
+The following sample configuration file contains most common options with their default values.
+
+.PP
+.in +4n
+.EX
+# @PACKAGE_NAME@ sample configuration for version @PACKAGE_VERSION@
+
+[@PACKAGE_TARNAME@]
+enable_sink = false
+json_save = false
+max_backlog_kb = 2048
+max_detection_pkts = 32
+ssl_use_tlsv1 = false
+ssl_verify = true
+
+[dns_hint_cache]
+enable = true
+save = persistent
+ttl = 1800
+
+[socket]
+listen_address[0] = 0.0.0.0
+listen_port[0] = 2100
+listen_path[0] = /var/lib/@PACKAGE_TARNAME@/@PACKAGE_TARNAME@.sock
+
+[privacy_filter]
+mac[0] = 00:11:22:33:44:55
+host[0] = 192.168.0.1
+host[1] = fe80::226:c6ff::1
+
+[tasks]
+example-task = libexample-task.so
+
+[services]
+example-service = libexample-service.so
+.EE
+.in
+.PP
+.SH SEE ALSO
+@PACKAGE_TARNAME@(8)
+.SH COPYRIGHT
+Copyright (C) 2015-2024 eGloo Incorporated <\fIhttp://www.egloo.ca\fR>
+.SH LICENSE
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.

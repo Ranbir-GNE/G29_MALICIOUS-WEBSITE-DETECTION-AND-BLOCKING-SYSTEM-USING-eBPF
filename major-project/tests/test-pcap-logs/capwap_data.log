@@ -1,0 +1,15 @@
+offline0: i4pc-------r--- UDP [L] 172.16.100.87:5247 <-- [OR] 172.50.100.155:41264
+        : CAPWAP
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 172.16.100.87:5247 <-- [OR] 172.50.100.155:41264
+        : CAPWAP
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 172.16.100.87:5247 <-- [OR] 172.50.100.155:41264
+        : CAPWAP
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+

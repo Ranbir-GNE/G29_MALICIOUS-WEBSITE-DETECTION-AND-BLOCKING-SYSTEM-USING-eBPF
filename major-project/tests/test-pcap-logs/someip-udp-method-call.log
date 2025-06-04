@@ -1,0 +1,11 @@
+offline0: i4pc-------r--- UDP [L] 192.168.0.1:49190 --> [OM] 224.0.0.1:49190
+        : SOMEIP
+        : RID 16: Known Protocol on Non-standard Port
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 192.168.0.1:49201 --> [OL] 192.168.0.125:49191
+        : SOMEIP
+        : RID 16: Known Protocol on Non-standard Port
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+

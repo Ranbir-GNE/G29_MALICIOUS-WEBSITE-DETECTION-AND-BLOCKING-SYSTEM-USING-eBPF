@@ -1,0 +1,10 @@
+offline0: i4pc-------r--- UDP [L] 10.2.3.2:500 --> [OL] 10.3.4.4:500
+        : IPSEC
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- IPSEC-AH [L] 10.2.3.2:0 --> [OL] 10.3.4.4:0
+        : IPSEC
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+

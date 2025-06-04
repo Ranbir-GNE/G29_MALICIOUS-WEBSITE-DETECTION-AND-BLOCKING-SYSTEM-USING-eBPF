@@ -1,0 +1,5 @@
+offline0: i4pc-------r--- TCP [L] 10.201.9.11:3868 <-- [OL] 10.201.9.245:50957
+        : Diameter
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+

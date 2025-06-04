@@ -1,0 +1,32 @@
+offline0: i4pc----------- UDP [L] 192.168.1.1:34085 --> [OB] 255.255.255.255:10001
+        : UBNTAC2.netify.ubiquiti
+        : DP: 1
+
+offline0: i4pc----------- UDP [L] 192.168.1.1:44641 --> [OB] 255.255.255.255:10001
+        : UBNTAC2.netify.ubiquiti
+        : DP: 1
+
+offline0: i4pc----------- UDP [L] 192.168.1.1:55321 --> [OB] 255.255.255.255:10001
+        : UBNTAC2.netify.ubiquiti
+        : DP: 1
+
+offline0: i4pc----------- UDP [L] 192.168.1.1:47871 --> [OB] 255.255.255.255:10001
+        : UBNTAC2.netify.ubiquiti
+        : DP: 1
+
+offline0: i4pc----------- UDP [L] 192.168.1.1:59772 --> [OB] 255.255.255.255:10001
+        : UBNTAC2.netify.ubiquiti
+        : DP: 1
+
+offline0: i4pc----------- UDP [L] 192.168.1.1:52220 --> [OB] 255.255.255.255:10001
+        : UBNTAC2.netify.ubiquiti
+        : DP: 1
+
+offline0: i4pc----------- UDP [L] 192.168.1.1:47746 --> [OB] 255.255.255.255:10001
+        : UBNTAC2.netify.ubiquiti
+        : DP: 1
+
+offline0: i4pc----------- UDP [L] 192.168.1.1:42838 --> [OB] 255.255.255.255:10001
+        : UBNTAC2.netify.ubiquiti
+        : DP: 1
+

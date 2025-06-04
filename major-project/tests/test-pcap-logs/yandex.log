@@ -1,0 +1,71 @@
+offline0: i4pcu------r--- TCP [L] 192.168.1.249:40218 --> [OR] 213.180.204.186:443
+        : HTTP/S.netify.yandex
+        : H: music.yandex.kz
+        : V: 0x0303 CS: 0xc02f
+        : TLS/SNI: music.yandex.kz TLS/CN: music.yandex.ru
+        : TLS/IDN: C=BE, O=GlobalSign nv-sa, CN=GlobalSign RSA OV SSL CA 2018 TLS/SDN: C=RU, ST=Moscow, L=Moscow, O=Yandex LLC, CN=*.music.yandex.ru
+        : RID 30: TLS Certificate Expired
+        : DP: 10
+
+offline0: i4pcu---------- TCP [OR] 87.250.250.108:443 <-- [L] 192.168.1.249:57322
+        : HTTP/S.netify.yandex
+        : H: cloud.yandex.ru
+        : V: 0x0303 CS: 0x1302
+        : TLS/SNI: cloud.yandex.ru
+        : DP: 6
+
+offline0: i4pcu---------- TCP [OR] 87.250.250.134:443 <-- [L] 192.168.1.249:58832
+        : HTTP/S.netify.yandex
+        : H: direct.yandex.kz
+        : V: 0x0303 CS: 0x1302
+        : TLS/SNI: direct.yandex.kz
+        : DP: 6
+
+offline0: i4pcu------r--- TCP [OR] 77.88.21.127:443 <-- [L] 192.168.1.249:42954
+        : HTTP/S.netify.yandex
+        : H: 1.downloader.disk.yandex.kz
+        : V: 0x0303 CS: 0xc02f
+        : TLS/SNI: 1.downloader.disk.yandex.kz TLS/CN: downloader.disk.yandex.uz
+        : TLS/IDN: C=BE, O=GlobalSign nv-sa, CN=GlobalSign RSA OV SSL CA 2018 TLS/SDN: C=RU, ST=Moscow, L=Moscow, O=Yandex LLC, CN=*.downloader.disk.yandex.uz
+        : RID 30: TLS Certificate Expired
+        : DP: 8
+
+offline0: i4pcu---------- TCP [OR] 87.250.251.77:443 <-- [L] 192.168.1.249:51462
+        : HTTP/S.netify.yandex
+        : H: metrika.yandex.kz
+        : V: 0x0303 CS: 0x1302
+        : TLS/SNI: metrika.yandex.kz
+        : DP: 6
+
+offline0: i4pc--x----r--- TCP [OR] 178.154.131.216:443 <-- [L] 192.168.1.249:42102
+        : HTTP/S.netify.yandex
+        : H: yastatic.net
+        : V: 0x0303
+        : TLS/SNI: yastatic.net
+        : RID 46: Unidirectional Traffic
+        : DP: 11
+
+offline0: i4pc--x----r--- TCP [OR] 178.154.131.216:443 <-- [L] 192.168.1.249:57126
+        : HTTP/S.netify.yandex
+        : H: yastatic.net
+        : V: 0x0303
+        : TLS/SNI: yastatic.net
+        : RID 46: Unidirectional Traffic
+        : DP: 9
+
+offline0: i4pc--x----r--- TCP [OR] 87.250.251.22:443 <-- [L] 192.168.1.249:40870
+        : HTTP/S.netify.yandex
+        : H: fenek.market.yandex.ru
+        : V: 0x0303
+        : TLS/SNI: fenek.market.yandex.ru
+        : RID 46: Unidirectional Traffic
+        : DP: 11
+
+offline0: i4pc--x----r--- TCP [OR] 77.88.21.37:443 <-- [L] 192.168.1.249:45224
+        : HTTP/S.netify.yandex
+        : H: mail.yandex.kz
+        : V: 0x0303
+        : TLS/SNI: mail.yandex.kz
+        : RID 46: Unidirectional Traffic
+        : DP: 11
+

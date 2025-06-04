@@ -1,0 +1,387 @@
+offline0: i4pc----------- IGMP [L] 10.0.0.1:0 --> [OM] 224.0.0.1:0
+        : IGMP
+        : DP: 1
+
+offline0: i6pc----------- IPv6-ICMP [L] fe80::2e7e:81ff:feb0:4aa1:0 --> [OM] ff02::1:0
+        : ICMPv6
+        : DP: 1
+
+offline0: i4pc----------- IGMP [L] 10.0.0.149:0 --> [OM] 224.0.0.251:0
+        : IGMP
+        : DP: 1
+
+offline0: i4pc----------- IGMP [L] 10.0.0.149:0 --> [OM] 239.255.3.22:0
+        : IGMP
+        : DP: 1
+
+offline0: i4pc----------- IGMP [L] 10.0.0.149:0 --> [OM] 239.255.255.250:0
+        : IGMP
+        : DP: 1
+
+offline0: i4pc----------- UDP [L] 10.0.0.227:52879 --> [OR] 75.75.76.76:53
+        : DNS.netify.viasat
+        : H: vco.pandion.viasat.com
+        : DP: 2
+
+offline0: i4pc----------- UDP [L] 10.0.0.227:61387 --> [OR] 75.75.75.75:53
+        : DNS.netify.viasat
+        : H: vco.pandion.viasat.com
+        : DP: 2
+
+offline0: i4pc----------- UDP [L] 10.0.0.227:62322 --> [OR] 75.75.76.76:53
+        : DNS.netify.viasat
+        : H: vco.pandion.viasat.com
+        : DP: 2
+
+offline0: i4pcu------r-F- TCP [OR] 8.37.102.91:443 <-- [L] 10.0.0.227:56918
+        : HTTP/S.netify.viasat
+        : D: vco.pandion.viasat.com
+        : V: 0x0303 CS: 0x0035
+        : TLS/CN: pandion.viasat.com
+        : TLS/IDN: C=US, O=Entrust, Inc., OU=See www.entrust.net/legal-terms, OU=(c) 2012 Entrust, Inc. - for authorized use only, CN=Entrust Certification Authority - L1K TLS/SDN: C=US, ST=California, L=Carlsbad, O=Viasat Inc., CN=*.pandion.viasat.com
+        : RID 30: TLS Certificate Expired
+        : RID 35: TLS SNI Extension Not Found
+        : RID 41: Weak TLS Cipher
+        : RID 53: TLS ALPN/SNI Mismatch
+        : DP: 12
+
+offline0: i4pcu------r-F- TCP [OR] 8.37.102.91:443 <-- [L] 10.0.0.227:56919
+        : HTTP/S.netify.viasat
+        : D: vco.pandion.viasat.com
+        : V: 0x0303 CS: 0x0035
+        : TLS/CN: pandion.viasat.com
+        : TLS/IDN: C=US, O=Entrust, Inc., OU=See www.entrust.net/legal-terms, OU=(c) 2012 Entrust, Inc. - for authorized use only, CN=Entrust Certification Authority - L1K TLS/SDN: C=US, ST=California, L=Carlsbad, O=Viasat Inc., CN=*.pandion.viasat.com
+        : RID 30: TLS Certificate Expired
+        : RID 35: TLS SNI Extension Not Found
+        : RID 41: Weak TLS Cipher
+        : RID 53: TLS ALPN/SNI Mismatch
+        : DP: 12
+
+offline0: i4pc-------r--- UDP [L] 10.0.0.227:63107 --> [OR] 75.75.76.76:53
+        : DNS.netify.internal-network
+        : H: local
+        : RID  8: Error Code
+        : DP: 2
+
+offline0: i4pc-------r--- ICMP [L] 10.0.0.227:0 --> [OR] 75.75.76.76:0
+        : ICMP
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc----------- IGMP [L] 10.0.0.213:0 --> [OM] 224.0.0.2:0
+        : IGMP
+        : DP: 1
+
+offline0: i4pc----------- IGMP [L] 10.0.0.213:0 --> [OM] 224.0.0.251:0
+        : IGMP
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.0.213:5353 <-- [OL] 10.0.0.227:5353
+        : MDNS.netify.internal-network
+        : H: _companion-link._tcp.local
+        : MDNS/DN: LP-RKERUR-OSX (9)._companion-link._tcp.local
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i6pc----------- IPv6-ICMP [L] fe80::408:3e45:3abc:1552:0 --> [OM] ff02::16:0
+        : ICMPv6
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.0.227:54851 --> [OR] 75.75.76.76:53
+        : DNS.netify.viasat
+        : H: print.viasat.com
+        : RID  8: Error Code
+        : DP: 2
+
+offline0: i4pc----------- UDP [L] 10.0.0.227:58155 --> [OR] 75.75.76.76:53
+        : DNS.netify.slack
+        : H: slack.com
+        : DP: 2
+
+offline0: i4pc---------F- TCP [L] 10.0.0.227:56920 --> [OR] 99.86.34.156:443
+        : HTTP/S.netify.slack
+        : D: slack.com
+        : V: 0x0303 CS: 0xc02f
+        : TLS/SNI: slack.com
+        : DP: 6
+
+offline0: i4pcu------r--- TCP [OR] 8.37.96.194:4287 <-- [L] 10.0.0.227:56921
+        : TLS
+        : V: 0x0303 CS: 0xc030
+        : TLS/CN: 813845657003339838
+        : TLS/IDN: CN=813845657003339838, O=Code42, OU=TEST, ST=MN, C=US TLS/SDN: CN=813845657003339838, O=Code42, OU=TEST, ST=MN, C=US
+        : RID 16: Known Protocol on Non-standard Port
+        : RID 30: TLS Certificate Expired
+        : RID 35: TLS SNI Extension Not Found
+        : RID 37: Self-signed Certificate
+        : RID 47: TLS ALPN Not Found
+        : DP: 6
+
+offline0: i4pc-------r--- UDP [L] 10.0.0.227:57261 --> [OR] 75.75.75.75:53
+        : DNS.netify.viasat
+        : H: vcacrashplan01.hq.corp.viasat.com
+        : RID  8: Error Code
+        : DP: 2
+
+offline0: i4pc-------r--- UDP [L] 10.0.0.227:52879 --> [OR] 75.75.75.75:53
+        : DNS.netify.viasat
+        : H: vcacrashplan01.hq.corp.viasat.com
+        : RID  8: Error Code
+        : DP: 2
+
+offline0: i4pc-------r--- TCP [L] 10.0.0.149:8009 <-- [OL] 10.0.0.227:56320
+        : TLS
+        : RID 16: Known Protocol on Non-standard Port
+        : DP: 13
+
+offline0: i4pc-------r--- UDP [L] 10.0.0.227:59222 --> [OR] 75.75.75.75:53
+        : DNS.netify.xfinity
+        : H: lp-rkerur-osx.hsd1.ca.comcast.net
+        : RID  8: Error Code
+        : DP: 2
+
+offline0: i4pc-------r--- UDP [L] 10.0.0.227:57017 --> [OR] 75.75.75.75:53
+        : DNS.netify.xfinity
+        : H: lp-rkerur-osx.hsd1.ca.comcast.net
+        : RID  8: Error Code
+        : DP: 2
+
+offline0: i4pc----------- UDP [L] 10.0.0.213:5353 --> [OM] 224.0.0.251:5353
+        : MDNS.netify.internal-network
+        : H: _companion-link._tcp.local
+        : DP: 6
+
+offline0: i6pc----------- UDP [L] fe80::408:3e45:3abc:1552:5353 --> [OM] ff02::fb:5353
+        : MDNS.netify.internal-network
+        : H: _companion-link._tcp.local
+        : DP: 6
+
+offline0: i4pcu------r--- TCP [OR] 8.37.102.91:443 <-- [L] 10.0.0.227:56929
+        : HTTP/S.netify.viasat
+        : D: vco.pandion.viasat.com
+        : V: 0x0303 CS: 0x0035
+        : TLS/CN: pandion.viasat.com
+        : TLS/IDN: C=US, O=Entrust, Inc., OU=See www.entrust.net/legal-terms, OU=(c) 2012 Entrust, Inc. - for authorized use only, CN=Entrust Certification Authority - L1K TLS/SDN: C=US, ST=California, L=Carlsbad, O=Viasat Inc., CN=*.pandion.viasat.com
+        : RID 30: TLS Certificate Expired
+        : RID 35: TLS SNI Extension Not Found
+        : RID 41: Weak TLS Cipher
+        : RID 47: TLS ALPN Not Found
+        : DP: 12
+
+offline0: i4pc----------- UDP [L] 10.0.0.227:57253 --> [OR] 75.75.75.75:53
+        : DNS.netify.firefox
+        : H: mozilla.org
+        : DP: 2
+
+offline0: i4pc----------- UDP [L] 10.0.0.227:62427 --> [OR] 75.75.75.75:53
+        : DNS.netify.firefox
+        : H: detectportal.firefox.com
+        : DP: 2
+
+offline0: i4pc----------- TCP [L] 10.0.0.227:56884 --> [OR] 184.25.56.77:80
+        : HTTP.netify.firefox
+        : H: detectportal.firefox.com
+        : HTTP/UA: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.13; rv:69.0) Gecko/20100101 Firefox/69.0
+        : URL: detectportal.firefox.com/success.txt?ipv4
+        : DP: 6
+
+offline0: i4pc----------- TCP [L] 10.0.0.227:56917 --> [OR] 184.25.56.77:80
+        : HTTP.netify.firefox
+        : H: detectportal.firefox.com
+        : HTTP/UA: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.13; rv:69.0) Gecko/20100101 Firefox/69.0
+        : URL: detectportal.firefox.com/success.txt
+        : DP: 6
+
+offline0: i4pc----------- UDP [L] 10.0.0.227:60341 --> [OR] 75.75.75.75:53
+        : DNS.netify.apple
+        : H: www.apple.com
+        : DP: 2
+
+offline0: i4pc----------- UDP [L] 10.0.0.227:59582 --> [OR] 75.75.75.75:53
+        : DNS.netify.apple-push
+        : H: 1-courier.sandbox.push.apple.com
+        : DP: 2
+
+offline0: i4pc----------- UDP [L] 10.0.0.227:51060 --> [OR] 75.75.75.75:53
+        : DNS.netify.apple-push
+        : H: 1-courier.push.apple.com
+        : DP: 2
+
+offline0: i4pc-------rsF- TCP [L] 10.0.0.227:56886 --> [OR] 17.57.144.116:5223
+        : Apple/Push.netify.apple-push
+        : D: us-sw-courier-4.push-apple.com.akadns.net
+        : RID 16: Known Protocol on Non-standard Port
+        : DP: 2
+
+offline0: i4pc----------- UDP [L] 10.0.0.227:64193 --> [OR] 75.75.75.75:53
+        : DNS.netify.apple-push
+        : H: 24-courier.push.apple.com
+        : DP: 2
+
+offline0: i4pc----------- UDP [L] 10.0.0.227:49781 --> [OR] 75.75.75.75:53
+        : DNS.netify.apple
+        : H: apple.com
+        : DP: 2
+
+offline0: i4pc----------- UDP [L] 10.0.0.227:51990 --> [OR] 75.75.75.75:53
+        : DNS.netify.viasat
+        : H: mail.viasat.com
+        : DP: 2
+
+offline0: i4pc----------- UDP [L] 10.0.0.227:58074 --> [OR] 75.75.75.75:53
+        : DNS.netify.outlook
+        : H: www.outlook.com
+        : DP: 2
+
+offline0: i4pc----------- UDP [L] 10.0.0.227:61328 --> [OM] 239.255.255.250:1900
+        : SSDP
+        : H: 239.255.255.250_1900
+        : HTTP/UA: Google Chrome/77.0.3865.90 Mac OS X
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.0.149:38616 <-- [OL] 10.0.0.227:61328
+        : SSDP
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.0.151:1900 <-- [OL] 10.0.0.227:61328
+        : SSDP
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc----------- UDP [L] 10.0.0.227:57547 --> [OM] 239.255.255.250:1900
+        : SSDP
+        : H: 239.255.255.250_1900
+        : HTTP/UA: Google Chrome/77.0.3865.90 Mac OS X
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.0.149:50081 <-- [OL] 10.0.0.227:57547
+        : SSDP
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pcu------r--- UDP [OR] 8.37.102.91:443 <-- [L] 10.0.0.227:54107
+        : DTLS.netify.viasat
+        : D: vco.pandion.viasat.com
+        : V: 0x0100 CS: 0x0039
+        : RID 36: Obsolete TLS (v1.1 or older)
+        : DP: 4
+
+offline0: i4pc-------r--- UDP [L] 10.0.0.151:1900 <-- [OL] 10.0.0.227:57547
+        : SSDP
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- TCP [L] 10.0.0.149:8008 <-- [OL] 10.0.0.227:56954
+        : HTTP
+        : H: 10.0.0.149
+        : HTTP/UA: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.90 Safari/537.36
+        : URL: 10.0.0.149:8008/ssdp/device-desc.xml
+        : RID 10: Numeric IP Address
+        : RID 16: Known Protocol on Non-standard Port
+        : DP: 6
+
+offline0: i4pc-------r-F- TCP [L] 10.0.0.151:8060 <-- [OL] 10.0.0.227:56955
+        : HTTP
+        : H: 10.0.0.151
+        : HTTP/UA: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.90 Safari/537.36
+        : URL: 10.0.0.151:8060/dial/dd.xml
+        : RID 10: Numeric IP Address
+        : RID 16: Known Protocol on Non-standard Port
+        : DP: 6
+
+offline0: i4pc-------r--- UDP [L] 10.0.0.149:49816 <-- [OL] 10.0.0.227:57547
+        : SSDP
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.0.149:48166 <-- [OL] 10.0.0.227:57547
+        : SSDP
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.0.149:51382 <-- [OL] 10.0.0.227:57547
+        : SSDP
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc----------- UDP [L] 10.0.0.227:137 --> [OL] 10.0.0.255:137
+        : NETBIOS
+        : H: lp-rkerur-osx
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.0.149:5353 --> [OM] 224.0.0.251:5353
+        : MDNS.netify.internal-network
+        : H: _googlezone._tcp.local
+        : MDNS/DN: 79d88e83-725c-b71b-bad0-5862d5b22386._googlezone._tcp.local
+        : RID  7: Suspicious DNS Traffic
+        : DP: 3
+
+offline0: i4pc----------- ICMP [L] 10.0.0.1:0 --> [OM] 224.0.0.1:0
+        : ICMP
+        : DP: 1
+
+offline0: i4pc--x----r--- UDP [L] 10.0.0.227:61613 --> [OR] 75.75.75.75:53
+        : DNS.netify.reverse-dns
+        : H: lb._dns-sd._udp.0.0.0.10.in-addr.arpa
+        : RID  8: Error Code
+        : DP: 2
+
+offline0: i4pc-gx------F- TCP [OR] 8.37.103.196:443 <-- [L] 10.0.0.227:56871
+        : HTTP/S.netify.viasat
+        : D: mail.viasat.com
+        : DP: 6
+
+offline0: i4pc--x-------- TCP [L] 10.0.0.227:56879 --> [OR] 52.10.115.210:443
+        : HTTP/S
+        : DP: 6
+
+offline0: i4pc--x-------- TCP [L] 10.0.0.227:56910 --> [OR] 35.201.124.9:443
+        : HTTP/S
+        : DP: 4
+
+offline0: i4pc-gx----r--- UDP [L] 10.0.0.1:192 <-- [OL] 10.0.0.227:52595
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 10
+
+offline0: i4pc-gx------F- TCP [L] 10.0.0.227:56885 --> [OR] 184.25.56.53:80
+        : HTTP
+        : DP: 3
+
+offline0: i4pc--x----r--- UDP [L] 10.0.0.227:64972 --> [OR] 75.75.75.75:53
+        : DNS.netify.reverse-dns
+        : H: lb._dns-sd._udp.0.128.28.172.in-addr.arpa
+        : RID  8: Error Code
+        : DP: 2
+
+offline0: i4pc-gx------F- TCP [L] 10.0.0.149:8008 <-- [OL] 10.0.0.227:56865
+        : Cisco/VPN
+        : DP: 3
+
+offline0: i4pc-gx----r-F- TCP [L] 10.0.0.151:8060 <-- [OL] 10.0.0.227:56866
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 9
+
+offline0: i4pc-gx-------- TCP [L] 10.0.0.227:56881 --> [OR] 162.222.43.153:443
+        : HTTP/S
+        : DP: 12
+
+offline0: i4pc-gx------F- TCP [L] 10.0.0.227:56874 --> [OR] 74.125.197.188:443
+        : HTTP/S.netify.google
+        : DP: 2
+
+offline0: i4pc-gx----r--- TCP [L] 10.0.0.151:8009 <-- [OL] 10.0.0.227:56916
+        : AJP
+        : RID 46: Unidirectional Traffic
+        : DP: 5
+
+offline0: i4pc--x-------- TCP [L] 10.0.0.227:56914 --> [OR] 52.37.243.173:443
+        : HTTP/S
+        : DP: 15
+
+offline0: i4pc--x-------- TCP [L] 10.0.0.227:56915 --> [OR] 52.37.243.173:443
+        : HTTP/S
+        : DP: 15
+

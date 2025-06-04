@@ -1,0 +1,8 @@
+offline0: i4pcu------r--- UDP [L] 192.168.56.103:55523 --> [OL] 192.168.56.104:4433
+        : QUIC
+        : V: 0x0304
+        : RID 16: Known Protocol on Non-standard Port
+        : RID 35: TLS SNI Extension Not Found
+        : RID 53: TLS ALPN/SNI Mismatch
+        : DP: 3
+

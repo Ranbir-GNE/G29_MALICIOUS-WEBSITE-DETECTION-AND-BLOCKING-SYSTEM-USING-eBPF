@@ -1,0 +1,697 @@
+offline0: i4pc-g--------- UDP [OR] 1.173.5.226:22636 <-- [L] 192.168.115.8:22793
+        : Unknown
+        : DP: 32
+
+offline0: i4pc-g--------- UDP [OR] 114.42.0.158:7716 <-- [L] 192.168.115.8:22793
+        : Unknown
+        : DP: 32
+
+offline0: i4pc-g--------- UDP [OR] 118.171.15.56:5544 <-- [L] 192.168.115.8:22793
+        : Unknown
+        : DP: 32
+
+offline0: i4pc-g--------- UDP [L] 192.168.115.8:22793 --> [OR] 219.228.107.156:1250
+        : Unknown
+        : DP: 32
+
+offline0: i4pc-------r--- UDP [L] 192.168.115.8:22793 --> [OR] 218.61.39.103:17788
+        : PPStream
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [OR] 183.61.167.82:17788 <-- [L] 192.168.115.8:22793
+        : PPStream
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 192.168.115.8:22793 --> [OR] 218.61.39.87:17788
+        : PPStream
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [OR] 119.188.133.182:17788 <-- [L] 192.168.115.8:22793
+        : PPStream
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [OR] 183.61.167.104:17788 <-- [L] 192.168.115.8:22793
+        : PPStream
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-g--------- UDP [L] 192.168.115.8:22793 --> [OR] 222.197.138.12:6956
+        : Unknown
+        : DP: 32
+
+offline0: i4pc-------r--- TCP [OR] 101.227.200.11:80 <-- [L] 192.168.115.8:50463
+        : HTTP.netify.iqiyi
+        : H: api.cupid.iqiyi.com
+        : HTTP/UA: Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; WOW64; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0)/QY-Player-Windows/2.0.102
+        : URL: api.cupid.iqiyi.com/track2?a=1&as=1;2,3;4,5&b=1467353138&c=ae87cb3cfdf494aa48dc608909f69250&cv=5.2.15.2240&d=5000000858874&dr=2175&f=4e3ae415a584748ac9aa31628f39d1e8&g=0_aaoefdtqgfdepxc2tnv3piucgcb4eofn&h=&i=qc_100001_100140&iv=0&j=31&k=180932301&kp=4e3ae415a584748ac9aa31628f39d1e8&n=479531000&o=1&p=1000000000381&q=5000000927558&r=c4889e64ad9d9eeb9ff438910850c442&rt=1467353113&s=aea56a808fc92ef360519121948e0f27&sv=4.10.004&u=1&up=&v=5000000859124&ve=1&w=2,3
+        : RID 48: HTTP Obsolete Server
+        : DP: 3
+
+offline0: i4pc----------- TCP [OR] 123.125.112.49:80 <-- [L] 192.168.115.8:50464
+        : HTTP.netify.baidu
+        : H: click.hm.baidu.com
+        : HTTP/UA: Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; WOW64; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0)/QY-Player-Windows/2.0.102
+        : URL: click.hm.baidu.com/clk?53e25e33e064c657c06b558e5c3c33fd
+        : DP: 2
+
+offline0: i4pc----------- TCP [L] 192.168.115.8:50466 --> [OR] 203.66.182.24:80
+        : HTTP.netify.google
+        : H: clients1.google.com
+        : HTTP/UA: Microsoft-CryptoAPI/6.1
+        : URL: clients1.google.com/ocsp/MEkwRzBFMEMwQTAJBgUrDgMCGgUABBTy4Gr5hYodjXCbSRkjeqm1Gih%2BZAQUSt0GFhu89mi1dvWBtrtiGrpagS8CCEYrFXkq2ugz
+        : DP: 2
+
+offline0: i4pc-------r--- TCP [L] 192.168.115.8:50467 --> [OR] 202.108.14.219:80
+        : HTTP
+        : H: msg.71.am
+        : HTTP/UA: QY-Player-Windows/2.0.102
+        : URL: msg.71.am/core?t=11&ct=adstart&starttm=1097&reset=1&ra=2&pf=201&p=11&p1=114&p2=3000&sdktp=1&c1=6&r=500494600&aid=502959900&u=aaoefdtqgfdepxc2tnv3piucgcb4eofn&pu=&os=windows&v=5%2E2%2E15%2E2240&krv=2%2E0%2E102&dt=&hu=-1&rn=1467353119&islocal=0&as=d19f64047b641cd6ff096b04fb2a30b5&ve=3cc0c8fa372625e64143144816f3e968&pe=c95d992e29856dc84f2e9907a2e4b282&vfrm=&chl=&hcdnv=10.0.0.293&tpcd=0&isdrm=1&ht=0
+        : RID 48: HTTP Obsolete Server
+        : DP: 2
+
+offline0: i4pc-------r--- TCP [L] 192.168.115.8:50470 --> [OR] 202.108.14.236:80
+        : HTTP.netify.iqiyi
+        : H: msg.iqiyi.com
+        : HTTP/UA: Qiyi List Client PC 5.2.15.2240
+        : URL: msg.iqiyi.com/b?t=5&pf=201&p=11&p1=114&a=34&ct=onclick&type=pc&as=&clt=pc_play_player_click&mv=5.2.15.2240&pu=&rn=0FE172EC44C44B86AEEDE54AA00541C457406&u=aaoefdtqgfdepxc2tnv3piucgcb4eofn&v=2.0.102.30147
+        : RID 48: HTTP Obsolete Server
+        : DP: 2
+
+offline0: i4pc-------r--- TCP [L] 192.168.115.8:50469 --> [OR] 202.108.14.219:80
+        : HTTP
+        : H: msg.71.am
+        : HTTP/UA: QY-Player-Windows/2.0.102
+        : URL: msg.71.am/core?t=5&a=2&ra=1&pf=201&p=11&p1=114&p2=3000&sdktp=1&c1=31&r=479531000&aid=180932301&u=aaoefdtqgfdepxc2tnv3piucgcb4eofn&pu=&os=Windows%207&v=5%2E2%2E15%2E2240&krv=2%2E0%2E102&dt=&hu=-1&rn=1467353139&islocal=0&as=0311c5a0d5596063db5944bd76b6cbff&ve=b1f90f8da6fe0258d13616a8070cb997&pe=&vfrm=&chl=&hcdnv=10.0.0.293&tpcd=0&isdrm=1&ht=0
+        : RID 48: HTTP Obsolete Server
+        : DP: 2
+
+offline0: i4pc-------r--- TCP [L] 192.168.115.8:50471 --> [OR] 202.108.14.236:80
+        : HTTP
+        : H: msg.71.am
+        : HTTP/UA: Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; WOW64; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0)/QY-Player-Windows/2.0.102
+        : URL: msg.71.am/cp2.gif?a=4e3ae415a584748ac9aa31628f39d1e8&ai=1||71000001||5000000858874||5000000927558||roll&as=&av=4.10.004&b=180932301&c=31&ct=&d=2175&di=&dp=&e=c4889e64ad9d9eeb9ff438910850c442&ec=&em=&fi=&g=0&l=MTE4LjE2My44Ljkw&mk=&nw=&od=&oi=&p=t&pp=&rc=-1&rd=92&ri=&s=1467353138043&sh=&sq=&sw=&t=s&u=0_aaoefdtqgfdepxc2tnv3piucgcb4eofn&v=479531000&vv=5.2.15.2240&x=&y=qc_100001_100140
+        : RID 48: HTTP Obsolete Server
+        : DP: 2
+
+offline0: i4pc-------r--- TCP [L] 192.168.115.8:50474 --> [OR] 202.108.14.221:80
+        : HTTP.netify.iqiyi
+        : H: msg.iqiyi.com
+        : HTTP/UA: Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; CIBA; Alexa Toolbar; Zune 4.7)
+        : URL: msg.iqiyi.com/b?c1=6&s1=1&macid=aaoefdtqgfdepxc2tnv3piucgcb4eofn&channelid=000&nu=&e=1352528&se=1253811&r=500494600&aduid=d07dfd30f0ee4e48bbcaf1208c758471&ctm=1375211&playsource=001004000&vid=562e26caed5695900212eb3259070f8a&albumid=500494600&ra=2&td=22652&succession=4&type=1&vfrm=3-001004000-c_corgi-0&bucket=c_corgi_main&ratp=1&playmode=1&hu=-1&ht=0&ap=0&t=201&ct=clt__pl_play&ve=1352528&pf=201&p=11&p1=114&p2=1011&u=aaoefdtqgfdepxc2tnv3piucgcb4eofn&pu=&v=2.0.102.30147&de=a0ee77a5638897bebfd8555b3270bef6&mv=5.2.15.2240&kv=10.0.0.293&source1=miniplayer&source2=miniplayer&source3=%e5%b0%8f%e6%92%ad%e6%94%be%e5%99%a8&source4=%e5%b0%8f%e6%92%ad%e6%94%be&play_source=1&opt=0&clt=homedl&scene=1&rn=00000001467353140
+        : RID 48: HTTP Obsolete Server
+        : DP: 2
+
+offline0: i4pc-------r--- TCP [L] 192.168.115.8:50475 --> [OR] 202.108.14.236:80
+        : HTTP
+        : H: msg.71.am
+        : HTTP/UA: Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; WOW64; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0)/QY-Player-Windows/2.0.102
+        : URL: msg.71.am/cp2.gif?a=4e3ae415a584748ac9aa31628f39d1e8&ai=&as=1:2:1|2&av=4.10.004&b=204076701&c=6&ct=5000000926795&d=158&di=&dp=71000001&e=512ab77de7f67d49f24d3511778220d0&ec=&em=&fi=&g=0&l=MTE4LjE2My44Ljkw&mk=&nw=&od=5000000856344&oi=&p=a&pp=&rc=&rd=&ri=&s=1467353139057&sh=&sq=&sw=&t=sp&u=0_aaoefdtqgfdepxc2tnv3piucgcb4eofn&v=500494600&vv=5.2.15.2240&x=&y=qc_100001_100140
+        : RID 48: HTTP Obsolete Server
+        : DP: 2
+
+offline0: i4pc-------r--- TCP [OR] 101.227.32.39:80 <-- [L] 192.168.115.8:50476
+        : HTTP.netify.iqiyi
+        : H: cache.video.iqiyi.com
+        : URL: cache.video.iqiyi.com/vi/500494600/562e26caed5695900212eb3259070f8a/?src=1_11_114
+        : RID 14: HTTP Suspicious User-Agent
+        : DP: 2
+
+offline0: i4pc-------r--- TCP [L] 192.168.115.8:50473 --> [OR] 202.108.14.219:80
+        : HTTP
+        : H: msg.71.am
+        : HTTP/UA: QY-Player-Windows/2.0.102
+        : URL: msg.71.am/core?t=1&reset=0&vfrmtp=1&tm1=&tm2=0&tm21=0&tm22=0&tm23=0&tm24=0&tm3=117&tm31=0&tm32=47&tm33=78&tm34=1&tm4=137&tm41=0&tm42=16&tm43=125&tm44=2&tm5=165&tm51=0&tm52=0&tm53=0&tm54=10&tm6=&tm62=0&tm63=0&tm7=0&tm71=0&tm72=0&tm73=0&tm8=0&tm81=0&tm82=0&tm83=0&tm9=916&tm92=16&tm93=62&chipid=Intel%28R%29%20Core%28TM%29%20i5%2D2557M%20CPU%20%40%201%2E70GHz&ra=2&ishcdn=2&pf=201&p=11&p1=114&p2=3000&sdktp=1&c1=6&r=500494600&aid=502959900&u=aaoefdtqgfdepxc2tnv3piucgcb4eofn&pu=&os=windows&v=5%2E2%2E15%2E2240&krv=2%2E0%2E102&dt=&hu=-1&rn=1467353140&islocal=0&as=d19f64047b641cd6ff096b04fb2a30b5&ve=3cc0c8fa372625e64143144816f3e968&pe=c95d992e29856dc84f2e9907a2e4b282&vfrm=&chl=&hcdnv=10.0.0.293&tpcd=0&isdrm=1&ht=0
+        : RID 48: HTTP Obsolete Server
+        : DP: 2
+
+offline0: i4pc-------r--- TCP [L] 192.168.115.8:50477 --> [OR] 202.108.14.219:80
+        : HTTP
+        : H: msg.71.am
+        : HTTP/UA: QY-Player-Windows/2.0.102
+        : URL: msg.71.am/core?t=11&ct=adend&reset=0&ra=2&pf=201&p=11&p1=114&p2=3000&sdktp=1&c1=6&r=500494600&aid=502959900&u=aaoefdtqgfdepxc2tnv3piucgcb4eofn&pu=&os=windows&v=5%2E2%2E15%2E2240&krv=2%2E0%2E102&dt=&hu=-1&rn=1467353140&islocal=0&as=d19f64047b641cd6ff096b04fb2a30b5&ve=3cc0c8fa372625e64143144816f3e968&pe=c95d992e29856dc84f2e9907a2e4b282&vfrm=&chl=&hcdnv=10.0.0.293&tpcd=0&isdrm=1&ht=0
+        : RID 48: HTTP Obsolete Server
+        : DP: 2
+
+offline0: i4pc----------- TCP [OR] 140.205.243.64:80 <-- [L] 192.168.115.8:50482
+        : HTTP.netify.tanx
+        : H: cmc.tanx.com
+        : HTTP/UA: Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0)
+        : URL: cmc.tanx.com/andc?andc_uid=6693851615885049011&andc_ver=1
+        : DP: 2
+
+offline0: i4pc-------r--- TCP [L] 192.168.115.8:50483 --> [OR] 202.108.14.219:80
+        : HTTP
+        : H: msg.71.am
+        : HTTP/UA: QY-Player-Windows/2.0.102
+        : URL: msg.71.am/core?t=1503291&type=vs&uuid=aaoefdtqgfdepxc2tnv3piucgcb4eofn&area=OVERSEA|TW_HiNet&from=BS_High&to=BS_Standard&player_switch_bs_time=41714&average_download_speed_=158515.200000
+        : RID 48: HTTP Obsolete Server
+        : DP: 2
+
+offline0: i4pc-------r--- TCP [L] 192.168.115.8:50484 --> [OR] 202.108.14.219:80
+        : HTTP
+        : H: msg.71.am
+        : HTTP/UA: QY-Player-Windows/2.0.102
+        : URL: msg.71.am/core?t=5&a=4&isfinish=2&tm=7&ra=2&tra=1&pf=201&p=11&p1=114&p2=3000&sdktp=1&c1=6&r=500494600&aid=502959900&u=aaoefdtqgfdepxc2tnv3piucgcb4eofn&pu=&os=windows&v=5%2E2%2E15%2E2240&krv=2%2E0%2E102&dt=&hu=-1&rn=1467353147&islocal=0&as=d19f64047b641cd6ff096b04fb2a30b5&ve=3cc0c8fa372625e64143144816f3e968&pe=c95d992e29856dc84f2e9907a2e4b282&vfrm=&chl=&hcdnv=10.0.0.293&tpcd=0&isdrm=1&ht=0
+        : RID 48: HTTP Obsolete Server
+        : DP: 2
+
+offline0: i4pc-------r--- TCP [L] 192.168.115.8:50485 --> [OR] 202.108.14.236:80
+        : HTTP
+        : H: msg.71.am
+        : HTTP/UA: Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; WOW64; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0)/QY-Player-Windows/2.0.102
+        : URL: msg.71.am/cp2.gif?a=4e3ae415a584748ac9aa31628f39d1e8&ai=&as=1:23:23|45&av=4.10.004&b=180932301&c=31&ct=5000000927558&d=2175&di=&dp=71000001&e=c4889e64ad9d9eeb9ff438910850c442&ec=&em=&fi=&g=0&l=MTE4LjE2My44Ljkw&mk=&nw=&od=5000000858874&oi=&p=a&pp=&rc=&rd=&ri=&s=1467353149045&sh=&sq=&sw=&t=mid&u=0_aaoefdtqgfdepxc2tnv3piucgcb4eofn&v=479531000&vv=5.2.15.2240&x=&y=qc_100001_100140
+        : RID 48: HTTP Obsolete Server
+        : DP: 2
+
+offline0: i4pc----------- UDP [L] 192.168.5.57:59648 --> [OM] 239.255.255.250:1900
+        : SSDP
+        : H: 239.255.255.250_1900
+        : DP: 1
+
+offline0: i4pc-------r--- TCP [OR] 77.234.40.96:80 <-- [L] 192.168.115.8:50486
+        : HTTP.netify.avast
+        : H: bcu.ff.avast.com
+        : HTTP/UA: {D699054D-1699-47D2-9B2B-E96F438C1160}
+        : URL: bcu.ff.avast.com/bc2
+        : RID  2: Binary Application Transfer
+        : RID 14: HTTP Suspicious User-Agent
+        : RID 48: HTTP Obsolete Server
+        : DP: 9
+
+offline0: i4pc----------- TCP [L] 192.168.115.8:50488 --> [OR] 223.26.106.20:80
+        : HTTP.netify.iqiyi
+        : H: meta.video.qiyi.com
+        : HTTP/UA: QY-Player-Windows/2.0.102
+        : URL: meta.video.qiyi.com/20160625/a5/bf/413f91ad101e780a6b63f826e28b9920.xml
+        : DP: 2
+
+offline0: i4pc-------r--- TCP [OR] 119.188.13.188:80 <-- [L] 192.168.115.8:50489
+        : HTTP.netify.iqiyi
+        : H: pdata.video.qiyi.com
+        : HTTP/UA: QY-Player-Windows/2.0.102
+        : URL: pdata.video.qiyi.com/k
+        : RID 48: HTTP Obsolete Server
+        : DP: 2
+
+offline0: i4pc-------r--- TCP [OR] 119.188.13.188:80 <-- [L] 192.168.115.8:50490
+        : HTTP.netify.iqiyi
+        : H: pdata.video.qiyi.com
+        : HTTP/UA: QY-Player-Windows/2.0.102
+        : URL: pdata.video.qiyi.com/2efc8cd5fbe0f4ee498fb1c2fc1de8b6/videos/v0/20160625/a5/bf/8de9bb946972a88589d1667862292130.f4v?&tn=137719
+        : RID 48: HTTP Obsolete Server
+        : DP: 2
+
+offline0: i4pc-------r--- TCP [L] 192.168.115.8:50491 --> [OR] 223.26.106.66:80
+        : HTTP
+        : H: 223.26.106.66
+        : HTTP/UA: QY-Player-Windows/2.0.102
+        : URL: 223.26.106.66/videos/v0/20160625/a5/bf/8de9bb946972a88589d1667862292130.f4v?key=07eef1821e2379d3136ffe16082185ba2&src=iqiyi.com&&tn=137719&uuid=76a3085a-57760844-de
+        : RID 10: Numeric IP Address
+        : DP: 9
+
+offline0: i4pc-------r--- TCP [OR] 111.206.13.3:80 <-- [L] 192.168.115.8:50492
+        : HTTP.netify.iqiyi
+        : H: pdata.video.qiyi.com
+        : HTTP/UA: HCDNClient_WINPC;libcurl/7.26.0 OpenSSL/1.0.1g zlib/1.2.5;QK/10.0.0.293
+        : URL: pdata.video.qiyi.com/2efc8cd5fbe0f4ee498fb1c2fc1de8b6/videos/v0/20160625/a5/bf/8de9bb946972a88589d1667862292130.f4v?qyid=aaoefdtqgfdepxc2tnv3piucgcb4eofn&qypid=2012
+        : RID 48: HTTP Obsolete Server
+        : DP: 2
+
+offline0: i4pc-------r--- TCP [L] 192.168.115.8:50493 --> [OR] 202.108.14.236:80
+        : HTTP
+        : H: msg.71.am
+        : HTTP/UA: Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; WOW64; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0)/QY-Player-Windows/2.0.102
+        : URL: msg.71.am/cp2.gif?a=4e3ae415a584748ac9aa31628f39d1e8&ai=&as=1:23:23|45&av=4.10.004&b=180932301&c=31&ct=5000000927558&d=2175&di=&dp=71000001&e=c4889e64ad9d9eeb9ff438910850c442&ec=&em=&fi=&g=0&l=MTE4LjE2My44Ljkw&mk=&nw=&od=5000000858874&oi=&p=a&pp=&rc=&rd=&ri=&s=1467353157046&sh=&sq=&sw=&t=3q&u=0_aaoefdtqgfdepxc2tnv3piucgcb4eofn&v=479531000&vv=5.2.15.2240&x=&y=qc_100001_100140
+        : RID 48: HTTP Obsolete Server
+        : DP: 2
+
+offline0: i4pc-------r--- TCP [OR] 68.233.253.133:80 <-- [L] 192.168.5.15:65127
+        : HTTP
+        : H: api.magicansoft.com
+        : HTTP/UA: Magican (unknown version) CFNetwork/720.5.7 Darwin/14.5.0 (x86_64)
+        : URL: api.magicansoft.com/comMagicanApi/index.php/ToolBox/version
+        : RID  8: Error Code
+        : DP: 2
+
+offline0: i4pc-------r--- TCP [L] 192.168.115.8:50494 --> [OR] 223.26.106.66:80
+        : HTTP
+        : H: 223.26.106.66
+        : HTTP/UA: HCDNClient_WINPC;libcurl/7.26.0 OpenSSL/1.0.1g zlib/1.2.5;QK/10.0.0.293
+        : URL: 223.26.106.66/videos/v0/20160625/a5/bf/8de9bb946972a88589d1667862292130.f4v?key=07eef1821e2379d3136ffe16082185ba2&src=iqiyi.com&qyid=aaoefdtqgfdepxc2tnv3piucgcb4eofn&qypid=2012&uuid=76a3085a-57760844-8b
+        : RID  2: Binary Application Transfer
+        : RID 10: Numeric IP Address
+        : DP: 3
+
+offline0: i4pc----------- UDP [L] 192.168.5.48:63930 --> [OM] 239.255.255.250:1900
+        : SSDP
+        : H: 239.255.255.250_1900
+        : DP: 1
+
+offline0: i4pc-------r--- TCP [L] 192.168.115.8:50495 --> [OR] 202.108.14.236:80
+        : HTTP
+        : H: msg.71.am
+        : HTTP/UA: Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; WOW64; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0)/QY-Player-Windows/2.0.102
+        : URL: msg.71.am/cp2.gif?a=4e3ae415a584748ac9aa31628f39d1e8&ai=&as=1:23:23|45&av=4.10.004&b=180932301&c=31&ct=5000000927558&d=2175&di=&dp=71000001&e=c4889e64ad9d9eeb9ff438910850c442&ec=&em=&fi=&g=0&l=MTE4LjE2My44Ljkw&mk=&nw=&od=5000000858874&oi=&p=a&pp=&rc=&rd=&ri=&s=1467353165047&sh=&sq=&sw=&t=sp&u=0_aaoefdtqgfdepxc2tnv3piucgcb4eofn&v=479531000&vv=5.2.15.2240&x=&y=qc_100001_100140
+        : RID 48: HTTP Obsolete Server
+        : DP: 2
+
+offline0: i4pc-------r--- TCP [OR] 101.227.200.11:80 <-- [L] 192.168.115.8:50496
+        : HTTP.netify.iqiyi
+        : H: api.cupid.iqiyi.com
+        : HTTP/UA: Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; WOW64; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0)/QY-Player-Windows/2.0.102
+        : URL: api.cupid.iqiyi.com/track2?a=0&as=1;2,3;4,5&b=1467353165&c=966542c82a5694d0e943d50d5fcf5a55&cv=5.2.15.2240&d=5000000854934&dr=2175&f=4e3ae415a584748ac9aa31628f39d1e8&g=0_aaoefdtqgfdepxc2tnv3piucgcb4eofn&h=&i=qc_100001_100140&iv=0&j=31&k=180932301&kp=4e3ae415a584748ac9aa31628f39d1e8&n=479531000&o=1&p=1000000000381&q=5000000923447&r=c4889e64ad9d9eeb9ff438910850c442&rt=1467353113&s=8edb694c8c8cca923d3eae6622f9aee6&sv=4.10.004&u=1&up=&v=5000000854858&ve=1&w=4,5
+        : RID 48: HTTP Obsolete Server
+        : DP: 3
+
+offline0: i4pc---------F- TCP [OR] 123.125.112.49:80 <-- [L] 192.168.115.8:50497
+        : HTTP.netify.baidu
+        : H: click.hm.baidu.com
+        : HTTP/UA: Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; WOW64; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0)/QY-Player-Windows/2.0.102
+        : URL: click.hm.baidu.com/mkt.gif?ai=8452891900c903ae7a876447923a5aec&et=0
+        : DP: 2
+
+offline0: i4pc----------- UDP [L] 192.168.5.63:39383 --> [OM] 239.255.255.250:1900
+        : SSDP
+        : H: 239.255.255.250_1900
+        : DP: 1
+
+offline0: i4pc----------- UDP [L] 192.168.5.63:60976 --> [OM] 239.255.255.250:1900
+        : SSDP
+        : H: 239.255.255.250_1900
+        : DP: 1
+
+offline0: i4pc-------r--- TCP [OR] 36.110.220.15:80 <-- [L] 192.168.115.8:50498
+        : HTTP.netify.iqiyi
+        : H: msg.video.qiyi.com
+        : HTTP/UA: Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0)
+        : URL: msg.video.qiyi.com/tmpstats.gif?type=recctplay20121226&usract=show&ppuid=-1&uid=aaoefdtqgfdepxc2tnv3piucgcb4eofn&event_id=4b0868920b0f8285320a9e00ee0369e5&cid=31&bkt=pps_c_zebra_main_default&area=pps_c_zebra&platform=2012&albumlist=470694500,471591300,465641000,472887100,471788100,473746300,471948300,473694600,472189500&aid=479531000&source=0,1,1,1,1,1,1,1,1&_=1467353167087
+        : RID 48: HTTP Obsolete Server
+        : DP: 2
+
+offline0: i4pc-------r--- TCP [OR] 111.206.22.76:80 <-- [L] 192.168.115.8:50499
+        : HTTP.netify.iqiyi
+        : H: msg.iqiyi.com
+        : HTTP/UA: Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0)
+        : URL: msg.iqiyi.com/b?t=5&pf=201&p=11&p1=114&rn=1467353167221&a=34&clt=tvg2015_baikeB_comment_show&type=pc&ref=noref&url=http%3A//vodguide.pps.iqiyi.com/page.php%3Fversion%3D5.2.15.2240%23class%3D200003719%2524%2524%2524%2524180932301%26entityid%3D479531000%26baikeid%3D203229490&u=aaoefdtqgfdepxc2tnv3piucgcb4eofn
+        : RID 48: HTTP Obsolete Server
+        : DP: 2
+
+offline0: i4pc----------- TCP [OR] 23.41.133.163:80 <-- [L] 192.168.115.8:50500
+        : HTTP.netify.digicert
+        : H: s1.symcb.com
+        : HTTP/UA: Microsoft-CryptoAPI/6.1
+        : URL: s1.symcb.com/pca3-g5.crl
+        : DP: 2
+
+offline0: i4pc-------r--- TCP [L] 192.168.115.8:50501 --> [OR] 202.108.14.236:80
+        : HTTP
+        : H: msg.71.am
+        : HTTP/UA: Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; WOW64; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0)/QY-Player-Windows/2.0.102
+        : URL: msg.71.am/cp2.gif?a=4e3ae415a584748ac9aa31628f39d1e8&ai=&as=1:45:23|45&av=4.10.004&b=180932301&c=31&ct=5000000923447&d=2175&di=&dp=71000001&e=c4889e64ad9d9eeb9ff438910850c442&ec=&em=&fi=&g=0&l=MTE4LjE2My44Ljkw&mk=&nw=&od=5000000854934&oi=&p=a&pp=&rc=&rd=&ri=&s=1467353172051&sh=&sq=&sw=&t=1q&u=0_aaoefdtqgfdepxc2tnv3piucgcb4eofn&v=479531000&vv=5.2.15.2240&x=&y=qc_100001_100140
+        : RID 48: HTTP Obsolete Server
+        : DP: 2
+
+offline0: i4pc----------- UDP [L] 192.168.5.38:58897 --> [OM] 239.255.255.250:1900
+        : SSDP
+        : H: 239.255.255.250_1900
+        : DP: 1
+
+offline0: i4pc-------r--- TCP [L] 192.168.115.8:50502 --> [OR] 202.108.14.236:80
+        : HTTP
+        : H: msg.71.am
+        : HTTP/UA: Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; WOW64; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0)/QY-Player-Windows/2.0.102
+        : URL: msg.71.am/cp2.gif?a=4e3ae415a584748ac9aa31628f39d1e8&ai=&as=1:45:23|45&av=4.10.004&b=180932301&c=31&ct=5000000923447&d=2175&di=&dp=71000001&e=c4889e64ad9d9eeb9ff438910850c442&ec=&em=&fi=&g=0&l=MTE4LjE2My44Ljkw&mk=&nw=&od=5000000854934&oi=&p=a&pp=&rc=&rd=&ri=&s=1467353180052&sh=&sq=&sw=&t=mid&u=0_aaoefdtqgfdepxc2tnv3piucgcb4eofn&v=479531000&vv=5.2.15.2240&x=&y=qc_100001_100140
+        : RID 48: HTTP Obsolete Server
+        : DP: 2
+
+offline0: i4pc----------- UDP [L] 192.168.5.50:52529 --> [OM] 239.255.255.250:1900
+        : SSDP
+        : H: 239.255.255.250_1900
+        : DP: 1
+
+offline0: i4pc-------r--- TCP [OR] 68.233.253.133:80 <-- [L] 192.168.5.15:65128
+        : HTTP
+        : H: api.magicansoft.com
+        : HTTP/UA: Magican (unknown version) CFNetwork/720.5.7 Darwin/14.5.0 (x86_64)
+        : URL: api.magicansoft.com/comMagicanApi/composite/app.php/Global/Index/ip
+        : RID  8: Error Code
+        : DP: 2
+
+offline0: i4pc-------r--- TCP [L] 192.168.115.8:50503 --> [OR] 202.108.14.219:80
+        : HTTP
+        : H: msg.71.am
+        : HTTP/UA: QY-Player-Windows/2.0.102
+        : URL: msg.71.am/core?t=2&chipid=Intel%28R%29%20Core%28TM%29%20i5%2D2557M%20CPU%20%40%201%2E70GHz&tm=30&ra=1&ishcdn=2&pf=201&p=11&p1=114&p2=3000&sdktp=1&c1=6&r=500494600&aid=502959900&u=aaoefdtqgfdepxc2tnv3piucgcb4eofn&pu=&os=windows&v=5%2E2%2E15%2E2240&krv=2%2E0%2E102&dt=&hu=-1&rn=1467353185&islocal=0&as=d19f64047b641cd6ff096b04fb2a30b5&ve=3cc0c8fa372625e64143144816f3e968&pe=c95d992e29856dc84f2e9907a2e4b282&vfrm=&chl=&hcdnv=10.0.0.293&tpcd=0&isdrm=1&ht=0
+        : RID 48: HTTP Obsolete Server
+        : DP: 2
+
+offline0: i4pc----------- UDP [L] 192.168.5.28:60023 --> [OM] 239.255.255.250:1900
+        : SSDP
+        : H: 239.255.255.250_1900
+        : DP: 1
+
+offline0: i4pc-------r--- TCP [L] 192.168.115.8:50505 --> [OR] 223.26.106.19:80
+        : HTTP.netify.iqiyi
+        : H: static.qiyi.com
+        : HTTP/UA: Downloader
+        : URL: static.qiyi.com/ext/common/qisu2/downloader.ini
+        : RID  2: Binary Application Transfer
+        : DP: 2
+
+offline0: i4pc----------- UDP [L] 192.168.5.38:1900 --> [OM] 239.255.255.250:1900
+        : SSDP
+        : H: 239.255.255.250_1900
+        : DP: 1
+
+offline0: i4pc----------- UDP [L] 192.168.5.41:50374 --> [OM] 239.255.255.250:1900
+        : SSDP
+        : H: 239.255.255.250_1900
+        : DP: 1
+
+offline0: i4pc-------r--- TCP [L] 192.168.115.8:50507 --> [OR] 223.26.106.19:80
+        : HTTP.netify.iqiyi
+        : H: static.qiyi.com
+        : HTTP/UA: DownloadHelper_runxx
+        : URL: static.qiyi.com/ext/common/qisu2/downloadhelper.ini
+        : RID  2: Binary Application Transfer
+        : DP: 2
+
+offline0: i4pc-------r--- TCP [L] 192.168.115.8:50508 --> [OR] 223.26.106.19:80
+        : HTTP.netify.iqiyi
+        : H: static.qiyi.com
+        : HTTP/UA: QYAgent_runxx
+        : URL: static.qiyi.com/ext/common/qisu2/QYAgent.ini
+        : RID  2: Binary Application Transfer
+        : DP: 2
+
+offline0: i4pc----------- TCP [OR] 106.38.219.107:80 <-- [L] 192.168.115.8:50509
+        : HTTP.netify.iqiyi
+        : H: iplocation.geo.qiyi.com
+        : HTTP/UA: QYAgent_runxx
+        : URL: iplocation.geo.qiyi.com/cityjson
+        : DP: 2
+
+offline0: i4pc-------r--- TCP [L] 192.168.115.8:50766 --> [OR] 223.26.106.20:80
+        : HTTP.netify.iqiyi
+        : H: static.qiyi.com
+        : HTTP/UA: masflag_runxx
+        : URL: static.qiyi.com/ext/common/qisu2/masflag.ini
+        : RID  2: Binary Application Transfer
+        : DP: 2
+
+offline0: i4pc-------r--- TCP [L] 192.168.115.8:50767 --> [OR] 223.26.106.20:80
+        : HTTP.netify.iqiyi
+        : H: static.qiyi.com
+        : HTTP/UA: masauto_runxx
+        : URL: static.qiyi.com/ext/common/qisu2/masauto.ini
+        : RID  2: Binary Application Transfer
+        : DP: 2
+
+offline0: i4pc-------r--- TCP [OR] 36.110.220.15:80 <-- [L] 192.168.115.8:50765
+        : HTTP.netify.iqiyi
+        : H: msg.video.qiyi.com
+        : HTTP/UA: QIYiAngent
+        : URL: msg.video.qiyi.com/tmpstats.gif?method=qiubiter&os=windows-6.1.7601_sp1&uuid=350C3F1AC75D40bc90D602DA4E67A72D&softversion=1.0.0.1&source=pps&tasktype=gettaskinfo
+        : RID 48: HTTP Obsolete Server
+        : DP: 2
+
+offline0: i4pc-------r--- TCP [L] 192.168.115.8:50768 --> [OR] 223.26.106.19:80
+        : HTTP.netify.iqiyi
+        : H: static.qiyi.com
+        : HTTP/UA: masblog_runxx
+        : URL: static.qiyi.com/ext/common/qisu2/masblog.ini
+        : RID  2: Binary Application Transfer
+        : DP: 2
+
+offline0: i4pc-------r--- TCP [OR] 101.227.200.11:80 <-- [L] 192.168.115.8:50769
+        : HTTP.netify.iqiyi
+        : H: api.cupid.iqiyi.com
+        : HTTP/UA: CookieClear_runxx
+        : URL: api.cupid.iqiyi.com/ccs
+        : RID 48: HTTP Obsolete Server
+        : DP: 2
+
+offline0: i4pc-------r--- TCP [L] 192.168.115.8:50771 --> [OR] 202.108.14.236:80
+        : HTTP
+        : H: msg.71.am
+        : HTTP/UA: Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; WOW64; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0)/QY-Player-Windows/2.0.102
+        : URL: msg.71.am/cp2.gif?a=4e3ae415a584748ac9aa31628f39d1e8&ai=&as=1:45:23|45&av=4.10.004&b=180932301&c=31&ct=5000000923447&d=2175&di=&dp=71000001&e=c4889e64ad9d9eeb9ff438910850c442&ec=&em=&fi=&g=0&l=MTE4LjE2My44Ljkw&mk=&nw=&od=5000000854934&oi=&p=a&pp=&rc=&rd=&ri=&s=1467353195054&sh=&sq=&sw=&t=sp&u=0_aaoefdtqgfdepxc2tnv3piucgcb4eofn&v=479531000&vv=5.2.15.2240&x=&y=qc_100001_100140
+        : RID 48: HTTP Obsolete Server
+        : DP: 2
+
+offline0: i4pc----------- TCP [OR] 123.125.111.70:80 <-- [L] 192.168.115.8:50772
+        : HTTP.netify.iqiyi
+        : H: nl.rcd.iqiyi.com
+        : HTTP/UA: Qiyi List Client PC 5.2.15.2240
+        : URL: nl.rcd.iqiyi.com/apis/urc/setrc?ckuid=aaoefdtqgfdepxc2tnv3piucgcb4eofn&tvId=479531000&videoPlayTime=-1&addtime=1467353195&terminalId=12&vType=0&com=2&ppsTvidType=2&agent_type=30
+        : DP: 2
+
+offline0: i4pc-------r--- TCP [L] 192.168.115.8:50773 --> [OR] 202.108.14.221:80
+        : HTTP
+        : H: msg.71.am
+        : HTTP/UA: QY-Player-Windows/2.0.102
+        : URL: msg.71.am/core?t=1&reset=0&vfrmtp=1&tm1=&tm2=0&tm21=0&tm22=0&tm23=0&tm24=0&tm3=209&tm31=94&tm32=31&tm33=78&tm34=1&tm4=176&tm41=47&tm42=16&tm43=78&tm44=7&tm5=328&tm51=0&tm52=0&tm53=0&tm54=63&tm6=&tm62=0&tm63=0&tm7=0&tm71=0&tm72=0&tm73=0&tm8=0&tm81=0&tm82=0&tm83=0&tm9=962&tm92=15&tm93=297&chipid=Intel%28R%29%20Core%28TM%29%20i5%2D2557M%20CPU%20%40%201%2E70GHz&ra=1&ishcdn=2&pf=201&p=11&p1=114&p2=3000&sdktp=1&c1=31&r=479531000&aid=180932301&u=aaoefdtqgfdepxc2tnv3piucgcb4eofn&pu=&os=Windows%207&v=5%2E2%2E15%2E2240&krv=2%2E0%2E102&dt=&hu=-1&rn=1467353195&islocal=0&as=0311c5a0d5596063db5944bd76b6cbff&ve=b1f90f8da6fe0258d13616a8070cb997&pe=&vfrm=&chl=&hcdnv=10.0.0.293&tpcd=0&isdrm=1&ht=0
+        : RID 48: HTTP Obsolete Server
+        : DP: 2
+
+offline0: i4pc-------r--- TCP [L] 192.168.115.8:50774 --> [OR] 202.108.14.219:80
+        : HTTP
+        : H: msg.71.am
+        : HTTP/UA: QY-Player-Windows/2.0.102
+        : URL: msg.71.am/core?t=11&ct=adend&reset=0&ra=1&pf=201&p=11&p1=114&p2=3000&sdktp=1&c1=31&r=479531000&aid=180932301&u=aaoefdtqgfdepxc2tnv3piucgcb4eofn&pu=&os=Windows%207&v=5%2E2%2E15%2E2240&krv=2%2E0%2E102&dt=&hu=-1&rn=1467353195&islocal=0&as=0311c5a0d5596063db5944bd76b6cbff&ve=b1f90f8da6fe0258d13616a8070cb997&pe=&vfrm=&chl=&hcdnv=10.0.0.293&tpcd=0&isdrm=1&ht=0
+        : RID 48: HTTP Obsolete Server
+        : DP: 2
+
+offline0: i4pc-------r--- TCP [OR] 111.206.22.77:80 <-- [L] 192.168.115.8:50776
+        : HTTP.netify.iqiyi
+        : H: msg.iqiyi.com
+        : HTTP/UA: Qiyi List Client PC 5.2.15.2240
+        : URL: msg.iqiyi.com/b?t=11&pf=201&p=11&p1=114&s1=0&ct=140819_adsyn&adsyn=1&brinfo=IE_IE9_9.0.8112.16421_1&os=Windows%207&rn=19252&u=aaoefdtqgfdepxc2tnv3piucgcb4eofn&v=5.2.15.2240
+        : RID 48: HTTP Obsolete Server
+        : DP: 2
+
+offline0: i4pc-------r--- TCP [OR] 111.206.22.77:80 <-- [L] 192.168.115.8:50777
+        : HTTP.netify.iqiyi
+        : H: msg.iqiyi.com
+        : HTTP/UA: Qiyi List Client PC 5.2.15.2240
+        : URL: msg.iqiyi.com/b?pf=201&p=11&p1=114&ap=0&source1=list&source2=online_l&t=11&ct=pc__ad_play&album_id=180932301&c1=479531000&clt=homedl&cn=160505-%E6%AD%A3%E7%89%87%EF%BC%9A%E9%83%91%E6%81%BA%E6%AC%A7%E5%B7%B4%E4%BA%8C%E6%AC%A1%E5%BD%92%E6%9D%A5%E5%8F%8D%E9%80%86%E8%A2%AD-%E4%BB%8A%E6%99%9A80%E5%90%8E%E8%84%B1%E5%8F%A3%E7%A7%80&cpuuse=32.8&de=32e654fa57be90ec638c46ddfdd66757&dllv=appv%3D5.0.0.1003%7Colv%3D5.0.0.1101&et=0&ft=2175&ht=0&hu=-1&kv=10.0.0.293&lang=&memphy=65&memvir=120&mt=0&mv=5.2.15.2240&p2=1011&pe=&popt=0&pt=0&ptype=1&pu=&r=479531000&r_id=479531000&ra=1&rn=20526&schn_id=200003719%24%24%24%24180932301&schn_name=%E7%BB%BC%E8%89%BA%E5%A8%B1%E4%B9%90%24%24%24%24%E4%BB%8A%E6%99%9A80%E5%90%8E%E8%84%B1%E5%8F%A3%E7%A7%80&spt=1467353196&stage=2&stime=0&tvid=479531000&u=aaoefdtqgfdepxc2tnv3piucgcb4eofn&upload_id=&url=http%3A%2F%2Fwww.iqiyi.com%2Fv_19rrlvuxlg.html&v=2.0.102.30147&ve=333825cdf486cc94b6d2956f4de6d4cb&vid=2b94729e3a920b2119886c5c677ae9db
+        : RID 48: HTTP Obsolete Server
+        : DP: 2
+
+offline0: i4pc----------- TCP [L] 192.168.115.8:50778 --> [OR] 223.26.106.20:80
+        : HTTP.netify.iqiyi
+        : H: preimage1.qiyipic.com
+        : HTTP/UA: Qiyi List Client PC 5.2.15.2240
+        : URL: preimage1.qiyipic.com/preimage/20160506/f0/1f/v_110359998_m_611_160_90_1.jpg?no=1
+        : DP: 2
+
+offline0: i4pc----------- UDP [L] 192.168.115.1:50945 --> [OM] 239.255.255.250:1900
+        : SSDP
+        : H: 239.255.255.250_1900
+        : DP: 1
+
+offline0: i4pc-------r--- TCP [OR] 111.206.22.77:80 <-- [L] 192.168.115.8:50779
+        : HTTP.netify.iqiyi
+        : H: msg.iqiyi.com
+        : HTTP/UA: Qiyi List Client PC 5.2.15.2240
+        : URL: msg.iqiyi.com/b?pf=201&p=11&p1=114&ap=0&source1=list&source2=online_l&t=201&ct=clt__pl_play&album_id=180932301&c1=479531000&clt=homedl&cn=160505-%E6%AD%A3%E7%89%87%EF%BC%9A%E9%83%91%E6%81%BA%E6%AC%A7%E5%B7%B4%E4%BA%8C%E6%AC%A1%E5%BD%92%E6%9D%A5%E5%8F%8D%E9%80%86%E8%A2%AD-%E4%BB%8A%E6%99%9A80%E5%90%8E%E8%84%B1%E5%8F%A3%E7%A7%80&cpuuse=14.1&de=32e654fa57be90ec638c46ddfdd66757&dllv=appv%3D5.0.0.1003%7Colv%3D5.0.0.1101&et=0&ft=2175&ht=0&hu=-1&isdm=0&islocal=0&kv=10.0.0.293&lang=&memphy=67&memvir=121&mt=0&mv=5.2.15.2240&p2=1011&pe=&popt=0&pt=2&ptype=1&pu=&r=479531000&r_id=479531000&ra=1&rn=23987&schn_id=200003719%24%24%24%24180932301&schn_name=%E7%BB%BC%E8%89%BA%E5%A8%B1%E4%B9%90%24%24%24%24%E4%BB%8A%E6%99%9A80%E5%90%8E%E8%84%B1%E5%8F%A3%E7%A7%80&spt=1467353197&stime=0&tvid=479531000&u=aaoefdtqgfdepxc2tnv3piucgcb4eofn&upload_id=&url=http%3A%2F%2Fwww.iqiyi.com%2Fv_19rrlvuxlg.html&v=2.0.102.30147&ve=333825cdf486cc94b6d2956f4de6d4cb&vid=2b94729e3a920b2119886c5c677ae9db&msg=MXw0fAdQAFIDUgFRSAB6dwNkBQJmfXV3dnlhYnlIBXTVxy4aOL0AdC6QWRaDSKB1coddi1OrtiAzNf3H8peCv1L%2FR2%2B6TYFDUzmIp9ooS%2FsqQ0NthJKT3AHtCJH6JaKHd1KdpL6pERym0J3ANQlVS9nAlwll6r%2B3LW9imuGwfh4%3D
+        : RID 48: HTTP Obsolete Server
+        : DP: 3
+
+offline0: i4pc----------- TCP [L] 192.168.115.8:50780 --> [OR] 223.26.106.20:80
+        : HTTP.netify.iqiyi
+        : H: preimage1.qiyipic.com
+        : HTTP/UA: Qiyi List Client PC 5.2.15.2240
+        : URL: preimage1.qiyipic.com/preimage/20160506/f0/1f/v_110359998_m_611_160_90_2.jpg?no=2
+        : DP: 2
+
+offline0: i4pc----------- TCP [OR] 123.125.111.70:80 <-- [L] 192.168.115.8:50775
+        : HTTP.netify.iqiyi
+        : H: nl.rcd.iqiyi.com
+        : HTTP/UA: Qiyi List Client PC 5.2.15.2240
+        : URL: nl.rcd.iqiyi.com/apis/urc/setrc?ckuid=aaoefdtqgfdepxc2tnv3piucgcb4eofn&tvId=479531000&videoPlayTime=-1&addtime=1467353195&terminalId=12&vType=0&com=2&ppsTvidType=2&agent_type=30
+        : DP: 2
+
+offline0: i4pc--x----r--- TCP [L] 192.168.115.8:50487 --> [OR] 202.108.14.219:80
+        : HTTP
+        : H: msg.71.am
+        : HTTP/UA: QY-Player-Windows/2.0.102
+        : URL: msg.71.am/core?t=2&chipid=Intel%28R%29%20Core%28TM%29%20i5%2D2557M%20CPU%20%40%201%2E70GHz&tm=15&ra=1&ishcdn=2&pf=201&p=11&p1=114&p2=3000&sdktp=1&c1=6&r=500494600&aid=502959900&u=aaoefdtqgfdepxc2tnv3piucgcb4eofn&pu=&os=windows&v=5%2E2%2E15%2E2240&krv=2%2E0%2E102&dt=&hu=-1&rn=1467353155&islocal=0&as=d19f64047b641cd6ff096b04fb2a30b5&ve=3cc0c8fa372625e64143144816f3e968&pe=c95d992e29856dc84f2e9907a2e4b282&vfrm=&chl=&hcdnv=10.0.0.293&tpcd=0&isdrm=1&ht=0
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-gx----r--- UDP [OR] 111.249.53.196:32443 --> [L] 192.168.115.8:22793
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 2
+
+offline0: i4pc-gx-------- UDP [L] 192.168.115.8:22793 --> [OR] 202.198.7.89:16039
+        : Unknown
+        : DP: 5
+
+offline0: i4pc-gx-------- UDP [OR] 183.228.182.44:13913 <-- [L] 192.168.115.8:22793
+        : Unknown
+        : DP: 3
+
+offline0: i4pc-gx----r--- UDP [OR] 114.41.144.153:10492 <-- [L] 192.168.115.8:22793
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 4
+
+offline0: i4pc--x----r--- TCP [L] 192.168.115.8:50781 --> [OR] 223.26.106.20:80
+        : HTTP.netify.iqiyi
+        : H: preimage1.qiyipic.com
+        : HTTP/UA: Qiyi List Client PC 5.2.15.2240
+        : URL: preimage1.qiyipic.com/preimage/20160506/f0/1f/v_110359998_m_611_160_90_3.jpg?no=3
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-gx----r--- UDP [OR] 61.227.170.88:20227 <-- [L] 192.168.115.8:22793
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 2
+
+offline0: i4pc-gx----r-F- TCP [OR] 68.233.253.133:80 <-- [L] 192.168.5.15:65125
+        : HTTP
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-gx----r--- UDP [L] 192.168.115.8:22793 --> [OR] 210.44.232.243:21044
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 2
+
+offline0: i4pc-gx----r--- UDP [OR] 111.250.102.66:1107 <-- [L] 192.168.115.8:22793
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 2
+
+offline0: i4pc-gx----r--- UDP [L] 192.168.115.8:22793 <-- [OR] 210.47.12.20:33738
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 2
+
+offline0: i4pcu-x----r--- TCP [OR] 77.234.41.35:80 <-- [L] 192.168.115.8:49174
+        : HTTP.netify.avast
+        : H: su.ff.avast.com
+        : URL: su.ff.avast.com/R/A3gKIDljY2I3ODkyM2NiMTRlMTBiNzRmZGQ3OTE4ODdhNDZlEgQCMAYWGKAEIgH_KgcIBBDmzNlDKgcIAxCrn_tBMgoIBBDmzNlDGIAKOM2RhFhCICsB593vKxQ6cVzAgCL_b9XWlsFQVx754ZgCHv1XaVp1SICCmAg=
+        : RID 14: HTTP Suspicious User-Agent
+        : DP: 5
+
+offline0: i4pc-gx----r--- UDP [L] 192.168.115.8:22793 <-- [OR] 220.130.154.23:35941
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 2
+
+offline0: i4pc-gx----r--- UDP [L] 192.168.115.8:22793 <-- [OR] 202.112.31.89:29072
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 2
+
+offline0: i4pc-gx----r--- UDP [OR] 1.169.136.116:17951 <-- [L] 192.168.115.8:22793
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 4
+
+offline0: i4pc-gx----r--- UDP [L] 192.168.115.8:22793 <-- [OR] 210.47.12.19:33738
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 2
+
+offline0: i4pc-gx----r--- UDP [OR] 121.248.133.93:12757 <-- [L] 192.168.115.8:22793
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 2
+
+offline0: i4pc--x----r--- TCP [OR] 117.79.81.135:80 <-- [L] 192.168.115.8:50443
+        : HTTP
+        : RID 14: HTTP Suspicious User-Agent
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-gx----r--- UDP [OR] 114.47.91.129:22576 <-- [L] 192.168.115.8:22793
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 2
+
+offline0: i4pc-gx----r--- UDP [OR] 36.233.39.81:18590 <-- [L] 192.168.115.8:22793
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 2
+
+offline0: i4pc-gx----r--- TCP [L] 192.168.115.8:50462 --> [OR] 202.108.14.236:80
+        : HTTP
+        : RID 46: Unidirectional Traffic
+        : DP: 2
+
+offline0: i4pc--x----r--- TCP [L] 192.168.115.8:50504 --> [OR] 202.108.14.236:80
+        : HTTP
+        : H: msg.71.am
+        : HTTP/UA: Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; WOW64; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0)/QY-Player-Windows/2.0.102
+        : URL: msg.71.am/cp2.gif?a=4e3ae415a584748ac9aa31628f39d1e8&ai=&as=1:45:23|45&av=4.10.004&b=180932301&c=31&ct=5000000923447&d=2175&di=&dp=71000001&e=c4889e64ad9d9eeb9ff438910850c442&ec=&em=&fi=&g=0&l=MTE4LjE2My44Ljkw&mk=&nw=&od=5000000854934&oi=&p=a&pp=&rc=&rd=&ri=&s=1467353187053&sh=&sq=&sw=&t=3q&u=0_aaoefdtqgfdepxc2tnv3piucgcb4eofn&v=479531000&vv=5.2.15.2240&x=&y=qc_100001_100140
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-gx----r--- UDP [OR] 111.117.101.81:10162 <-- [L] 192.168.115.8:22793
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 2
+
+offline0: i4pc-gx----r--- UDP [L] 192.168.115.8:22793 --> [OR] 222.26.193.119:7133
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 2
+
+offline0: i4pc-gx----r--- UDP [L] 192.168.115.8:22793 <-- [OR] 210.44.171.1:29702
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 2
+
+offline0: i4pc-gx----r--- UDP [OR] 114.37.142.173:1074 <-- [L] 192.168.115.8:22793
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 2
+
+offline0: i4pc--x----r--- TCP [L] 192.168.115.8:50295 --> [OR] 202.108.14.219:80
+        : HTTP
+        : RID 14: HTTP Suspicious User-Agent
+        : RID 46: Unidirectional Traffic
+        : RID 48: HTTP Obsolete Server
+        : DP: 2
+
+offline0: i4pc--x----r--- TCP [L] 192.168.115.8:50506 --> [OR] 202.108.14.219:80
+        : HTTP
+        : RID 14: HTTP Suspicious User-Agent
+        : RID 46: Unidirectional Traffic
+        : RID 48: HTTP Obsolete Server
+        : DP: 1
+
+offline0: i4pc-gx----r--- UDP [OR] 1.175.128.104:5185 <-- [L] 192.168.115.8:22793
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 2
+
+offline0: i4pc-gx----r--- UDP [L] 192.168.115.8:22793 --> [OR] 222.26.74.190:1037
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 2
+
+offline0: i4pc-gx----r--- UDP [OR] 115.157.62.243:29006 --> [L] 192.168.115.8:22793
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 2
+
+offline0: i4pc-gx----r--- UDP [OR] 36.237.154.69:4316 <-- [L] 192.168.115.8:22793
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 2
+
+offline0: i4pc-gx----r--- UDP [OR] 61.223.204.67:11102 <-- [L] 192.168.115.8:22793
+        : Unknown
+        : RID 46: Unidirectional Traffic
+        : DP: 2
+

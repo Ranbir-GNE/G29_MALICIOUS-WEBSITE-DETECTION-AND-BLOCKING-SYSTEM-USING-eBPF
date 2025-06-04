@@ -1,0 +1,477 @@
+offline0: i4pc----------- UDP [L] 192.168.1.1:53 <-- [OL] 192.168.1.7:51543
+        : DNS.netify.netflix
+        : H: ios.nccp.netflix.com
+        : DP: 3
+
+offline0: i4pc----------- UDP [L] 192.168.1.1:53 <-- [OL] 192.168.1.7:52116
+        : DNS.netify.netflix
+        : H: ichnaea.us-west-2.prodaa.netflix.com
+        : DP: 2
+
+offline0: i4pcu------r--- TCP [OR] 54.69.204.241:443 <-- [L] 192.168.1.7:53105
+        : HTTP/S.netify.netflix
+        : D: ichnaea.us-west-2.prodaa.netflix.com H: ichnaea.netflix.com
+        : V: 0x0303 CS: 0xc02f
+        : TLS/SNI: ichnaea.netflix.com TLS/CN: customerevents.netflix.com
+        : TLS/IDN: C=US, O=Symantec Corporation, OU=Symantec Trust Network, CN=Symantec Class 3 Secure Server CA - G4 TLS/SDN: C=US, ST=California, L=los gatos, O=Netflix, Inc., OU=Ops, CN=customerevents.netflix.com
+        : RID 30: TLS Certificate Expired
+        : DP: 7
+
+offline0: i4pcu------r-F- TCP [OR] 54.191.17.51:443 <-- [L] 192.168.1.7:53114
+        : HTTP/S.netify.netflix
+        : D: ios.nccp.us-west-2.prodaa.netflix.com H: ios.nccp.netflix.com
+        : V: 0x0303 CS: 0xc02f
+        : TLS/SNI: ios.nccp.netflix.com TLS/CN: nccp.netflix.com
+        : TLS/IDN: CN=Primary Certificate Authority (2009), ST=California, C=US, O=Netflix Inc, OU=Electronic Delivery, L=Los Gatos TLS/SDN: CN=*.nccp.netflix.com, O=Netflix, Inc., OU=Operations, C=US, ST=California, L=Los Gatos
+        : RID 30: TLS Certificate Expired
+        : RID 47: TLS ALPN Not Found
+        : DP: 7
+
+offline0: i4pcu------r--- TCP [OR] 52.32.196.36:443 <-- [L] 192.168.1.7:53115
+        : HTTP/S.netify.netflix
+        : H: api-global.netflix.com
+        : V: 0x0303 CS: 0xc02f
+        : TLS/SNI: api-global.netflix.com TLS/CN: api.netflix.com
+        : TLS/IDN: C=US, O=Symantec Corporation, OU=Symantec Trust Network, CN=Symantec Class 3 Secure Server CA - G4 TLS/SDN: C=US, ST=California, L=los gatos, O=Netflix, Inc., OU=Ops, CN=api.netflix.com
+        : RID 30: TLS Certificate Expired
+        : DP: 7
+
+offline0: i4pcu------r--- TCP [OR] 52.32.196.36:443 <-- [L] 192.168.1.7:53116
+        : HTTP/S.netify.netflix
+        : H: api-global.netflix.com
+        : V: 0x0303 CS: 0xc02f
+        : TLS/SNI: api-global.netflix.com TLS/CN: api.netflix.com
+        : TLS/IDN: C=US, O=Symantec Corporation, OU=Symantec Trust Network, CN=Symantec Class 3 Secure Server CA - G4 TLS/SDN: C=US, ST=California, L=los gatos, O=Netflix, Inc., OU=Ops, CN=api.netflix.com
+        : RID 30: TLS Certificate Expired
+        : DP: 7
+
+offline0: i4pcu------r--- TCP [OR] 52.32.196.36:443 <-- [L] 192.168.1.7:53117
+        : HTTP/S.netify.netflix
+        : H: api-global.netflix.com
+        : V: 0x0303 CS: 0xc02f
+        : TLS/SNI: api-global.netflix.com
+        : RID 47: TLS ALPN Not Found
+        : DP: 6
+
+offline0: i4pcu------r--- TCP [OR] 54.69.204.241:443 <-- [L] 192.168.1.7:53118
+        : HTTP/S.netify.netflix
+        : D: ichnaea.us-west-2.prodaa.netflix.com H: ichnaea.netflix.com
+        : V: 0x0303 CS: 0xc02f
+        : TLS/SNI: ichnaea.netflix.com TLS/CN: customerevents.netflix.com
+        : TLS/IDN: C=US, O=Symantec Corporation, OU=Symantec Trust Network, CN=Symantec Class 3 Secure Server CA - G4 TLS/SDN: C=US, ST=California, L=los gatos, O=Netflix, Inc., OU=Ops, CN=customerevents.netflix.com
+        : RID 30: TLS Certificate Expired
+        : DP: 7
+
+offline0: i4pc----------- UDP [L] 192.168.1.7:53776 --> [OM] 239.255.255.250:1900
+        : SSDP
+        : H: 239.255.255.250_1900
+        : DP: 1
+
+offline0: i4pcu------r--- TCP [OR] 54.69.204.241:443 <-- [L] 192.168.1.7:53119
+        : HTTP/S.netify.netflix
+        : D: ichnaea.us-west-2.prodaa.netflix.com H: ichnaea.netflix.com
+        : V: 0x0303 CS: 0xc02f
+        : TLS/SNI: ichnaea.netflix.com TLS/CN: customerevents.netflix.com
+        : TLS/IDN: C=US, O=Symantec Corporation, OU=Symantec Trust Network, CN=Symantec Class 3 Secure Server CA - G4 TLS/SDN: C=US, ST=California, L=los gatos, O=Netflix, Inc., OU=Ops, CN=customerevents.netflix.com
+        : RID 30: TLS Certificate Expired
+        : DP: 7
+
+offline0: i4pc----------- IGMP [L] 192.168.1.7:0 --> [OM] 239.255.255.250:0
+        : IGMP
+        : DP: 1
+
+offline0: i4pc----------- UDP [L] 192.168.1.1:53 <-- [OL] 192.168.1.7:51949
+        : DNS.netify.netflix
+        : H: api-global.latency.prodaa.netflix.com
+        : DP: 2
+
+offline0: i4pcu------r-F- TCP [OR] 52.89.39.139:443 <-- [L] 192.168.1.7:53132
+        : HTTP/S.netify.netflix
+        : D: api-global.latency.prodaa.netflix.com H: api-global.netflix.com
+        : V: 0x0303 CS: 0xc02f
+        : TLS/SNI: api-global.netflix.com TLS/CN: api.netflix.com
+        : TLS/IDN: C=US, O=Symantec Corporation, OU=Symantec Trust Network, CN=Symantec Class 3 Secure Server CA - G4 TLS/SDN: C=US, ST=California, L=los gatos, O=Netflix, Inc., OU=Ops, CN=api.netflix.com
+        : RID 30: TLS Certificate Expired
+        : RID 47: TLS ALPN Not Found
+        : DP: 7
+
+offline0: i4pcu------r-F- TCP [OR] 52.89.39.139:443 <-- [L] 192.168.1.7:53133
+        : HTTP/S.netify.netflix
+        : D: api-global.latency.prodaa.netflix.com H: api-global.netflix.com
+        : V: 0x0303 CS: 0xc02f
+        : TLS/SNI: api-global.netflix.com TLS/CN: api.netflix.com
+        : TLS/IDN: C=US, O=Symantec Corporation, OU=Symantec Trust Network, CN=Symantec Class 3 Secure Server CA - G4 TLS/SDN: C=US, ST=California, L=los gatos, O=Netflix, Inc., OU=Ops, CN=api.netflix.com
+        : RID 30: TLS Certificate Expired
+        : RID 47: TLS ALPN Not Found
+        : DP: 7
+
+offline0: i4pcu------r-F- TCP [OR] 52.89.39.139:443 <-- [L] 192.168.1.7:53134
+        : HTTP/S.netify.netflix
+        : D: api-global.latency.prodaa.netflix.com H: api-global.netflix.com
+        : V: 0x0303 CS: 0xc02f
+        : TLS/SNI: api-global.netflix.com
+        : RID 47: TLS ALPN Not Found
+        : DP: 6
+
+offline0: i4pc----------- UDP [L] 192.168.1.1:53 <-- [OL] 192.168.1.7:57719
+        : DNS.netify.netflix
+        : H: sha2.san.akam.nflximg.net
+        : DP: 2
+
+offline0: i4pcu------r--- TCP [OR] 104.86.97.179:443 <-- [L] 192.168.1.7:53141
+        : HTTP/S.netify.netflix
+        : D: e3067.dscg.akamaiedge.net H: art-s.nflximg.net
+        : V: 0x0303 CS: 0xc030
+        : TLS/SNI: art-s.nflximg.net TLS/CN: secure.cdn.nflximg.net
+        : TLS/IDN: C=US, O=Symantec Corporation, OU=Symantec Trust Network, CN=Symantec Class 3 Secure Server CA - G4 TLS/SDN: C=US, ST=California, L=Los Gatos, O=Netflix, Inc., OU=Content Delivery Operations, CN=secure.cdn.nflximg.net
+        : RID 30: TLS Certificate Expired
+        : DP: 9
+
+offline0: i4pc----------- UDP [L] 192.168.1.1:53 <-- [OL] 192.168.1.7:59180
+        : DNS.netify.netflix
+        : H: artwork.akam.nflximg.net
+        : DP: 2
+
+offline0: i4pc---------F- TCP [OR] 184.25.204.25:80 <-- [L] 192.168.1.7:53148
+        : HTTP.netify.netflix
+        : D: a1907.dscg.akamai.net H: art-2.nflximg.net
+        : HTTP/UA: Argo/9.1.0 (iPhone; iOS 10.2; Scale/2.00)
+        : URL: art-2.nflximg.net/af7a5/362643424e775d0393ddb46e145c2375367af7a5.webp
+        : DP: 6
+
+offline0: i4pc----------- TCP [OR] 184.25.204.25:80 <-- [L] 192.168.1.7:53149
+        : HTTP.netify.netflix
+        : D: a1907.dscg.akamai.net H: art-2.nflximg.net
+        : HTTP/UA: Argo/9.1.0 (iPhone; iOS 10.2; Scale/2.00)
+        : URL: art-2.nflximg.net/5758c/bb636e44b87ef854c331ed7b7b6e157e4945758c.jpg
+        : DP: 6
+
+offline0: i4pc---------F- TCP [OR] 184.25.204.25:80 <-- [L] 192.168.1.7:53150
+        : HTTP.netify.netflix
+        : D: a1907.dscg.akamai.net H: art-2.nflximg.net
+        : HTTP/UA: Argo/9.1.0 (iPhone; iOS 10.2; Scale/2.00)
+        : URL: art-2.nflximg.net/87b33/bed1223a0040fdc97bac4e906332e462c6e87b33.jpg
+        : DP: 6
+
+offline0: i4pc----------- UDP [L] 192.168.1.1:53 <-- [OL] 192.168.1.7:58102
+        : DNS.netify.netflix
+        : H: appboot.netflix.com
+        : DP: 2
+
+offline0: i4pc---------F- TCP [OR] 54.201.191.132:80 <-- [L] 192.168.1.7:53151
+        : HTTP.netify.netflix
+        : D: appboot.us-west-2.prodaa.netflix.com H: appboot.netflix.com
+        : HTTP/UA: Argo/900 CFNetwork/808.2.16 Darwin/16.3.0
+        : URL: appboot.netflix.com/appboot/NFAPPL-02-
+        : DP: 10
+
+offline0: i4pc---------F- TCP [OR] 52.89.39.139:80 <-- [L] 192.168.1.7:53152
+        : HTTP.netify.netflix
+        : D: api-global.latency.prodaa.netflix.com H: api-global.netflix.com
+        : HTTP/UA: Argo/900 CFNetwork/808.2.16 Darwin/16.3.0
+        : URL: api-global.netflix.com/msl/nrdjs/2.1.2
+        : DP: 12
+
+offline0: i4pc----------- UDP [L] 192.168.1.1:53 <-- [OL] 192.168.1.7:51728
+        : DNS.netify.akamai
+        : H: a803.dscg.akamai.net
+        : DP: 2
+
+offline0: i4pc----------- UDP [L] 192.168.1.1:53 <-- [OL] 192.168.1.7:52347
+        : DNS.netify.netflix
+        : H: ios.nccp.netflix.com
+        : DP: 2
+
+offline0: i4pc-------r--- TCP [OR] 184.25.204.24:80 <-- [L] 192.168.1.7:53153
+        : HTTP.netify.netflix
+        : D: a803.dscg.akamai.net H: tp.akam.nflximg.com
+        : HTTP/UA: Argo/900 CFNetwork/808.2.16 Darwin/16.3.0
+        : URL: tp.akam.nflximg.com/tpa3/616/2041779616.bif
+        : RID 11: HTTP Suspicious Content
+        : DP: 6
+
+offline0: i4pcu------r-F- TCP [OR] 54.191.17.51:443 <-- [L] 192.168.1.7:53162
+        : HTTP/S.netify.netflix
+        : D: ios.nccp.us-west-2.prodaa.netflix.com H: ios.nccp.netflix.com
+        : V: 0x0303 CS: 0xc02f
+        : TLS/SNI: ios.nccp.netflix.com TLS/CN: nccp.netflix.com
+        : TLS/IDN: CN=Primary Certificate Authority (2009), ST=California, C=US, O=Netflix Inc, OU=Electronic Delivery, L=Los Gatos TLS/SDN: CN=*.nccp.netflix.com, O=Netflix, Inc., OU=Operations, C=US, ST=California, L=Los Gatos
+        : RID 30: TLS Certificate Expired
+        : RID 47: TLS ALPN Not Found
+        : DP: 7
+
+offline0: i4pc-------r-F- TCP [OR] 23.246.11.145:80 <-- [L] 192.168.1.7:53163
+        : HTTP.netify.netflix
+        : H: 23.246.11.145
+        : HTTP/UA: netflix-ios-app
+        : URL: 23.246.11.145/range/0-65535?o=AQEfKq2oMrLRiWL-p-VeIZ6WKRq-X6LMvaLqgxWBCuFbh09MpreORUUOO5Tx1683HPnLY6BPjN_9mlDuYihGZoXu9u0ozH8RFioBN_JDNiRscidjvoSdWmlyZgPNansW0lkBr4X81HvloOi8BS_exVSPhMyJQTB5bg&v=3&e=1484347850&t=5xfYVtna3GdYXL71uNs6DZ-X84Y&random=3930708224
+        : RID  2: Binary Application Transfer
+        : RID 10: Numeric IP Address
+        : DP: 5
+
+offline0: i4pc-------r--- TCP [OR] 23.246.10.139:80 <-- [L] 192.168.1.7:53164
+        : HTTP.netify.netflix
+        : H: 23.246.10.139
+        : HTTP/UA: netflix-ios-app
+        : URL: 23.246.10.139/range/0-65535?o=AQEfKq2oMrLRiWL-p-VeIZ6WKRq-X6LMvaLqgxWBCuFbh09MpreORUUOO5Tx1683HPnLY6BPjN_9mlDuYihGZoXu9u0ozH8RFioBN_JDNiRscidjvoSdWmlyZgPNansW0lkBr4X81HvloOi8BS_exVSPhMyJQTB5bg&v=3&e=1484347850&t=-djGXIcbFBNzyfugqEWcrgtCpyY&random=3407360776
+        : RID  2: Binary Application Transfer
+        : RID 10: Numeric IP Address
+        : DP: 5
+
+offline0: i4pc-------r-F- TCP [OR] 23.246.3.140:80 <-- [L] 192.168.1.7:53171
+        : HTTP.netify.netflix
+        : H: 23.246.3.140
+        : HTTP/UA: netflix-ios-app
+        : URL: 23.246.3.140/range/0-65535?o=AQEfKq2oMrLRiWL-p-VeIZ6WKRq-X6LMvaLqgxWBCuFbh09MpreORUUOO5Tx1683HPnLY6BPjN_9mlDuYihGZoXu9u0ozH8RFioBN_JDNiRscidjvoSdWmlyZgPNansW0lkBr4X81HvloOi8BS_exVSPhMyJQTB5bg&v=3&e=1484347850&t=-8u4vlcPuFqcOLnLyb9DDtK-bB4&random=357509657
+        : RID  2: Binary Application Transfer
+        : RID 10: Numeric IP Address
+        : DP: 5
+
+offline0: i4pc-------r-F- TCP [OR] 23.246.11.133:80 <-- [L] 192.168.1.7:53172
+        : HTTP.netify.netflix
+        : H: 23.246.11.133
+        : HTTP/UA: netflix-ios-app
+        : URL: 23.246.11.133/range/0-65535?o=AQEfKq2oMrLRiWL1ouVaJpeQLBWjGLjSseu23V2HX6kIiU9JpbCaBxxaIoz21qQNKuDUaOIZwdTlx23DMVxabbCwmvEluipDW2tvFMlhMRtwdhhVlbv9KGFabiu5KH0Slx0VjOK_wzThp_7lHhWA4kW9gayYEWtjNNKe&v=3&e=1484347850&t=JfEef80K02ynIjLLoi-HZB1uQ10&random=2473336513
+        : RID  2: Binary Application Transfer
+        : RID 10: Numeric IP Address
+        : DP: 5
+
+offline0: i4pc-------r-F- TCP [OR] 23.246.11.141:80 <-- [L] 192.168.1.7:53174
+        : HTTP.netify.netflix
+        : H: 23.246.11.141
+        : HTTP/UA: netflix-ios-app
+        : URL: 23.246.11.141/range/0-65535?o=AQEfKq2oMrLRiWL2puNQJpmQIRekGLjSseu23V2HX6kIiU9JpbCaBxxaIoz21qQNKuDUaOIZwdTlx23DMVxabbCwmvEluipDW2tvFMlhMRtwdhhVlbv9KGFabiu5KH0Slx0VjOK_wzThrvnlHhWA4kW9gayYEWtjNNKe&v=3&e=1484347850&t=mQfOf90-RY2Gd2ii20KJpCcYQVk&random=1345646229
+        : RID  2: Binary Application Transfer
+        : RID 10: Numeric IP Address
+        : DP: 5
+
+offline0: i4pc-------r-F- TCP [OR] 23.246.11.133:80 <-- [L] 192.168.1.7:53173
+        : HTTP.netify.netflix
+        : H: 23.246.11.133
+        : HTTP/UA: netflix-ios-app
+        : URL: 23.246.11.133/range/0-65535?o=AQEfKq2oMrLRiWL1ouVaJZ2bLBChGLjSseu23V2HX6kIiU9JpbCaBxxaIoz21qQNKuDUaOIZwdTlx23DMVxabbCwmvEluipDW2tvFMlhMRtwdhhVlbv9KGFabiu5KH0Slx0VjOK_wzThp_ngHhWA4kW9gayYEWtjNNKe&v=3&e=1484347850&t=SixKQmLLJNvShj-pfML-2h4QaqQ&random=727666104
+        : RID  2: Binary Application Transfer
+        : RID 10: Numeric IP Address
+        : DP: 5
+
+offline0: i4pc-------r-F- TCP [OR] 23.246.11.141:80 <-- [L] 192.168.1.7:53175
+        : HTTP.netify.netflix
+        : H: 23.246.11.141
+        : HTTP/UA: netflix-ios-app
+        : URL: 23.246.11.141/range/0-65535?o=AQEfKq2oMrLRiWL2puNQJJ2TLhuiGLjSseu23V2HX6kIiU9JpbCaBxxaIoz21qQNKuDUaOIZwdTlx23DMVxabbCwmvEluipDW2tvFMlhMRtwdhhVlbv9KGFabiu5KH0Slx0VjOK_wzThpP7lHhWA4kW9gayYEWtjNNKe&v=3&e=1484347850&t=Dh278u2UpApOCGUj5RxV8azNWX8&random=323765950
+        : RID  2: Binary Application Transfer
+        : RID 10: Numeric IP Address
+        : DP: 5
+
+offline0: i4pc-------r-F- TCP [OR] 23.246.11.141:80 <-- [L] 192.168.1.7:53179
+        : HTTP.netify.netflix
+        : H: 23.246.11.141
+        : HTTP/UA: netflix-ios-app
+        : URL: 23.246.11.141/range/0-65535?o=AQEfKq2oMrLRiWL2puNQJJiXLBugGLjSseu23V2HX6kIiU9JpbCaBxxaIoz21qQNKuDUaOIZwdTlx23DMVxabbCwmvEluipDW2tvFMlhMRtwdhhVlbv9KGFabiu5KH0Slx0VjOK_wzThpPflHhWA4kW9gayYEWtjNNKe&v=3&e=1484347850&t=JqTg0NiANIn4-aRwn3uKtWdoQ7M&random=1148970115
+        : RID  2: Binary Application Transfer
+        : RID 10: Numeric IP Address
+        : DP: 5
+
+offline0: i4pc-------r-F- TCP [OR] 23.246.11.141:80 <-- [L] 192.168.1.7:53176
+        : HTTP.netify.netflix
+        : H: 23.246.11.141
+        : HTTP/UA: netflix-ios-app
+        : URL: 23.246.11.141/range/0-65535?o=AQEfKq2oMrLRiWL2puNQJJqTIRqhGLjSseu23V2HX6kIiU9JpbCaBxxaIoz21qQNKuDUaOIZwdTlx23DMVxabbCwmvEluipDW2tvFMlhMRtwdhhVlbv9KGFabiu5KH0Slx0VjOK_wzThp_vlHhWA4kW9gayYEWtjNNKe&v=3&e=1484347850&t=TnP59JB1wb5UTOCr0m-KQU2kGPo&random=4134731400
+        : RID  2: Binary Application Transfer
+        : RID 10: Numeric IP Address
+        : DP: 5
+
+offline0: i4pc-------r-F- TCP [OR] 23.246.11.141:80 <-- [L] 192.168.1.7:53178
+        : HTTP.netify.netflix
+        : H: 23.246.11.141
+        : HTTP/UA: netflix-ios-app
+        : URL: 23.246.11.141/range/0-65535?o=AQEfKq2oMrLRiWL2puNQJJmULRajGLjSseu23V2HX6kIiU9JpbCaBxxaIoz21qQNKuDUaOIZwdTlx23DMVxabbCwmvEluipDW2tvFMlhMRtwdhhVlbv9KGFabiu5KH0Slx0VjOK_wzThpfblHhWA4kW9gayYEWtjNNKe&v=3&e=1484347850&t=zezrDJDQvgO2TiYC1dT3imH4QC8&random=169467304
+        : RID  2: Binary Application Transfer
+        : RID 10: Numeric IP Address
+        : DP: 5
+
+offline0: i4pc-------r-F- TCP [OR] 23.246.11.141:80 <-- [L] 192.168.1.7:53177
+        : HTTP.netify.netflix
+        : H: 23.246.11.141
+        : HTTP/UA: netflix-ios-app
+        : URL: 23.246.11.141/range/0-65535?o=AQEfKq2oMrLRiWL2puNQIpyTIBGjGLjSseu23V2HX6kIiU9JpbCaBxxaIoz21qQNKuDUaOIZwdTlx23DMVxabbCwmvEluipDW2tvFMlhMRtwdhhVlbv9KGFabiu5KH0Slx0VjOK_wzThp_biCFrUjHWqh5ipQCtzf4OVWQ&v=3&e=1484347850&t=8Z78vL2i9OzihCA3M1LinMYcMY4&random=2386475836
+        : RID  2: Binary Application Transfer
+        : RID 10: Numeric IP Address
+        : DP: 5
+
+offline0: i4pc-------r-F- TCP [OR] 23.246.11.141:80 <-- [L] 192.168.1.7:53180
+        : HTTP.netify.netflix
+        : H: 23.246.11.141
+        : HTTP/UA: netflix-ios-app
+        : URL: 23.246.11.141/range/0-65535?o=AQEfKq2oMrLRiWL2puNQJ5yTLBCkGLjSseu23V2HX6kIiU9JpbCaBxxaIoz21qQNKuDUaOIZwdTlx23DMVxabbCwmvEluipDW2tvFMlhMRtwdhhVlbv9KGFabiu5KH0Slx0VjOK_wzThp_3mCFrUjHWqh5ipQCtzf4OVWQ&v=3&e=1484347850&t=r5jtnnEcR8hDCkPImfEiWqWAjKk&random=1846234524
+        : RID  2: Binary Application Transfer
+        : RID 10: Numeric IP Address
+        : DP: 5
+
+offline0: i4pc-------r-F- TCP [OR] 23.246.11.141:80 <-- [L] 192.168.1.7:53181
+        : HTTP.netify.netflix
+        : H: 23.246.11.141
+        : HTTP/UA: netflix-ios-app
+        : URL: 23.246.11.141/range/0-65535?o=AQEfKq2oMrLRiWL2puNQLJ2TIBepGLjSseu23V2HX6kIiU9JpbCaBxxaIoz21qQNKuDUaOIZwdTlx23DMVxabbCwmvEluipDW2tvFMlhMRtwdhhVlbv9KGFabiu5KH0Slx0VjOK_wzThpPbiCFrUjHWqh5ipQCtzf4OVWQ&v=3&e=1484347850&t=tTXu3c6FnJtfi6z0IJp3hw8eDv8&random=129454076
+        : RID  2: Binary Application Transfer
+        : RID 10: Numeric IP Address
+        : DP: 5
+
+offline0: i4pc-------r-F- TCP [OR] 23.246.11.141:80 <-- [L] 192.168.1.7:53182
+        : HTTP.netify.netflix
+        : H: 23.246.11.141
+        : HTTP/UA: netflix-ios-app
+        : URL: 23.246.11.141/range/0-65535?o=AQEfKq2oMrLRiWL2puNQJZ2VKhqgGLjSseu23V2HX6kIiU9JpbCaBxxaIoz21qQNKuDUaOIZwdTlx23DMVxabbCwmvEluipDW2tvFMlhMRtwdhhVlbv9KGFabiu5KH0Slx0VjOK_wzTho_flHhWA4kW9gayYEWtjNNKe&v=3&e=1484347850&t=LQ7LyXSnZaXKEHAHaRRHk-S7dKE&random=4209810633
+        : RID  2: Binary Application Transfer
+        : RID 10: Numeric IP Address
+        : DP: 5
+
+offline0: i4pc-------r--- TCP [OR] 23.246.11.141:80 <-- [L] 192.168.1.7:53184
+        : HTTP.netify.netflix
+        : H: 23.246.11.141
+        : HTTP/UA: AppleCoreMedia/1.0.0.14C92 (iPhone; U; CPU OS 10_2 like Mac OS X; en_us)
+        : URL: 23.246.11.141/?o=AQEfKq2oMrLRiWL2puNQJJqTIRqhGLjSseu23V2HX6kIiU9JpbCaBxxaIoz21qQNKuDUaOIZwdTlx23DMVxabbCwmvEluipDW2tvFMlhMRtwdhhVlbv9KGFabiu5KH0Slx0VjOK_wzThp_vlHhWA4kW9gayYEWtjNNKe&v=3&e=1484347850&t=TnP59JB1wb5UTOCr0m-KQU2kGPo
+        : RID  2: Binary Application Transfer
+        : RID 10: Numeric IP Address
+        : DP: 5
+
+offline0: i4pc-------r--- TCP [OR] 23.246.3.140:80 <-- [L] 192.168.1.7:53183
+        : HTTP.netify.netflix
+        : H: 23.246.3.140
+        : HTTP/UA: AppleCoreMedia/1.0.0.14C92 (iPhone; U; CPU OS 10_2 like Mac OS X; en_us)
+        : URL: 23.246.3.140/?o=AQEfKq2oMrLRiWL-p-VeIZ6WKRq-X6LMvaLqgxWBCuFbh09MpreORUUOO5Tx1683HPnLY6BPjN_9mlDuYihGZoXu9u0ozH8RFioBN_JDNiRscidjvoSdWmlyZgPNansW0lkBr4X81HvloOi8BS_exVSPhMyJQTB5bg&v=3&e=1484347850&t=-8u4vlcPuFqcOLnLyb9DDtK-bB4
+        : RID  2: Binary Application Transfer
+        : RID 10: Numeric IP Address
+        : DP: 5
+
+offline0: i4pc----------- UDP [L] 192.168.1.1:53 <-- [OL] 192.168.1.7:60962
+        : DNS.netify.netflix
+        : H: ichnaea.geo.netflix.com
+        : DP: 2
+
+offline0: i4pcu------r--- TCP [OR] 54.191.17.51:443 <-- [L] 192.168.1.7:53193
+        : HTTP/S.netify.netflix
+        : D: ios.nccp.us-west-2.prodaa.netflix.com H: ios.nccp.netflix.com
+        : V: 0x0303 CS: 0xc02f
+        : TLS/SNI: ios.nccp.netflix.com TLS/CN: nccp.netflix.com
+        : TLS/IDN: CN=Primary Certificate Authority (2009), ST=California, C=US, O=Netflix Inc, OU=Electronic Delivery, L=Los Gatos TLS/SDN: CN=*.nccp.netflix.com, O=Netflix, Inc., OU=Operations, C=US, ST=California, L=Los Gatos
+        : RID 30: TLS Certificate Expired
+        : RID 47: TLS ALPN Not Found
+        : DP: 7
+
+offline0: i4pcu------r-F- TCP [OR] 54.191.17.51:443 <-- [L] 192.168.1.7:53202
+        : HTTP/S.netify.netflix
+        : D: ios.nccp.us-west-2.prodaa.netflix.com H: ios.nccp.netflix.com
+        : V: 0x0303 CS: 0xc02f
+        : TLS/SNI: ios.nccp.netflix.com TLS/CN: nccp.netflix.com
+        : TLS/IDN: CN=Primary Certificate Authority (2009), ST=California, C=US, O=Netflix Inc, OU=Electronic Delivery, L=Los Gatos TLS/SDN: CN=*.nccp.netflix.com, O=Netflix, Inc., OU=Operations, C=US, ST=California, L=Los Gatos
+        : RID 30: TLS Certificate Expired
+        : RID 47: TLS ALPN Not Found
+        : DP: 7
+
+offline0: i4pcu------r-F- TCP [OR] 52.37.36.252:443 <-- [L] 192.168.1.7:53203
+        : HTTP/S.netify.netflix
+        : D: ichnaea.latency.prodaa.netflix.com H: ichnaea.netflix.com
+        : V: 0x0303 CS: 0xc02f
+        : TLS/SNI: ichnaea.netflix.com TLS/CN: customerevents.netflix.com
+        : TLS/IDN: C=US, O=Symantec Corporation, OU=Symantec Trust Network, CN=Symantec Class 3 Secure Server CA - G4 TLS/SDN: C=US, ST=California, L=los gatos, O=Netflix, Inc., OU=Ops, CN=customerevents.netflix.com
+        : RID 30: TLS Certificate Expired
+        : DP: 7
+
+offline0: i4pc-------r--- TCP [OR] 23.246.11.133:80 <-- [L] 192.168.1.7:53210
+        : HTTP.netify.netflix
+        : H: 23.246.11.133
+        : HTTP/UA: AppleCoreMedia/1.0.0.14C92 (iPhone; U; CPU OS 10_2 like Mac OS X; en_us)
+        : URL: 23.246.11.133/?o=AQEfKq2oMrLRiWL1ouVaJpeQLBWjGLjSseu23V2HX6kIiU9JpbCaBxxaIoz21qQNKuDUaOIZwdTlx23DMVxabbCwmvEluipDW2tvFMlhMRtwdhhVlbv9KGFabiu5KH0Slx0VjOK_wzThp_7lHhWA4kW9gayYEWtjNNKe&v=3&e=1484347850&t=JfEef80K02ynIjLLoi-HZB1uQ10
+        : RID  2: Binary Application Transfer
+        : RID 10: Numeric IP Address
+        : DP: 5
+
+offline0: i4pc-------r--- TCP [OR] 23.246.11.141:80 <-- [L] 192.168.1.7:53217
+        : HTTP.netify.netflix
+        : H: 23.246.11.141
+        : HTTP/UA: AppleCoreMedia/1.0.0.14C92 (iPhone; U; CPU OS 10_2 like Mac OS X; en_us)
+        : URL: 23.246.11.141/?o=AQEfKq2oMrLRiWL2puNQJJ2TLhuiGLjSseu23V2HX6kIiU9JpbCaBxxaIoz21qQNKuDUaOIZwdTlx23DMVxabbCwmvEluipDW2tvFMlhMRtwdhhVlbv9KGFabiu5KH0Slx0VjOK_wzThpP7lHhWA4kW9gayYEWtjNNKe&v=3&e=1484347850&t=Dh278u2UpApOCGUj5RxV8azNWX8
+        : RID  2: Binary Application Transfer
+        : RID 10: Numeric IP Address
+        : DP: 5
+
+offline0: i4pc----------- UDP [L] 192.168.1.1:53 <-- [OL] 192.168.1.7:51622
+        : DNS.netify.netflix
+        : H: ios.nccp.netflix.com
+        : DP: 3
+
+offline0: i4pcu------r-F- TCP [OR] 52.32.22.214:443 <-- [L] 192.168.1.7:53238
+        : HTTP/S.netify.netflix
+        : D: ios.nccp.us-west-2.prodaa.netflix.com H: ios.nccp.netflix.com
+        : V: 0x0303 CS: 0xc02f
+        : TLS/SNI: ios.nccp.netflix.com TLS/CN: nccp.netflix.com
+        : TLS/IDN: CN=Primary Certificate Authority (2009), ST=California, C=US, O=Netflix Inc, OU=Electronic Delivery, L=Los Gatos TLS/SDN: CN=*.nccp.netflix.com, O=Netflix, Inc., OU=Operations, C=US, ST=California, L=Los Gatos
+        : RID 30: TLS Certificate Expired
+        : RID 47: TLS ALPN Not Found
+        : DP: 7
+
+offline0: i4pc----------- UDP [L] 192.168.1.1:53 <-- [OL] 192.168.1.7:52095
+        : DNS.netify.netflix
+        : H: api-global.latency.prodaa.netflix.com
+        : DP: 2
+
+offline0: i4pcu------r--- TCP [OR] 52.41.30.5:443 <-- [L] 192.168.1.7:53239
+        : HTTP/S.netify.netflix
+        : D: api-global.latency.prodaa.netflix.com H: api-global.netflix.com
+        : V: 0x0303 CS: 0xc02f
+        : TLS/SNI: api-global.netflix.com TLS/CN: api.netflix.com
+        : TLS/IDN: C=US, O=Symantec Corporation, OU=Symantec Trust Network, CN=Symantec Class 3 Secure Server CA - G4 TLS/SDN: C=US, ST=California, L=los gatos, O=Netflix, Inc., OU=Ops, CN=api.netflix.com
+        : RID 30: TLS Certificate Expired
+        : DP: 7
+
+offline0: i4pcu------r--- TCP [OR] 52.32.22.214:443 <-- [L] 192.168.1.7:53248
+        : HTTP/S.netify.netflix
+        : D: ios.nccp.us-west-2.prodaa.netflix.com H: ios.nccp.netflix.com
+        : V: 0x0303 CS: 0xc02f
+        : TLS/SNI: ios.nccp.netflix.com TLS/CN: nccp.netflix.com
+        : TLS/IDN: CN=Primary Certificate Authority (2009), ST=California, C=US, O=Netflix Inc, OU=Electronic Delivery, L=Los Gatos TLS/SDN: CN=*.nccp.netflix.com, O=Netflix, Inc., OU=Operations, C=US, ST=California, L=Los Gatos
+        : RID 30: TLS Certificate Expired
+        : RID 47: TLS ALPN Not Found
+        : DP: 7
+
+offline0: i4pcu------r--- TCP [OR] 52.41.30.5:443 <-- [L] 192.168.1.7:53249
+        : HTTP/S.netify.netflix
+        : D: api-global.latency.prodaa.netflix.com H: api-global.netflix.com
+        : V: 0x0303 CS: 0xc02f
+        : TLS/SNI: api-global.netflix.com
+        : RID 47: TLS ALPN Not Found
+        : DP: 6
+
+offline0: i4pcu------r--- TCP [OR] 52.41.30.5:443 <-- [L] 192.168.1.7:53250
+        : HTTP/S.netify.netflix
+        : D: api-global.latency.prodaa.netflix.com H: api-global.netflix.com
+        : V: 0x0303 CS: 0xc02f
+        : TLS/SNI: api-global.netflix.com
+        : RID 47: TLS ALPN Not Found
+        : DP: 6
+
+offline0: i4pc----------- UDP [L] 192.168.1.1:53 <-- [OL] 192.168.1.7:57093
+        : DNS.netify.akamai
+        : H: a1907.dscg.akamai.net
+        : DP: 2
+
+offline0: i4pc----------- TCP [OR] 184.25.204.10:80 <-- [L] 192.168.1.7:53251
+        : HTTP.netify.netflix
+        : D: a1907.dscg.akamai.net H: art-1.nflximg.net
+        : HTTP/UA: Argo/9.1.0 (iPhone; iOS 10.2; Scale/2.00)
+        : URL: art-1.nflximg.net/4e36d/6289889020d6cc6dfb3038c35564a41e1ca4e36d.jpg
+        : DP: 6
+
+offline0: i4pc----------- TCP [OR] 184.25.204.10:80 <-- [L] 192.168.1.7:53252
+        : HTTP.netify.netflix
+        : D: a1907.dscg.akamai.net H: art-1.nflximg.net
+        : HTTP/UA: Argo/9.1.0 (iPhone; iOS 10.2; Scale/2.00)
+        : URL: art-1.nflximg.net/8b1fa/eaa1b78cd72ca4dbdcab527691d2fcab37c8b1fa.jpg
+        : DP: 6
+
+offline0: i4pc-gx----r-F- TCP [OR] 52.24.87.6:443 <-- [L] 192.168.1.7:52929
+        : HTTP/S
+        : RID 46: Unidirectional Traffic
+        : DP: 2
+

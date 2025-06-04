@@ -1,0 +1,5 @@
+deploy-rpm:
+	$(MAKE) dist-gzip
+	cp -v $(PACKAGE)-$(VERSION).tar.gz ~/rpmbuild/SOURCES/
+	rpmbuild -ba $(PACKAGE).spec
+

@@ -1,0 +1,9 @@
+offline0: i4pc-------r-F- TCP [L] 10.215.173.1:41644 --> [OL] 192.168.88.231:8080
+        : HTTP
+        : H: 192.168.88.231
+        : HTTP/UA: VLC/3.0.18 LibVLC/3.0.18
+        : URL: 192.168.88.231:8080/output.m3u8
+        : RID 10: Numeric IP Address
+        : RID 16: Known Protocol on Non-standard Port
+        : DP: 6
+

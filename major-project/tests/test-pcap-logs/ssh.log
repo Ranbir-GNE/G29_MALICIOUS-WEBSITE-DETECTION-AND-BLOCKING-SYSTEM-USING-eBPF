@@ -1,0 +1,7 @@
+offline0: i4pcu------r-F- TCP [L] 172.16.238.1:58395 --> [OL] 172.16.238.168:22
+        : SSH
+        : SSH/CA: SSH-2.0-OpenSSH_5.3 SSH/SA: SSH-2.0-OpenSSH_5.6
+        : RID 25: SSH Obsolete Client Version/Cipher
+        : RID 26: SSH Obsolete Server Version/Cipher
+        : DP: 10
+

@@ -1,0 +1,7 @@
+offline0: i4pc-------r--- UDP [OR] 153.20.183.203:443 <-- [L] 172.29.42.236:38292
+        : QUIC.netify.google-play
+        : H: play.google.com
+        : TLS/SNI: play.google.com
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+

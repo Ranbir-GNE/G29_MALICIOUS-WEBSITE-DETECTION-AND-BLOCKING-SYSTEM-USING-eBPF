@@ -1,0 +1,9 @@
+offline0: i4pc-------r--- UDP [L] 192.168.56.1:55880 --> [OL] 192.168.56.198:4443
+        : QUIC
+        : V: 0x0304
+        : RID 16: Known Protocol on Non-standard Port
+        : RID 35: TLS SNI Extension Not Found
+        : RID 46: Unidirectional Traffic
+        : RID 53: TLS ALPN/SNI Mismatch
+        : DP: 1
+

@@ -1,0 +1,8 @@
+Makefile.in
+check-protocols
+check-risks
+.deps
+.libs
+*.o
+netifyd-test-pcap.conf
+/netifyd

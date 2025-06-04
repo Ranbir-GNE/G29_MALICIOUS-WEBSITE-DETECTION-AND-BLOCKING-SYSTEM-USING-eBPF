@@ -1,0 +1,9 @@
+offline0: i4pcu------r--- TCP [OR] 85.222.142.6:443 <-- [L] 192.168.1.178:54399
+        : HTTP/S.netify.salesforce
+        : H: help.salesforce.com
+        : V: 0x0303 CS: 0xc030
+        : TLS/SNI: help.salesforce.com TLS/CN: support.salesforce.com
+        : TLS/IDN: C=US, O=DigiCert Inc, CN=DigiCert TLS RSA SHA256 2020 CA1 TLS/SDN: C=US, ST=California, L=San Francisco, O=salesforce.com, inc., CN=support.salesforce.com
+        : RID 30: TLS Certificate Expired
+        : DP: 8
+

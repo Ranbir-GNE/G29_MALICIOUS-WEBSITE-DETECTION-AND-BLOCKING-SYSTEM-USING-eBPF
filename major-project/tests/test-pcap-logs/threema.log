@@ -1,0 +1,26 @@
+offline0: i4pc----------- TCP [OR] 185.88.236.110:5222 <-- [L] 192.168.2.100:50298
+        : Threema
+        : DP: 10
+
+offline0: i4pc----------- TCP [OR] 185.88.236.110:5222 <-- [L] 192.168.2.100:50484
+        : Threema
+        : DP: 10
+
+offline0: i4pc----------- TCP [OR] 185.88.236.110:5222 <-- [L] 192.168.2.100:50500
+        : Threema
+        : DP: 10
+
+offline0: i4pc---------F- TCP [OR] 185.88.236.110:5222 <-- [L] 192.168.2.100:50618
+        : Threema
+        : DP: 10
+
+offline0: i4pc-gx----r-F- TCP [OR] 185.88.236.110:5222 <-- [L] 192.168.2.100:50718
+        : Unknown
+        : RID 52: Fully Encrypted Flow
+        : DP: 13
+
+offline0: i4pc-gx----r-F- TCP [OR] 185.88.236.110:5222 <-- [L] 192.168.2.100:50860
+        : Unknown
+        : RID 52: Fully Encrypted Flow
+        : DP: 13
+

@@ -1,0 +1,9 @@
+offline0: i4pc---------F- TCP [L] 192.168.0.20:36835 --> [OL] 192.168.0.241:4712
+        : IEEE/C37/118
+        : DP: 4
+
+offline0: i4pc-------r--- UDP [L] 192.168.0.10:4712 <-- [OL] 192.168.0.60:4713
+        : IEEE/C37/118
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+

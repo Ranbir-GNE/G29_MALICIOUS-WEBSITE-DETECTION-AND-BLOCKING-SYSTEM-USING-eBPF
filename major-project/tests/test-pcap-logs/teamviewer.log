@@ -1,0 +1,10 @@
+offline0: i4pc----------- TCP [L] 10.0.2.15:35732 --> [OR] 162.250.2.170:5938
+        : TeamViewer.netify.teamviewer
+        : DP: 4
+
+offline0: i4pc-------r--- UDP [L] 10.0.2.15:34417 <-- [OR] 93.47.224.241:36037
+        : TeamViewer.netify.teamviewer
+        : RID  4: Desktop/File Sharing
+        : RID 16: Known Protocol on Non-standard Port
+        : DP: 4
+

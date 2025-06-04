@@ -1,0 +1,12 @@
+# Netify Agent PCAP Test configuration
+[netifyd]
+path_state_volatile = @testdir@/var/run/netifyd
+path_state_persistent = @testdir@/etc/netifyd
+path_pid_file = ${path_state_volatile}/netifyd.pid
+path_shared_data = @testdir@/usr/share/netifyd
+
+[dns_hint_cache]
+enable = false
+
+[netify_api]
+enable = false

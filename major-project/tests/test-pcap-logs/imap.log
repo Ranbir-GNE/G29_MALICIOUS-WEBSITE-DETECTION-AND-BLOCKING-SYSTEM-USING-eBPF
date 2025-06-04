@@ -1,0 +1,6 @@
+offline0: i4pc-------r--- TCP [L] 10.40.3.2:143 <-- [OL] 10.40.4.2:46045
+        : IMAP
+        : RID  3: Clear-Text Credentials
+        : RID 42: Unsafe Protocol
+        : DP: 11
+

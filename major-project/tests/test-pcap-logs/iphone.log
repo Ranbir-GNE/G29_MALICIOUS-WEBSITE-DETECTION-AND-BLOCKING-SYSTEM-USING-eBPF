@@ -1,0 +1,302 @@
+offline0: i4pc----------- UDP [L] 192.168.2.1:17500 --> [OL] 192.168.2.255:17500
+        : Dropbox
+        : DP: 1
+
+offline0: i4pc----------- UDP [L] 0.0.0.0:68 --> [OB] 255.255.255.255:67
+        : DHCP
+        : H: lucas-imac
+        : DHCP/FP: 1,121,3,6,15,119,252,95,44,46
+        : DP: 1
+
+offline0: i4pc----------- UDP [L] 192.168.2.1:5353 --> [OM] 224.0.0.251:5353
+        : MDNS.netify.internal-network
+        : H: luca___s_imac._odisk._tcp.local
+        : MDNS/DN: Luca___s iMac._companion-link._tcp.local
+        : DP: 1
+
+offline0: i6pc----------- UDP [L] fe80::c42c:3ff:fe60:6a64:5353 --> [OM] ff02::fb:5353
+        : MDNS.netify.internal-network
+        : H: luca___s_imac._odisk._tcp.local
+        : MDNS/DN: Luca___s iMac._companion-link._tcp.local
+        : DP: 1
+
+offline0: i4pc----------- UDP [L] 169.254.225.216:5353 --> [OM] 224.0.0.251:5353
+        : MDNS.netify.internal-network
+        : H: luca___s_imac._odisk._tcp.local
+        : MDNS/DN: Lucas-iMac.local
+        : DP: 1
+
+offline0: i4pc----------- UDP [L] 192.168.2.1:57621 --> [OL] 192.168.2.255:57621
+        : Spotify.netify.spotify
+        : DP: 1
+
+offline0: i4pc----------- UDP [L] 169.254.225.216:60538 --> [OM] 239.255.255.250:1900
+        : SSDP
+        : H: 239.255.255.250_1900
+        : DP: 1
+
+offline0: i4pc----------- UDP [L] 192.168.2.1:51411 --> [OM] 239.255.255.250:1900
+        : SSDP
+        : H: 239.255.255.250_1900
+        : DP: 1
+
+offline0: i4pc----------- UDP [L] 0.0.0.0:68 --> [OB] 255.255.255.255:67
+        : DHCP
+        : H: lucas-iphone
+        : DHCP/FP: 1,121,3,6,15,119,252
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 192.168.2.1:67 <-- [OL] 192.168.2.17:68
+        : DHCP
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i6pc----------- IPv6-ICMP [L] :::0 --> [OM] ff02::1:ff98:a29c:0
+        : ICMPv6
+        : DP: 1
+
+offline0: i6pc----------- IPv6-ICMP [L] fe80::823:3f17:8298:a29c:0 --> [OM] ff02::2:0
+        : ICMPv6
+        : DP: 1
+
+offline0: i6pc----------- IPv6-ICMP [L] fe80::823:3f17:8298:a29c:0 --> [OM] ff02::16:0
+        : ICMPv6
+        : DP: 1
+
+offline0: i4pc----------- UDP [L] 192.168.2.1:53 <-- [OL] 192.168.2.17:63143
+        : DNS.netify.apple-icloud
+        : H: p26-fmfmobile.icloud.com
+        : DP: 2
+
+offline0: i4pc----------- UDP [L] 192.168.2.1:53 <-- [OL] 192.168.2.17:63381
+        : DNS.netify.apple-icloud
+        : H: p26-keyvalueservice.icloud.com
+        : DP: 2
+
+offline0: i4pc----------- UDP [L] 192.168.2.1:53 <-- [OL] 192.168.2.17:61862
+        : DNS.netify.apple
+        : H: gspe35-ssl.ls.apple.com
+        : DP: 2
+
+offline0: i4pc----------- UDP [L] 192.168.2.1:53 <-- [OL] 192.168.2.17:55914
+        : DNS.netify.apple
+        : H: gsp85-ssl.ls.apple.com
+        : DP: 2
+
+offline0: i4pc----------- UDP [L] 192.168.2.1:53 <-- [OL] 192.168.2.17:51007
+        : DNS.netify.apple
+        : H: captive.apple.com
+        : DP: 2
+
+offline0: i4pc----------- UDP [L] 192.168.2.1:53 <-- [OL] 192.168.2.17:55457
+        : DNS.netify.apple-updates
+        : H: mesu.apple.com
+        : DP: 2
+
+offline0: i4pcu---------- TCP [OR] 95.101.25.53:443 <-- [L] 192.168.2.17:50576
+        : HTTP/S.netify.apple
+        : D: e6987.e9.akamaiedge.net H: gspe35-ssl.ls.apple.com
+        : V: 0x0303 CS: 0x1302
+        : TLS/SNI: gspe35-ssl.ls.apple.com
+        : DP: 6
+
+offline0: i4pcu------r--- TCP [OR] 17.248.185.140:443 <-- [L] 192.168.2.17:50575
+        : HTTP/S.netify.apple-icloud
+        : D: fmfmobile.fe.apple-dns.net H: p26-fmfmobile.icloud.com
+        : V: 0x0303 CS: 0xc02c
+        : TLS/SNI: p26-fmfmobile.icloud.com TLS/CN: fmfmobile.icloud.com
+        : TLS/IDN: CN=Apple IST CA 2 - G1, OU=Certification Authority, O=Apple Inc., C=US TLS/SDN: CN=fmfmobile.icloud.com, O=Apple Inc., ST=California, C=US
+        : RID 30: TLS Certificate Expired
+        : DP: 10
+
+offline0: i4pc----------- UDP [L] 192.168.2.1:53 <-- [OL] 192.168.2.17:52852
+        : DNS.netify.apple-icloud
+        : H: gateway.icloud.com
+        : DP: 2
+
+offline0: i4pcu--------F- TCP [OR] 17.253.105.202:443 <-- [L] 192.168.2.17:50579
+        : HTTP/S.netify.apple-updates
+        : D: mesu.g.aaplimg.com H: mesu.apple.com
+        : V: 0x0303 CS: 0x1301
+        : TLS/SNI: mesu.apple.com
+        : DP: 6
+
+offline0: i4pc---------F- TCP [OR] 17.253.105.202:80 <-- [L] 192.168.2.17:49152
+        : HTTP.netify.apple
+        : D: mesu.g.aaplimg.com H: captive.apple.com
+        : HTTP/UA: CaptiveNetworkSupport-390.60.1 wispr
+        : URL: captive.apple.com/hotspot-detect.html
+        : DP: 6
+
+offline0: i4pcu--------F- TCP [OR] 17.253.105.202:443 <-- [L] 192.168.2.17:50578
+        : HTTP/S.netify.apple-updates
+        : D: mesu.g.aaplimg.com H: mesu.apple.com
+        : V: 0x0303 CS: 0x1301
+        : TLS/SNI: mesu.apple.com
+        : DP: 6
+
+offline0: i4pcu------r--- TCP [OR] 17.130.2.46:443 <-- [L] 192.168.2.17:50577
+        : HTTP/S.netify.apple
+        : D: gsp85-ssl.ls2-apple.com.akadns.net H: gsp85-ssl.ls.apple.com
+        : V: 0x0303 CS: 0xc02f
+        : TLS/SNI: gsp85-ssl.ls.apple.com TLS/CN: ls.apple.com
+        : TLS/IDN: CN=Apple IST CA 2 - G1, OU=Certification Authority, O=Apple Inc., C=US TLS/SDN: CN=*.ls.apple.com, OU=management:idms.group.576486, O=Apple Inc., ST=California, C=US
+        : RID 30: TLS Certificate Expired
+        : DP: 8
+
+offline0: i4pc----------- UDP [L] 192.168.2.1:53 <-- [OL] 192.168.2.17:52682
+        : DNS.netify.apple-icloud
+        : H: www.icloud.com
+        : DP: 2
+
+offline0: i4pc----------- UDP [L] 192.168.2.1:53 <-- [OL] 192.168.2.17:53317
+        : DNS.netify.apple
+        : H: iphone-ld.apple.com
+        : DP: 2
+
+offline0: i4pc----------- UDP [L] 192.168.2.1:53 <-- [OL] 192.168.2.17:64203
+        : DNS.netify.apple
+        : H: basejumper.apple.com
+        : DP: 2
+
+offline0: i4pc----------- UDP [L] 192.168.2.1:53 <-- [OL] 192.168.2.17:63377
+        : DNS.netify.apple-itunes
+        : H: bag.itunes.apple.com
+        : DP: 2
+
+offline0: i4pc----------- UDP [L] 192.168.2.1:53 <-- [OL] 192.168.2.17:53983
+        : DNS.netify.apple-itunes
+        : H: bag.itunes.apple.com
+        : DP: 2
+
+offline0: i4pc----------- UDP [L] 192.168.2.1:53 <-- [OL] 192.168.2.17:49880
+        : DNS.netify.apple-itunes
+        : H: init.itunes.apple.com
+        : DP: 2
+
+offline0: i4pc----------- UDP [L] 192.168.2.1:53 <-- [OL] 192.168.2.17:53272
+        : DNS.netify.apple-itunes
+        : H: play.itunes.apple.com
+        : DP: 2
+
+offline0: i4pc----------- UDP [L] 192.168.2.1:53 <-- [OL] 192.168.2.17:62526
+        : DNS.netify.apple
+        : H: cl4.apple.com
+        : DP: 2
+
+offline0: i4pcu------r--- TCP [OR] 17.248.176.75:443 <-- [L] 192.168.2.17:50580
+        : HTTP/S.netify.apple-icloud
+        : D: gateway.fe.apple-dns.net H: gateway.icloud.com
+        : V: 0x0303 CS: 0xc02c
+        : TLS/SNI: gateway.icloud.com TLS/CN: gateway.icloud.com
+        : TLS/IDN: CN=Apple IST CA 2 - G1, OU=Certification Authority, O=Apple Inc., C=US TLS/SDN: CN=gateway.icloud.com, O=Apple Inc., ST=California, C=US
+        : RID 30: TLS Certificate Expired
+        : DP: 8
+
+offline0: i4pc-------r--- ICMP [L] 192.168.2.1:0 <-- [OL] 192.168.2.17:0
+        : ICMP
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pcu---------- TCP [OR] 92.122.252.82:443 <-- [L] 192.168.2.17:50582
+        : HTTP/S.netify.apple
+        : D: e9338.d.akamaiedge.net H: iphone-ld.apple.com
+        : V: 0x0303 CS: 0x1302
+        : TLS/SNI: iphone-ld.apple.com
+        : DP: 6
+
+offline0: i4pcu---------- TCP [OR] 104.73.61.30:443 <-- [L] 192.168.2.17:50583
+        : HTTP/S.netify.apple
+        : D: e14868.dsce9.akamaiedge.net H: cl4.apple.com
+        : V: 0x0303 CS: 0x1302
+        : TLS/SNI: cl4.apple.com
+        : DP: 6
+
+offline0: i4pcu------r--- TCP [OR] 17.248.185.87:443 <-- [L] 192.168.2.17:50581
+        : HTTP/S.netify.apple-icloud
+        : D: keyvalueservice.fe.apple-dns.net H: p26-keyvalueservice.icloud.com
+        : V: 0x0303 CS: 0xc02c
+        : TLS/SNI: p26-keyvalueservice.icloud.com TLS/CN: keyvalueservice.icloud.com
+        : TLS/IDN: CN=Apple IST CA 2 - G1, OU=Certification Authority, O=Apple Inc., C=US TLS/SDN: CN=keyvalueservice.icloud.com, O=Apple Inc., ST=California, C=US
+        : RID 30: TLS Certificate Expired
+        : DP: 9
+
+offline0: i4pc----------- IGMP [L] 192.168.2.17:0 --> [OM] 224.0.0.22:0
+        : IGMP
+        : DP: 1
+
+offline0: i4pc----------- UDP [L] 192.168.2.1:53 <-- [OL] 192.168.2.17:62160
+        : DNS.netify.apple-id
+        : H: gsa.apple.com
+        : DP: 2
+
+offline0: i4pc----------- UDP [L] 192.168.2.1:53 <-- [OL] 192.168.2.17:52031
+        : DNS.netify.apple-id
+        : H: gsa.apple.com
+        : DP: 2
+
+offline0: i4pcu------r--- TCP [OR] 17.248.176.75:443 <-- [L] 192.168.2.17:50584
+        : HTTP/S.netify.apple-icloud
+        : D: gateway.fe.apple-dns.net H: gateway.icloud.com
+        : V: 0x0303 CS: 0xc02c
+        : TLS/SNI: gateway.icloud.com TLS/CN: gateway.icloud.com
+        : TLS/IDN: CN=Apple IST CA 2 - G1, OU=Certification Authority, O=Apple Inc., C=US TLS/SDN: CN=gateway.icloud.com, O=Apple Inc., ST=California, C=US
+        : RID 30: TLS Certificate Expired
+        : DP: 8
+
+offline0: i4pcu------r--- TCP [OR] 17.137.166.35:443 <-- [L] 192.168.2.17:50585
+        : HTTP/S.netify.apple-id
+        : D: gsa.apple.com.akadns.net H: gsa.apple.com
+        : V: 0x0303 CS: 0xc02f
+        : TLS/SNI: gsa.apple.com TLS/CN: gsa.apple.com
+        : TLS/IDN: CN=Apple Server Authentication CA, OU=Certification Authority, O=Apple Inc., C=US TLS/SDN: CN=gsa.apple.com, O=Apple Inc., ST=California, C=US
+        : RID 30: TLS Certificate Expired
+        : DP: 8
+
+offline0: i4pcu------r--- TCP [OR] 17.248.176.75:443 <-- [L] 192.168.2.17:50586
+        : HTTP/S.netify.apple-icloud
+        : D: gateway.fe.apple-dns.net H: gateway.icloud.com
+        : V: 0x0303 CS: 0xc02c
+        : TLS/SNI: gateway.icloud.com TLS/CN: gateway.icloud.com
+        : TLS/IDN: CN=Apple IST CA 2 - G1, OU=Certification Authority, O=Apple Inc., C=US TLS/SDN: CN=gateway.icloud.com, O=Apple Inc., ST=California, C=US
+        : RID 30: TLS Certificate Expired
+        : DP: 8
+
+offline0: i4pc----------- UDP [L] 192.168.2.1:53 <-- [OL] 192.168.2.17:65079
+        : DNS.netify.apple-itunes
+        : H: play.itunes.apple.com
+        : DP: 2
+
+offline0: i4pcu---------- TCP [OR] 92.123.77.26:443 <-- [L] 192.168.2.17:50587
+        : HTTP/S.netify.apple-itunes
+        : D: a1806.dscb.akamai.net H: play.itunes.apple.com
+        : V: 0x0303 CS: 0x1302
+        : TLS/SNI: play.itunes.apple.com
+        : DP: 6
+
+offline0: i4pc----------- UDP [L] 192.168.2.1:53 <-- [OL] 192.168.2.17:63677
+        : DNS.netify.apple-itunes
+        : H: sync.itunes.apple.com
+        : DP: 2
+
+offline0: i4pcu---------- TCP [OR] 95.101.24.53:443 <-- [L] 192.168.2.17:50588
+        : HTTP/S.netify.apple-itunes
+        : D: e673.dsce9.akamaiedge.net H: sync.itunes.apple.com
+        : V: 0x0303 CS: 0x1302
+        : TLS/SNI: sync.itunes.apple.com
+        : DP: 6
+
+offline0: i4pc--x-------- UDP [L] 192.168.2.17:5353 --> [OM] 224.0.0.251:5353
+        : MDNS.netify.internal-network
+        : H: _homekit._tcp.local
+        : DP: 2
+
+offline0: i6pc--x-------- UDP [L] fe80::823:3f17:8298:a29c:5353 --> [OM] ff02::fb:5353
+        : MDNS.netify.internal-network
+        : H: _homekit._tcp.local
+        : DP: 4
+
+offline0: i4pc-gx-------- UDP [L] 192.168.2.1:5351 --> [OM] 224.0.0.1:5350
+        : NAT/PMP
+        : DP: 2
+

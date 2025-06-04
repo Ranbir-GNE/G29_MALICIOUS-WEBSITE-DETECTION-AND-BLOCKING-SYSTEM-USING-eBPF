@@ -1,0 +1,6 @@
+offline0: i4pc-------r--- ICMP [OR] 218.152.179.54:0 <-- [L] 218.152.179.213:0
+        : ICMP
+        : RID 17: Malformed Packet
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+

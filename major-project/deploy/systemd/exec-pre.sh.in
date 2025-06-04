@@ -1,0 +1,17 @@
+#!/bin/bash
+# Netify Agent command-line options for systemd(1)
+# Copyright (C) 2016-2024 eGloo Incorporated
+#
+# This is free software, licensed under the GNU General Public License v3.
+
+. @datadir@/@PACKAGE_TARNAME@/functions.sh
+
+load_modules
+
+NETIFYD_OPTS=$(auto_detect_options)
+
+systemctl set-environment NETIFYD_OPTS="$NETIFYD_OPTS"
+
+exit 0
+
+# vi: expandtab shiftwidth=4 softtabstop=4 tabstop=4 syntax=sh

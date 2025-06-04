@@ -1,0 +1,50 @@
+offline0: i4pc----------- TCP [L] 10.8.0.1:42344 --> [OR] 159.138.85.48:5223
+        : XMPP
+        : DP: 10
+
+offline0: i4pcu------r--- TCP [L] 10.8.0.1:40214 --> [OR] 157.240.16.32:443
+        : HTTP/S.netify.meta-messaging
+        : H: mqtt-mini.facebook.com
+        : V: 0x0303 CS: 0x1301
+        : TLS/SNI: mqtt-mini.facebook.com
+        : RID 47: TLS ALPN Not Found
+        : DP: 6
+
+offline0: i4pc-------r--- TCP [L] 10.8.0.1:45606 --> [OR] 104.18.47.234:443
+        : HTTP/S.netify.cloudflare-warp
+        : H: api.cloudflareclient.com
+        : V: 0x0303 CS: 0xc02b
+        : TLS/SNI: api.cloudflareclient.com TLS/CN: cloudflareclient.com
+        : TLS/IDN: C=US, O=Cloudflare, Inc., CN=Cloudflare Inc ECC CA-3 TLS/SDN: C=US, ST=California, L=San Francisco, O=Cloudflare, Inc., CN=cloudflareclient.com
+        : RID 30: TLS Certificate Expired
+        : DP: 6
+
+offline0: i4pc-------r--- TCP [L] 10.8.0.1:45610 --> [OR] 104.18.47.234:443
+        : HTTP/S.netify.cloudflare-warp
+        : H: api.cloudflareclient.com
+        : V: 0x0303 CS: 0xc02b
+        : TLS/SNI: api.cloudflareclient.com TLS/CN: cloudflareclient.com
+        : TLS/IDN: C=US, O=Cloudflare, Inc., CN=Cloudflare Inc ECC CA-3 TLS/SDN: C=US, ST=California, L=San Francisco, O=Cloudflare, Inc., CN=cloudflareclient.com
+        : RID 30: TLS Certificate Expired
+        : DP: 6
+
+offline0: i4pc-gx-----s-- TCP [L] 10.8.0.1:43600 --> [OR] 172.217.194.188:5228
+        : XMPP.netify.google-chat
+        : DP: 3
+
+offline0: i4pc-gx----r--- TCP [L] 10.158.134.93:55512 --> [OR] 142.251.42.106:443
+        : HTTP/S.netify.google
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc--x-------- TCP [L] 10.8.0.1:51296 --> [OR] 142.250.183.163:443
+        : HTTP/S.netify.crashlytics
+        : H: crashlyticsreports-pa.googleapis.com
+        : V: 0x0303
+        : TLS/SNI: crashlyticsreports-pa.googleapis.com
+        : DP: 5
+
+offline0: i4pc-gx------F- TCP [L] 10.158.134.93:40454 --> [OR] 216.58.196.68:443
+        : HTTP/S.netify.google
+        : DP: 4
+

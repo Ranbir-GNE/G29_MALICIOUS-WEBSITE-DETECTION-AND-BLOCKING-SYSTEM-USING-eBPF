@@ -1,0 +1,23 @@
+# Netify systemd.unit(5) Service File
+# Copyright (C) 2016-2024 eGloo Incorporated
+#
+# This is free software, licensed under the GNU General Public License v3.
+
+[Unit]
+Description=@PACKAGE_NAME@
+After=syslog.target network-online.target
+Documentation=man:netifyd(8) man:netifyd.conf(5)
+Documentation=https://netify.ai/
+
+[Service]
+Type=forking
+User=root
+EnvironmentFile=@datadir@/@PACKAGE_TARNAME@/env.sh
+ExecStartPre=@datadir@/@PACKAGE_TARNAME@/exec-pre.sh
+ExecStart=@sbindir@/@PACKAGE_TARNAME@ $NETIFYD_OPTS
+ExecReload=/bin/kill -HUP $MAINPID
+Restart=on-failure
+RestartSec=3
+
+[Install]
+WantedBy=multi-user.target

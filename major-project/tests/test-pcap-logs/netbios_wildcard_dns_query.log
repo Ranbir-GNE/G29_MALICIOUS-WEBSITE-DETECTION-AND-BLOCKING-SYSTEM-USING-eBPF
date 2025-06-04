@@ -1,0 +1,6 @@
+offline0: i4pc--x----r--- UDP [L] 10.1.66.20:53 <-- [OL] 10.1.67.250:41335
+        : DNS
+        : H: ckaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+

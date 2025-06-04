@@ -1,0 +1,156 @@
+offline0: i4pc----------- TCP [L] 10.54.169.250:50668 --> [OR] 120.28.35.41:80
+        : HTTP.netify.quickplay
+        : H: api-singtelhawk.quickplay.com
+        : HTTP/UA: Dalvik/1.6.0 (Linux; U; Android 4.4.4; MI 3W MIUI/V6.4.2.0.KXDMICB)
+        : URL: api-singtelhawk.quickplay.com/solr/RestApiSingTel_PH/restapi/categories/HUD?apiKey=qwerty&device=androidmobile&locale=eng&network=WIFI&pageNumber=1&pageSize=50
+        : DP: 2
+
+offline0: i4pc----------- TCP [L] 10.54.169.250:50669 --> [OR] 120.28.35.41:80
+        : HTTP.netify.quickplay
+        : H: api-singtelhawk.quickplay.com
+        : HTTP/UA: Dalvik/1.6.0 (Linux; U; Android 4.4.4; MI 3W MIUI/V6.4.2.0.KXDMICB)
+        : URL: api-singtelhawk.quickplay.com/solr/RestApiSingTel_PH/restapi/categories/HUD?apiKey=qwerty&device=androidmobile&locale=eng&network=WIFI&pageNumber=1&pageSize=50
+        : DP: 2
+
+offline0: i4pc----------- TCP [L] 10.54.169.250:52285 --> [OR] 173.252.74.22:80
+        : HTTP.netify.facebook
+        : H: www.facebook.com
+        : HTTP/UA: Dalvik/1.6.0 (Linux; U; Android 4.4.4; MI 3W MIUI/V6.4.2.0.KXDMICB)
+        : URL: www.facebook.com/mobile/status.php
+        : DP: 2
+
+offline0: i4pc----------- TCP [L] 10.54.169.250:33277 --> [OR] 120.28.26.231:80
+        : HTTP.netify.google
+        : H: clients3.google.com
+        : HTTP/UA: Dalvik/1.6.0 (Linux; U; Android 4.4.4; MI 3W MIUI/V6.4.2.0.KXDMICB)
+        : URL: clients3.google.com/generate_204
+        : DP: 2
+
+offline0: i4pc----------- TCP [L] 10.54.169.250:52288 --> [OR] 173.252.74.22:80
+        : HTTP.netify.facebook
+        : H: www.facebook.com
+        : HTTP/UA: Dalvik/1.6.0 (Linux; U; Android 4.4.4; MI 3W MIUI/V6.4.2.0.KXDMICB)
+        : URL: www.facebook.com/mobile/status.php
+        : DP: 2
+
+offline0: i4pc----------- TCP [L] 10.54.169.250:44793 --> [OR] 31.13.68.49:80
+        : HTTP.netify.facebook
+        : H: www.facebook.com
+        : HTTP/UA: Dalvik/1.6.0 (Linux; U; Android 4.4.2; GT-I9505 Build/KOT49H)
+        : URL: www.facebook.com/mobile/status.php
+        : DP: 2
+
+offline0: i4pc-------r--- TCP [L] 10.54.169.250:42761 --> [OR] 203.205.129.101:80
+        : HTTP/Proxy.netify.wechat
+        : H: hkextshort.weixin.qq.com
+        : HTTP/UA: MicroMessenger Client
+        : URL: http://hkextshort.weixin.qq.com/cgi-bin/micromsg-bin/mmbatchemojidownload
+        : RID  2: Binary Application Transfer
+        : RID 16: Known Protocol on Non-standard Port
+        : DP: 2
+
+offline0: i4pc-------r-F- TCP [L] 10.54.169.250:54885 --> [OR] 203.205.151.160:80
+        : HTTP/Proxy.netify.wechat
+        : H: hkextshort.weixin.qq.com
+        : HTTP/UA: MicroMessenger Client
+        : URL: http://hkextshort.weixin.qq.com/cgi-bin/micromsg-bin/getcontactlabellist
+        : RID  2: Binary Application Transfer
+        : RID 16: Known Protocol on Non-standard Port
+        : DP: 2
+
+offline0: i4pc-------r--- TCP [L] 10.54.169.250:42762 --> [OR] 203.205.129.101:80
+        : HTTP/Proxy.netify.wechat
+        : H: hkextshort.weixin.qq.com
+        : HTTP/UA: MicroMessenger Client
+        : URL: http://hkextshort.weixin.qq.com/cgi-bin/micromsg-bin/androidgcmreg
+        : RID  2: Binary Application Transfer
+        : RID 16: Known Protocol on Non-standard Port
+        : DP: 2
+
+offline0: i4pc----------- TCP [L] 10.54.169.250:52009 --> [OR] 120.28.35.40:80
+        : HTTP.netify.quickplay
+        : H: vod-singtelhawk.quickplay.com
+        : HTTP/UA: Mozilla/5.0 (Linux; Android 4.4.4; MI 3W Build/KTU84P) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/33.0.0.0 Mobile Safari/537.36
+        : URL: vod-singtelhawk.quickplay.com/seg/vol1/s/Warner/qpmezzhawkdigitalcontagion2054033featureenglish20ltrt23976fps7834192/2015-02-02/STV80R192/qpmezz-Hawk_Digital_CONTAGION_2054033_FEATURE_ENGLISH_2_0_LTRT_23976fps_7834192.m2t_STV80R192-0020.ts
+        : DP: 9
+
+offline0: i4pc-------r--- TCP [L] 10.54.169.250:35670 --> [OR] 203.205.147.215:80
+        : HTTP/Proxy.netify.wechat
+        : H: hkminorshort.weixin.qq.com
+        : HTTP/UA: MicroMessenger Client
+        : URL: http://hkminorshort.weixin.qq.com/cgi-bin/micromsg-bin/rtkvreport
+        : RID  2: Binary Application Transfer
+        : RID 16: Known Protocol on Non-standard Port
+        : DP: 2
+
+offline0: i4pc----------- TCP [L] 10.54.169.250:56381 --> [OR] 54.179.140.65:80
+        : HTTP.netify.xiaomi
+        : H: api.account.xiaomi.com
+        : HTTP/UA: Dalvik/1.6.0 (Linux; U; Android 4.4.4; MI 3W MIUI/V6.4.2.0.KXDMICB)
+        : URL: api.account.xiaomi.com/pass/v2/safe/user/coreInfo?signature=u%2F73dEXBHbejev0ISNwnGyyfeTw%3D&userId=Mz5Xr5UXKuw83hxd6Yms2w%3D%3D
+        : DP: 2
+
+offline0: i4pc---------F- TCP [L] 10.54.169.250:52019 --> [OR] 120.28.35.40:80
+        : HTTP.netify.quickplay
+        : H: vod-singtelhawk.quickplay.com
+        : HTTP/UA: Mozilla/5.0 (Linux; Android 4.4.4; MI 3W Build/KTU84P) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/33.0.0.0 Mobile Safari/537.36
+        : URL: vod-singtelhawk.quickplay.com/seg/vol1/s/Warner/qpmezzhawkdigitalcontagion2054033featureenglish20ltrt23976fps7834192/2015-02-02/STV510R360/qpmezz-Hawk_Digital_CONTAGION_2054033_FEATURE_ENGLISH_2_0_LTRT_23976fps_7834192.m2t_STV510R360-0055.ts
+        : DP: 9
+
+offline0: i4pc--x-------- TCP [L] 10.54.169.250:33064 --> [OR] 120.28.5.18:80
+        : HTTP.netify.quickplay
+        : H: api-singtelhawk.quickplay.com
+        : HTTP/UA: Dalvik/1.6.0 (Linux; U; Android 4.4.4; MI 3W MIUI/V6.4.2.0.KXDMICB)
+        : URL: api-singtelhawk.quickplay.com/solr/RestApiSingTel_PH/restapi/home?apiKey=qwerty&device=androidmobile&locale=eng&network=WIFI&pageNumber=1&pageSize=50
+        : DP: 2
+
+offline0: i4pc--x----r--- TCP [L] 10.54.169.250:54883 --> [OR] 203.205.151.160:80
+        : HTTP/Proxy.netify.wechat
+        : H: hkextshort.weixin.qq.com
+        : HTTP/UA: MicroMessenger Client
+        : URL: http://hkextshort.weixin.qq.com/cgi-bin/micromsg-bin/mmsnssync
+        : RID 16: Known Protocol on Non-standard Port
+        : DP: 3
+
+offline0: i4pc--x-------- TCP [L] 10.54.169.250:44256 --> [OR] 120.28.5.41:80
+        : HTTP.netify.quickplay
+        : H: play-singtelhawk.quickplay.com
+        : HTTP/UA: Mozilla/5.0 (Linux; Android 4.4.4; MI 3W Build/KTU84P) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/33.0.0.0 Mobile Safari/537.36
+        : URL: play-singtelhawk.quickplay.com/vstb/playlist_5_6241_357.m3u8?action=145&appId=5006&carrierId=23&appVersion=1.0&contentId=6241&contentTypeId=3&deviceName=androidmobile&encodingId=357&drmId=4&drmVersion=1.5&delivery=5&prefLanguage=eng&webvtt=true&userid=09154974536&vstbtype=streaming
+        : DP: 3
+
+offline0: i4pc--x-------- TCP [L] 10.54.169.250:52022 --> [OR] 120.28.35.40:80
+        : HTTP.netify.quickplay
+        : H: vod-singtelhawk.quickplay.com
+        : HTTP/UA: Mozilla/5.0 (Linux; Android 4.4.4; MI 3W Build/KTU84P) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/33.0.0.0 Mobile Safari/537.36
+        : URL: vod-singtelhawk.quickplay.com/seg/vol1/s/Warner/qpmezzhawkdigitalcontagion2054033featureenglish20ltrt23976fps7834192/2015-02-02/STV510R360/qpmezz-Hawk_Digital_CONTAGION_2054033_FEATURE_ENGLISH_2_0_LTRT_23976fps_7834192.m2t_STV510R360-0068.ts
+        : DP: 7
+
+offline0: i4pc--x-------- TCP [L] 10.54.169.250:52007 --> [OR] 120.28.35.40:80
+        : HTTP.netify.quickplay
+        : H: vod-singtelhawk.quickplay.com
+        : HTTP/UA: Mozilla/5.0 (Linux; Android 4.4.4; MI 3W Build/KTU84P) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/33.0.0.0 Mobile Safari/537.36
+        : URL: vod-singtelhawk.quickplay.com/seg/vol1/s/Warner/qpmezzhawkdigitalcontagion2054033featureenglish20ltrt23976fps7834192/2015-02-02/STV80R192/qpmezz-Hawk_Digital_CONTAGION_2054033_FEATURE_ENGLISH_2_0_LTRT_23976fps_7834192.m2t_STV80R192-index.m3u8?e=1428999699&h=83da0787590a7a450163bbd7a6f974ca
+        : DP: 4
+
+offline0: i4pc--x-------- TCP [L] 10.54.169.250:52021 --> [OR] 120.28.35.40:80
+        : HTTP.netify.quickplay
+        : H: vod-singtelhawk.quickplay.com
+        : HTTP/UA: Mozilla/5.0 (Linux; Android 4.4.4; MI 3W Build/KTU84P) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/33.0.0.0 Mobile Safari/537.36
+        : URL: vod-singtelhawk.quickplay.com/seg/vol1/s/Warner/qpmezzhawkdigitalcontagion2054033featureenglish20ltrt23976fps7834192/2015-02-02/STV510R360/qpmezz-Hawk_Digital_CONTAGION_2054033_FEATURE_ENGLISH_2_0_LTRT_23976fps_7834192.m2t_STV510R360-0066.ts
+        : DP: 4
+
+offline0: i4pc--x-------- TCP [L] 10.54.169.250:52018 --> [OR] 120.28.35.40:80
+        : HTTP.netify.quickplay
+        : H: vod-singtelhawk.quickplay.com
+        : HTTP/UA: Mozilla/5.0 (Linux; Android 4.4.4; MI 3W Build/KTU84P) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/33.0.0.0 Mobile Safari/537.36
+        : URL: vod-singtelhawk.quickplay.com/seg/vol1/s/Warner/qpmezzhawkdigitalcontagion2054033featureenglish20ltrt23976fps7834192/2015-02-02/STV510R360/qpmezz-Hawk_Digital_CONTAGION_2054033_FEATURE_ENGLISH_2_0_LTRT_23976fps_7834192.m2t_STV510R360-0052.ts
+        : DP: 7
+
+offline0: i4pc--x-------- TCP [L] 10.54.169.250:52017 --> [OR] 120.28.35.40:80
+        : HTTP.netify.quickplay
+        : H: vod-singtelhawk.quickplay.com
+        : HTTP/UA: Mozilla/5.0 (Linux; Android 4.4.4; MI 3W Build/KTU84P) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/33.0.0.0 Mobile Safari/537.36
+        : URL: vod-singtelhawk.quickplay.com/seg/vol1/s/Warner/qpmezzhawkdigitalcontagion2054033featureenglish20ltrt23976fps7834192/2015-02-02/STV510R360/qpmezz-Hawk_Digital_CONTAGION_2054033_FEATURE_ENGLISH_2_0_LTRT_23976fps_7834192.m2t_STV510R360-0048.ts
+        : DP: 8
+

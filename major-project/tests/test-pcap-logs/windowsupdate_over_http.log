@@ -1,0 +1,9 @@
+offline0: i4pc-------r--- TCP [L] 10.0.2.15:49815 --> [OR] 151.99.72.125:80
+        : HTTP
+        : H: 151.99.72.125
+        : HTTP/UA: Microsoft-Delivery-Optimization/10.0
+        : URL: 151.99.72.125/data/0783dedfb62fa709/msedge.b.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/d1d060c0-7ece-4b96-9558-4bd0f2326040?P1=1652084683&P2=404&P3=2&P4=GtXnDMvssaTVZE%2bliGRNZPdTCGZcdK3lsfQhBycGI5on2dyQK7mRzg%2fAP%2fOuVTebtfWU%2bfL%2bVpkQ9bwhNwUDPA%3d%3d
+        : RID  2: Binary Application Transfer
+        : RID 10: Numeric IP Address
+        : DP: 6
+

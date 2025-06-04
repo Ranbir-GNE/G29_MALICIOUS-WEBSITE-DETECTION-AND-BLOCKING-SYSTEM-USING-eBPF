@@ -1,0 +1,67 @@
+offline0: i4pc-------r--- UDP [L] 192.168.1.109:57833 --> [OR] 216.58.212.101:443
+        : QUIC.netify.gmail
+        : H: mail.google.com
+        : TLS/SNI: mail.google.com
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 10.0.0.3:6121 <-- [OL] 10.0.0.4:40134
+        : QUIC
+        : RID 16: Known Protocol on Non-standard Port
+        : RID 35: TLS SNI Extension Not Found
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [OR] 172.217.16.4:443 <-- [L] 192.168.1.105:45669
+        : QUIC.netify.google
+        : H: www.google.com
+        : TLS/SNI: www.google.com
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 192.168.1.105:34438 --> [OR] 216.58.210.238:443
+        : QUIC.netify.youtube
+        : H: www.youtube.com
+        : TLS/SNI: www.youtube.com
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 192.168.1.105:48445 --> [OR] 216.58.214.110:443
+        : QUIC.netify.youtube
+        : H: i.ytimg.com
+        : TLS/SNI: i.ytimg.com
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 192.168.1.105:40030 --> [OR] 216.58.201.227:443
+        : QUIC.netify.google
+        : H: fonts.gstatic.com
+        : TLS/SNI: fonts.gstatic.com
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 192.168.1.105:55934 --> [OR] 216.58.201.238:443
+        : QUIC.netify.youtube
+        : H: s.ytimg.com
+        : TLS/SNI: s.ytimg.com
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 192.168.1.105:53817 --> [OR] 216.58.210.225:443
+        : QUIC.netify.youtube
+        : H: yt3.ggpht.com
+        : TLS/SNI: yt3.ggpht.com
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- UDP [L] 192.168.1.109:35236 --> [OR] 216.58.210.206:443
+        : QUIC.netify.youtube
+        : H: www.youtube.com
+        : TLS/SNI: www.youtube.com
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-gx-------- UDP [OR] 172.217.16.3:443 <-- [L] 192.168.1.105:40461
+        : QUIC.netify.google
+        : DP: 3
+

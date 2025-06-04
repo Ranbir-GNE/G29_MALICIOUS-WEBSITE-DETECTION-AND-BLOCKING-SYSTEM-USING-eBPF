@@ -1,0 +1,8 @@
+offline0: i4pc-------r--- UDP [OR] 8.8.8.8:443 <-- [L] 192.168.1.128:39821
+        : QUIC.netify.google
+        : V: 0x0304
+        : RID 35: TLS SNI Extension Not Found
+        : RID 46: Unidirectional Traffic
+        : RID 53: TLS ALPN/SNI Mismatch
+        : DP: 1
+

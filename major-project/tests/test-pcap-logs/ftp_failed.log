@@ -1,0 +1,6 @@
+offline0: i6pc-------r-F- TCP [OR] 2a00:800:1010::1:21 <-- [L] 2a00:d40:1:3:192:12:193:11:44724
+        : FTP/C
+        : RID  3: Clear-Text Credentials
+        : RID 42: Unsafe Protocol
+        : DP: 8
+

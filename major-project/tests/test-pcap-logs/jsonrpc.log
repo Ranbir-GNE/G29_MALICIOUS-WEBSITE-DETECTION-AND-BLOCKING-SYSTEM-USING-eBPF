@@ -1,0 +1,12 @@
+offline0: i4pc---------F- TCP [L] 127.0.0.1:36646 <-- [OL] 127.0.0.1:8080
+        : JSON/RPC
+        : DP: 4
+
+offline0: i4pc-------r--- TCP [OR] 179.99.210.200:80 <-- [L] 192.168.8.251:51084
+        : HTTP.netify.dyn
+        : H: mdotti.dyndns.org
+        : HTTP/UA: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.95 Safari/537.36
+        : URL: mdotti.dyndns.org/zabbix/jsrpc.php?output=json-rpc
+        : RID 48: HTTP Obsolete Server
+        : DP: 6
+

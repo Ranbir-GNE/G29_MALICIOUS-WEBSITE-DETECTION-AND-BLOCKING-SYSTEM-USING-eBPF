@@ -1,0 +1,8 @@
+offline0: i4pc----------- TCP [L] 127.0.0.1:9042 <-- [OL] 127.0.0.1:46536
+        : Cassandra
+        : DP: 9
+
+offline0: i4pc---------F- TCP [L] 127.0.0.1:9042 <-- [OL] 127.0.0.1:46537
+        : Cassandra
+        : DP: 9
+

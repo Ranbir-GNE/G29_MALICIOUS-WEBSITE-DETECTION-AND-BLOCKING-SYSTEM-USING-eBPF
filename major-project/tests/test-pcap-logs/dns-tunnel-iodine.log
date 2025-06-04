@@ -1,0 +1,7 @@
+offline0: i4pc-------r--- UDP [L] 10.0.2.20:53 <-- [OL] 10.0.2.30:44639
+        : DNS
+        : H: vaaaakardli.pirate.sea
+        : RID  7: Suspicious DNS Traffic
+        : RID 50: Minor Issues
+        : DP: 2
+

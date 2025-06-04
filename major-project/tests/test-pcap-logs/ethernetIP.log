@@ -1,0 +1,20 @@
+offline0: i4pc-------r--- TCP [OR] 141.81.0.10:50275 --> [L] 141.81.0.83:44818
+        : EtherNet/IP
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- TCP [OR] 141.81.0.10:52593 --> [L] 141.81.0.63:44818
+        : EtherNet/IP
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- TCP [OR] 141.81.0.10:52594 --> [L] 141.81.0.43:44818
+        : EtherNet/IP
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- TCP [OR] 141.81.0.10:62717 --> [L] 141.81.0.23:44818
+        : EtherNet/IP
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+

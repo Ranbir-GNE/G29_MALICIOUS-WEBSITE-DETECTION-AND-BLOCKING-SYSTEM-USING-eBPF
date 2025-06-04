@@ -1,0 +1,222 @@
+offline0: i4pc-------r--- UDP [OR] 8.8.8.8:53 <-- [L] 192.168.1.121:52251
+        : DNS.netify.reverse-dns
+        : H: 121.1.168.192.in-addr.arpa
+        : RID  8: Error Code
+        : DP: 5
+
+offline0: i4pc-------r--- UDP [L] 192.168.1.121:5353 --> [OL] 192.168.1.139:5353
+        : MDNS.netify.internal-network
+        : H: _companion-link._tcp.local
+        : MDNS/DN: MBPro._companion-link._tcp.local
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc----------- IGMP [L] 192.168.1.139:0 --> [OM] 224.0.0.2:0
+        : IGMP
+        : DP: 1
+
+offline0: i4pc----------- IGMP [L] 192.168.1.139:0 --> [OM] 224.0.0.251:0
+        : IGMP
+        : DP: 1
+
+offline0: i4pc----------- UDP [OR] 8.8.8.8:53 <-- [L] 192.168.1.121:53884
+        : DNS.netify.microsoft
+        : H: wdcp.microsoft.com
+        : DP: 2
+
+offline0: i4pc----------- UDP [OR] 8.8.8.8:53 <-- [L] 192.168.1.121:55567
+        : DNS.netify.microsoft
+        : H: wdcp.microsoft.com
+        : DP: 2
+
+offline0: i4pc----------- UDP [OR] 8.8.8.8:53 <-- [L] 192.168.1.121:65492
+        : DNS.netify.azure
+        : H: wd-prod-cp-eu-north-2-fe.northeurope.cloudapp.azure.com
+        : DP: 2
+
+offline0: i4pc-------r-F- TCP [OR] 40.113.10.47:443 <-- [L] 192.168.1.121:53910
+        : HTTP/S.netify.microsoft
+        : D: wd-prod-cp-eu-north-2-fe.northeurope.cloudapp.azure.com H: wdcp.microsoft.com
+        : V: 0x0303 CS: 0xc030
+        : TLS/SNI: wdcp.microsoft.com TLS/CN: wdcp.microsoft.com
+        : TLS/IDN: C=US, ST=Washington, L=Redmond, O=Microsoft Corporation, CN=Microsoft Secure Server CA 2011 TLS/SDN: C=US, ST=Washington, L=Redmond, O=Microsoft Corporation, OU=Microsoft Corporation, CN=wdcp.microsoft.com
+        : RID 30: TLS Certificate Expired
+        : RID 32: TLS Certificate Validity Too Long
+        : DP: 7
+
+offline0: i4pc----------- UDP [OR] 8.8.8.8:53 <-- [L] 192.168.1.121:51364
+        : DNS.netify.microsoft
+        : H: www.microsoft.com
+        : DP: 2
+
+offline0: i4pc-------r-F- TCP [OR] 40.113.10.47:443 <-- [L] 192.168.1.121:53911
+        : HTTP/S.netify.microsoft
+        : D: wd-prod-cp-eu-north-2-fe.northeurope.cloudapp.azure.com H: wdcp.microsoft.com
+        : V: 0x0303 CS: 0xc030
+        : TLS/SNI: wdcp.microsoft.com TLS/CN: wdcp.microsoft.com
+        : TLS/IDN: C=US, ST=Washington, L=Redmond, O=Microsoft Corporation, CN=Microsoft Secure Server CA 2011 TLS/SDN: C=US, ST=Washington, L=Redmond, O=Microsoft Corporation, OU=Microsoft Corporation, CN=wdcp.microsoft.com
+        : RID 30: TLS Certificate Expired
+        : RID 32: TLS Certificate Validity Too Long
+        : DP: 7
+
+offline0: i4pc----------- UDP [OR] 8.8.8.8:53 <-- [L] 192.168.1.121:55578
+        : DNS.netify.akamai
+        : H: e13678.dscb.akamaiedge.net
+        : DP: 2
+
+offline0: i4pc----------- UDP [OR] 8.8.8.8:53 <-- [L] 192.168.1.121:58161
+        : DNS.netify.microsoft
+        : H: www.microsoft.com
+        : DP: 2
+
+offline0: i4pc----------- UDP [OR] 8.8.8.8:53 <-- [L] 192.168.1.121:54561
+        : DNS.netify.akamai
+        : H: e13678.dscb.akamaiedge.net
+        : DP: 2
+
+offline0: i4pc-------r-F- TCP [OR] 2.22.33.235:80 <-- [L] 192.168.1.121:53912
+        : HTTP.netify.microsoft
+        : D: e13678.dscb.akamaiedge.net H: www.microsoft.com
+        : HTTP/UA: com.apple.trustd/2.0
+        : URL: www.microsoft.com/pki/certs/MicRooCerAut2011_2011_03_22.crt
+        : RID  2: Binary Application Transfer
+        : RID 12: HTTP Suspicious Header
+        : DP: 6
+
+offline0: i4pc-------r-F- TCP [OR] 2.22.33.235:80 <-- [L] 192.168.1.121:53913
+        : HTTP.netify.microsoft
+        : D: e13678.dscb.akamaiedge.net H: www.microsoft.com
+        : HTTP/UA: com.apple.trustd/2.0
+        : URL: www.microsoft.com/pkiops/certs/MicSecSerCA2011_2011-10-18.crt
+        : RID  2: Binary Application Transfer
+        : RID 12: HTTP Suspicious Header
+        : DP: 6
+
+offline0: i4pc----------- UDP [OR] 8.8.8.8:53 <-- [L] 192.168.1.121:65213
+        : DNS.netify.apple
+        : H: time-macos.apple.com
+        : DP: 2
+
+offline0: i4pc-------r--- UDP [OR] 17.253.54.251:123 <-- [L] 192.168.1.121:49216
+        : NTP.netify.apple
+        : D: time-osx.g.aaplimg.com
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc---------F- TCP [OR] 140.82.113.26:443 <-- [L] 192.168.1.121:53905
+        : HTTP/S.netify.github
+        : DP: 2
+
+offline0: i4pc----------- UDP [OR] 8.8.8.8:53 <-- [L] 192.168.1.121:51998
+        : DNS.netify.reverse-dns
+        : H: 235.33.22.2.in-addr.arpa
+        : DP: 3
+
+offline0: i4pc----------- TCP [OR] 52.98.163.18:443 <-- [L] 192.168.1.121:53429
+        : HTTP/S.netify.outlook
+        : DP: 15
+
+offline0: i4pc----------- TCP [OR] 52.98.163.18:443 <-- [L] 192.168.1.121:53428
+        : HTTP/S.netify.outlook
+        : DP: 17
+
+offline0: i4pc-------r-F- TCP [OR] 40.113.10.47:443 <-- [L] 192.168.1.121:53914
+        : HTTP/S.netify.microsoft
+        : D: wd-prod-cp-eu-north-2-fe.northeurope.cloudapp.azure.com H: wdcp.microsoft.com
+        : V: 0x0303 CS: 0xc030
+        : TLS/SNI: wdcp.microsoft.com TLS/CN: wdcp.microsoft.com
+        : TLS/IDN: C=US, ST=Washington, L=Redmond, O=Microsoft Corporation, CN=Microsoft Secure Server CA 2011 TLS/SDN: C=US, ST=Washington, L=Redmond, O=Microsoft Corporation, OU=Microsoft Corporation, CN=wdcp.microsoft.com
+        : RID 30: TLS Certificate Expired
+        : RID 32: TLS Certificate Validity Too Long
+        : DP: 7
+
+offline0: i4pc-------r-F- TCP [OR] 40.113.10.47:443 <-- [L] 192.168.1.121:53915
+        : HTTP/S.netify.microsoft
+        : D: wd-prod-cp-eu-north-2-fe.northeurope.cloudapp.azure.com H: wdcp.microsoft.com
+        : V: 0x0303 CS: 0xc030
+        : TLS/SNI: wdcp.microsoft.com TLS/CN: wdcp.microsoft.com
+        : TLS/IDN: C=US, ST=Washington, L=Redmond, O=Microsoft Corporation, CN=Microsoft Secure Server CA 2011 TLS/SDN: C=US, ST=Washington, L=Redmond, O=Microsoft Corporation, OU=Microsoft Corporation, CN=wdcp.microsoft.com
+        : RID 30: TLS Certificate Expired
+        : RID 32: TLS Certificate Validity Too Long
+        : DP: 8
+
+offline0: i4pc-------r--- UDP [OR] 17.253.54.251:123 <-- [L] 192.168.1.121:50288
+        : NTP.netify.apple
+        : D: time-osx.g.aaplimg.com
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r-F- TCP [OR] 40.113.10.47:443 <-- [L] 192.168.1.121:53916
+        : HTTP/S.netify.microsoft
+        : D: wd-prod-cp-eu-north-2-fe.northeurope.cloudapp.azure.com H: wdcp.microsoft.com
+        : V: 0x0303 CS: 0xc030
+        : TLS/SNI: wdcp.microsoft.com TLS/CN: wdcp.microsoft.com
+        : TLS/IDN: C=US, ST=Washington, L=Redmond, O=Microsoft Corporation, CN=Microsoft Secure Server CA 2011 TLS/SDN: C=US, ST=Washington, L=Redmond, O=Microsoft Corporation, OU=Microsoft Corporation, CN=wdcp.microsoft.com
+        : RID 30: TLS Certificate Expired
+        : RID 32: TLS Certificate Validity Too Long
+        : DP: 9
+
+offline0: i4pc-------r-F- TCP [OR] 40.113.10.47:443 <-- [L] 192.168.1.121:53917
+        : HTTP/S.netify.microsoft
+        : D: wd-prod-cp-eu-north-2-fe.northeurope.cloudapp.azure.com H: wdcp.microsoft.com
+        : V: 0x0303 CS: 0xc030
+        : TLS/SNI: wdcp.microsoft.com TLS/CN: wdcp.microsoft.com
+        : TLS/IDN: C=US, ST=Washington, L=Redmond, O=Microsoft Corporation, CN=Microsoft Secure Server CA 2011 TLS/SDN: C=US, ST=Washington, L=Redmond, O=Microsoft Corporation, OU=Microsoft Corporation, CN=wdcp.microsoft.com
+        : RID 30: TLS Certificate Expired
+        : RID 32: TLS Certificate Validity Too Long
+        : DP: 7
+
+offline0: i4pc-------r--- UDP [OR] 17.253.54.251:123 <-- [L] 192.168.1.121:65099
+        : NTP.netify.apple
+        : D: time-osx.g.aaplimg.com
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r-F- TCP [OR] 40.113.10.47:443 <-- [L] 192.168.1.121:53918
+        : HTTP/S.netify.microsoft
+        : D: wd-prod-cp-eu-north-2-fe.northeurope.cloudapp.azure.com H: wdcp.microsoft.com
+        : V: 0x0303 CS: 0xc030
+        : TLS/SNI: wdcp.microsoft.com TLS/CN: wdcp.microsoft.com
+        : TLS/IDN: C=US, ST=Washington, L=Redmond, O=Microsoft Corporation, CN=Microsoft Secure Server CA 2011 TLS/SDN: C=US, ST=Washington, L=Redmond, O=Microsoft Corporation, OU=Microsoft Corporation, CN=wdcp.microsoft.com
+        : RID 30: TLS Certificate Expired
+        : RID 32: TLS Certificate Validity Too Long
+        : DP: 7
+
+offline0: i4pc-------r-F- TCP [OR] 40.113.10.47:443 <-- [L] 192.168.1.121:53919
+        : HTTP/S.netify.microsoft
+        : D: wd-prod-cp-eu-north-2-fe.northeurope.cloudapp.azure.com H: wdcp.microsoft.com
+        : V: 0x0303 CS: 0xc030
+        : TLS/SNI: wdcp.microsoft.com TLS/CN: wdcp.microsoft.com
+        : TLS/IDN: C=US, ST=Washington, L=Redmond, O=Microsoft Corporation, CN=Microsoft Secure Server CA 2011 TLS/SDN: C=US, ST=Washington, L=Redmond, O=Microsoft Corporation, OU=Microsoft Corporation, CN=wdcp.microsoft.com
+        : RID 30: TLS Certificate Expired
+        : RID 32: TLS Certificate Validity Too Long
+        : DP: 7
+
+offline0: i4pc-------r--- UDP [OR] 17.253.54.251:123 <-- [L] 192.168.1.121:56865
+        : NTP.netify.apple
+        : D: time-osx.g.aaplimg.com
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc--x-------- UDP [L] 192.168.1.139:5353 --> [OM] 224.0.0.251:5353
+        : MDNS.netify.internal-network
+        : H: _companion-link._tcp.local
+        : DP: 2
+
+offline0: i4pc--x-------- TCP [OR] 130.211.33.145:443 <-- [L] 192.168.1.121:53432
+        : HTTP/S
+        : DP: 4
+
+offline0: i6pc--x-------- UDP [L] fe80::1059:a858:f9e7:cf94:5353 --> [OM] ff02::fb:5353
+        : MDNS.netify.internal-network
+        : H: _companion-link._tcp.local
+        : DP: 2
+
+offline0: i4pc-gx-------- TCP [OR] 52.149.21.60:443 <-- [L] 192.168.1.121:52746
+        : HTTP/S
+        : DP: 2
+
+offline0: i4pc-gx-------- TCP [L] 192.168.1.121:52721 <-- [OL] 192.168.1.139:55367
+        : Unknown
+        : DP: 13
+

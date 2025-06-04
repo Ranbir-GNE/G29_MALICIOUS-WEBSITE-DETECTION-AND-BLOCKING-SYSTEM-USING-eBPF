@@ -1,0 +1,30 @@
+offline0: i4pc-------r--- TCP [OR] 188.165.213.169:8333 <-- [L] 192.168.1.142:55317
+        : Bitcoin
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- TCP [OR] 69.118.54.122:8333 <-- [L] 192.168.1.142:55328
+        : Bitcoin
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- TCP [OR] 74.89.181.229:8333 <-- [L] 192.168.1.142:55348
+        : Bitcoin
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- TCP [OR] 66.68.83.22:8333 <-- [L] 192.168.1.142:55383
+        : Bitcoin
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- TCP [L] 192.168.1.142:55400 --> [OR] 195.218.16.178:8333
+        : Bitcoin
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
+offline0: i4pc-------r--- TCP [OR] 184.58.165.119:8333 <-- [L] 192.168.1.142:55487
+        : Bitcoin
+        : RID 46: Unidirectional Traffic
+        : DP: 1
+
